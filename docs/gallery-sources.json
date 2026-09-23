@@ -383,6 +383,65 @@
         "observed_current_time": 7.767737,
         "method": "Clicked native play control; readyState 4 and advancing time"
       }
+    },
+    {
+      "id": "what_love_can_lose",
+      "title": "What Love Can Lose",
+      "source": "https://musicmaker.im/detail/discover-v2-107/",
+      "thumbnail": "https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp",
+      "audio": "https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.mp3",
+      "alt": "A coffee cup on a wooden desk above an open drawer containing letters",
+      "alt_zh": "木桌上的咖啡杯，下方敞开的抽屉里放着信件",
+      "checked_on": "2026-09-23",
+      "kind": "Published song cover; not video evidence",
+      "playback_check": {
+        "method": "Browser play control; playback time advanced",
+        "duration_seconds": 270.024,
+        "checked_on": "2026-09-23"
+      }
+    },
+    {
+      "id": "claim_the_day",
+      "title": "Claim the Day",
+      "source": "https://musicmaker.im/detail/discover-v2-97/",
+      "thumbnail": "https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp",
+      "audio": "https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.mp3",
+      "alt": "A man in a white shirt on a city rooftop in sunlight",
+      "alt_zh": "阳光下站在城市屋顶的白衬衫男子",
+      "checked_on": "2026-09-23",
+      "kind": "Published song cover; not video evidence",
+      "playback_check": {
+        "method": "Browser play control; playback time advanced",
+        "duration_seconds": 196.614966,
+        "checked_on": "2026-09-23"
+      }
+    },
+    {
+      "id": "sunshine_people",
+      "title": "Sunshine People",
+      "source": "https://musicmaker.im/detail/discover-v2-99/",
+      "thumbnail": "https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp",
+      "audio": "https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.mp3",
+      "alt": "A laughing woman on a sunny residential street",
+      "alt_zh": "阳光街道上开怀大笑的女子",
+      "checked_on": "2026-09-23",
+      "kind": "Published song cover; not video evidence",
+      "playback_check": {
+        "method": "Browser play control; playback time advanced",
+        "duration_seconds": 182.392744,
+        "checked_on": "2026-09-23"
+      }
+    },
+    {
+      "id": "brightside",
+      "title": "Living on the Brightside",
+      "source": "https://musicmaker.im/detail/discover-v2-98/",
+      "thumbnail": "https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp",
+      "audio": "https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.mp3",
+      "alt": "A rainbow above a green valley with a stream and wildflowers",
+      "alt_zh": "溪流、野花与绿色山谷上空的一道彩虹",
+      "checked_on": "2026-09-23",
+      "kind": "Published song cover; not video evidence"
     }
   ],
   "listening": [
@@ -391,6 +450,13 @@
     "the_open_road",
     "summer_high",
     "another_shape",
-    "healing_hands"
+    "healing_hands",
+    "what_love_can_lose",
+    "claim_the_day",
+    "sunshine_people"
+  ],
+  "tutorials": [
+    "brightside",
+    "performance-2"
   ]
 }

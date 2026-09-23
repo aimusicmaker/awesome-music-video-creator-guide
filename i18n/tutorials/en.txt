@@ -1,0 +1,119 @@
+<a id="first-video"></a>
+
+## Make your first video
+
+### Project 1: a rainbow valley in 16 seconds
+
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow over a green valley, stream and wildflowers; open Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">Use the cover of MusicMaker's <b>Living on the Brightside</b> as visual inspiration: a stream, wildflowers, green hills and a rainbow. Start with scenery and four cuts, so you can finish one musical phrase without solving character consistency first.</td></tr></table>
+
+[▶ Hear the source track](https://musicmaker.im/detail/discover-v2-98/) · [♫ Download the original practice beat](starter-kit/practice-beat-120bpm.wav)
+
+This is a song cover, not a video frame. The exercise below is newly written, not the source production recipe. Neither tutorial case appears in the nine-track listening shelf.
+
+#### 1. Prepare music and mark the cuts
+
+Choose a complete 16-second phrase from music you own or have permission to use. Alternatively, download our original practice beat with **Download raw file** on its GitHub page. Import it into your editor and mark 0, 4, 8, 12 and 16 seconds. These cuts fit the practice beat; adjust them to the beats and phrase endings of another song.
+
+#### 2. Choose a tool route
+
+| Route | Start here | Exercise settings |
+|---|---|---|
+| [Official: Hailuo H3](https://hailuoai.video/tools/minimax-h3) | Select MiniMax H3 and Text-to-Video; paste one shot prompt at a time | 9:16, four separate 5-second clips |
+| [MusicMaker short clips](https://musicmaker.im/free-short-music-video-generator/) | Use the text route; the image route instead needs start and end images | Currently 5 seconds at 480p; choose 9:16 |
+
+MusicMaker identifies H3 on its short-clip page; the official interface offers additional reference inputs and settings. The text route needs no downloaded brand cover. For image input, supply your own authorized scene images with similar framing and light.
+
+#### 3. Generate one shot at a time
+
+Start with A. Check the flowers, water and scenery before generating B–D. Copy each prompt separately.
+
+| Final timing | Shot | Check |
+|---|---|---|
+| 0–4s | Wildflowers beside the stream | Stable petals and subtle movement |
+| 4–8s | Stream and grassy slope | Water flows in one direction |
+| 8–12s | Valley and rainbow, wide | Stable rainbow and horizon |
+| 12–16s | Locked wide ending | Clear space for an editorial title |
+
+```text
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
+```
+
+```text
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
+```
+
+```text
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
+```
+
+```text
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
+```
+
+#### 4. Edit and finish
+
+Keep the best four seconds of each clip and use straight cuts. Mute generated sound and retain one music track. Add your title in the final two seconds and a brief music fade at the end. Export MP4 at 9:16 using a resolution appropriate to your footage; enlarging 480p does not create extra detail. [Editor and export walkthrough](docs/first-video.md#3-assemble-in-an-editor).
+
+**Done means:** music and picture end together; no black frames or doubled audio; water direction, lighting and rainbow remain plausible. Reduce motion if the rainbow warps. If the landscape changes too much, regenerate with a consistent authorized image reference. These prompts have not been render-tested and do not guarantee the source cover's appearance.
+
+<a id="next-project"></a>
+
+## Finish one project before learning the next technique
+
+### Project 2: one chorus line, 10 seconds of portrait singing
+
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait of a singer at a gold microphone under pink stage lights; open the brand video demo" width="100%"></a></td><td width="58%" valign="top">Now move from scenery to <b>a fixed close-up performance</b>. Finish one vocal phrase with coherent identity, expression and mouth timing before adding choreography or cuts.</td></tr></table>
+
+[▶ Watch the brand performance](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [Source notes](docs/brand-examples.md)
+
+The image is the published demo's **input portrait**, not a video frame. Click it to watch the approximately ten-second example. MusicMaker does not identify that demo's underlying model; the routes below are practice choices, not claims about its production.
+
+#### 1. Prepare a portrait and a vocal phrase
+
+Use an authorized frontal or slightly angled portrait with visible lips, a microphone clear of the mouth, and hands outside the crop. Trim your own or licensed singing to a complete phrase around ten seconds, with a little breathing room at each end. A clear solo voice is easier to inspect than stacked harmonies. The instrumental practice beat above is **not a vocal input**.
+
+#### 2. Place the same inputs in either tool
+
+| Route | Inputs | Before generating |
+|---|---|---|
+| [Official: Hailuo H3](https://hailuoai.video/tools/minimax-h3) | H3 → Omni Reference; add portrait and vocal audio to Refs, then the prompt | Audio references require an image or video alongside them; choose about 10 seconds and a matching aspect ratio |
+| [MusicMaker performance tool](https://musicmaker.im/ai-music-video-generator/) | Vocal in Music File; portrait in Character Image; instructions in Prompt | Trim audio, review the estimate and Public switch, then Generate |
+
+The official reference mode combines identity and audio; MusicMaker groups music, portrait and instructions in one workflow. A text-only short-clip form is not a substitute for these inputs.
+
+#### 3. Copy the complete performance prompt
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+This is a new, untested practice prompt, not the original demo prompt. It describes the target; it cannot guarantee preserved audio or accurate lip sync.
+
+#### 4. Fix timing before adding camera movement
+
+Inspect the beginning, middle and end of the phrase. Check vowels and closed-mouth endings against the sound. A constant early/late offset may be adjusted in your editor; an offset that grows over time calls for a shorter phrase or a new generation. If identity drifts, remove nodding and camera motion. If lips are hidden, replace the portrait rather than adding more instructions.
+
+#### 5. Keep one soundtrack and export the complete phrase
+
+Place the video and original vocal on one timeline. To use the original vocal, mute generated sound and recheck sync; to use generated sound, remove the duplicate audio track. Keep one shot and add your song title in the final second. Export MP4, then check the rendered file's lips, face, volume and ending. [Detailed singing and editing checks](docs/first-video.md#vocal).
+
+**Done means:** the same person finishes the phrase; lips remain visible; there is one main soundtrack; the ending retains a natural breath. Only then try a slow push-in, changing one thing at a time.
+

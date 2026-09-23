@@ -8,9 +8,9 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ ตัวอย่างบน X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ ฟัง MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ วิดีโอแรก</kbd></a> &nbsp; <a href="#next-project"><kbd>→ ฝึกขั้นต่อไป</kbd></a></p>
 
-[![นักร้องบนดาดฟ้า รูปทรงโลหะ และรถไฟกลางคืนในสายฝน ภาพเหล่านี้เป็นภาพแนวคิดที่สร้างขึ้นใหม่ ไม่ใช่ผลลัพธ์วิดีโอ](assets/music-video-directions.png)](#first-video)
+[![เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ](assets/music-video-workflow.png)](#first-video)
 
-นักร้องบนดาดฟ้า รูปทรงโลหะ และรถไฟกลางคืนในสายฝน ภาพเหล่านี้เป็นภาพแนวคิดที่สร้างขึ้นใหม่ ไม่ใช่ผลลัพธ์วิดีโอ
+เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ
 
 <a id="x-creators"></a>
 
@@ -39,21 +39,24 @@
 
 ## ฟัง MusicMaker
 
-หกเพลงในสองคอลัมน์สามแถว ปกสี่ภาพแรกให้แนวคิดด้านภาพ ส่วนสองเพลงท้ายมีคำอธิบายการเรียบเรียงจากหน้าต้นทาง คลิกปกเพื่อฟังเพลง
+ฟังเก้าเพลงในสามคอลัมน์สามแถว เปรียบเทียบแนวคิดจากปกกับคำอธิบายการเรียบเรียงจากต้นทาง สองบทเรียนด้านล่างใช้คนละกรณี
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>แนวคิดจากปก: เวทีนีออน<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>แนวคิดจากปก: เปียโนริมหน้าต่าง<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>แนวคิดจากปก: เวทีนีออน<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>แนวคิดจากปก: เปียโนริมหน้าต่าง<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>แนวคิดจากปก: ถนนโล่ง<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ ฟังเพลง</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>แนวคิดจากปก: ถนนโล่ง<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>แนวคิดจากปก: ชายฝั่งฤดูร้อน<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>แนวคิดจากปก: ชายฝั่งฤดูร้อน<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>ต้นทางระบุ: จังหวะ 6/8 กีตาร์ เปียโน และเชลโล<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>ต้นทางระบุ: กีตาร์อะคูสติก เบส เครื่องสาย และเสียงร้องชาย<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ ฟังเพลง</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>ต้นทางระบุ: จังหวะ 6/8 กีตาร์ เปียโน และเชลโล<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>ต้นทางระบุ: กีตาร์อะคูสติก เบส เครื่องสาย และเสียงร้องชาย<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>ปก: จดหมายและกาแฟ<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>ปก: ดาดฟ้าในเมือง<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>ปก: ถนนกลางแดด<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ ฟังเพลง</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
@@ -62,50 +65,53 @@
 
 ## สร้างวิดีโอแรก
 
-เริ่มจากปก The Open Road แล้วทำคลิปการเดินทาง 16 วินาที ขั้นตอนด้านล่างเป็นตัวอย่างถนน หากเลือก Summer High ให้เปิดแผนฉากชายฝั่งจากการ์ดนั้น
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>แนวคิดจากปก: ถนนโล่ง<br><a href="docs/brand-projects.md#the_open_road"><kbd>→ แผนฝึก · อังกฤษ</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>แนวคิดจากปก: ชายฝั่งฤดูร้อน<br><a href="docs/brand-projects.md#summer_high"><kbd>→ แผนฝึก · อังกฤษ</kbd></a></td>
-</tr>
-</table>
+[▶ ฟังเพลง](https://musicmaker.im/detail/discover-v2-98/) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
-[♫ เพลงฝึก](starter-kit/practice-beat-120bpm.wav) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
+[♫ เพลงฝึก](starter-kit/practice-beat-120bpm.wav)
 
-1. เลือกท่อนเพลงของคุณที่จบความใน 16 วินาที หรือใช้เพลงฝึกต้นฉบับที่เตรียมไว้ บน GitHub เลือก Download raw file การฟังได้ไม่ได้หมายถึงมีสิทธิ์นำเสียงไปใช้ซ้ำ
-2. ถ้าใช้ข้อความอย่างเดียว ให้คัดลอกพรอมป์ด้านล่าง หากใช้ภาพ H3 ทางการรองรับภาพเริ่มต้นหรือภาพอ้างอิง ส่วน MusicMaker ต้องมีภาพเริ่มและภาพจบสำหรับแต่ละช็อต
-3. เลือก Hailuo H3 ทางการหรือ MusicMaker และสัดส่วน 9:16 ใน H3 เลือก 5 วินาที ส่วนหน้าเครื่องมือคลิปของ MusicMaker ระบุ 5 วินาที 480p ในปัจจุบัน ตรวจช็อตแรกก่อนทำช็อตอื่น
-4. ตัดสี่คลิปให้เหลือคลิปละ 4 วินาที วางที่วินาที 0, 4, 8 และ 12 ปิดเสียงติดคลิปและเก็บเฉพาะเพลง เมื่อเปลี่ยนเพลงให้ปรับจุดตัดใหม่
-5. ใส่ชื่อเรื่องด้วยโปรแกรมตัดต่อ ส่งออกเป็น MP4 แล้วเปิดไฟล์ตรวจภาพดำ เสียงซ้อน และตอนจบที่ตัดฉับพลัน
+1. เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง
 
-- **00–04s** · แผนที่และแว่นในรถที่จอดอยู่
-- **04–08s** · ถนนกลางทุ่งจากในรถ
-- **08–12s** · ทุ่งสีทองผ่านหน้าต่างด้านข้าง
-- **12–16s** · ภาพกว้างจุดหมายพร้อมชื่อเรื่อง
+2. ใน Hailuo ทางการเลือก H3 แบบข้อความเป็นวิดีโอ หรือใช้เครื่องมือคลิปสั้น MusicMaker เลือก 9:16 คลิปละห้าวินาที หน้า MusicMaker ระบุ 480p และใช้ H3 ในขณะตรวจสอบ
 
-<details>
-<summary><b>เปิดพรอมป์ทั้งสี่ ใช้ครั้งละหนึ่งช็อต</b></summary>
+3. ตรวจ A ดอกไม้ก่อน แล้วสร้าง B ลำธาร C สายรุ้ง และ D ปิดท้าย คัดลอกพรอมต์อังกฤษทีละชุด หากใช้ภาพใน MusicMaker ต้องมีภาพเริ่มและจบของตนเองหรือที่ได้รับอนุญาต
+
+4. เลือกช่วงนิ่งสี่วินาทีจากแต่ละคลิปแล้วตัดตรง ปิดเสียงที่สร้างและเก็บเพลงเพียงแทร็กเดียว ใส่ชื่อในสองวินาทีสุดท้ายและค่อยลดเสียงตอนจบ
+
+5. ส่งออก MP4 9:16 ตรวจเฟรมดำ ทิศทางน้ำ และรูปทรงบิดเบี้ยว การขยาย 480p ไม่เพิ่มรายละเอียด หากฉากเปลี่ยนมากให้ลดการเคลื่อนไหวหรือใช้ภาพอ้างอิงที่ได้รับอนุญาตภาพเดิม
+
+**พรอมต์ภาษาอังกฤษสำหรับคัดลอก · เขียนใหม่และยังไม่ได้ทดสอบสร้าง**
 
 ```text
-A: รถจอดข้างทุ่งสีทอง แสงกลางวันอบอุ่น กล้องนิ่งถ่ายใกล้แผนที่พับและแว่นบนแผงหน้ารถ ภายในรถและสิ่งของอยู่นิ่ง ไม่มีคนหรือตัวอักษร
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
 ```
 
 ```text
-B: มองจากเบาะหน้าไปยังถนนกลางทุ่งสีทอง ฟ้าสีคราม แสงอบอุ่น แผนที่และแว่นอยู่นิ่ง กล้องติดนิ่งในรถ เคลื่อนไปข้างหน้าช้า ๆ ไม่มีทางแยก คน หรือตัวอักษร
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
 ```
 
 ```text
-C: มองผ่านหน้าต่างด้านข้างไปยังทุ่งสีทองเดิม ฟ้าคราม แสงอบอุ่น กล้องนิ่ง ทุ่งเลื่อนถอยหลังช้า ๆ ขอบฟ้าตรง ไม่มีอาคาร คน หรือตัวอักษร
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
 ```
 
 ```text
-D: จุดชมวิวโล่งริมทุ่งสีทอง ฟ้าคราม แสงอบอุ่น ภาพกว้างนิ่ง หญ้าขยับเบา ๆ เว้นพื้นที่ด้านล่างเพื่อใส่ชื่อเรื่องภายหลัง ไม่มีรถ คน หรือตัวอักษร
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-</details>
-
-พรอมป์ฝึกนี้เขียนขึ้นใหม่และยังไม่ได้ทดสอบสร้างวิดีโอ ไม่ใช่บันทึกการสร้างผลงานต้นฉบับ MusicMaker ระบุ H3 บนหน้าคลิปสั้น แต่การตั้งค่าและโควตาของสองเครื่องมือต่างกัน
+รักษาแสงและภูมิประเทศให้ต่อเนื่อง จบเพลงพร้อมภาพ การฟังเพลงสาธารณะไม่ได้ให้สิทธิ์นำไปใช้ต่อโดยอัตโนมัติ
 
 [→ ขั้นตอนละเอียด · อังกฤษ](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -113,22 +119,35 @@ D: จุดชมวิวโล่งริมทุ่งสีทอง ฟ�
 
 ## ฝึกเทคนิคถัดไป
 
-ทำคลิปถนนเสร็จแล้วค่อยเพิ่มทีละทักษะ ภาพเชื่อมไปผลงานต้นฉบับ ส่วนแผนการสร้างเชื่อมไปขั้นตอนละเอียดภาษาอังกฤษ
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ เว็บไซต์ไม่เปิดเผยโมเดลของตัวอย่าง และบทฝึกนี้เขียนขึ้นใหม่</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>เชื่อมแสงหน้าต่าง ดอกไม้ และฝาเปียโนเพื่อฝึกตัดเข้ารายละเอียด<br><a href="docs/brand-projects.md#echoes_of_you"><kbd>→ แผนฝึก · อังกฤษ</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>ใช้ภาพตัวละครเดิม ตรวจใบหน้า ไมโครโฟน และวงแสงให้คงเดิม<br><a href="docs/brand-projects.md#neon_pulse"><kbd>→ แผนฝึก · อังกฤษ</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Input portrait: seated woman holding an electric guitar under warm stage lighting" width="100%"></a><br><b>การแสดงกีตาร์</b><br>อัปโหลดภาพบุคคลและท่อนร้องของคุณ ตรวจปากก่อนแล้วค่อยตรวจมือ<br><a href="docs/brand-projects.md#performance-1"><kbd>→ แผนฝึก · อังกฤษ</kbd></a></td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a><br><b>การร้องเพลงสื่ออารมณ์</b><br>ใช้ภาพใกล้กล้องนิ่งสื่อหนึ่งท่อนเพลง โดยเคลื่อนไหวเพียงเล็กน้อย<br><a href="docs/brand-projects.md#performance-2"><kbd>→ แผนฝึก · อังกฤษ</kbd></a></td>
-</tr>
-</table>
+[▶ ชมตัวอย่าง MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
-งานร้องเพลงใช้เสียงอ้างอิงใน H3 ทางการ หรือช่องเพลงและภาพบุคคลของ MusicMaker ตัวอย่างร้องเพลงของ MusicMaker ไม่ได้ระบุโมเดล ตรวจเสียง ปาก และนิ้ว และอย่าวางเสียงซ้ำสองชั้น
+1. เตรียมภาพบุคคลที่ได้รับอนุญาต หันเกือบตรงและเห็นริมฝีปาก พร้อมเสียงร้องของตนเองหรือที่ได้รับอนุญาต ตัดหนึ่งวรรคราวสิบวินาทีโดยเหลือช่วงหายใจต้นท้าย เพลงบรรเลงฝึกใช้แทนเสียงร้องไม่ได้
 
-[↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/) · [→ ขั้นตอนละเอียด · อังกฤษ](docs/first-video.md#vocal)
+2. ใน H3 Omni Reference ใส่ภาพกับเสียงร้องใน Refs เลือกราวสิบวินาทีและสัดส่วนตรงกับภาพ เสียงอ้างอิงต้องใช้ร่วมกับภาพหรือวิดีโอ
+
+3. ใน MusicMaker ใส่เสียงใน Music File ภาพใน Character Image และคำสั่งด้านล่างใน Prompt ตรวจช่วงเสียง ค่าใช้โดยประมาณ และ Public ก่อนกด Generate
+
+4. เริ่มด้วยกล้องนิ่ง เปรียบเทียบปากกับเสียงช่วงต้น กลาง และท้าย หากเหลื่อมเท่ากันอาจขยับตอนตัดต่อได้ หากเหลื่อมมากขึ้นให้ย่อวรรคแล้วสร้างใหม่ ลดการพยักหน้าถ้าหน้าเปลี่ยน
+
+5. เลือกเสียงต้นฉบับหรือเสียงที่สร้างเพียงหนึ่งแบบ ลบแทร็กซ้ำ ใส่ชื่อเพลงแล้วส่งออก MP4 ตรวจให้ร้องและหายใจจบครบ ก่อนค่อยลองกล้องเคลื่อนเข้าอย่างช้าในรอบถัดไป
+
+**พรอมต์ภาษาอังกฤษสำหรับคัดลอก · เขียนใหม่และยังไม่ได้ทดสอบสร้าง**
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ พรอมต์ไม่รับประกันการคงเสียงเดิมหรือความตรงของปาก
+
+[→ ขั้นตอนละเอียด · อังกฤษ](docs/first-video.md#vocal)
 
 ## ข้อมูลทางการของโมเดล
 

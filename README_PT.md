@@ -8,9 +8,9 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ Exemplos no X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Ouvir MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primeiro vídeo</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Próximo exercício</kbd></a></p>
 
-[![Cantor no terraço, formas metálicas e trem noturno na chuva. São imagens conceituais originais, não resultados de geração de vídeo.](assets/music-video-directions.png)](#first-video)
+[![Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.](assets/music-video-workflow.png)](#first-video)
 
-Cantor no terraço, formas metálicas e trem noturno na chuva. São imagens conceituais originais, não resultados de geração de vídeo.
+Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.
 
 <a id="x-creators"></a>
 
@@ -39,21 +39,24 @@ Os nomes dos modelos foram informados pelos autores. Texto e mídia foram confer
 
 ## Ouvir MusicMaker
 
-Seis músicas em duas colunas e três linhas. As quatro primeiras capas sugerem ideias visuais; as duas últimas também têm descrições de arranjo publicadas pela fonte. Clique para ouvir.
+Nove músicas em três colunas e três linhas. Compare ideias das capas e arranjos descritos na fonte. Os dois tutoriais usam outros exemplos.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Capa: palco de neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Ouvir música</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Capa: piano à janela<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Capa: palco de neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Capa: piano à janela<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Capa: estrada aberta<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Ouvir música</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Capa: estrada aberta<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Ouvir música</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Capa: litoral no verão<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Capa: litoral no verão<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Fonte: compasso 6/8, violão, piano e violoncelo<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Fonte: violão, contrabaixo, cordas e voz masculina<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Ouvir música</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Fonte: compasso 6/8, violão, piano e violoncelo<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Ouvir música</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Fonte: violão, contrabaixo, cordas e voz masculina<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Capa: cartas e café<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Capa: terraço urbano<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Ouvir música</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Capa: rua ensolarada<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Ouvir música</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
@@ -62,64 +65,53 @@ Seis músicas em duas colunas e três linhas. As quatro primeiras capas sugerem 
 
 ## Crie seu primeiro vídeo
 
-Use a capa de The Open Road como ponto de partida para uma viagem de 16 segundos. Os passos abaixo são para a estrada. Para Summer High, abra a proposta do litoral no cartão.
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores. É uma capa musical, não um quadro de vídeo.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Capa: estrada aberta<br><a href="docs/brand-projects.md#the_open_road"><kbd>→ Proposta · inglês</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Capa: litoral no verão<br><a href="docs/brand-projects.md#summer_high"><kbd>→ Proposta · inglês</kbd></a></td>
-</tr>
-</table>
+[▶ Ouvir música](https://musicmaker.im/detail/discover-v2-98/) · [↗ Ferramenta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
-[♫ Base de prática](starter-kit/practice-beat-120bpm.wav) · [↗ Ferramenta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
+[♫ Base de prática](starter-kit/practice-beat-120bpm.wav)
 
-1. Escolha um trecho completo de 16 segundos de uma música sua ou use a base original de prática. No GitHub, clique em Download raw file. Ouvir uma faixa não dá permissão para reutilizar a gravação.
-2. Para texto, copie os prompts abaixo. Com imagens, o H3 oficial oferece quadro inicial ou referências; o MusicMaker precisa de uma imagem inicial e uma final para cada plano.
-3. Escolha Hailuo H3 oficial ou MusicMaker, no formato 9:16. No H3 selecione 5 segundos; a página de clipes do MusicMaker informa atualmente 5 segundos e 480p. Confira o primeiro resultado antes de continuar.
-4. Corte os quatro clipes para 4 segundos cada e posicione-os em 0, 4, 8 e 12 segundos. Silencie o áudio deles e mantenha a música. Ajuste os cortes quando trocar de faixa.
-5. Adicione o título no editor, exporte em MP4 e reproduza o arquivo. Verifique quadros pretos, áudio duplicado e finais abruptos.
+1. Escolha 16 segundos de música própria ou autorizada. Baixe a faixa de treino com Download raw file. Marque 0, 4, 8, 12 e 16 segundos no editor; ajuste os cortes ao ritmo e às frases de outra música.
 
-- **00–04s** · Mapa e óculos no carro estacionado
-- **04–08s** · Estrada entre campos vista do carro
-- **08–12s** · Campos dourados pela janela lateral
-- **12–16s** · Vista do destino com título
+2. No Hailuo oficial, escolha H3 e texto para vídeo, ou use os clipes curtos MusicMaker. Selecione 9:16 e cinco segundos por cena. MusicMaker informa atualmente 480p e uso do H3.
 
-<details>
-<summary><b>Abrir quatro prompts. Use um por geração.</b></summary>
+3. Confira primeiro A, as flores; depois gere B, o riacho, C, o arco-íris e D, o encerramento. Copie cada prompt inglês separadamente. A opção com imagens do MusicMaker exige imagens iniciais e finais próprias ou autorizadas.
+
+4. Use quatro segundos estáveis de cada clipe, com cortes diretos. Silencie o som gerado e mantenha uma música. Acrescente o título nos dois segundos finais e um breve fade de áudio no fim.
+
+5. Exporte MP4 em 9:16. Confira quadros pretos, direção da água e deformações. Ampliar 480p não cria detalhes. Diminua o movimento ou use a mesma imagem autorizada se o cenário variar demais.
+
+**Prompts em inglês para copiar · novos e ainda não testados por geração**
 
 ```text
-A: Carro estacionado ao lado de campos dourados, luz quente do dia.
-Close fixo de mapa dobrado e óculos no painel.
-Interior e objetos imóveis.
-Sem pessoas ou texto.
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
 ```
 
 ```text
-B: Do banco dianteiro, estrada entre campos dourados.
-Céu azul e luz quente.
-Mapa e óculos parados no painel.
-Câmera fixa no interior, avanço lento.
-Sem bifurcações, pessoas ou texto.
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
 ```
 
 ```text
-C: Pela janela lateral, os mesmos campos dourados passam lentamente para trás.
-Céu azul e luz quente.
-Câmera fixa, horizonte nivelado.
-Sem prédios, pessoas ou texto.
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
 ```
 
 ```text
-D: Mirante aberto na borda de campos dourados.
-Céu azul e luz quente.
-Plano aberto fixo, grama movida suavemente pelo vento.
-Espaço embaixo para o título posterior.
-Sem carro, pessoas ou texto.
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-</details>
-
-São prompts novos de prática, ainda não testados em geração, e não registros de produção dos originais. O MusicMaker identifica H3 na página de clipes, mas configurações e cotas diferem entre os serviços.
+Mantenha luz e relevo coerentes; termine música e imagem juntas. Ouvir uma música pública não concede automaticamente permissão de reutilização.
 
 [→ Passos detalhados · inglês](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -127,22 +119,35 @@ São prompts novos de prática, ainda não testados em geração, e não registr
 
 ## Aprenda a próxima técnica
 
-Depois da viagem, acrescente uma técnica por vez. As imagens abrem os originais; as propostas levam a passos detalhados em inglês.
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Agora faça cerca de dez segundos de canto em close. A imagem é o retrato de entrada da demonstração MusicMaker; clique para ver o vídeo. O modelo não foi divulgado e o exercício abaixo é novo.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Conecte janela, flores e tampa do piano para praticar cortes de detalhes.<br><a href="docs/brand-projects.md#echoes_of_you"><kbd>→ Proposta · inglês</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Reutilize a referência do personagem e confira rosto, microfone e anel luminoso.<br><a href="docs/brand-projects.md#neon_pulse"><kbd>→ Proposta · inglês</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Input portrait: seated woman holding an electric guitar under warm stage lighting" width="100%"></a><br><b>Apresentação com guitarra</b><br>Envie seu retrato e um trecho cantado; confira primeiro a boca e depois as mãos.<br><a href="docs/brand-projects.md#performance-1"><kbd>→ Proposta · inglês</kbd></a></td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a><br><b>Canto expressivo</b><br>Expresse uma frase com close fixo e movimentos pequenos.<br><a href="docs/brand-projects.md#performance-2"><kbd>→ Proposta · inglês</kbd></a></td>
-</tr>
-</table>
+[▶ Ver exemplo MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Ferramenta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
-Para canto, use referências de áudio do H3 oficial ou música e retrato no MusicMaker. As demonstrações vocais do MusicMaker não identificam o modelo. Confira som, boca e dedos e evite áudio duplicado.
+1. Prepare um retrato autorizado quase frontal, com lábios visíveis, e uma frase cantada própria ou autorizada. Recorte cerca de dez segundos com espaço para respirar antes e depois. A base instrumental não substitui uma voz.
 
-[↗ Ferramenta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/) · [→ Passos detalhados · inglês](docs/first-video.md#vocal)
+2. No H3 Omni Reference, coloque retrato e canto em Refs. Escolha cerca de dez segundos e o formato adequado. A referência de áudio deve acompanhar uma imagem ou um vídeo.
+
+3. No MusicMaker, coloque a voz em Music File, o retrato em Character Image e a instrução abaixo em Prompt. Confira trecho, consumo estimado e opção Public antes de Generate.
+
+4. Comece com câmera fixa. Compare boca e voz no início, meio e fim. Um atraso constante pode ser ajustado na edição; se aumentar, encurte a frase e gere novamente. Reduza gestos se o rosto mudar.
+
+5. Use a voz original ou o som gerado e remova a faixa duplicada. Adicione o título e exporte MP4. Confira a frase e a respiração completas; só depois experimente uma aproximação lenta.
+
+**Prompts em inglês para copiar · novos e ainda não testados por geração**
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+Mesma pessoa, lábios visíveis, uma faixa e final natural. O prompt não garante preservação do áudio nem sincronização perfeita.
+
+[→ Passos detalhados · inglês](docs/first-video.md#vocal)
 
 ## Fontes oficiais dos modelos
 

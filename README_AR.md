@@ -10,9 +10,9 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ أمثلة من X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ استمع عبر MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ الفيديو الأول</kbd></a> &nbsp; <a href="#next-project"><kbd>→ التدريب التالي</kbd></a></p>
 
-[![مغنٍّ على سطح، وأشكال معدنية، وقطار ليلي تحت المطر. هذه صور تصورية أصلية وليست نتائج فيديو مولّد.](assets/music-video-directions.png)](#first-video)
+[![اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.](assets/music-video-workflow.png)](#first-video)
 
-مغنٍّ على سطح، وأشكال معدنية، وقطار ليلي تحت المطر. هذه صور تصورية أصلية وليست نتائج فيديو مولّد.
+اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.
 
 <a id="x-creators"></a>
 
@@ -41,21 +41,24 @@
 
 ## استمع عبر MusicMaker
 
-ست أغانٍ في عمودين وثلاثة صفوف. الأغلفة الأربعة الأولى تقترح أفكارًا بصرية، والأغنيتان الأخيرتان لهما أيضًا وصف توزيع منشور في المصدر. اضغط الغلاف للاستماع.
+تسع أغانٍ في ثلاثة أعمدة وثلاثة صفوف. قارن أفكار الأغلفة ووصف التوزيع الوارد في المصادر. مثالا الشرح أدناه مختلفان عن هذه المجموعة.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>فكرة الغلاف: مسرح نيون<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ استمع للأغنية</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>فكرة الغلاف: بيانو قرب النافذة<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>فكرة الغلاف: مسرح نيون<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>فكرة الغلاف: بيانو قرب النافذة<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>فكرة الغلاف: طريق مفتوح<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ استمع للأغنية</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>فكرة الغلاف: طريق مفتوح<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ استمع للأغنية</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>فكرة الغلاف: ساحل صيفي<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>فكرة الغلاف: ساحل صيفي<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>وصف المصدر: ميزان 6/8 وغيتار وبيانو وتشيلو<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>وصف المصدر: غيتار صوتي وكونترباص ووتريات وغناء رجالي<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ استمع للأغنية</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>وصف المصدر: ميزان 6/8 وغيتار وبيانو وتشيلو<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ استمع للأغنية</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>وصف المصدر: غيتار صوتي وكونترباص ووتريات وغناء رجالي<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>الغلاف: رسائل وقهوة<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>الغلاف: سطح في المدينة<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ استمع للأغنية</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>الغلاف: شارع مشمس<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ استمع للأغنية</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
@@ -64,64 +67,57 @@
 
 ## أنشئ الفيديو الأول
 
-ابدأ من غلاف The Open Road لصنع رحلة مدتها 16 ثانية. الخطوات أدناه تخص الطريق. إن اخترت Summer High فافتح خطة الساحل في بطاقتها.
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>فكرة الغلاف: طريق مفتوح<br><a href="docs/brand-projects.md#the_open_road"><kbd>→ خطة التدريب · إنجليزي</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>فكرة الغلاف: ساحل صيفي<br><a href="docs/brand-projects.md#summer_high"><kbd>→ خطة التدريب · إنجليزي</kbd></a></td>
-</tr>
-</table>
+[▶ استمع للأغنية](https://musicmaker.im/detail/discover-v2-98/) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
-[♫ موسيقى التدريب](starter-kit/practice-beat-120bpm.wav) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
+[♫ موسيقى التدريب](starter-kit/practice-beat-120bpm.wav)
 
-1. اختر جملة موسيقية مكتملة من أغنيتك مدتها 16 ثانية أو استخدم مقطع التدريب الأصلي. في GitHub اختر Download raw file. إتاحة الاستماع لا تعني السماح بإعادة استخدام التسجيل.
-2. للتوليد النصي انسخ الأوامر أدناه. مع الصور، يتيح H3 الرسمي إطار البداية أو مراجع الصور؛ أما MusicMaker فيحتاج صورة بداية وصورة نهاية لكل لقطة.
-3. اختر Hailuo H3 الرسمي أو MusicMaker ونسبة 9:16. في H3 اختر 5 ثوانٍ؛ صفحة المقاطع القصيرة في MusicMaker تذكر حاليًا 5 ثوانٍ ودقة 480p. راجع اللقطة الأولى قبل إنشاء البقية.
-4. اقتطع 4 ثوانٍ من كل مقطع وضعها عند الثواني 0 و4 و8 و12. اكتم صوت المقاطع وأبق الموسيقى المختارة. أعد ضبط نقاط القطع عند تغيير الأغنية.
-5. أضف العنوان في برنامج المونتاج، وصدّر MP4 ثم شغّل الملف. افحص الإطارات السوداء والصوت المكرر والنهاية المبتورة.
+1. اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.
 
-- **00–04s** · خريطة ونظارة داخل سيارة متوقفة
-- **04–08s** · طريق بين الحقول من داخل السيارة
-- **08–12s** · حقول ذهبية عبر النافذة الجانبية
-- **12–16s** · مشهد واسع للوجهة مع العنوان
+2. في Hailuo الرسمي اختر H3 وتوليد الفيديو من النص، أو استخدم أداة المقاطع القصيرة في MusicMaker. اختر 9:16 وخمس ثوانٍ لكل لقطة. يذكر MusicMaker حاليًا دقة 480p واستخدام H3.
 
-<details>
-<summary><b>افتح أوامر اللقطات الأربع. استخدم أمرًا واحدًا في كل مرة.</b></summary>
+3. راجع A للزهور أولًا، ثم أنشئ B للجدول وC لقوس قزح وD للنهاية. انسخ كل أمر إنجليزي منفصلًا. مسار الصور في MusicMaker يحتاج صورتي بداية ونهاية تملك حق استخدامهما.
+
+4. احتفظ بأربع ثوانٍ مستقرة من كل مقطع ووصلها بقطع مباشر. اكتم الصوت المولّد واترك مسار موسيقى واحدًا. أضف العنوان في آخر ثانيتين وخفّض الموسيقى تدريجيًا عند النهاية.
+
+5. صدّر MP4 بنسبة 9:16. افحص الإطارات السوداء واتجاه الماء والتشوهات. تكبير 480p لا يضيف تفاصيل. قلل الحركة أو استخدم صورة مرجعية مأذونًا بها ثابتة إذا تغير المشهد كثيرًا.
+
+**أوامر إنجليزية قابلة للنسخ · جديدة ولم تُختبر بالتوليد**
+
+<div dir="ltr">
 
 ```text
-A: سيارة متوقفة بجانب حقول ذهبية في ضوء نهاري دافئ.
-لقطة قريبة ثابتة لخريطة مطوية ونظارة على لوحة القيادة.
-الداخل والأشياء ساكنة.
-بلا أشخاص أو كتابة.
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
 ```
 
 ```text
-B: منظر من المقعد الأمامي لطريق وسط حقول ذهبية.
-سماء زرقاء وضوء دافئ.
-الخريطة والنظارة ثابتتان.
-كاميرا ثابتة داخل السيارة وتقدم بطيء.
-بلا تفرعات للطريق أو أشخاص أو كتابة.
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
 ```
 
 ```text
-C: منظر جانبي للحقول الذهبية نفسها من نافذة السيارة.
-سماء زرقاء وضوء دافئ.
-كاميرا ثابتة والحقول تتحرك ببطء إلى الخلف والأفق مستقيم.
-بلا مبانٍ أو أشخاص أو كتابة.
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
 ```
 
 ```text
-D: نقطة مشاهدة مفتوحة عند حافة الحقول الذهبية.
-سماء زرقاء وضوء دافئ.
-لقطة واسعة ثابتة وعشب يتحرك قليلًا.
-مساحة خالية أسفل الصورة لإضافة العنوان لاحقًا.
-بلا سيارة أو أشخاص أو كتابة.
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-</details>
+</div>
 
-هذه أوامر تدريب جديدة لم تُختبر بالتوليد، وليست سجل إنتاج الأعمال الأصلية. تذكر صفحة المقاطع القصيرة في MusicMaker استخدام H3، لكن الإعدادات والحصص تختلف بين الأداتين.
+حافظ على الضوء والتضاريس، وأنهِ الموسيقى والصورة معًا. الاستماع العام لا يمنح حق إعادة استخدام التسجيل تلقائيًا.
 
 [→ الخطوات · إنجليزي](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -129,22 +125,39 @@ D: نقطة مشاهدة مفتوحة عند حافة الحقول الذهبي�
 
 ## تعلّم التقنية التالية
 
-بعد إنهاء تمرين الطريق، أضف مهارة واحدة كل مرة. الصور تفتح الأعمال الأصلية، والخطط تفتح خطوات مفصلة بالإنجليزية.
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو. نموذج المثال غير معلن، والتمرين أدناه جديد.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>اربط ضوء النافذة والزهور وغطاء البيانو للتدرب على الانتقال إلى التفاصيل.<br><a href="docs/brand-projects.md#echoes_of_you"><kbd>→ خطة التدريب · إنجليزي</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>أعد استخدام مرجع الشخصية وافحص ثبات الوجه والميكروفون والحلقة المضيئة.<br><a href="docs/brand-projects.md#neon_pulse"><kbd>→ خطة التدريب · إنجليزي</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Input portrait: seated woman holding an electric guitar under warm stage lighting" width="100%"></a><br><b>أداء بالغيتار</b><br>ارفع صورتك ومقطع غناء قصيرًا؛ افحص حركة الفم ثم اليدين.<br><a href="docs/brand-projects.md#performance-1"><kbd>→ خطة التدريب · إنجليزي</kbd></a></td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a><br><b>غناء معبّر</b><br>عبّر عن جملة غنائية بلقطة قريبة ثابتة وحركات بسيطة.<br><a href="docs/brand-projects.md#performance-2"><kbd>→ خطة التدريب · إنجليزي</kbd></a></td>
-</tr>
-</table>
+[▶ شاهد مثال MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
-للغناء استخدم مراجع الصوت في H3 الرسمي أو مدخلي الموسيقى والصورة في MusicMaker. النموذج المستخدم في أمثلة الغناء المنشورة لدى MusicMaker غير معلن. افحص الصوت والفم والأصابع ولا تكرر المسار الصوتي.
+1. جهّز صورة شخصية مأذونًا بها شبه أمامية تظهر الشفتين، وجملة غنائية لك أو مرخصة. اقتطع نحو عشر ثوانٍ مع مساحة تنفس في البداية والنهاية. المقطع التدريبي الآلي لا يحل محل الصوت الغنائي.
 
-[↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/) · [→ الخطوات · إنجليزي](docs/first-video.md#vocal)
+2. في H3 Omni Reference أضف الصورة والغناء إلى Refs. اختر نحو عشر ثوانٍ ونسبة مناسبة. مرجع الصوت يتطلب صورة أو فيديو معه.
+
+3. في MusicMaker ضع الغناء في Music File والصورة في Character Image والأمر أدناه في Prompt. راجع المقطع والتكلفة المقدرة وخيار Public قبل Generate.
+
+4. ابدأ بكاميرا ثابتة. قارن الفم والصوت في البداية والوسط والنهاية. التأخير الثابت يمكن تعديله بالمونتاج؛ إذا زاد مع الوقت فقصّر الجملة وأعد التوليد. قلل الإيماء إذا تغير الوجه.
+
+5. اختر الصوت الأصلي أو المولّد واحذف المسار المكرر. أضف عنوان الأغنية وصدّر MP4. تأكد من اكتمال الجملة والنفس الأخير قبل تجربة اقتراب بطيء للكاميرا في محاولة لاحقة.
+
+**أوامر إنجليزية قابلة للنسخ · جديدة ولم تُختبر بالتوليد**
+
+<div dir="ltr">
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+</div>
+
+الشخص نفسه، شفتان واضحتان، مسار صوت واحد ونهاية طبيعية. الأمر لا يضمن حفظ الصوت أو مزامنة الفم بدقة.
+
+[→ الخطوات · إنجليزي](docs/first-video.md#vocal)
 
 ## المصادر الرسمية للنماذج
 

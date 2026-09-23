@@ -8,9 +8,9 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ Xの作例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMakerで試聴</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 最初の動画</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 次の練習</kbd></a></p>
 
-[![屋上の歌手、金属の造形、雨の夜行列車。オリジナルのコンセプト画像であり、動画の生成結果ではありません。](assets/music-video-directions.png)](#first-video)
+[![曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。](assets/music-video-workflow.png)](#first-video)
 
-屋上の歌手、金属の造形、雨の夜行列車。オリジナルのコンセプト画像であり、動画の生成結果ではありません。
+曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。
 
 <a id="x-creators"></a>
 
@@ -39,21 +39,24 @@
 
 ## MusicMakerで試聴
 
-6曲を2列3段で紹介。最初の4枚は映像の着想になるジャケット、残り2曲は公式ページの編曲説明も参考にできます。画像から原曲を試聴してください。
+9曲を3列3段で試聴。ジャケットの発想と、出典にある編曲説明を見比べてください。以下の二つの練習作品とは重複しません。
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>ジャケット：ネオンの舞台<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 試聴する</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>ジャケット：窓辺のピアノ<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>ジャケット：ネオンの舞台<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>ジャケット：窓辺のピアノ<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>ジャケット：広い道路<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 試聴する</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>ジャケット：広い道路<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 試聴する</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>ジャケット：夏の海岸<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>ジャケット：夏の海岸<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>公式説明：6/8拍子、ギター、ピアノ、チェロ<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>公式説明：アコースティックギター、低音弦楽器、弦楽合奏、男性歌唱<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ 試聴する</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>公式説明：6/8拍子、ギター、ピアノ、チェロ<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ 試聴する</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>公式説明：アコースティックギター、低音弦楽器、弦楽合奏、男性歌唱<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>ジャケット：手紙とコーヒー<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>ジャケット：都会の屋上<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ 試聴する</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>ジャケット：明るい街角<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ 試聴する</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
@@ -62,50 +65,53 @@
 
 ## 最初の動画を作る
 
-The Open Road のジャケットを参考に、出発から到着までの16秒動画を作ります。以下はロード動画の練習です。Summer High を選ぶ場合は、画像下の海岸プランへ進んでください。
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Living on the Brightside の虹、渓流、野花を参考に、16秒の自然映像を作ります。これは曲のジャケットであり、動画の一場面ではありません。</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>ジャケット：広い道路<br><a href="docs/brand-projects.md#the_open_road"><kbd>→ 練習プラン（英語）</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>ジャケット：夏の海岸<br><a href="docs/brand-projects.md#summer_high"><kbd>→ 練習プラン（英語）</kbd></a></td>
-</tr>
-</table>
+[▶ 試聴する](https://musicmaker.im/detail/discover-v2-98/) · [↗ 公式ツール](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
-[♫ 練習音源](starter-kit/practice-beat-120bpm.wav) · [↗ 公式ツール](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
+[♫ 練習音源](starter-kit/practice-beat-120bpm.wav)
 
-1. 自分の曲から16秒のまとまりを選ぶか、オリジナル練習音源を使います。GitHubでは Download raw file で保存できます。試聴できても原曲の再利用権があるとは限りません。
-2. 文字だけなら下のプロンプトを使います。画像を使う場合、公式H3は開始画像や画像参照に対応。MusicMakerでは各カットの開始画像と終了画像が必要です。
-3. 公式Hailuo H3かMusicMakerを選び、9:16で1カットずつ生成。H3は5秒を選択、MusicMakerの短編動画ページは現在5秒・480pです。最初の結果を確認してから続けます。
-4. 4本を各4秒に切り、0・4・8・12秒に並べます。動画の音を消し、音楽だけを残します。自分の曲に替えたら切り替え位置も調整します。
-5. 最後に編集ソフトでタイトルを追加し、MP4を書き出します。黒いフレーム、音の重複、不自然な終わりがないか、完成ファイルを再生して確認します。
+1. 自作または利用許諾のある曲から16秒を選びます。練習音源は Download raw file で保存。編集ソフトで0・4・8・12・16秒に印を付け、別の曲なら拍に合わせ直します。
 
-- **00–04s** · 停車中の地図とサングラス
-- **04–08s** · 車内から見る田園の道路
-- **08–12s** · 横窓を流れる金色の畑
-- **12–16s** · 到着地の遠景とタイトル
+2. 公式HailuoではH3のテキスト動画を選択。MusicMaker短編ツールもテキストから始められます。9:16、各5秒。ブランド側は現在480pでH3使用を明記しています。
 
-<details>
-<summary><b>4カットのプロンプトを開く。一度に一つずつ使います。</b></summary>
+3. Aの野花を先に確認し、Bの渓流、Cの虹の全景、Dの締めの遠景へ進みます。下の英語プロンプトを一つずつ使用。MusicMakerで画像を使う場合は自分の許諾済み開始画像・終了画像を用意します。
+
+4. 各動画の安定した4秒を順に配置し、元の動画音声を消して曲を一つだけ残します。最後の2秒にタイトルを加え、音楽の終わりを短くフェードします。
+
+5. 9:16のMP4を書き出し、黒いコマ、川の流れ、虹や地形の変形を確認。480pを拡大しても細部は増えません。変形するなら動きを減らし、同じ許諾済み場面画像で再生成します。
+
+**コピー用の英語プロンプト（新規作成・生成未検証）**
 
 ```text
-A：金色の畑のそばに停車した車。暖かな昼光。ダッシュボードの地図とサングラスを固定カメラで接写。車内は静止。人物や文字なし。
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
 ```
 
 ```text
-B：車の前席から金色の畑を通る一本道を見る。青空、暖かな昼光。地図とサングラスは動かない。車内の固定カメラ、ゆっくり前進。道路の分岐、人物、文字なし。
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
 ```
 
 ```text
-C：同じ金色の畑を車の横窓から見る。青空と暖かな昼光。固定カメラで畑がゆっくり後方へ流れる。水平線を保つ。人物、建物、文字なし。
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
 ```
 
 ```text
-D：金色の畑の端にある開けた展望場所。青空と暖かな昼光。固定の遠景、草だけが風で揺れる。下部にタイトル用の余白。車、人物、文字なし。
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-</details>
-
-新しく書いた未検証の練習プロンプトで、原作の制作記録ではありません。MusicMakerは短編動画ページでH3の使用を明記していますが、両サービスの設定や利用枠は異なります。
+光と地形をそろえ、映像と音楽を同時に終えます。公開曲を試聴できても再利用権があるとは限りません。
 
 [→ 詳しい手順（英語）](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -113,22 +119,35 @@ D：金色の畑の端にある開けた展望場所。青空と暖かな昼光�
 
 ## 次の技術を学ぶ
 
-ロード動画の練習を終えたら、一度に一つの技術を増やしましょう。各画像から原作、プランから英語の詳しい手順へ進めます。
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">次は約10秒の歌唱アップ。画像はMusicMaker公開例の入力用人物画像です。クリックで動画が開きます。公開例のモデルは非公開で、下記は再現手順ではなく新しい練習です。</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>窓光、花、ピアノのふたをつなぎ、細部への切り替えを練習。<br><a href="docs/brand-projects.md#echoes_of_you"><kbd>→ 練習プラン（英語）</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>同じ人物参照を使い、顔、マイク、光の輪の一貫性を確認。<br><a href="docs/brand-projects.md#neon_pulse"><kbd>→ 練習プラン（英語）</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Input portrait: seated woman holding an electric guitar under warm stage lighting" width="100%"></a><br><b>ギター演奏</b><br>自分の人物画像と短い歌声を入力。口の動きから手元の順に確認。<br><a href="docs/brand-projects.md#performance-1"><kbd>→ 練習プラン（英語）</kbd></a></td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a><br><b>表情で伝える歌唱</b><br>固定のアップで一つの歌のフレーズを表現。動きは小さく。<br><a href="docs/brand-projects.md#performance-2"><kbd>→ 練習プラン（英語）</kbd></a></td>
-</tr>
-</table>
+[▶ ブランドの動画を見る](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ 公式ツール](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
-歌唱には、公式H3の音声参照かMusicMakerの音楽・人物画像入力を使用します。MusicMakerの公開歌唱例はモデル名を明かしていません。歌声、口の動き、手指を確認し、音を二重に重ねないでください。
+1. 口を遮らない正面寄りの許諾済み人物写真と、自分の歌声または許諾済み歌声を用意。約10秒の一節を前後に呼吸の余白を残して切り出します。器楽の練習音源は歌声の代わりになりません。
 
-[↗ 公式ツール](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/) · [→ 詳しい手順（英語）](docs/first-video.md#vocal)
+2. 公式H3ではOmni ReferenceのRefsに人物画像と歌声を一緒に追加し、約10秒と画像に合う比率を選びます。音声参照には画像または動画の併用が必要です。
+
+3. MusicMakerではMusic Fileに歌声、Character Imageに人物写真、Promptに下の指示を入力。音声範囲、予想消費、Publicの公開設定を確認してGenerateを押します。
+
+4. 最初は固定アップのみ。冒頭・中間・末尾の口と声を確認。一定のずれなら編集で調整し、ずれが広がるなら短い一節で再生成。顔が変わる場合はうなずきも減らします。
+
+5. 原音を使うなら生成音を消し、生成音を使うなら重複音声を削除。最後に曲名を加えてMP4を書き出し、一節と呼吸が切れずに終わるか確認してから、次回だけ緩い寄りを試します。
+
+**コピー用の英語プロンプト（新規作成・生成未検証）**
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+同じ人物、見える口、一つの音声、自然な句末を確認。指示だけで音声保持や口の同期は保証されません。
+
+[→ 詳しい手順（英語）](docs/first-video.md#vocal)
 
 ## モデル開発元の資料
 

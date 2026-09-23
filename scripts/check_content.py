@@ -100,13 +100,14 @@ class GalleryParser(HTMLParser):
             self.href = None
 
 gallery = json.loads((ROOT/'docs/gallery-sources.json').read_text())
+locale_copy = json.loads((ROOT/'i18n/readme-locales.json').read_text())
 languages = json.loads((ROOT/'i18n/languages.json').read_text())['languages']
 if len(languages) != 15 or len({x['code'] for x in languages}) != 15:
     errors.append('Expected the 15 language options recorded from the brand website')
-if len(gallery['x']) != 6 or len(gallery['brand']) != 8:
-    errors.append('Expected six X cases and eight distinct brand references')
-if len(set(gallery['listening'])) != 6:
-    errors.append('Listening shelf must contain six distinct tracks')
+if len(gallery['x']) != 6 or len(gallery['brand']) != 12:
+    errors.append('Expected six X cases and twelve cataloged brand references')
+if len(set(gallery['listening'])) != 9:
+    errors.append('Listening shelf must contain nine distinct tracks')
 if len({item['post'] for item in gallery['x']}) != len(gallery['x']):
     errors.append('Duplicate X post in gallery')
 for language in languages:
@@ -120,7 +121,7 @@ for language in languages:
     for item in gallery['x'] + gallery['brand']:
         matches = [row for row in parser.images if row[0] == item['thumbnail']]
         target = item['post'] if 'post' in item else item.get('video', item['source'])
-        expected_count = 2 if item['id'] in gallery['listening'][:4] else 1
+        expected_count = 1 if 'post' in item or item['id'] in gallery['listening'] + gallery['tutorials'] else 0
         if len(matches) != expected_count or any(row[2] != target for row in matches):
             errors.append(f'{filename}: missing, duplicated or mislinked image: {item["id"]}')
         elif any(len(row[1].strip()) < 12 for row in matches):
@@ -133,18 +134,37 @@ for language in languages:
             if f'<a href="{item["post"]}">@{item["author"]}</a>' not in content:
                 errors.append(f'{filename}: author must link to original X post')
     shelf = re.search(r'<!-- LISTENING-GRID:START -->(.*?)<!-- LISTENING-GRID:END -->',content,re.S)
-    if not shelf or shelf[1].count('<tr>') != 3 or shelf[1].count('<td ') != 6:
-        errors.append(f'{filename}: listening grid must have two columns and three rows')
+    if not shelf or shelf[1].count('<tr>') != 3 or shelf[1].count('<td ') != 9:
+        errors.append(f'{filename}: listening grid must have three columns and three rows')
     else:
         for item in gallery['brand']:
             if item['id'] in gallery['listening'] and shelf[1].count(item['thumbnail']) != 1:
                 errors.append(f'{filename}: listening track mismatch: {item["id"]}')
+    if set(gallery['listening']) & set(gallery['tutorials']) or len(gallery['tutorials']) != 2:
+        errors.append('Tutorials must use exactly two cases outside the listening shelf')
+    for marker,case,prompt_count in [('first-video','brightside',4),('next-project','performance-2',1)]:
+        part = content.split(f'<a id="{marker}"></a>',1)[-1]
+        part = part.split('<a id="next-project"></a>',1)[0] if marker == 'first-video' else part
+        images = GalleryParser(); images.feed(part)
+        if len(images.images) != 1:
+            errors.append(f'{filename}: {marker} must illustrate exactly one case')
+        if marker == 'next-project' and language['code'] in locale_copy:
+            c = locale_copy[language['code']]
+            if f'[▶ {c["watch_demo"]}]' not in part or f'[▶ {c["labels"][0]}]' in part:
+                errors.append(f'{filename}: wrong brand demo action label')
+        if part.count('```text') != prompt_count:
+            errors.append(f'{filename}: incomplete inline prompts in {marker}')
+    if 'assets/music-video-workflow.png' not in content:
+        errors.append(f'{filename}: missing workflow cover')
     for destination in languages:
         if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in content:
             errors.append(f'{filename}: missing language switch to {destination["file"]}')
     order = [content.find(f'<a id="{a}">') for a in ['x-creators','listen','first-video','next-project']]
     if min(order) < 0 or order != sorted(order):
         errors.append(f'{filename}: incorrect reader journey section order')
+workflow = (ROOT/'assets/music-video-workflow.png').read_bytes()
+if workflow[:8] != b'\x89PNG\r\n\x1a\n' or struct.unpack('>II',workflow[16:24]) != (1536,1024):
+    errors.append('Workflow cover is missing or has unexpected dimensions')
 if errors:
     print('\n'.join(errors));sys.exit(1)
 print(f'PASS: {len(mds)} Markdown files, {refs} local links, {len(recipes)} recipes, artwork, audio and edit timings')

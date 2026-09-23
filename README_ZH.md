@@ -10,12 +10,11 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a></p>
 
-[![三种音乐视频概念：屋顶歌手、液态金属、雨夜列车；点击进入中文制作方案](assets/music-video-directions.png)](prompts/README_ZH.md)
+[![选音乐、设计分镜与提示词、生成镜头、剪辑导出；下方展示人物演唱、旅行叙事与抽象音乐视觉](assets/music-video-workflow.png)](#first-video)
 
-**[屋顶演唱](prompts/README_ZH.md#recipe-08)** · **[液态金属](prompts/README_ZH.md#recipe-05)** · **[夜车循环](prompts/README_ZH.md#recipe-04)**<br>
-上图为原创概念图，不是视频生成结果。这三幅图用于展示创作方向；品牌作品衍生的具体提案见下方图文卡片。
+原创流程示意图，展示本库怎样把案例、提示词、工具与剪辑连起来；画面是概念设计，不是生成视频实测结果。
 
-**制作顺序：** 选一首歌 → 定一个画面主题 → 生成短镜头 → 按音乐节奏剪辑。[开始下面的公路练习](#first-video)。
+**从哪里开始：** [看案例找灵感](#x-creators) → [听音乐定方向](#listen) → [做四镜头自然短片](#first-video) → [尝试人像演唱](#next-project)。
 
 <a id="x-creators"></a>
 
@@ -44,113 +43,143 @@
 
 ## MusicMaker 试听
 
-六首作品，两列三行。前四张提供霓虹舞台、窗边钢琴、公路与海岸等视觉方向；后两首补充官网公开的编曲描述。点击封面或播放入口到原站试听，先挑出喜欢的乐句，再想画面。
+九首作品，三行三列。既可从霓虹、钢琴、公路等封面寻找视觉方向，也可参考官网公开的编曲描述。点击封面或试听按钮打开原作；下方教程另选两例，不重复这里的作品。
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="霓虹光环前手持麦克风的歌手" width="100%"></a><br><b>Neon Pulse</b><br>封面方向：霓虹舞台<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="明亮窗边坐在钢琴前的男子" width="100%"></a><br><b>Echoes of You</b><br>封面方向：窗边钢琴<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="霓虹光环前手持麦克风的歌手" width="100%"></a><br><b>Neon Pulse</b><br>封面：霓虹舞台<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="明亮窗边坐在钢琴前的男子" width="100%"></a><br><b>Echoes of You</b><br>封面：窗边钢琴<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="从车内望向穿过金色田野的公路" width="100%"></a><br><b>The Open Road</b><br>封面：开阔公路<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 试听原作</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="从车内望向穿过金色田野的公路" width="100%"></a><br><b>The Open Road</b><br>封面方向：开阔公路<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="阳光海岸公路旁微笑的女子" width="100%"></a><br><b>Summer High</b><br>封面方向：夏日海岸<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="阳光海岸公路旁微笑的女子" width="100%"></a><br><b>Summer High</b><br>封面：夏日海岸<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="敞开的厨房窗边站着一名男子，前方有书本和水壶；点击试听歌曲" width="100%"></a><br><b>It Takes Another Shape</b><br>官网：六八拍、吉他与大提琴<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="晨光中坐在门廊手持杯子的男子，点击进入原站播放器" width="100%"></a><br><b>Morning with Healing Hands</b><br>官网：木吉他、弦乐与男声<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ 试听原作</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="It Takes Another Shape 音乐封面，点击进入原站播放器" width="100%"></a><br><b>It Takes Another Shape</b><br>官网描述：六八拍、木吉他、钢琴与大提琴<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="晨光中坐在门廊手持杯子的男子，点击进入原站播放器" width="100%"></a><br><b>Morning with Healing Hands</b><br>官网描述：木吉他、低音提琴、弦乐与男声<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="木桌上的咖啡杯，下方敞开的抽屉里放着信件" width="100%"></a><br><b>What Love Can Lose</b><br>官网：六八拍、钢琴与轻鼓刷<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="阳光下站在城市屋顶的白衬衫男子" width="100%"></a><br><b>Claim the Day</b><br>封面：城市屋顶<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="阳光街道上开怀大笑的女子" width="100%"></a><br><b>Sunshine People</b><br>封面：阳光街道<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ 试听原作</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
 
 封面不是音乐视频截图；试听不等于获得素材使用权。[浏览更多作品](https://musicmaker.im/discover/) · [创作自己的歌曲](https://musicmaker.im/ai-song-generator/)。
 
-<a id="做出第一支视频"></a>
-
 <a id="first-video"></a>
 
 ## 制作你的第一支视频
 
-**从 MusicMaker 的《The Open Road》封面出发，做一个 16 秒公路短片。** 先学会把“出发 → 在路上 → 抵达”剪成完整的一段。喜欢人物画面，也可以选右侧《Summer High》的海岸方向。
+### 案例一：彩虹山谷，16 秒自然音乐短片
 
-这两张是品牌歌曲封面，点击图片可试听原作；下面的分镜与提示词是根据画面新编的练习，不是原作生成配方。
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="溪流、野花与绿色山谷上空的一道彩虹；点击试听 Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">从 MusicMaker《Living on the Brightside》的封面取景：溪流、野花、绿色山谷和彩虹。<b>先不拍人物，用四个镜头学会把画面剪成一个完整乐句。</b></td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="从车内望向穿过金色田野的公路 — The Open Road；点击试听音乐" width="100%"></a><br><b>The Open Road</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 试听这首歌</kbd></a><br><b><a href="docs/brand-projects.zh-CN.md#the_open_road">公路出发日记 →</a></b><br>本节练习：地图特写 → 前方公路 → 侧窗田野 → 抵达。先完成四个干净的切镜。</td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="阳光海岸公路旁微笑的女子 — Summer High；点击试听音乐" width="100%"></a><br><b>Summer High</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 试听这首歌</kbd></a><br><b><a href="docs/brand-projects.zh-CN.md#summer_high">夏日海岸预告 →</a></b><br>换一个场景：人物中景 → 海面 → 微笑特写 → 海岸宽景。沿用四镜头结构。</td>
-</tr>
-</table>
+[▶ 试听案例原曲](https://musicmaker.im/detail/discover-v2-98/) · [♫ 下载原创练习伴奏](starter-kit/practice-beat-120bpm.wav)
 
-下方完整步骤只演示《The Open Road》；选择《Summer High》时，请打开对应卡片中的海岸提案。
+这是歌曲封面，不是视频截图。下方是据此新编的练习，不是原作生成记录。试听区的九首歌曲与这两个教程案例不重复。
 
-### 照着做：一段音乐，四个镜头
+#### 1. 先准备音乐，再确定四个切点
 
-1. **准备声音。** 选自有歌曲中完整的 16 秒乐句；没有现成音乐，可下载本仓库的[原创练习伴奏](starter-kit/practice-beat-120bpm.wav)。在 GitHub 文件页点 **Download raw file**。先不用原站歌曲录音，试听不等于获得再发布授权。
-2. **选一种生成方式。** 用文字起步，直接复制下方提示词即可。如果希望画面贴近自有照片，官方 H3 可用首帧或图片参考；MusicMaker 图片路线需为每个镜头准备 **开始图、结束图各一张**。人物、天气与构图尽量接近。
-3. **选工具，先做一个镜头。** [模型官方 Hailuo H3](https://hailuoai.video/zh-Intl/tools/minimax-h3) 或 [MusicMaker 短片工具](https://musicmaker.im/free-short-music-video-generator/) 均可用于这个练习。文字路线粘贴 A 段，选 **9:16**；官方选择 H3、5 秒，MusicMaker 页面当前为 5 秒、480p。看过结果再生成 B、C、D，每次只粘贴一段。
-4. **按音乐剪辑。** 四段各留 4 秒，依次放在 0、4、8、12 秒；关闭片段自带声音，只留下所选音乐。练习伴奏适用这组切点，换成自己的歌时重新试听调整。
-5. **加标题并导出。** 在最后一个镜头加入自己的片名，不让模型生成文字。导出 MP4 后完整播放，检查黑帧、重复声音与突然截断。具体按钮和导出设置见[剪辑教程](docs/first-video.zh-CN.md#3-放到剪辑时间轴)。
+用自有或获授权的音乐截取完整的 16 秒乐句；没有现成音乐，就用上方原创伴奏，在 GitHub 文件页点 **Download raw file** 保存。把音频导入剪辑软件，标记 0、4、8、12、16 秒。练习伴奏适用这些切点；换歌后应听重拍和乐句结束的位置，再调整剪辑。
 
-| 成片时间 | 画面 | 这一步学什么 |
+#### 2. 选一条工具路线
+
+| 选择 | 怎么开始 | 本练习的设置 |
 |---|---|---|
-| 0—4 秒 | 停车时，地图与太阳镜的特写 | 用细节交代出发 |
-| 4—8 秒 | 从车内看向金色田野间的公路 | 从细节切到全景 |
-| 8—12 秒 | 侧窗外缓慢后退的田野 | 保持地点与光线一致 |
-| 12—16 秒 | 空旷的目的地远景，加片名 | 给短片一个完整结尾 |
+| [模型官方：Hailuo H3](https://hailuoai.video/zh-Intl/tools/minimax-h3) | 选择 MiniMax H3、文字生成视频；每次粘贴一段提示词 | 9:16，每段 5 秒；共四段 |
+| [品牌工具：MusicMaker 短片](https://musicmaker.im/free-short-music-video-generator/) | 文字路线填写提示词；图片路线另需上传开始图和结束图 | 页面当前为 5 秒、480p；选择 9:16 |
 
-<details>
-<summary><b>展开复制：四个镜头的完整提示词</b></summary>
+MusicMaker 短片页标注使用 MiniMax H3，官方入口则提供更多参考输入与设置。**本次最容易上手的是文字路线**，不需要下载品牌封面。如果改用图片路线，使用自己有权使用的同场景图片；首尾画面保持相近，别让清晨突然变成夜晚。
 
-分别生成四段。相同的天气和色调有助于统一画面，但不能保证模型每次生成相同的汽车。
+#### 3. 一次只生成一个镜头
+
+先生成 A，确认草地、水流与彩虹没有明显变形，再做 B、C、D。下面四段分别复制；不必把整张分镜表塞进一次生成请求。
+
+| 成片位置 | 镜头 | 看什么 |
+|---|---|---|
+| 0—4 秒 | 溪边野花特写 | 花瓣不闪烁，运动幅度小 |
+| 4—8 秒 | 溪流与草坡中景 | 水向同一方向流动 |
+| 8—12 秒 | 山谷与彩虹全景 | 彩虹位置稳定，地平线不弯曲 |
+| 12—16 秒 | 同一山谷的静止远景 | 留出片名位置，完成收尾 |
 
 ```text
-A｜汽车停在金色田野旁。仪表台上放着折叠地图和太阳镜，暖色日光。
-固定特写，车内和地图保持静止，画面没有人物、文字或可读路牌。
+A｜雨后绿色山谷，柔和午后阳光，溪边紫色野花上留有水珠。
+固定特写，微风只让花茎轻轻摇动，背景草坡柔和虚化。
+写实自然摄影，不出现人物、建筑、文字，不改变花朵数量。
 ```
 
 ```text
-B｜从汽车前排看向金色田野间的双车道公路，晴朗蓝天，暖色日光。
-仪表台上放着折叠地图和太阳镜。固定车内机位，车辆缓慢平稳向前。
-道路不分叉，地图不移动，没有人物或文字。
+B｜雨后同一绿色山谷，柔和午后阳光，浅溪从草坡间流向前景。
+固定中景，清水缓慢流过石头，岸边紫色野花轻轻摇动。
+写实自然摄影，河道形状保持稳定，不出现人物、建筑或文字。
 ```
 
 ```text
-C｜从汽车侧窗看向同一片金色田野，晴朗蓝天，暖色日光。
-固定车内机位，田野缓慢向后移动，地平线保持水平。
-不出现人物、文字、建筑或天气变化。
+C｜雨后绿色山谷全景，柔和午后阳光，一道彩虹横跨远处天空。
+前景是浅溪与紫色野花。固定广角机位，草叶轻动，云缓慢飘动。
+彩虹位置稳定，不新增彩虹，不出现人物、建筑、文字或快速运镜。
 ```
 
 ```text
-D｜金色田野尽头的一处空旷观景地，晴朗蓝天，暖色日光。
-固定远景，微风轻吹草叶，画面下方留出干净空间供后期添加片名。
-不出现汽车、人物或文字。
+D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处的一道彩虹。
+固定机位，只有溪水和草叶轻微运动；画面下部留出干净草地供后期加片名。
+保持地形和彩虹稳定，不出现人物、建筑或文字。
 ```
 
-</details>
+#### 4. 剪成 16 秒，再加标题
 
-MusicMaker 短片页标注使用 MiniMax H3；两个入口的设置与额度不同。此处先做环境画面，演唱需另用音频与人像路线。四段提示词尚未实测生成；公路变形时先减慢运动，别急着增加镜头。
+将四段依次拖入剪辑时间轴，每段选取最稳定的 4 秒，使用直接切换。关闭生成片段自带声音，只保留选定的伴奏。在最后 2 秒加入片名，片尾给音乐做短淡出；不要靠拉长静帧掩盖缺失镜头。导出 MP4，竖屏比例保持 9:16，分辨率按实际素材选择，放大 480p 不会增加细节。[剪辑按钮与导出步骤](docs/first-video.zh-CN.md#edit-timeline)。
+
+**完成标准：** 音乐与画面同时结束；没有黑帧和重复音轨；溪水方向、光线和彩虹没有明显跳变。彩虹变形就减小运动、固定机位；镜头间地形差异太大，就用同一张自有场景图作为参考重做。以上提示词尚未实测生成，不保证复现封面。
 
 <a id="next-project"></a>
 
 ## 把一个提案做完，再学下一种技巧
 
-完成公路练习后，从下面选 **一种** 新技巧。每张图都对应品牌现有素材，提案标题可打开完整分镜、提示词和工具步骤。
+### 案例二：一句副歌，10 秒人像演唱
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="明亮窗边坐在钢琴前的男子 — Echoes of You；点击试听音乐" width="100%"></a><br><b>Echoes of You</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 试听这首歌</kbd></a><br><b><a href="docs/brand-projects.zh-CN.md#echoes_of_you">窗边钢琴片段 →</a></b><br>练细节切镜：窗边全景接花朵与琴盖，让画面跟随乐句变化。先不生成复杂弹奏。</td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="霓虹光环前手持麦克风的歌手 — Neon Pulse；点击试听音乐" width="100%"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 试听这首歌</kbd></a><br><b><a href="docs/brand-projects.zh-CN.md#neon_pulse">霓虹歌手预告 →</a></b><br>练人物一致：用同一人物参考，交替中景与特写。检查脸部、麦克风和光环是否保持一致。</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="暖色舞台灯光下持电吉他而坐的女子 — Guitar performance；点击观看演唱视频" width="100%"></a><br><b>吉他弹唱</b><br><sub>MusicMaker · 官方视频示例</sub><br><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><kbd>▶ 播放视频</kbd></a><br><b><a href="docs/brand-projects.zh-CN.md#performance-1">暖光吉他弹唱 →</a></b><br>练音频驱动：上传自有人像与一小段歌声。先核对嘴形，再检查持琴的手部。</td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="粉色舞台灯光下站在金色麦克风前微笑的歌手 — Emotional vocal；点击观看演唱视频" width="100%"></a><br><b>情绪演唱</b><br><sub>MusicMaker · 官方视频示例</sub><br><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><kbd>▶ 播放视频</kbd></a><br><b><a href="docs/brand-projects.zh-CN.md#performance-2">一句副歌的情绪近景 →</a></b><br>练表情近景：固定机位，只保留轻微点头。先把一句歌唱完整，再尝试缓慢推镜。</td>
-</tr>
-</table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="粉色舞台灯光下、金色麦克风前的歌手输入人像；点击观看品牌演唱示例" width="100%"></a></td><td width="58%" valign="top">这次从自然风景切换到<b>固定近景的人物表演</b>。目标是唱完一句自己的副歌，并让嘴形、表情与声音一致；先不加舞蹈、换装或切镜。</td></tr></table>
 
-**按难度继续：** 先用《Echoes of You》的窗光、花朵和琴盖练习细节切镜；再用《Neon Pulse》练习人物与灯光一致。准备好了人像和歌声，再尝试吉他弹唱或情绪近景：用[官方 H3 音频参考](https://hailuoai.video/zh-Intl/tools/minimax-h3)或 [MusicMaker 演唱入口](https://musicmaker.im/ai-music-video-generator/)，按[演唱教程](docs/first-video.zh-CN.md#vocal)上传素材并核对嘴形。
+[▶ 观看品牌演唱示例](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [查看案例来源](docs/brand-examples.md)
 
-前两张是歌曲封面，后两张是官网演唱示例的输入人像，点击可看对应原作。品牌演唱示例没有公布底层模型；新编练习也不保证复现原作。[素材来源与原作提示词说明](docs/brand-examples.md)。
+图为官网示例的**输入人像**，点图观看约 10 秒成片。官网没有公布该演唱示例使用的底层模型；下面的两条路线是练习选择，不是对原作模型的推断。
+
+#### 1. 准备一张人像、一句歌声
+
+选择有使用权的正面或轻微侧面人像，嘴部清楚可见，麦克风不遮嘴，先将双手放在画面外。用自己录制或有授权的歌声剪出约 10 秒完整乐句，开头和结尾各留一点呼吸空隙。尽量选主唱清晰、没有多人叠唱的一句。上面的器乐练习伴奏**不能代替歌声音频**。
+
+#### 2. 按工具放入相同素材
+
+| 选择 | 输入位置 | 先核对什么 |
+|---|---|---|
+| [模型官方：Hailuo H3](https://hailuoai.video/zh-Intl/tools/minimax-h3) | 选择 H3 → Omni Reference；在 Refs 放入人像与歌声音频，再填提示词 | 音频参考须与图片或视频配合；设置约 10 秒和匹配人像的画幅 |
+| [品牌工具：MusicMaker 演唱](https://musicmaker.im/ai-music-video-generator/) | 歌声放到 Music File，人像放到 Character Image，提示词放到 Prompt | 先裁好音频，再看预计消耗和 Public 开关，确认后 Generate |
+
+官方参考模式能结合人物与音频；品牌入口将音乐、人像和提示词放在同一流程中。两者设置不同，不能把短片页的“文字生成”当成音频驱动演唱。
+
+#### 3. 复制这一段完整提示词
+
+```text
+以我上传的人像为唯一人物参考，以我上传的歌声音频为表演时间依据。
+同一位成年歌手，保持输入人像的脸部、发型、服装和原有灯光不变。
+固定肩部以上近景，麦克风位于嘴部侧下方，不遮住嘴唇；双手不进入画面。
+跟随输入乐句自然演唱，嘴形对应歌声，轻微呼吸、眨眼和点头。
+长音时保持姿态，乐句结束后自然放松；不要说额外台词或改变歌词。
+不换装、不转身、不切镜、不添加其他人物、文字或夸张表情。
+```
+
+这是新编练习提示词，不是原作提示词，也未实测生成。提示词提出的是目标，不能保证输出保留原音轨或准确对口型。
+
+#### 4. 先修口型，再考虑运镜
+
+先听开头、句中和结尾，再看嘴唇开合是否对应元音与收音。整段只是固定提前或延后，可在剪辑软件中小幅移动画面；越到后面越错位，说明不是简单偏移，应缩短乐句或重新生成。脸部漂移时去掉点头与运镜；嘴被遮挡时更换人像，不要只往提示词里继续加限制。
+
+#### 5. 留一个声音版本，导出完整乐句
+
+把成片与原歌声放到同一时间轴。若使用原歌声，关闭生成视频的声音并重新检查同步；若使用生成声音，就移除重复音轨。先保持单镜头，在最后一秒添加自己的歌曲名。导出 MP4 后检查嘴形、脸部、音量与句尾，确保乐句唱完而非突然截断。[详细剪辑与演唱检查](docs/first-video.zh-CN.md#vocal)。
+
+**完成标准：** 同一个人唱完同一句；嘴部始终清晰；只有一条主音轨；片尾保留自然呼吸。达到这四项后，再尝试缓慢推近，同一轮只增加一种变化。
 
 ## 模型能力，回到官方资料核对
 

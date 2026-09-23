@@ -8,7 +8,7 @@
       "最初の動画",
       "次の練習"
     ],
-    "hero": "屋上の歌手、金属の造形、雨の夜行列車。オリジナルのコンセプト画像であり、動画の生成結果ではありません。",
+    "hero": "曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。",
     "x_intro": "公開プロンプトや解説のある6本。画像から作者の元投稿へ進めます。",
     "x_lessons": [
       "二人の位置を固定し、全景とアップを切り替える。",
@@ -19,46 +19,31 @@
       "静かな間を置き、強い拍で舞台の変化を見せる。"
     ],
     "x_note": "モデル名は作者の説明に基づきます。公開ミラーで本文と素材を確認しましたが、動画は再現していません。詳しい解説は英語です。",
-    "listen_intro": "6曲を2列3段で紹介。最初の4枚は映像の着想になるジャケット、残り2曲は公式ページの編曲説明も参考にできます。画像から原曲を試聴してください。",
+    "listen_intro": "9曲を3列3段で試聴。ジャケットの発想と、出典にある編曲説明を見比べてください。以下の二つの練習作品とは重複しません。",
     "cover_notes": [
       "ジャケット：ネオンの舞台",
       "ジャケット：窓辺のピアノ",
       "ジャケット：広い道路",
       "ジャケット：夏の海岸",
       "公式説明：6/8拍子、ギター、ピアノ、チェロ",
-      "公式説明：アコースティックギター、低音弦楽器、弦楽合奏、男性歌唱"
+      "公式説明：アコースティックギター、低音弦楽器、弦楽合奏、男性歌唱",
+      "ジャケット：手紙とコーヒー",
+      "ジャケット：都会の屋上",
+      "ジャケット：明るい街角"
     ],
     "play": "試聴する",
-    "first_intro": "The Open Road のジャケットを参考に、出発から到着までの16秒動画を作ります。以下はロード動画の練習です。Summer High を選ぶ場合は、画像下の海岸プランへ進んでください。",
+    "first_intro": "Living on the Brightside の虹、渓流、野花を参考に、16秒の自然映像を作ります。これは曲のジャケットであり、動画の一場面ではありません。",
     "steps": [
-      "自分の曲から16秒のまとまりを選ぶか、オリジナル練習音源を使います。GitHubでは Download raw file で保存できます。試聴できても原曲の再利用権があるとは限りません。",
-      "文字だけなら下のプロンプトを使います。画像を使う場合、公式H3は開始画像や画像参照に対応。MusicMakerでは各カットの開始画像と終了画像が必要です。",
-      "公式Hailuo H3かMusicMakerを選び、9:16で1カットずつ生成。H3は5秒を選択、MusicMakerの短編動画ページは現在5秒・480pです。最初の結果を確認してから続けます。",
-      "4本を各4秒に切り、0・4・8・12秒に並べます。動画の音を消し、音楽だけを残します。自分の曲に替えたら切り替え位置も調整します。",
-      "最後に編集ソフトでタイトルを追加し、MP4を書き出します。黒いフレーム、音の重複、不自然な終わりがないか、完成ファイルを再生して確認します。"
+      "自作または利用許諾のある曲から16秒を選びます。練習音源は Download raw file で保存。編集ソフトで0・4・8・12・16秒に印を付け、別の曲なら拍に合わせ直します。",
+      "公式HailuoではH3のテキスト動画を選択。MusicMaker短編ツールもテキストから始められます。9:16、各5秒。ブランド側は現在480pでH3使用を明記しています。",
+      "Aの野花を先に確認し、Bの渓流、Cの虹の全景、Dの締めの遠景へ進みます。下の英語プロンプトを一つずつ使用。MusicMakerで画像を使う場合は自分の許諾済み開始画像・終了画像を用意します。",
+      "各動画の安定した4秒を順に配置し、元の動画音声を消して曲を一つだけ残します。最後の2秒にタイトルを加え、音楽の終わりを短くフェードします。",
+      "9:16のMP4を書き出し、黒いコマ、川の流れ、虹や地形の変形を確認。480pを拡大しても細部は増えません。変形するなら動きを減らし、同じ許諾済み場面画像で再生成します。"
     ],
-    "shots": [
-      "停車中の地図とサングラス",
-      "車内から見る田園の道路",
-      "横窓を流れる金色の畑",
-      "到着地の遠景とタイトル"
-    ],
-    "prompt_intro": "4カットのプロンプトを開く。一度に一つずつ使います。",
-    "prompts": [
-      "A：金色の畑のそばに停車した車。暖かな昼光。ダッシュボードの地図とサングラスを固定カメラで接写。車内は静止。人物や文字なし。",
-      "B：車の前席から金色の畑を通る一本道を見る。青空、暖かな昼光。地図とサングラスは動かない。車内の固定カメラ、ゆっくり前進。道路の分岐、人物、文字なし。",
-      "C：同じ金色の畑を車の横窓から見る。青空と暖かな昼光。固定カメラで畑がゆっくり後方へ流れる。水平線を保つ。人物、建物、文字なし。",
-      "D：金色の畑の端にある開けた展望場所。青空と暖かな昼光。固定の遠景、草だけが風で揺れる。下部にタイトル用の余白。車、人物、文字なし。"
-    ],
-    "limits": "新しく書いた未検証の練習プロンプトで、原作の制作記録ではありません。MusicMakerは短編動画ページでH3の使用を明記していますが、両サービスの設定や利用枠は異なります。",
-    "next_intro": "ロード動画の練習を終えたら、一度に一つの技術を増やしましょう。各画像から原作、プランから英語の詳しい手順へ進めます。",
-    "next_lessons": [
-      "窓光、花、ピアノのふたをつなぎ、細部への切り替えを練習。",
-      "同じ人物参照を使い、顔、マイク、光の輪の一貫性を確認。",
-      "自分の人物画像と短い歌声を入力。口の動きから手元の順に確認。",
-      "固定のアップで一つの歌のフレーズを表現。動きは小さく。"
-    ],
-    "vocal": "歌唱には、公式H3の音声参照かMusicMakerの音楽・人物画像入力を使用します。MusicMakerの公開歌唱例はモデル名を明かしていません。歌声、口の動き、手指を確認し、音を二重に重ねないでください。",
+    "prompt_intro": "コピー用の英語プロンプト（新規作成・生成未検証）",
+    "limits": "光と地形をそろえ、映像と音楽を同時に終えます。公開曲を試聴できても再利用権があるとは限りません。",
+    "next_intro": "次は約10秒の歌唱アップ。画像はMusicMaker公開例の入力用人物画像です。クリックで動画が開きます。公開例のモデルは非公開で、下記は再現手順ではなく新しい練習です。",
+    "vocal": "同じ人物、見える口、一つの音声、自然な句末を確認。指示だけで音声保持や口の同期は保証されません。",
     "models": [
       "音と映像を一緒に計画。使える参照入力はツールによって異なります。",
       "画像、映像、音声を役割別に参照する公式例があります。",
@@ -81,7 +66,15 @@
     "performance_titles": {
       "performance-1": "ギター演奏",
       "performance-2": "表情で伝える歌唱"
-    }
+    },
+    "vocal_steps": [
+      "口を遮らない正面寄りの許諾済み人物写真と、自分の歌声または許諾済み歌声を用意。約10秒の一節を前後に呼吸の余白を残して切り出します。器楽の練習音源は歌声の代わりになりません。",
+      "公式H3ではOmni ReferenceのRefsに人物画像と歌声を一緒に追加し、約10秒と画像に合う比率を選びます。音声参照には画像または動画の併用が必要です。",
+      "MusicMakerではMusic Fileに歌声、Character Imageに人物写真、Promptに下の指示を入力。音声範囲、予想消費、Publicの公開設定を確認してGenerateを押します。",
+      "最初は固定アップのみ。冒頭・中間・末尾の口と声を確認。一定のずれなら編集で調整し、ずれが広がるなら短い一節で再生成。顔が変わる場合はうなずきも減らします。",
+      "原音を使うなら生成音を消し、生成音を使うなら重複音声を削除。最後に曲名を加えてMP4を書き出し、一節と呼吸が切れずに終わるか確認してから、次回だけ緩い寄りを試します。"
+    ],
+    "watch_demo": "ブランドの動画を見る"
   },
   "ko": {
     "title": "뮤직비디오 제작 가이드",
@@ -92,7 +85,7 @@
       "첫 영상 만들기",
       "다음 연습"
     ],
-    "hero": "옥상 가수, 금속 조형물, 비 내리는 야간 열차. 직접 만든 콘셉트 이미지이며 영상 생성 결과는 아닙니다.",
+    "hero": "음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.",
     "x_intro": "공개 프롬프트나 제작 설명이 있는 영상 6개입니다. 이미지를 누르면 제작자의 원문 게시물로 이동합니다.",
     "x_lessons": [
       "두 사람의 위치를 고정하고 전체 화면과 클로즈업을 번갈아 사용합니다.",
@@ -103,46 +96,31 @@
       "잠깐의 정적 뒤 강한 박자에 맞춰 무대의 변화를 보여 줍니다."
     ],
     "x_note": "모델 이름은 제작자의 설명입니다. 공개 미러에서 글과 미디어를 확인했지만 영상을 재현하지는 않았습니다. 자세한 사례 해설은 영어입니다.",
-    "listen_intro": "6곡을 2열 3행으로 배치했습니다. 앞의 네 표지는 영상 아이디어를, 뒤의 두 곡은 원문에 공개된 편곡 설명을 제공합니다. 표지를 눌러 원곡을 들어 보세요.",
+    "listen_intro": "아홉 곡을 3열 3행으로 소개합니다. 커버의 시각적 아이디어와 출처의 편곡 설명을 살펴보세요. 아래 두 튜토리얼 사례와 겹치지 않습니다.",
     "cover_notes": [
       "표지 아이디어: 네온 무대",
       "표지 아이디어: 창가 피아노",
       "표지 아이디어: 넓은 도로",
       "표지 아이디어: 여름 해안",
       "공식 설명: 6/8박자, 기타, 피아노, 첼로",
-      "공식 설명: 어쿠스틱 기타, 베이스, 현악기, 남성 보컬"
+      "공식 설명: 어쿠스틱 기타, 베이스, 현악기, 남성 보컬",
+      "커버: 편지와 커피",
+      "커버: 도시 옥상",
+      "커버: 햇살 가득한 거리"
     ],
     "play": "곡 듣기",
-    "first_intro": "The Open Road 표지에서 출발해 16초짜리 여행 영상을 만듭니다. 아래 단계는 도로 장면용입니다. Summer High를 선택했다면 해당 카드의 해안 기획안을 여세요.",
+    "first_intro": "Living on the Brightside의 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다. 이미지는 노래 커버이며 영상 프레임이 아닙니다.",
     "steps": [
-      "자신의 곡에서 완결된 16초 구간을 고르거나 제공된 오리지널 연습 음원을 사용하세요. GitHub의 Download raw file로 저장합니다. 미리 듣기가 녹음 재사용 허락을 뜻하지는 않습니다.",
-      "텍스트로 시작하면 아래 프롬프트만 입력합니다. 이미지 방식에서는 공식 H3의 첫 프레임 또는 이미지 참조를 쓰고, MusicMaker에서는 각 장면의 시작 이미지와 종료 이미지를 준비합니다.",
-      "공식 Hailuo H3 또는 MusicMaker를 선택하고 9:16으로 한 장면씩 생성합니다. H3는 5초를 선택하며 MusicMaker 짧은 영상 페이지는 현재 5초·480p를 안내합니다. 첫 결과를 확인한 뒤 나머지를 만드세요.",
-      "네 영상을 각각 4초로 잘라 0·4·8·12초에 배치합니다. 영상 자체의 소리를 끄고 음악만 남깁니다. 곡을 바꾸면 전환 시점도 다시 맞추세요.",
-      "편집기에서 마지막 장면에 제목을 넣고 MP4로 내보냅니다. 완성 파일을 재생하며 검은 프레임, 겹치는 소리, 갑작스러운 끝을 확인하세요."
+      "직접 만든 곡이나 허가받은 곡에서 16초를 고릅니다. 연습 음원은 Download raw file로 저장합니다. 편집기에 0·4·8·12·16초를 표시하고 다른 곡을 쓰면 박자에 맞춰 조정합니다.",
+      "공식 Hailuo에서 H3 텍스트 영상 모드를 선택하거나 MusicMaker 짧은 영상 도구를 사용합니다. 9:16, 각 5초로 만들며 브랜드 페이지는 현재 480p와 H3 사용을 명시합니다.",
+      "먼저 A의 들꽃을 확인하고 B 개울, C 무지개 전경, D 마무리 전경을 만듭니다. 영어 프롬프트를 하나씩 복사하세요. MusicMaker 이미지 경로는 사용 권한이 있는 시작·끝 이미지가 필요합니다.",
+      "각 영상에서 안정적인 4초를 골라 이어 붙입니다. 생성 영상 소리를 끄고 음악 한 트랙만 남깁니다. 마지막 2초에 제목을 넣고 음악 끝을 짧게 페이드합니다.",
+      "9:16 MP4를 내보내 검은 프레임, 물 흐름, 무지개와 지형 변형을 확인합니다. 480p 확대는 디테일을 늘리지 않습니다. 변형되면 움직임을 줄이고 동일한 허가된 장면 이미지를 참조해 다시 만듭니다."
     ],
-    "shots": [
-      "주차된 차 안의 지도와 선글라스",
-      "차 안에서 바라본 들판 사이 도로",
-      "옆 창문을 지나가는 황금빛 들판",
-      "도착지 원경과 제목"
-    ],
-    "prompt_intro": "네 장면의 프롬프트 펼치기. 한 번에 하나씩 사용하세요.",
-    "prompts": [
-      "A: 황금빛 들판 옆에 주차된 차. 따뜻한 낮빛. 대시보드의 지도와 선글라스를 고정 카메라로 가까이 촬영. 차 안과 지도는 정지. 인물과 글자 없음.",
-      "B: 차 앞좌석에서 황금빛 들판 사이 도로를 바라본다. 맑은 하늘과 따뜻한 낮빛. 지도와 선글라스는 움직이지 않는다. 차 안의 고정 카메라, 천천히 전진. 갈라지는 도로, 인물, 글자 없음.",
-      "C: 차 옆 창문으로 같은 황금빛 들판을 본다. 맑은 하늘과 따뜻한 낮빛. 고정 카메라, 들판이 천천히 뒤로 흐른다. 수평선을 유지. 인물, 건물, 글자 없음.",
-      "D: 황금빛 들판 끝의 탁 트인 전망 장소. 맑은 하늘과 따뜻한 낮빛. 고정 원경, 풀잎만 살짝 움직인다. 아래쪽에 나중에 제목을 넣을 공간. 차, 인물, 글자 없음."
-    ],
-    "limits": "새로 작성한 연습 프롬프트이며 실제 생성 검증이나 원작 복원 기록이 아닙니다. MusicMaker 짧은 영상 페이지는 H3 사용을 명시하지만 두 도구의 설정과 이용 한도는 다릅니다.",
-    "next_intro": "도로 영상을 완성한 뒤 기술을 하나씩 추가하세요. 이미지는 원작으로, 기획안 링크는 영어 상세 단계로 연결됩니다.",
-    "next_lessons": [
-      "창가, 꽃, 피아노 뚜껑을 연결하며 세부 장면 전환을 연습합니다.",
-      "동일 인물 참조로 얼굴, 마이크, 네온 고리가 유지되는지 확인합니다.",
-      "자신의 인물 이미지와 짧은 노래를 입력하고 입 모양부터 손까지 확인합니다.",
-      "고정 클로즈업으로 한 소절을 표현하고 움직임은 작게 유지합니다."
-    ],
-    "vocal": "노래 장면에는 공식 H3 음성 참조 또는 MusicMaker 음악·인물 이미지 입력을 사용합니다. 공개된 MusicMaker 노래 예시의 모델은 알려져 있지 않습니다. 음성, 입 모양, 손가락을 확인하고 소리가 겹치지 않게 편집하세요.",
+    "prompt_intro": "복사할 영어 프롬프트 · 새로 작성했으며 생성 미검증",
+    "limits": "빛과 지형을 유지하고 음악과 영상을 함께 끝냅니다. 공개 음원 감상이 재사용 허가를 뜻하지는 않습니다.",
+    "next_intro": "이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다. 원작 모델은 공개되지 않았고 아래는 새 연습입니다.",
+    "vocal": "같은 인물, 보이는 입, 하나의 음성, 자연스러운 끝을 확인합니다. 프롬프트만으로 원음 유지나 입 모양 일치를 보장할 수 없습니다.",
     "models": [
       "소리와 화면을 함께 계획합니다. 참조 입력은 도구마다 다릅니다.",
       "이미지·영상·음성을 역할별로 참조하는 공식 사례가 있습니다.",
@@ -165,7 +143,15 @@
     "performance_titles": {
       "performance-1": "기타 연주",
       "performance-2": "감정을 담은 노래"
-    }
+    },
+    "vocal_steps": [
+      "입이 가려지지 않는 정면에 가까운 허가된 인물 사진과 직접 녹음하거나 허가받은 노래를 준비합니다. 약 10초의 한 구절에 앞뒤 숨 쉴 여백을 남기세요. 연습용 반주는 보컬 입력을 대신하지 못합니다.",
+      "공식 H3 Omni Reference의 Refs에 인물과 노래를 함께 넣고 약 10초와 사진에 맞는 비율을 선택합니다. 오디오 참조는 이미지나 영상과 함께 사용해야 합니다.",
+      "MusicMaker의 Music File에는 노래, Character Image에는 인물, Prompt에는 아래 지시문을 넣습니다. 오디오 구간, 예상 사용량, Public 설정을 확인하고 Generate를 누릅니다.",
+      "고정 클로즈업부터 시작합니다. 시작·중간·끝의 입과 소리를 비교하세요. 일정한 지연은 편집으로 맞추고 점점 어긋나면 더 짧은 구절로 재생성합니다. 얼굴이 바뀌면 고개 움직임도 줄입니다.",
+      "원음을 쓰면 생성 소리를 끄고 생성 소리를 쓰면 중복 트랙을 지웁니다. 끝에 곡명을 넣고 MP4를 내보내 구절과 호흡이 잘리지 않는지 확인한 뒤 다음 시도에서만 천천히 다가가는 카메라를 추가합니다."
+    ],
+    "watch_demo": "브랜드 영상 보기"
   },
   "id": {
     "title": "Panduan Membuat Video Musik",
@@ -176,7 +162,7 @@
       "Video pertama",
       "Latihan berikutnya"
     ],
-    "hero": "Penyanyi di atap, bentuk logam, dan kereta malam hujan. Ini gambar konsep orisinal, bukan hasil video yang telah dibuat.",
+    "hero": "Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.",
     "x_intro": "Enam video dengan prompt atau penjelasan publik. Klik gambar untuk membuka unggahan asli kreatornya.",
     "x_lessons": [
       "Tetapkan posisi kedua penampil, lalu bergantian antara gambar lebar dan dekat.",
@@ -187,46 +173,31 @@
       "Sisakan jeda singkat, lalu tampilkan perubahan panggung pada ketukan kuat."
     ],
     "x_note": "Nama model mengikuti keterangan kreator. Teks dan media diperiksa melalui cermin publik X; videonya tidak kami reproduksi. Ulasan rinci tersedia dalam bahasa Inggris.",
-    "listen_intro": "Enam lagu dalam dua kolom dan tiga baris. Empat sampul pertama memberi ide visual; dua lagu terakhir juga memiliki deskripsi aransemen dari sumber. Klik sampul untuk mendengarkan.",
+    "listen_intro": "Sembilan lagu dalam tiga kolom dan tiga baris. Bandingkan ide sampul dan keterangan aransemen dari sumber. Dua tutorial di bawah memakai contoh berbeda.",
     "cover_notes": [
       "Ide sampul: panggung neon",
       "Ide sampul: piano di jendela",
       "Ide sampul: jalan terbuka",
       "Ide sampul: pesisir musim panas",
       "Deskripsi sumber: birama 6/8, gitar, piano, selo",
-      "Deskripsi sumber: gitar akustik, bas, alat gesek, vokal pria"
+      "Deskripsi sumber: gitar akustik, bas, alat gesek, vokal pria",
+      "Sampul: surat dan kopi",
+      "Sampul: atap kota",
+      "Sampul: jalan cerah"
     ],
     "play": "Dengarkan",
-    "first_intro": "Gunakan sampul The Open Road sebagai inspirasi video perjalanan 16 detik. Langkah di bawah khusus untuk jalan raya. Untuk Summer High, buka rencana pesisir pada kartunya.",
+    "first_intro": "Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.",
     "steps": [
-      "Pilih bagian utuh 16 detik dari lagu milik Anda, atau gunakan musik latihan orisinal. Di GitHub, pilih Download raw file. Bisa mendengarkan bukan berarti boleh memakai ulang rekamannya.",
-      "Untuk teks saja, tempel prompt di bawah. Untuk panduan gambar, H3 resmi menyediakan bingkai awal atau referensi gambar; MusicMaker memerlukan gambar awal dan akhir untuk setiap klip.",
-      "Pilih Hailuo H3 resmi atau MusicMaker, dengan rasio 9:16. Di H3 pilih 5 detik; halaman klip MusicMaker saat ini menyebut 5 detik dan 480p. Periksa satu hasil sebelum membuat sisanya.",
-      "Potong empat klip menjadi masing-masing 4 detik, lalu letakkan pada detik 0, 4, 8, dan 12. Matikan suara klip dan sisakan lagu. Sesuaikan titik potong jika mengganti musik.",
-      "Tambahkan judul di editor pada klip terakhir, ekspor MP4, lalu putar berkasnya. Periksa bingkai hitam, suara ganda, dan akhir yang terpotong tiba-tiba."
+      "Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.",
+      "Di Hailuo resmi pilih H3 dan teks ke video, atau gunakan alat klip pendek MusicMaker. Pilih 9:16 dan lima detik per klip. MusicMaker saat ini mencantumkan 480p dan penggunaan H3.",
+      "Periksa A, bunga, dahulu; lalu buat B, sungai, C, pelangi, dan D, penutup. Salin prompt Inggris satu per satu. Jalur gambar MusicMaker memerlukan gambar awal dan akhir milik sendiri atau berizin.",
+      "Ambil empat detik stabil dari tiap klip dan gunakan potongan langsung. Bisukan suara hasil generasi, sisakan satu musik. Tambahkan judul pada dua detik terakhir dan turunkan volume perlahan di akhir.",
+      "Ekspor MP4 9:16. Periksa bingkai hitam, arah air, dan bentuk yang berubah. Memperbesar 480p tidak menambah detail. Kurangi gerakan atau gunakan gambar referensi berizin yang sama bila bentang alam berubah terlalu banyak."
     ],
-    "shots": [
-      "Peta dan kacamata saat mobil parkir",
-      "Jalan di antara ladang dari dalam mobil",
-      "Ladang keemasan melewati jendela samping",
-      "Pemandangan tujuan dengan judul"
-    ],
-    "prompt_intro": "Buka empat prompt klip. Gunakan satu per proses.",
-    "prompts": [
-      "A: Mobil parkir di tepi ladang keemasan, cahaya siang hangat. Kamera diam menyorot dekat peta terlipat dan kacamata di dasbor. Interior dan peta tidak bergerak. Tanpa orang atau tulisan.",
-      "B: Pandangan dari kursi depan ke jalan di antara ladang keemasan. Langit biru, cahaya hangat. Peta dan kacamata tetap di dasbor. Kamera diam di interior, mobil maju perlahan. Tanpa percabangan jalan, orang, atau tulisan.",
-      "C: Pandangan dari jendela samping ke ladang keemasan yang sama. Langit biru dan cahaya hangat. Kamera diam, ladang bergerak perlahan ke belakang, cakrawala rata. Tanpa bangunan, orang, atau tulisan.",
-      "D: Tempat pandang terbuka di ujung ladang keemasan. Langit biru dan cahaya hangat. Gambar lebar diam, rumput bergerak pelan. Sisakan ruang bawah untuk judul nanti. Tanpa mobil, orang, atau tulisan."
-    ],
-    "limits": "Prompt latihan ini baru ditulis dan belum diuji melalui generasi. Ini bukan rekaman proses pembuatan karya asli. MusicMaker menyebut H3 pada halaman klipnya, tetapi pengaturan dan kuota kedua alat berbeda.",
-    "next_intro": "Setelah latihan jalan selesai, tambah satu keterampilan saja. Gambar menuju sumber asli; tautan rencana menuju langkah lengkap berbahasa Inggris.",
-    "next_lessons": [
-      "Hubungkan cahaya jendela, bunga, dan tutup piano untuk berlatih potongan detail.",
-      "Gunakan referensi tokoh yang sama; periksa wajah, mikrofon, dan lingkar neon.",
-      "Masukkan potret dan cuplikan vokal milik Anda. Periksa mulut, lalu tangan pada gitar.",
-      "Gunakan gambar dekat dengan kamera diam untuk satu frasa lagu dan gerakan kecil."
-    ],
-    "vocal": "Untuk bernyanyi, pilih referensi audio H3 resmi atau input musik dan potret MusicMaker. Model di balik demo vokal MusicMaker tidak disebutkan. Periksa suara, gerak mulut, dan jari; jangan menumpuk audio yang sama.",
+    "prompt_intro": "Prompt bahasa Inggris untuk disalin · baru, belum diuji melalui generasi",
+    "limits": "Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang bisa didengar publik belum tentu boleh digunakan ulang.",
+    "next_intro": "Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton. Model demo tidak diumumkan, dan latihan berikut ditulis baru.",
+    "vocal": "Orang tetap sama, bibir terlihat, satu trek suara, akhir alami. Prompt tidak menjamin audio asli terjaga atau gerak bibir tepat.",
     "models": [
       "Rencanakan suara dan gambar bersama. Jenis referensi bergantung pada alat.",
       "Contoh resmi membagi peran antara gambar, video, dan audio.",
@@ -249,7 +220,15 @@
     "performance_titles": {
       "performance-1": "Penampilan gitar",
       "performance-2": "Vokal penuh perasaan"
-    }
+    },
+    "vocal_steps": [
+      "Siapkan potret berizin hampir menghadap depan, bibir terlihat, serta nyanyian sendiri atau berizin. Potong satu frasa sekitar sepuluh detik dengan sedikit ruang bernapas di awal dan akhir. Musik instrumental latihan bukan pengganti vokal.",
+      "Di H3 Omni Reference masukkan potret dan vokal ke Refs. Pilih sekitar sepuluh detik dan rasio yang sesuai. Referensi audio harus disertai gambar atau video.",
+      "Di MusicMaker masukkan vokal ke Music File, potret ke Character Image, dan instruksi berikut ke Prompt. Periksa potongan, perkiraan penggunaan, serta Public sebelum Generate.",
+      "Mulai dengan kamera diam. Bandingkan mulut dan suara di awal, tengah, serta akhir. Selisih tetap bisa digeser saat mengedit; selisih yang makin besar perlu frasa lebih pendek atau generasi ulang. Kurangi anggukan bila wajah berubah.",
+      "Gunakan vokal asli atau suara hasil generasi, lalu hapus trek ganda. Tambahkan judul dan ekspor MP4. Pastikan frasa serta napas berakhir utuh sebelum mencoba gerakan kamera mendekat perlahan."
+    ],
+    "watch_demo": "Tonton demo MusicMaker"
   },
   "it": {
     "title": "Guida alla creazione di video musicali",
@@ -260,7 +239,7 @@
       "Primo video",
       "Prossimo esercizio"
     ],
-    "hero": "Un cantante sul tetto, forme metalliche e un treno notturno sotto la pioggia: immagini concettuali originali, non risultati video.",
+    "hero": "Scegli la musica → prepara inquadrature e prompt → genera le clip → monta ed esporta. Illustrazione originale del percorso, dal canto ai viaggi e alle forme astratte, non prova di video generati.",
     "x_intro": "Sei video con prompt o spiegazioni pubbliche. Ogni immagine apre il post originale del creatore.",
     "x_lessons": [
       "Mantieni le posizioni dei due interpreti e alterna campi larghi e primi piani.",
@@ -271,46 +250,31 @@
       "Lascia una breve pausa, poi rivela il cambiamento sul tempo forte."
     ],
     "x_note": "I nomi dei modelli sono dichiarati dagli autori. Testi e media sono stati verificati tramite un mirror pubblico di X, senza riprodurre i video. Le analisi dettagliate sono in inglese.",
-    "listen_intro": "Sei brani in due colonne e tre righe. Le prime quattro copertine suggeriscono direzioni visive; gli ultimi due brani aggiungono descrizioni dell’arrangiamento pubblicate dalla fonte. Clicca per ascoltare.",
+    "listen_intro": "Nove brani in tre colonne e tre righe. Confronta copertine e arrangiamenti descritti dalla fonte. I due tutorial usano casi diversi.",
     "cover_notes": [
       "Copertina: palco al neon",
       "Copertina: pianoforte alla finestra",
       "Copertina: strada aperta",
       "Copertina: costa estiva",
       "Fonte: tempo in 6/8, chitarra, piano e violoncello",
-      "Fonte: chitarra acustica, contrabbasso, archi e voce maschile"
+      "Fonte: chitarra acustica, contrabbasso, archi e voce maschile",
+      "Copertina: lettere e caffè",
+      "Copertina: tetto in città",
+      "Copertina: strada al sole"
     ],
     "play": "Ascolta il brano",
-    "first_intro": "Parti dalla copertina di The Open Road per un viaggio di 16 secondi. I passaggi sotto riguardano la strada. Per Summer High, apri il progetto costiero nella sua scheda.",
+    "first_intro": "La copertina di Living on the Brightside ispira 16 secondi di natura con arcobaleno, ruscello e fiori. È una copertina musicale, non un fotogramma.",
     "steps": [
-      "Scegli una frase completa di 16 secondi da un tuo brano oppure usa la base originale di esercitazione. Su GitHub scegli Download raw file. L’ascolto pubblico non concede il diritto di riutilizzare la registrazione.",
-      "Per il solo testo, copia i prompt sotto. Con immagini, H3 ufficiale offre fotogramma iniziale o riferimenti; MusicMaker richiede un’immagine iniziale e una finale per ciascuna inquadratura.",
-      "Scegli Hailuo H3 ufficiale o MusicMaker e il formato 9:16. In H3 seleziona 5 secondi; la pagina breve di MusicMaker indica attualmente 5 secondi e 480p. Controlla il primo risultato prima di continuare.",
-      "Taglia quattro clip a 4 secondi ciascuna e posizionale a 0, 4, 8 e 12 secondi. Disattiva il loro audio e mantieni la musica scelta. Con un altro brano, adatta i punti di taglio.",
-      "Aggiungi il titolo nell’editor, esporta in MP4 e riproduci il file. Cerca fotogrammi neri, audio doppio e finali interrotti bruscamente."
+      "Scegli 16 secondi di musica tua o autorizzata. Scarica la base con Download raw file. Segna 0, 4, 8, 12 e 16 secondi nell’editor; adatta i tagli alle frasi di un altro brano.",
+      "In Hailuo ufficiale seleziona H3 e testo-video, oppure usa lo strumento per clip brevi MusicMaker. Scegli 9:16 e cinque secondi per clip. MusicMaker dichiara attualmente 480p e H3.",
+      "Controlla prima A, i fiori, poi genera B, il ruscello, C, l’arcobaleno e D, la chiusura. Copia separatamente i prompt inglesi. Il percorso con immagini di MusicMaker richiede fotogrammi iniziali e finali tuoi o autorizzati.",
+      "Tieni quattro secondi stabili per clip e usa stacchi netti. Disattiva il suono generato, lasciando una sola musica. Aggiungi il titolo negli ultimi due secondi e una breve dissolvenza audio finale.",
+      "Esporta MP4 in 9:16. Controlla fotogrammi neri, corrente e deformazioni. Ingrandire 480p non crea dettagli. Riduci il movimento o usa la stessa immagine autorizzata se il paesaggio cambia troppo."
     ],
-    "shots": [
-      "Mappa e occhiali nell’auto parcheggiata",
-      "Strada tra i campi vista dall’abitacolo",
-      "Campi dorati dal finestrino laterale",
-      "Panorama della destinazione e titolo"
-    ],
-    "prompt_intro": "Apri i quattro prompt. Genera un’inquadratura alla volta.",
-    "prompts": [
-      "A: Auto parcheggiata accanto a campi dorati, luce diurna calda. Primo piano fisso di una mappa piegata e occhiali sul cruscotto. Abitacolo e oggetti immobili. Nessuna persona o scritta.",
-      "B: Dal sedile anteriore, una strada attraversa campi dorati. Cielo azzurro, luce calda, mappa e occhiali fermi sul cruscotto. Camera fissa, avanzamento lento. Nessuna biforcazione, persona o scritta.",
-      "C: Dal finestrino laterale, gli stessi campi dorati scorrono lentamente indietro. Cielo azzurro e luce calda. Camera fissa, orizzonte stabile. Nessun edificio, persona o scritta.",
-      "D: Punto panoramico aperto al limite dei campi dorati. Cielo azzurro, luce calda, campo largo fisso, erba mossa dal vento. Spazio in basso per un titolo da aggiungere dopo. Niente auto, persone o scritte."
-    ],
-    "limits": "Sono nuovi prompt di esercitazione, non testati tramite generazione e non ricostruzioni del processo originale. MusicMaker indica H3 sulla pagina dei video brevi; impostazioni e quote differiscono tra i servizi.",
-    "next_intro": "Finito il viaggio, aggiungi una sola tecnica alla volta. Le immagini aprono le opere originali; i progetti portano alle istruzioni dettagliate in inglese.",
-    "next_lessons": [
-      "Collega finestra, fiori e coperchio del piano per esercitare i tagli sui dettagli.",
-      "Riutilizza il riferimento del personaggio e controlla volto, microfono e anello luminoso.",
-      "Carica un tuo ritratto e una breve frase cantata; verifica prima la bocca, poi le mani.",
-      "Esprimi una frase con un primo piano fisso e movimenti piccoli."
-    ],
-    "vocal": "Per il canto usa i riferimenti audio di H3 ufficiale oppure musica e ritratto in MusicMaker. Il modello delle demo vocali MusicMaker non è dichiarato. Controlla audio, bocca e dita, evitando di sovrapporre due tracce uguali.",
+    "prompt_intro": "Prompt inglesi da copiare · nuovi e non verificati con generazione",
+    "limits": "Mantieni luce e paesaggio coerenti, con musica e video che finiscono insieme. L’ascolto pubblico non concede automaticamente diritti di riuso.",
+    "next_intro": "Passa a circa dieci secondi di canto in primo piano. L’immagine è il ritratto di ingresso della demo MusicMaker; clicca per il video. Il modello non è dichiarato e questo è un nuovo esercizio.",
+    "vocal": "Stessa persona, labbra visibili, una traccia e chiusura naturale. Il prompt non garantisce audio originale o sincronizzazione perfetta.",
     "models": [
       "Pianifica insieme suono e immagini; gli ingressi disponibili dipendono dallo strumento.",
       "Gli esempi ufficiali assegnano ruoli distinti a immagini, video e audio.",
@@ -333,7 +297,15 @@
     "performance_titles": {
       "performance-1": "Esibizione con chitarra",
       "performance-2": "Canto espressivo"
-    }
+    },
+    "vocal_steps": [
+      "Prepara un ritratto autorizzato quasi frontale con labbra visibili e una frase cantata tua o autorizzata. Taglia circa dieci secondi, lasciando respiro prima e dopo. La base strumentale non sostituisce una voce.",
+      "In H3 Omni Reference inserisci ritratto e canto in Refs. Scegli circa dieci secondi e il formato adatto. Il riferimento audio va abbinato a un’immagine o a un video.",
+      "In MusicMaker inserisci il canto in Music File, il ritratto in Character Image e il testo seguente in Prompt. Controlla ritaglio audio, consumo stimato e Public prima di Generate.",
+      "Parti con camera fissa. Confronta bocca e voce all’inizio, a metà e alla fine. Un ritardo costante si può correggere nel montaggio; se cresce, accorcia la frase e rigenera. Riduci i cenni se il viso cambia.",
+      "Usa la voce originale oppure quella generata, eliminando i doppioni. Aggiungi il titolo ed esporta MP4. Controlla che frase e respiro finiscano interi, poi prova un lento avvicinamento nella versione successiva."
+    ],
+    "watch_demo": "Guarda la demo MusicMaker"
   },
   "es": {
     "title": "Guía para crear vídeos musicales",
@@ -344,7 +316,7 @@
       "Primer vídeo",
       "Siguiente práctica"
     ],
-    "hero": "Un cantante en una azotea, formas metálicas y un tren nocturno bajo la lluvia. Son imágenes conceptuales originales, no resultados de vídeo.",
+    "hero": "Elegir música → preparar planos y prompts → generar clips → editar y exportar. Ilustración original del proceso con canto, viajes y formas abstractas; no demuestra resultados de vídeo generados.",
     "x_intro": "Seis vídeos con prompts o explicaciones públicas. Cada imagen abre la publicación original de su creador.",
     "x_lessons": [
       "Fija la posición de ambos intérpretes y alterna planos generales y primeros planos.",
@@ -355,46 +327,31 @@
       "Deja una breve pausa y revela el cambio de escenario en un golpe fuerte."
     ],
     "x_note": "Los modelos son los que declaran los autores. Se comprobaron textos y medios mediante un espejo público de X; no se reprodujeron los vídeos. El análisis detallado está en inglés.",
-    "listen_intro": "Seis canciones en dos columnas y tres filas. Las primeras cuatro portadas sugieren ideas visuales; las últimas dos añaden descripciones del arreglo publicadas en la fuente. Pulsa una imagen para escuchar.",
+    "listen_intro": "Nueve canciones en tres columnas y tres filas. Compara ideas de portada y arreglos descritos en la fuente. Los dos tutoriales usan casos diferentes.",
     "cover_notes": [
       "Portada: escenario de neón",
       "Portada: piano junto a la ventana",
       "Portada: carretera abierta",
       "Portada: costa de verano",
       "Fuente: compás de 6/8, guitarra, piano y violonchelo",
-      "Fuente: guitarra acústica, contrabajo, cuerdas y voz masculina"
+      "Fuente: guitarra acústica, contrabajo, cuerdas y voz masculina",
+      "Portada: cartas y café",
+      "Portada: azotea urbana",
+      "Portada: calle soleada"
     ],
     "play": "Escuchar canción",
-    "first_intro": "Parte de la portada de The Open Road para crear un viaje de 16 segundos. Los pasos siguientes son para la carretera. Si eliges Summer High, abre la propuesta costera de su tarjeta.",
+    "first_intro": "La portada de Living on the Brightside inspira un vídeo natural de 16 segundos con arcoíris, arroyo y flores. Es una portada musical, no un fotograma.",
     "steps": [
-      "Elige una frase completa de 16 segundos de tu canción o usa la base original de práctica. En GitHub pulsa Download raw file. Poder escuchar no implica permiso para reutilizar la grabación.",
-      "Para texto, copia los prompts de abajo. Con imágenes, H3 oficial ofrece fotograma inicial o referencias; MusicMaker necesita una imagen inicial y otra final por plano.",
-      "Elige Hailuo H3 oficial o MusicMaker y formato 9:16. En H3 selecciona 5 segundos; la página de clips de MusicMaker indica actualmente 5 segundos y 480p. Revisa el primer resultado antes de continuar.",
-      "Recorta cuatro clips a 4 segundos cada uno y colócalos en 0, 4, 8 y 12 segundos. Silencia su audio y conserva la música elegida. Ajusta los cortes al cambiar de canción.",
-      "Añade el título en el editor, exporta MP4 y reproduce el archivo. Revisa fotogramas negros, audio duplicado y finales abruptos."
+      "Elige 16 segundos de música propia o autorizada. Descarga la pista de práctica con Download raw file. Marca 0, 4, 8, 12 y 16 segundos en el editor; adapta los cortes al ritmo y las frases de otra canción.",
+      "En Hailuo oficial elige H3 y texto a vídeo, o usa clips cortos de MusicMaker. Selecciona 9:16 y cinco segundos por plano. MusicMaker indica actualmente 480p y el uso de H3.",
+      "Revisa primero A, las flores; después crea B, el arroyo, C, el arcoíris y D, el cierre. Copia cada prompt inglés por separado. La opción con imágenes de MusicMaker requiere imágenes iniciales y finales propias o autorizadas.",
+      "Conserva cuatro segundos estables de cada clip y usa cortes directos. Silencia el audio generado y deja una sola pista musical. Añade el título en los últimos dos segundos y un breve fundido sonoro al final.",
+      "Exporta MP4 en 9:16. Revisa fotogramas negros, dirección del agua y deformaciones. Ampliar 480p no añade detalle. Reduce el movimiento o usa una misma referencia autorizada si el paisaje cambia demasiado."
     ],
-    "shots": [
-      "Mapa y gafas en el coche aparcado",
-      "Carretera entre campos desde el coche",
-      "Campos dorados por la ventanilla lateral",
-      "Vista del destino con título"
-    ],
-    "prompt_intro": "Abrir los cuatro prompts. Usa uno por generación.",
-    "prompts": [
-      "A: Coche aparcado junto a campos dorados, luz cálida de día. Primer plano fijo de un mapa doblado y gafas en el salpicadero. Interior y objetos inmóviles. Sin personas ni texto.",
-      "B: Desde el asiento delantero, carretera entre campos dorados. Cielo azul y luz cálida. Mapa y gafas quietos en el salpicadero. Cámara interior fija, avance lento. Sin bifurcaciones, personas ni texto.",
-      "C: Desde la ventanilla lateral, los mismos campos dorados se desplazan lentamente hacia atrás. Cielo azul y luz cálida. Cámara fija y horizonte estable. Sin edificios, personas ni texto.",
-      "D: Mirador abierto al borde de campos dorados. Cielo azul y luz cálida. Plano general fijo, hierba movida suavemente por el viento. Espacio inferior para añadir el título después. Sin coche, personas ni texto."
-    ],
-    "limits": "Son prompts nuevos de práctica, sin pruebas de generación; no son el registro de producción de la obra original. MusicMaker identifica H3 en su página de clips, pero ambos servicios tienen ajustes y cuotas diferentes.",
-    "next_intro": "Después del viaje, añade una técnica cada vez. Las imágenes abren las obras originales y las propuestas llevan a instrucciones detalladas en inglés.",
-    "next_lessons": [
-      "Une ventana, flores y tapa del piano para practicar cortes a detalles.",
-      "Reutiliza una referencia del personaje y comprueba rostro, micrófono y aro luminoso.",
-      "Sube tu retrato y una frase cantada; comprueba primero la boca y después las manos.",
-      "Expresa una frase con un primer plano fijo y movimientos pequeños."
-    ],
-    "vocal": "Para cantar, usa referencias de audio de H3 oficial o música y retrato en MusicMaker. Las demos vocales de MusicMaker no identifican su modelo. Revisa sonido, boca y dedos, y evita duplicar el audio.",
+    "prompt_intro": "Prompts en inglés para copiar · originales y sin prueba de generación",
+    "limits": "Mantén luz y paisaje coherentes, con música e imagen terminando juntas. Poder escuchar una canción no concede permiso de reutilización.",
+    "next_intro": "Ahora crea unos diez segundos de canto en primer plano. La imagen es el retrato de entrada del ejemplo MusicMaker; púlsala para ver el vídeo. Su modelo no está publicado y este ejercicio es nuevo.",
+    "vocal": "Misma persona, labios visibles, una pista y final natural. El prompt no garantiza conservar el audio ni sincronizar perfectamente la boca.",
     "models": [
       "Planifica sonido e imagen juntos; las entradas disponibles dependen de la herramienta.",
       "Los ejemplos oficiales asignan funciones distintas a imágenes, vídeo y audio.",
@@ -417,7 +374,15 @@
     "performance_titles": {
       "performance-1": "Interpretación con guitarra",
       "performance-2": "Canto expresivo"
-    }
+    },
+    "vocal_steps": [
+      "Prepara un retrato autorizado casi frontal con labios visibles y una frase cantada propia o autorizada. Recorta unos diez segundos con espacio para respirar al principio y al final. La pista instrumental de práctica no sustituye una voz.",
+      "En H3 Omni Reference añade retrato y canto a Refs. Elige unos diez segundos y el formato del retrato. La referencia de audio debe acompañarse de una imagen o un vídeo.",
+      "En MusicMaker coloca la voz en Music File, el retrato en Character Image y la instrucción inferior en Prompt. Revisa recorte, consumo estimado y opción Public antes de Generate.",
+      "Empieza con cámara fija. Compara labios y sonido al inicio, centro y final. Un desfase constante puede ajustarse editando; si crece, acorta la frase y vuelve a generar. Reduce los gestos si cambia el rostro.",
+      "Usa la voz original o el sonido generado, eliminando la pista duplicada. Añade el título y exporta MP4. Comprueba que la frase y la respiración terminan completas antes de probar un acercamiento lento."
+    ],
+    "watch_demo": "Ver ejemplo de MusicMaker"
   },
   "pt": {
     "title": "Guia para criar videoclipes",
@@ -428,7 +393,7 @@
       "Primeiro vídeo",
       "Próximo exercício"
     ],
-    "hero": "Cantor no terraço, formas metálicas e trem noturno na chuva. São imagens conceituais originais, não resultados de geração de vídeo.",
+    "hero": "Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.",
     "x_intro": "Seis vídeos com prompts ou explicações públicas. Cada imagem abre a publicação original do criador.",
     "x_lessons": [
       "Mantenha a posição dos dois artistas e alterne planos abertos e fechados.",
@@ -439,46 +404,31 @@
       "Deixe uma pausa breve e revele a mudança no tempo forte."
     ],
     "x_note": "Os nomes dos modelos foram informados pelos autores. Texto e mídia foram conferidos em um espelho público do X; não reproduzimos os vídeos. As análises detalhadas estão em inglês.",
-    "listen_intro": "Seis músicas em duas colunas e três linhas. As quatro primeiras capas sugerem ideias visuais; as duas últimas também têm descrições de arranjo publicadas pela fonte. Clique para ouvir.",
+    "listen_intro": "Nove músicas em três colunas e três linhas. Compare ideias das capas e arranjos descritos na fonte. Os dois tutoriais usam outros exemplos.",
     "cover_notes": [
       "Capa: palco de neon",
       "Capa: piano à janela",
       "Capa: estrada aberta",
       "Capa: litoral no verão",
       "Fonte: compasso 6/8, violão, piano e violoncelo",
-      "Fonte: violão, contrabaixo, cordas e voz masculina"
+      "Fonte: violão, contrabaixo, cordas e voz masculina",
+      "Capa: cartas e café",
+      "Capa: terraço urbano",
+      "Capa: rua ensolarada"
     ],
     "play": "Ouvir música",
-    "first_intro": "Use a capa de The Open Road como ponto de partida para uma viagem de 16 segundos. Os passos abaixo são para a estrada. Para Summer High, abra a proposta do litoral no cartão.",
+    "first_intro": "A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores. É uma capa musical, não um quadro de vídeo.",
     "steps": [
-      "Escolha um trecho completo de 16 segundos de uma música sua ou use a base original de prática. No GitHub, clique em Download raw file. Ouvir uma faixa não dá permissão para reutilizar a gravação.",
-      "Para texto, copie os prompts abaixo. Com imagens, o H3 oficial oferece quadro inicial ou referências; o MusicMaker precisa de uma imagem inicial e uma final para cada plano.",
-      "Escolha Hailuo H3 oficial ou MusicMaker, no formato 9:16. No H3 selecione 5 segundos; a página de clipes do MusicMaker informa atualmente 5 segundos e 480p. Confira o primeiro resultado antes de continuar.",
-      "Corte os quatro clipes para 4 segundos cada e posicione-os em 0, 4, 8 e 12 segundos. Silencie o áudio deles e mantenha a música. Ajuste os cortes quando trocar de faixa.",
-      "Adicione o título no editor, exporte em MP4 e reproduza o arquivo. Verifique quadros pretos, áudio duplicado e finais abruptos."
+      "Escolha 16 segundos de música própria ou autorizada. Baixe a faixa de treino com Download raw file. Marque 0, 4, 8, 12 e 16 segundos no editor; ajuste os cortes ao ritmo e às frases de outra música.",
+      "No Hailuo oficial, escolha H3 e texto para vídeo, ou use os clipes curtos MusicMaker. Selecione 9:16 e cinco segundos por cena. MusicMaker informa atualmente 480p e uso do H3.",
+      "Confira primeiro A, as flores; depois gere B, o riacho, C, o arco-íris e D, o encerramento. Copie cada prompt inglês separadamente. A opção com imagens do MusicMaker exige imagens iniciais e finais próprias ou autorizadas.",
+      "Use quatro segundos estáveis de cada clipe, com cortes diretos. Silencie o som gerado e mantenha uma música. Acrescente o título nos dois segundos finais e um breve fade de áudio no fim.",
+      "Exporte MP4 em 9:16. Confira quadros pretos, direção da água e deformações. Ampliar 480p não cria detalhes. Diminua o movimento ou use a mesma imagem autorizada se o cenário variar demais."
     ],
-    "shots": [
-      "Mapa e óculos no carro estacionado",
-      "Estrada entre campos vista do carro",
-      "Campos dourados pela janela lateral",
-      "Vista do destino com título"
-    ],
-    "prompt_intro": "Abrir quatro prompts. Use um por geração.",
-    "prompts": [
-      "A: Carro estacionado ao lado de campos dourados, luz quente do dia. Close fixo de mapa dobrado e óculos no painel. Interior e objetos imóveis. Sem pessoas ou texto.",
-      "B: Do banco dianteiro, estrada entre campos dourados. Céu azul e luz quente. Mapa e óculos parados no painel. Câmera fixa no interior, avanço lento. Sem bifurcações, pessoas ou texto.",
-      "C: Pela janela lateral, os mesmos campos dourados passam lentamente para trás. Céu azul e luz quente. Câmera fixa, horizonte nivelado. Sem prédios, pessoas ou texto.",
-      "D: Mirante aberto na borda de campos dourados. Céu azul e luz quente. Plano aberto fixo, grama movida suavemente pelo vento. Espaço embaixo para o título posterior. Sem carro, pessoas ou texto."
-    ],
-    "limits": "São prompts novos de prática, ainda não testados em geração, e não registros de produção dos originais. O MusicMaker identifica H3 na página de clipes, mas configurações e cotas diferem entre os serviços.",
-    "next_intro": "Depois da viagem, acrescente uma técnica por vez. As imagens abrem os originais; as propostas levam a passos detalhados em inglês.",
-    "next_lessons": [
-      "Conecte janela, flores e tampa do piano para praticar cortes de detalhes.",
-      "Reutilize a referência do personagem e confira rosto, microfone e anel luminoso.",
-      "Envie seu retrato e um trecho cantado; confira primeiro a boca e depois as mãos.",
-      "Expresse uma frase com close fixo e movimentos pequenos."
-    ],
-    "vocal": "Para canto, use referências de áudio do H3 oficial ou música e retrato no MusicMaker. As demonstrações vocais do MusicMaker não identificam o modelo. Confira som, boca e dedos e evite áudio duplicado.",
+    "prompt_intro": "Prompts em inglês para copiar · novos e ainda não testados por geração",
+    "limits": "Mantenha luz e relevo coerentes; termine música e imagem juntas. Ouvir uma música pública não concede automaticamente permissão de reutilização.",
+    "next_intro": "Agora faça cerca de dez segundos de canto em close. A imagem é o retrato de entrada da demonstração MusicMaker; clique para ver o vídeo. O modelo não foi divulgado e o exercício abaixo é novo.",
+    "vocal": "Mesma pessoa, lábios visíveis, uma faixa e final natural. O prompt não garante preservação do áudio nem sincronização perfeita.",
     "models": [
       "Planeje som e imagem juntos; as entradas disponíveis dependem da ferramenta.",
       "Exemplos oficiais atribuem funções distintas a imagem, vídeo e áudio.",
@@ -501,7 +451,15 @@
     "performance_titles": {
       "performance-1": "Apresentação com guitarra",
       "performance-2": "Canto expressivo"
-    }
+    },
+    "vocal_steps": [
+      "Prepare um retrato autorizado quase frontal, com lábios visíveis, e uma frase cantada própria ou autorizada. Recorte cerca de dez segundos com espaço para respirar antes e depois. A base instrumental não substitui uma voz.",
+      "No H3 Omni Reference, coloque retrato e canto em Refs. Escolha cerca de dez segundos e o formato adequado. A referência de áudio deve acompanhar uma imagem ou um vídeo.",
+      "No MusicMaker, coloque a voz em Music File, o retrato em Character Image e a instrução abaixo em Prompt. Confira trecho, consumo estimado e opção Public antes de Generate.",
+      "Comece com câmera fixa. Compare boca e voz no início, meio e fim. Um atraso constante pode ser ajustado na edição; se aumentar, encurte a frase e gere novamente. Reduza gestos se o rosto mudar.",
+      "Use a voz original ou o som gerado e remova a faixa duplicada. Adicione o título e exporte MP4. Confira a frase e a respiração completas; só depois experimente uma aproximação lenta."
+    ],
+    "watch_demo": "Ver exemplo MusicMaker"
   },
   "fr": {
     "title": "Guide de création de clips musicaux",
@@ -512,7 +470,7 @@
       "Premier clip",
       "Exercice suivant"
     ],
-    "hero": "Un chanteur sur un toit, des formes métalliques et un train de nuit sous la pluie. Ce sont des images conceptuelles originales, pas des résultats vidéo.",
+    "hero": "Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites ; ce ne sont pas des résultats vidéo vérifiés.",
     "x_intro": "Six vidéos avec des prompts ou des explications publics. Chaque image ouvre la publication originale de son auteur.",
     "x_lessons": [
       "Fixez les positions des deux artistes, puis alternez plans larges et rapprochés.",
@@ -523,46 +481,31 @@
       "Ménagez une courte pause, puis révélez le changement sur un temps fort."
     ],
     "x_note": "Les modèles sont ceux déclarés par les auteurs. Texte et médias ont été vérifiés via un miroir public de X ; les vidéos n’ont pas été reproduites. Les analyses détaillées sont en anglais.",
-    "listen_intro": "Six morceaux sur deux colonnes et trois lignes. Les quatre premières pochettes proposent des pistes visuelles ; les deux derniers morceaux disposent aussi de descriptions d’arrangement publiées par la source. Cliquez pour écouter.",
+    "listen_intro": "Neuf titres sur trois colonnes et trois lignes. Comparez les idées de pochettes et les arrangements décrits à la source. Les deux tutoriels utilisent d’autres œuvres.",
     "cover_notes": [
       "Pochette : scène au néon",
       "Pochette : piano près de la fenêtre",
       "Pochette : route ouverte",
       "Pochette : côte estivale",
       "Source : mesure à 6/8, guitare, piano et violoncelle",
-      "Source : guitare acoustique, contrebasse, cordes et voix masculine"
+      "Source : guitare acoustique, contrebasse, cordes et voix masculine",
+      "Pochette : lettres et café",
+      "Pochette : toit urbain",
+      "Pochette : rue ensoleillée"
     ],
     "play": "Écouter le morceau",
-    "first_intro": "Partez de la pochette de The Open Road pour réaliser un voyage de 16 secondes. Les étapes ci-dessous concernent la route. Pour Summer High, ouvrez le projet côtier de sa carte.",
+    "first_intro": "La pochette de Living on the Brightside inspire un film de nature de 16 secondes : arc-en-ciel, ruisseau et fleurs. C’est une pochette de chanson, pas une image de vidéo.",
     "steps": [
-      "Choisissez une phrase complète de 16 secondes dans votre musique, ou utilisez notre accompagnement original. Sur GitHub, sélectionnez Download raw file. L’écoute publique ne donne pas le droit de réutiliser l’enregistrement.",
-      "Pour le texte seul, copiez les prompts ci-dessous. Avec des images, H3 officiel propose une première image ou des références ; MusicMaker demande une image de début et une de fin pour chaque plan.",
-      "Choisissez Hailuo H3 officiel ou MusicMaker, au format 9:16. Dans H3, sélectionnez 5 secondes ; la page de clips MusicMaker indique actuellement 5 secondes en 480p. Vérifiez le premier résultat avant de poursuivre.",
-      "Raccourcissez les quatre clips à 4 secondes et placez-les à 0, 4, 8 et 12 secondes. Coupez leur son et gardez la musique choisie. Réajustez les coupes si vous changez de morceau.",
-      "Ajoutez le titre dans le logiciel de montage, exportez en MP4 et relisez le fichier. Vérifiez les images noires, le son doublé et les fins trop brusques."
+      "Choisissez 16 secondes de musique personnelle ou autorisée. Téléchargez la piste d’exercice avec Download raw file. Marquez 0, 4, 8, 12 et 16 secondes dans le logiciel ; adaptez ces coupes aux phrases d’un autre morceau.",
+      "Dans Hailuo officiel, choisissez H3 et le mode texte vers vidéo, ou utilisez les clips courts MusicMaker. Réglez 9:16 et cinq secondes par plan. MusicMaker annonce actuellement 480p et l’utilisation de H3.",
+      "Vérifiez d’abord A, les fleurs, puis générez B, le ruisseau, C, l’arc-en-ciel, et D, la fin. Copiez les prompts anglais séparément. La voie par images de MusicMaker demande vos images de début et de fin autorisées.",
+      "Gardez quatre secondes stables par plan, avec des coupes franches. Coupez le son généré et conservez une seule musique. Ajoutez le titre sur les deux dernières secondes et un bref fondu sonore final.",
+      "Exportez en MP4 9:16. Vérifiez les images noires, le courant et les déformations. Agrandir du 480p ne crée pas de détail. Réduisez les mouvements ou réutilisez une même image autorisée si le paysage change trop."
     ],
-    "shots": [
-      "Carte et lunettes dans la voiture à l’arrêt",
-      "Route entre les champs vue de l’habitacle",
-      "Champs dorés par la vitre latérale",
-      "Vue de la destination et titre"
-    ],
-    "prompt_intro": "Ouvrir les quatre prompts. Utilisez-en un par génération.",
-    "prompts": [
-      "A : Voiture garée près de champs dorés, lumière chaude du jour. Gros plan fixe sur une carte pliée et des lunettes sur le tableau de bord. Habitacle et objets immobiles. Sans personne ni texte.",
-      "B : Vue du siège avant vers une route traversant des champs dorés. Ciel bleu, lumière chaude. Carte et lunettes immobiles. Caméra fixe dans l’habitacle, progression lente. Sans bifurcation, personne ni texte.",
-      "C : Vue latérale sur les mêmes champs dorés qui défilent lentement vers l’arrière. Ciel bleu, lumière chaude, caméra fixe et horizon stable. Sans bâtiment, personne ni texte.",
-      "D : Point de vue dégagé au bord des champs dorés. Ciel bleu, lumière chaude, plan large fixe, herbe légèrement agitée. Espace libre en bas pour ajouter un titre ensuite. Sans voiture, personne ni texte."
-    ],
-    "limits": "Ces nouveaux prompts d’exercice n’ont pas été testés par génération et ne constituent pas les recettes des œuvres originales. MusicMaker indique H3 sur sa page de clips ; réglages et quotas diffèrent entre les services.",
-    "next_intro": "Après le voyage, ajoutez une seule technique à la fois. Les images ouvrent les originaux ; les projets mènent aux instructions détaillées en anglais.",
-    "next_lessons": [
-      "Reliez fenêtre, fleurs et couvercle du piano pour travailler les coupes sur les détails.",
-      "Réutilisez le personnage de référence ; contrôlez visage, microphone et anneau lumineux.",
-      "Importez votre portrait et une courte phrase chantée ; vérifiez la bouche, puis les mains.",
-      "Exprimez une phrase dans un plan rapproché fixe, avec peu de mouvement."
-    ],
-    "vocal": "Pour le chant, utilisez les références audio de H3 officiel ou les entrées musique et portrait de MusicMaker. Le modèle des démos vocales MusicMaker n’est pas précisé. Contrôlez son, bouche et doigts, sans doubler l’audio.",
+    "prompt_intro": "Prompts anglais à copier · nouveaux et non testés par génération",
+    "limits": "Conservez lumière et relief cohérents ; terminez musique et image ensemble. L’écoute publique ne donne pas automatiquement le droit de réutiliser un enregistrement.",
+    "next_intro": "Passez à un portrait chanté d’environ dix secondes. L’image est le portrait d’entrée de la démonstration MusicMaker ; cliquez pour voir la vidéo. Le modèle de cette démonstration n’est pas divulgué ; l’exercice ci-dessous est nouveau.",
+    "vocal": "Même personne, lèvres visibles, une piste sonore, fin naturelle. Le prompt ne garantit ni la conservation du son ni la synchronisation labiale.",
     "models": [
       "Planifiez ensemble son et image ; les références acceptées dépendent de l’outil.",
       "Les exemples officiels donnent des rôles distincts aux images, vidéos et sons.",
@@ -585,7 +528,15 @@
     "performance_titles": {
       "performance-1": "Interprétation à la guitare",
       "performance-2": "Chant expressif"
-    }
+    },
+    "vocal_steps": [
+      "Préparez un portrait autorisé presque de face, lèvres visibles, et une phrase chantée personnelle ou autorisée. Gardez environ dix secondes avec un peu de respiration avant et après. La piste instrumentale d’exercice ne remplace pas une voix.",
+      "Dans H3 Omni Reference, placez portrait et chant dans Refs. Choisissez environ dix secondes et un format adapté. Une référence audio doit être accompagnée d’une image ou d’une vidéo.",
+      "Dans MusicMaker : chant dans Music File, portrait dans Character Image, consigne ci-dessous dans Prompt. Vérifiez la découpe, l’estimation et le réglage Public avant Generate.",
+      "Commencez par un gros plan fixe. Comparez bouche et son au début, au milieu et à la fin. Un décalage constant peut se régler au montage ; s’il augmente, raccourcissez la phrase et régénérez. Réduisez les hochements si le visage change.",
+      "Gardez soit le chant original, soit le son généré, sans doublon. Ajoutez le titre puis exportez en MP4. Vérifiez que la phrase et la respiration finales sont complètes avant d’essayer un lent rapprochement de caméra."
+    ],
+    "watch_demo": "Voir la démonstration MusicMaker"
   },
   "de": {
     "title": "Leitfaden für eigene Musikvideos",
@@ -596,7 +547,7 @@
       "Erstes Video",
       "Nächste Übung"
     ],
-    "hero": "Sänger auf einem Dach, Metallformen und ein Nachtzug im Regen: eigene Konzeptbilder, keine erzeugten Videoergebnisse.",
+    "hero": "Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.",
     "x_intro": "Sechs Videos mit öffentlichen Prompts oder Erläuterungen. Jedes Bild führt zum Originalbeitrag des Urhebers.",
     "x_lessons": [
       "Halte die Positionen beider Darsteller fest und wechsle zwischen Totalen und Nahaufnahmen.",
@@ -607,46 +558,31 @@
       "Lass eine kurze Pause und zeige die Veränderung auf einem starken Schlag."
     ],
     "x_note": "Die Modellnamen stammen von den Urhebern. Text und Medien wurden über einen öffentlichen X-Spiegel geprüft; die Videos wurden nicht nachproduziert. Ausführliche Erläuterungen sind auf Englisch.",
-    "listen_intro": "Sechs Titel in zwei Spalten und drei Reihen. Die ersten vier Cover liefern Bildideen; bei den letzten beiden gibt es zusätzlich Angaben zum Arrangement auf der Quellseite. Klicke zum Anhören.",
+    "listen_intro": "Neun Songs in drei Spalten und drei Reihen. Vergleiche Coverideen und belegte Arrangementangaben. Die beiden folgenden Übungsfälle sind nicht Teil dieser Auswahl.",
     "cover_notes": [
       "Coveridee: Neonbühne",
       "Coveridee: Klavier am Fenster",
       "Coveridee: offene Straße",
       "Coveridee: Sommerküste",
       "Quelle: 6/8-Takt, Gitarre, Klavier und Cello",
-      "Quelle: Akustikgitarre, Kontrabass, Streicher und Männerstimme"
+      "Quelle: Akustikgitarre, Kontrabass, Streicher und Männerstimme",
+      "Cover: Briefe und Kaffee",
+      "Cover: Dach über der Stadt",
+      "Cover: sonnige Straße"
     ],
     "play": "Titel anhören",
-    "first_intro": "Nimm das Cover von The Open Road als Ausgangspunkt für eine 16-sekündige Reise. Die folgenden Schritte gelten für die Straße. Für Summer High öffnest du das Küstenprojekt auf der Karte.",
+    "first_intro": "Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen. Es ist ein Songcover, kein Videoframe.",
     "steps": [
-      "Wähle eine vollständige 16-Sekunden-Phrase aus deinem eigenen Song oder nutze die originale Übungsmusik. Auf GitHub wählst du Download raw file. Anhören erlaubt nicht automatisch die Wiederverwendung der Aufnahme.",
-      "Für reine Texteingabe kopierst du die Prompts unten. Bei Bildern bietet das offizielle H3 ein Startbild oder Bildreferenzen; MusicMaker verlangt für jede Einstellung ein Start- und ein Endbild.",
-      "Wähle offizielles Hailuo H3 oder MusicMaker sowie 9:16. In H3 stellst du 5 Sekunden ein; MusicMakers Kurzclip-Seite nennt derzeit 5 Sekunden und 480p. Prüfe den ersten Clip, bevor du weitere erzeugst.",
-      "Kürze die vier Clips auf je 4 Sekunden und setze sie bei 0, 4, 8 und 12 Sekunden ein. Schalte ihren Ton aus und behalte die Musik. Passe beim Songwechsel auch die Schnittpunkte an.",
-      "Füge den Titel im Schnittprogramm hinzu, exportiere MP4 und spiele die Datei ab. Achte auf schwarze Frames, doppelten Ton und abrupte Enden."
+      "Wähle 16 Sekunden eigener oder lizenzierter Musik. Den Übungsbeat speicherst du mit Download raw file. Markiere im Editor 0, 4, 8, 12 und 16 Sekunden; passe die Schnitte bei anderen Songs an Takte und Phrasen an.",
+      "Wähle im offiziellen Hailuo H3 Text-to-Video oder das Kurzclip-Werkzeug von MusicMaker. Nutze 9:16 und je fünf Sekunden. MusicMaker nennt derzeit 480p und H3 als Modell.",
+      "Prüfe zuerst A mit Blumen, dann erstelle B mit Bach, C mit Regenbogen und D als Schlussbild. Kopiere die englischen Prompts einzeln. Für den Bildweg bei MusicMaker benötigst du eigene, erlaubte Start- und Endbilder.",
+      "Nimm je vier stabile Sekunden und setze direkte Schnitte. Schalte den generierten Ton aus und behalte eine Musikspur. Füge in den letzten zwei Sekunden den Titel und am Ende eine kurze Tonblende hinzu.",
+      "Exportiere MP4 in 9:16. Prüfe schwarze Frames, Fließrichtung und Verformungen. Hochskalieren von 480p schafft keine Details. Reduziere Bewegung oder nutze ein einheitliches erlaubtes Referenzbild, wenn Landschaft oder Regenbogen driften."
     ],
-    "shots": [
-      "Karte und Sonnenbrille im geparkten Auto",
-      "Straße durch Felder aus dem Innenraum",
-      "Goldene Felder am Seitenfenster",
-      "Weite Ansicht des Ziels mit Titel"
-    ],
-    "prompt_intro": "Vier Prompts öffnen. Pro Erzeugung nur einen verwenden.",
-    "prompts": [
-      "A: Geparktes Auto neben goldenen Feldern, warmes Tageslicht. Feste Nahaufnahme einer gefalteten Karte und Sonnenbrille auf dem Armaturenbrett. Innenraum und Gegenstände still. Keine Menschen oder Schrift.",
-      "B: Blick vom Vordersitz auf eine Straße durch goldene Felder. Blauer Himmel, warmes Licht. Karte und Brille bleiben liegen. Feste Innenkamera, langsame Vorwärtsfahrt. Keine Abzweigungen, Menschen oder Schrift.",
-      "C: Blick aus dem Seitenfenster auf dieselben goldenen Felder. Blauer Himmel, warmes Licht. Feste Kamera, Felder ziehen langsam rückwärts, Horizont waagerecht. Keine Gebäude, Menschen oder Schrift.",
-      "D: Offener Aussichtspunkt am Rand goldener Felder. Blauer Himmel, warmes Licht. Feste Totale, Gras bewegt sich leicht im Wind. Unten Platz für einen späteren Titel. Kein Auto, keine Menschen oder Schrift."
-    ],
-    "limits": "Die neu geschriebenen Übungsprompts wurden nicht durch Generierung getestet und sind keine Produktionsprotokolle der Originale. MusicMaker nennt H3 auf der Kurzclip-Seite; Einstellungen und Kontingente unterscheiden sich.",
-    "next_intro": "Füge nach der Straßenübung jeweils eine neue Technik hinzu. Bilder führen zu den Originalen, Projekte zu ausführlichen englischen Anleitungen.",
-    "next_lessons": [
-      "Verbinde Fensterlicht, Blumen und Klavierdeckel für Schnitte auf Details.",
-      "Verwende dieselbe Figurenreferenz und prüfe Gesicht, Mikrofon und Leuchtring.",
-      "Lade dein Porträt und eine kurze Gesangsphrase hoch; prüfe Mund und dann Hände.",
-      "Zeige eine Phrase in einer festen Nahaufnahme mit kleinen Bewegungen."
-    ],
-    "vocal": "Für Gesang nutzt du Audioreferenzen im offiziellen H3 oder Musik und Porträt in MusicMaker. Das Modell der veröffentlichten MusicMaker-Gesangsbeispiele wird nicht genannt. Prüfe Ton, Mund und Finger und vermeide doppelte Audiospuren.",
+    "prompt_intro": "Englische Prompts zum Kopieren · neu geschrieben, nicht render-getestet",
+    "limits": "Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam. Öffentliches Anhören erlaubt nicht automatisch die Weiterverwendung.",
+    "next_intro": "Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video. Dessen Modell ist unbekannt, die Übung ist neu geschrieben.",
+    "vocal": "Gleiche Person, sichtbare Lippen, eine Tonspur, natürlicher Abschluss. Ein Prompt garantiert weder Originalton noch präzise Lippensynchronität.",
     "models": [
       "Plane Ton und Bild gemeinsam; die verfügbaren Referenzen hängen vom Werkzeug ab.",
       "Offizielle Beispiele weisen Bild, Video und Audio unterschiedliche Aufgaben zu.",
@@ -669,7 +605,15 @@
     "performance_titles": {
       "performance-1": "Gitarrenauftritt",
       "performance-2": "Gefühlvoller Gesang"
-    }
+    },
+    "vocal_steps": [
+      "Bereite ein erlaubtes, möglichst frontales Porträt mit sichtbaren Lippen und eine eigene oder lizenzierte Gesangsphrase vor. Schneide etwa zehn Sekunden mit etwas Atemraum an beiden Enden. Der instrumentale Übungsbeat ersetzt keinen Gesang.",
+      "In H3 Omni Reference kommen Porträt und Gesang gemeinsam in Refs. Wähle etwa zehn Sekunden und das passende Seitenverhältnis. Eine Audioreferenz muss mit Bild oder Video kombiniert werden.",
+      "Bei MusicMaker kommt Gesang in Music File, das Porträt in Character Image und der folgende Prompt in Prompt. Prüfe Ausschnitt, Kostenschätzung und Public-Schalter, bevor du Generate wählst.",
+      "Beginne mit einer festen Nahaufnahme. Vergleiche Mund und Ton am Anfang, in der Mitte und am Ende. Konstante Versätze lassen sich schneiden; wachsende Abweichungen brauchen eine kürzere Phrase oder neue Generierung. Bei Gesichtsdrift auch Nicken reduzieren.",
+      "Nutze entweder Originalgesang oder generierten Ton und entferne die doppelte Spur. Ergänze den Songtitel und exportiere MP4. Prüfe die vollständige Phrase samt Atemschluss. Erst danach probierst du eine langsame Kamerafahrt nach vorn."
+    ],
+    "watch_demo": "Markenbeispiel ansehen"
   },
   "ru": {
     "title": "Руководство по созданию музыкальных видео",
@@ -680,7 +624,7 @@
       "Первое видео",
       "Следующее упражнение"
     ],
-    "hero": "Певец на крыше, металлические формы и ночной поезд под дождём. Это оригинальные концепт-изображения, а не результаты генерации видео.",
+    "hero": "Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией, а не доказательство результатов видеогенерации.",
     "x_intro": "Шесть видео с открытыми промптами или пояснениями. Нажмите на изображение, чтобы открыть исходный пост автора.",
     "x_lessons": [
       "Закрепите позиции двух исполнителей и чередуйте общие и крупные планы.",
@@ -691,46 +635,31 @@
       "Оставьте небольшую паузу и покажите смену сцены на сильную долю."
     ],
     "x_note": "Названия моделей указаны авторами. Тексты и материалы проверены через публичное зеркало X; видео не воспроизводились заново. Подробные разборы доступны на английском.",
-    "listen_intro": "Шесть песен в двух столбцах и трёх рядах. Первые четыре обложки дают визуальные идеи; для двух последних источник также публикует описание аранжировки. Нажмите, чтобы послушать.",
+    "listen_intro": "Девять песен: три столбца и три ряда. Сравните идеи обложек и описания аранжировки из источников. Два учебных примера ниже не входят в эту подборку.",
     "cover_notes": [
       "Обложка: неоновая сцена",
       "Обложка: пианино у окна",
       "Обложка: открытая дорога",
       "Обложка: летнее побережье",
       "Описание источника: размер 6/8, гитара, пианино и виолончель",
-      "Описание источника: акустическая гитара, контрабас, струнные и мужской вокал"
+      "Описание источника: акустическая гитара, контрабас, струнные и мужской вокал",
+      "Обложка: письма и кофе",
+      "Обложка: городская крыша",
+      "Обложка: солнечная улица"
     ],
     "play": "Слушать песню",
-    "first_intro": "Возьмите обложку The Open Road за основу 16-секундного путешествия. Шаги ниже относятся к дороге. Для Summer High откройте прибрежный проект в его карточке.",
+    "first_intro": "Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы. Это музыкальная обложка, не кадр видео.",
     "steps": [
-      "Выберите законченную 16-секундную фразу своей песни или оригинальную учебную фонограмму. На GitHub нажмите Download raw file. Доступность прослушивания не даёт права повторно использовать запись.",
-      "Для текстового режима скопируйте промпты ниже. При работе с изображениями официальный H3 поддерживает первый кадр или референсы; MusicMaker требует начальное и конечное изображение для каждого плана.",
-      "Выберите официальный Hailuo H3 или MusicMaker и формат 9:16. В H3 задайте 5 секунд; страница коротких видео MusicMaker сейчас указывает 5 секунд и 480p. Проверьте первый результат перед продолжением.",
-      "Обрежьте четыре клипа до 4 секунд и разместите на отметках 0, 4, 8 и 12 секунд. Отключите их звук, оставив музыку. При смене песни заново подберите точки склейки.",
-      "Добавьте название в редакторе, экспортируйте MP4 и просмотрите файл. Проверьте чёрные кадры, двойной звук и резкое окончание."
+      "Выберите 16 секунд собственной или разрешённой музыки. Учебный трек скачивается через Download raw file. Отметьте в редакторе 0, 4, 8, 12 и 16 секунд; для другой песни подстройте склейки под ритм и фразы.",
+      "В официальном Hailuo выберите H3 и генерацию по тексту либо используйте короткие клипы MusicMaker. Формат 9:16, по пять секунд. MusicMaker сейчас указывает 480p и использование H3.",
+      "Сначала проверьте A с цветами, затем создайте B с ручьём, C с радугой и D для финала. Копируйте английские промпты отдельно. Для режима с изображениями в MusicMaker нужны ваши разрешённые начальный и конечный кадры.",
+      "Оставьте по четыре стабильные секунды и соедините прямыми склейками. Выключите сгенерированный звук, сохранив одну музыкальную дорожку. Добавьте название в последние две секунды и короткое затухание музыки.",
+      "Экспортируйте MP4 9:16. Проверьте чёрные кадры, течение воды и деформации. Увеличение 480p не добавляет деталей. Уменьшите движение или используйте одно разрешённое изображение, если пейзаж сильно меняется."
     ],
-    "shots": [
-      "Карта и очки в припаркованной машине",
-      "Дорога среди полей из салона",
-      "Золотистые поля за боковым окном",
-      "Общий план места прибытия и название"
-    ],
-    "prompt_intro": "Открыть четыре промпта. Используйте по одному на генерацию.",
-    "prompts": [
-      "A: Машина припаркована у золотистых полей, тёплый дневной свет. Неподвижный крупный план сложенной карты и очков на панели. Салон и предметы неподвижны. Без людей и текста.",
-      "B: Вид с переднего сиденья на дорогу среди золотистых полей. Голубое небо, тёплый свет. Карта и очки неподвижны. Камера закреплена в салоне, медленное движение вперёд. Без развилок, людей и текста.",
-      "C: Вид из бокового окна на те же золотистые поля. Голубое небо и тёплый свет. Камера неподвижна, поля медленно уходят назад, горизонт ровный. Без зданий, людей и текста.",
-      "D: Открытая смотровая площадка у золотистых полей. Голубое небо, тёплый свет. Неподвижный общий план, трава слегка колышется. Внизу место для названия при монтаже. Без машины, людей и текста."
-    ],
-    "limits": "Это новые учебные промпты, не проверенные генерацией, а не производственные записи оригиналов. MusicMaker указывает H3 на странице коротких видео; настройки и лимиты двух сервисов различаются.",
-    "next_intro": "Закончив дорожный ролик, добавляйте по одному приёму. Изображения ведут к оригиналам, а проекты — к подробным инструкциям на английском.",
-    "next_lessons": [
-      "Соединяйте свет из окна, цветы и крышку пианино, тренируя склейки деталей.",
-      "Используйте один референс персонажа и проверяйте лицо, микрофон и световое кольцо.",
-      "Загрузите свой портрет и короткую вокальную фразу; сначала проверьте рот, затем руки.",
-      "Передайте одну фразу неподвижным крупным планом с небольшими движениями."
-    ],
-    "vocal": "Для пения используйте аудиореференсы официального H3 или входы музыки и портрета MusicMaker. Модель опубликованных вокальных примеров MusicMaker не названа. Проверяйте звук, рот и пальцы, не дублируйте аудиодорожку.",
+    "prompt_intro": "Английские промпты для копирования · новые, без проверки генерацией",
+    "limits": "Сохраняйте освещение и рельеф; музыка и изображение заканчиваются вместе. Публичное прослушивание не означает право повторного использования.",
+    "next_intro": "Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео. Модель примера не раскрыта, упражнение написано заново.",
+    "vocal": "Один человек, видимые губы, одна звуковая дорожка, естественный финал. Промпт не гарантирует сохранения звука или точной синхронизации губ.",
     "models": [
       "Планируйте звук и изображение вместе; доступные референсы зависят от инструмента.",
       "В официальных примерах изображениям, видео и звуку отведены разные роли.",
@@ -753,7 +682,15 @@
     "performance_titles": {
       "performance-1": "Выступление с гитарой",
       "performance-2": "Эмоциональный вокал"
-    }
+    },
+    "vocal_steps": [
+      "Подготовьте разрешённый портрет почти анфас с видимыми губами и собственную или разрешённую вокальную фразу. Оставьте около десяти секунд с небольшим запасом для дыхания. Инструментальный учебный трек не заменяет вокал.",
+      "В H3 Omni Reference добавьте портрет и вокал в Refs. Выберите около десяти секунд и подходящий формат. Аудиореференс нужно сочетать с изображением или видео.",
+      "В MusicMaker поместите вокал в Music File, портрет в Character Image, инструкцию ниже в Prompt. Перед Generate проверьте отрезок, оценку расхода и переключатель Public.",
+      "Начните с неподвижной камеры. Сравните губы и звук в начале, середине и конце. Постоянное смещение можно поправить монтажом; растущее требует более короткой фразы или новой генерации. При изменении лица уменьшите кивки.",
+      "Оставьте исходный вокал либо сгенерированный звук, удалив дублирующую дорожку. Добавьте название, экспортируйте MP4 и проверьте целую фразу с дыханием в конце. Лишь затем пробуйте медленное приближение."
+    ],
+    "watch_demo": "Смотреть пример MusicMaker"
   },
   "vi": {
     "title": "Hướng dẫn làm video âm nhạc",
@@ -764,7 +701,7 @@
       "Video đầu tiên",
       "Bài tập tiếp theo"
     ],
-    "hero": "Ca sĩ trên sân thượng, hình khối kim loại và chuyến tàu đêm mưa. Đây là hình ý tưởng gốc, không phải kết quả tạo video.",
+    "hero": "Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.",
     "x_intro": "Sáu video có câu lệnh hoặc hướng dẫn công khai. Bấm vào hình để xem bài đăng gốc của tác giả.",
     "x_lessons": [
       "Giữ vị trí hai người biểu diễn rồi xen kẽ toàn cảnh và cận cảnh.",
@@ -775,46 +712,31 @@
       "Chừa một khoảng lặng ngắn rồi hé lộ thay đổi ở nhịp mạnh."
     ],
     "x_note": "Tên mô hình do tác giả công bố. Nội dung và tư liệu được kiểm tra qua bản sao công khai của X; chúng tôi chưa tái tạo các video. Phân tích chi tiết bằng tiếng Anh.",
-    "listen_intro": "Sáu bài hát trong hai cột, ba hàng. Bốn ảnh bìa đầu gợi ý hình ảnh; hai bài cuối còn có mô tả phối khí từ trang nguồn. Bấm ảnh để nghe bản gốc.",
+    "listen_intro": "Chín bài hát trong ba cột, ba hàng. So sánh ý tưởng bìa và mô tả phối khí từ nguồn. Hai bài hướng dẫn bên dưới dùng ví dụ khác.",
     "cover_notes": [
       "Ý tưởng ảnh bìa: sân khấu neon",
       "Ý tưởng ảnh bìa: đàn piano bên cửa sổ",
       "Ý tưởng ảnh bìa: con đường rộng mở",
       "Ý tưởng ảnh bìa: bờ biển mùa hè",
       "Nguồn mô tả: nhịp 6/8, guitar, piano và cello",
-      "Nguồn mô tả: guitar mộc, bass, đàn dây và giọng nam"
+      "Nguồn mô tả: guitar mộc, bass, đàn dây và giọng nam",
+      "Bìa: thư và cà phê",
+      "Bìa: sân thượng thành phố",
+      "Bìa: con phố đầy nắng"
     ],
     "play": "Nghe bài hát",
-    "first_intro": "Lấy ảnh bìa The Open Road làm ý tưởng cho chuyến đi dài 16 giây. Các bước dưới đây dành cho cảnh đường bộ. Nếu chọn Summer High, mở đề án bờ biển trong thẻ tương ứng.",
+    "first_intro": "Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.",
     "steps": [
-      "Chọn một câu nhạc trọn vẹn dài 16 giây từ bài của bạn hoặc dùng nhạc luyện tập gốc. Trên GitHub, chọn Download raw file để tải. Nghe được không đồng nghĩa với quyền tái sử dụng bản thu.",
-      "Nếu chỉ dùng chữ, sao chép câu lệnh bên dưới. Với hình ảnh, H3 chính thức có khung đầu hoặc hình tham chiếu; MusicMaker cần một ảnh đầu và một ảnh cuối cho mỗi cảnh.",
-      "Chọn Hailuo H3 chính thức hoặc MusicMaker, tỷ lệ 9:16. Trong H3 chọn 5 giây; trang video ngắn MusicMaker hiện ghi 5 giây, 480p. Kiểm tra cảnh đầu trước khi tạo các cảnh còn lại.",
-      "Cắt bốn đoạn còn 4 giây mỗi đoạn, đặt ở giây 0, 4, 8 và 12. Tắt âm thanh đi kèm video, chỉ giữ nhạc. Đổi bài hát thì điều chỉnh lại điểm cắt.",
-      "Thêm tên video bằng phần mềm dựng, xuất MP4 rồi xem lại tệp. Kiểm tra khung đen, âm thanh chồng đôi và đoạn kết bị cắt đột ngột."
+      "Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.",
+      "Trong Hailuo chính thức, chọn H3 và tạo video từ văn bản, hoặc dùng công cụ đoạn phim ngắn MusicMaker. Chọn 9:16, mỗi đoạn năm giây. MusicMaker hiện ghi 480p và sử dụng H3.",
+      "Kiểm tra A với hoa trước, rồi tạo B với suối, C với cầu vồng và D kết thúc. Sao chép riêng từng câu lệnh tiếng Anh. Cách dùng ảnh trong MusicMaker cần ảnh đầu và cuối do bạn sở hữu hoặc được phép dùng.",
+      "Giữ bốn giây ổn định mỗi đoạn, nối bằng cắt thẳng. Tắt âm thanh được tạo và chỉ giữ một bản nhạc. Thêm tên trong hai giây cuối, giảm dần âm lượng ở cuối.",
+      "Xuất MP4 9:16. Kiểm tra khung đen, hướng nước và biến dạng. Phóng lớn 480p không thêm chi tiết. Giảm chuyển động hoặc dùng cùng ảnh tham chiếu hợp lệ nếu cảnh vật thay đổi nhiều."
     ],
-    "shots": [
-      "Bản đồ và kính trong xe đang đỗ",
-      "Đường giữa cánh đồng nhìn từ xe",
-      "Cánh đồng vàng qua cửa bên",
-      "Toàn cảnh điểm đến và tên video"
-    ],
-    "prompt_intro": "Mở bốn câu lệnh. Mỗi lần chỉ tạo một cảnh.",
-    "prompts": [
-      "A: Xe đỗ cạnh cánh đồng vàng, ánh sáng ban ngày ấm. Cận cảnh cố định bản đồ gấp và kính trên bảng điều khiển. Nội thất và đồ vật đứng yên. Không người, không chữ.",
-      "B: Từ ghế trước nhìn ra đường giữa cánh đồng vàng. Trời xanh, ánh sáng ấm. Bản đồ và kính đứng yên. Máy quay cố định trong xe, tiến chậm. Không ngã rẽ, không người, không chữ.",
-      "C: Nhìn qua cửa bên vào cùng cánh đồng vàng. Trời xanh, ánh sáng ấm. Máy quay cố định, cánh đồng trôi chậm về sau, đường chân trời cân bằng. Không nhà, người hay chữ.",
-      "D: Điểm ngắm cảnh thoáng ở cuối cánh đồng vàng. Trời xanh, ánh sáng ấm. Toàn cảnh cố định, cỏ lay nhẹ. Chừa khoảng trống phía dưới để thêm tên sau. Không xe, người hay chữ."
-    ],
-    "limits": "Đây là câu lệnh luyện tập mới, chưa được kiểm nghiệm bằng việc tạo video và không phải công thức của tác phẩm gốc. MusicMaker ghi dùng H3 ở trang video ngắn, nhưng cài đặt và hạn mức hai công cụ khác nhau.",
-    "next_intro": "Sau bài tập con đường, thêm từng kỹ năng một. Hình mở tác phẩm gốc; đề án mở các bước chi tiết bằng tiếng Anh.",
-    "next_lessons": [
-      "Nối ánh cửa sổ, hoa và nắp đàn để luyện cắt sang chi tiết.",
-      "Dùng cùng hình nhân vật, kiểm tra mặt, micro và vòng sáng có nhất quán không.",
-      "Tải chân dung và một câu hát của bạn; kiểm tra miệng trước, rồi đến bàn tay.",
-      "Diễn đạt một câu hát bằng cận cảnh cố định và cử động nhỏ."
-    ],
-    "vocal": "Với cảnh hát, dùng tham chiếu âm thanh của H3 chính thức hoặc nhạc và chân dung trong MusicMaker. Các video hát mẫu của MusicMaker không nêu mô hình. Kiểm tra âm thanh, miệng, ngón tay và tránh chồng hai bản nhạc.",
+    "prompt_intro": "Câu lệnh tiếng Anh để sao chép · viết mới, chưa thử tạo video",
+    "limits": "Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. Nghe được bài hát công khai không đồng nghĩa có quyền tái sử dụng.",
+    "next_intro": "Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video. Mô hình của ví dụ không được công bố, bài tập bên dưới được viết mới.",
+    "vocal": "Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên. Câu lệnh không bảo đảm giữ nguyên âm thanh hay khớp môi chính xác.",
     "models": [
       "Lên kế hoạch âm thanh và hình ảnh cùng nhau; đầu vào tham chiếu tùy công cụ.",
       "Ví dụ chính thức phân vai riêng cho hình ảnh, video và âm thanh.",
@@ -837,7 +759,15 @@
     "performance_titles": {
       "performance-1": "Biểu diễn ghi-ta",
       "performance-2": "Giọng hát giàu cảm xúc"
-    }
+    },
+    "vocal_steps": [
+      "Chuẩn bị chân dung được phép dùng, gần chính diện và thấy rõ môi, cùng một câu hát của bạn hoặc được cấp phép. Cắt khoảng mười giây, chừa hơi thở đầu và cuối. Nhạc luyện tập không lời không thay thế giọng hát.",
+      "Trong H3 Omni Reference, thêm chân dung và giọng hát vào Refs. Chọn khoảng mười giây và tỉ lệ phù hợp. Tham chiếu âm thanh phải đi kèm ảnh hoặc video.",
+      "Trong MusicMaker, đặt giọng hát vào Music File, ảnh vào Character Image, câu lệnh dưới vào Prompt. Kiểm tra đoạn âm thanh, mức dùng dự kiến và Public trước khi nhấn Generate.",
+      "Bắt đầu bằng máy quay cố định. So môi với âm thanh ở đầu, giữa, cuối. Lệch đều có thể chỉnh khi dựng; lệch tăng dần thì rút ngắn câu hoặc tạo lại. Giảm gật đầu nếu khuôn mặt thay đổi.",
+      "Chọn giọng gốc hoặc âm thanh được tạo, xóa đường tiếng trùng. Thêm tên bài rồi xuất MP4. Kiểm tra câu hát và hơi thở kết thúc đầy đủ trước khi thử máy quay tiến chậm."
+    ],
+    "watch_demo": "Xem video mẫu MusicMaker"
   },
   "th": {
     "title": "คู่มือสร้างมิวสิกวิดีโอ",
@@ -848,7 +778,7 @@
       "วิดีโอแรก",
       "ฝึกขั้นต่อไป"
     ],
-    "hero": "นักร้องบนดาดฟ้า รูปทรงโลหะ และรถไฟกลางคืนในสายฝน ภาพเหล่านี้เป็นภาพแนวคิดที่สร้างขึ้นใหม่ ไม่ใช่ผลลัพธ์วิดีโอ",
+    "hero": "เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ",
     "x_intro": "วิดีโอหกตัวอย่างที่มีพรอมป์หรือคำอธิบายสาธารณะ คลิกภาพเพื่อเปิดโพสต์ต้นฉบับของผู้สร้าง",
     "x_lessons": [
       "กำหนดตำแหน่งผู้แสดงทั้งสองให้คงที่ แล้วสลับภาพกว้างกับภาพใกล้",
@@ -859,46 +789,31 @@
       "เว้นจังหวะนิ่งสั้น ๆ แล้วเผยการเปลี่ยนฉากตรงจังหวะหนัก"
     ],
     "x_note": "ชื่อโมเดลเป็นข้อมูลจากผู้สร้าง ตรวจข้อความและสื่อผ่านสำเนาสาธารณะของ X แต่ยังไม่ได้สร้างวิดีโอซ้ำ คำอธิบายละเอียดเป็นภาษาอังกฤษ",
-    "listen_intro": "หกเพลงในสองคอลัมน์สามแถว ปกสี่ภาพแรกให้แนวคิดด้านภาพ ส่วนสองเพลงท้ายมีคำอธิบายการเรียบเรียงจากหน้าต้นทาง คลิกปกเพื่อฟังเพลง",
+    "listen_intro": "ฟังเก้าเพลงในสามคอลัมน์สามแถว เปรียบเทียบแนวคิดจากปกกับคำอธิบายการเรียบเรียงจากต้นทาง สองบทเรียนด้านล่างใช้คนละกรณี",
     "cover_notes": [
       "แนวคิดจากปก: เวทีนีออน",
       "แนวคิดจากปก: เปียโนริมหน้าต่าง",
       "แนวคิดจากปก: ถนนโล่ง",
       "แนวคิดจากปก: ชายฝั่งฤดูร้อน",
       "ต้นทางระบุ: จังหวะ 6/8 กีตาร์ เปียโน และเชลโล",
-      "ต้นทางระบุ: กีตาร์อะคูสติก เบส เครื่องสาย และเสียงร้องชาย"
+      "ต้นทางระบุ: กีตาร์อะคูสติก เบส เครื่องสาย และเสียงร้องชาย",
+      "ปก: จดหมายและกาแฟ",
+      "ปก: ดาดฟ้าในเมือง",
+      "ปก: ถนนกลางแดด"
     ],
     "play": "ฟังเพลง",
-    "first_intro": "เริ่มจากปก The Open Road แล้วทำคลิปการเดินทาง 16 วินาที ขั้นตอนด้านล่างเป็นตัวอย่างถนน หากเลือก Summer High ให้เปิดแผนฉากชายฝั่งจากการ์ดนั้น",
+    "first_intro": "ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ",
     "steps": [
-      "เลือกท่อนเพลงของคุณที่จบความใน 16 วินาที หรือใช้เพลงฝึกต้นฉบับที่เตรียมไว้ บน GitHub เลือก Download raw file การฟังได้ไม่ได้หมายถึงมีสิทธิ์นำเสียงไปใช้ซ้ำ",
-      "ถ้าใช้ข้อความอย่างเดียว ให้คัดลอกพรอมป์ด้านล่าง หากใช้ภาพ H3 ทางการรองรับภาพเริ่มต้นหรือภาพอ้างอิง ส่วน MusicMaker ต้องมีภาพเริ่มและภาพจบสำหรับแต่ละช็อต",
-      "เลือก Hailuo H3 ทางการหรือ MusicMaker และสัดส่วน 9:16 ใน H3 เลือก 5 วินาที ส่วนหน้าเครื่องมือคลิปของ MusicMaker ระบุ 5 วินาที 480p ในปัจจุบัน ตรวจช็อตแรกก่อนทำช็อตอื่น",
-      "ตัดสี่คลิปให้เหลือคลิปละ 4 วินาที วางที่วินาที 0, 4, 8 และ 12 ปิดเสียงติดคลิปและเก็บเฉพาะเพลง เมื่อเปลี่ยนเพลงให้ปรับจุดตัดใหม่",
-      "ใส่ชื่อเรื่องด้วยโปรแกรมตัดต่อ ส่งออกเป็น MP4 แล้วเปิดไฟล์ตรวจภาพดำ เสียงซ้อน และตอนจบที่ตัดฉับพลัน"
+      "เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง",
+      "ใน Hailuo ทางการเลือก H3 แบบข้อความเป็นวิดีโอ หรือใช้เครื่องมือคลิปสั้น MusicMaker เลือก 9:16 คลิปละห้าวินาที หน้า MusicMaker ระบุ 480p และใช้ H3 ในขณะตรวจสอบ",
+      "ตรวจ A ดอกไม้ก่อน แล้วสร้าง B ลำธาร C สายรุ้ง และ D ปิดท้าย คัดลอกพรอมต์อังกฤษทีละชุด หากใช้ภาพใน MusicMaker ต้องมีภาพเริ่มและจบของตนเองหรือที่ได้รับอนุญาต",
+      "เลือกช่วงนิ่งสี่วินาทีจากแต่ละคลิปแล้วตัดตรง ปิดเสียงที่สร้างและเก็บเพลงเพียงแทร็กเดียว ใส่ชื่อในสองวินาทีสุดท้ายและค่อยลดเสียงตอนจบ",
+      "ส่งออก MP4 9:16 ตรวจเฟรมดำ ทิศทางน้ำ และรูปทรงบิดเบี้ยว การขยาย 480p ไม่เพิ่มรายละเอียด หากฉากเปลี่ยนมากให้ลดการเคลื่อนไหวหรือใช้ภาพอ้างอิงที่ได้รับอนุญาตภาพเดิม"
     ],
-    "shots": [
-      "แผนที่และแว่นในรถที่จอดอยู่",
-      "ถนนกลางทุ่งจากในรถ",
-      "ทุ่งสีทองผ่านหน้าต่างด้านข้าง",
-      "ภาพกว้างจุดหมายพร้อมชื่อเรื่อง"
-    ],
-    "prompt_intro": "เปิดพรอมป์ทั้งสี่ ใช้ครั้งละหนึ่งช็อต",
-    "prompts": [
-      "A: รถจอดข้างทุ่งสีทอง แสงกลางวันอบอุ่น กล้องนิ่งถ่ายใกล้แผนที่พับและแว่นบนแผงหน้ารถ ภายในรถและสิ่งของอยู่นิ่ง ไม่มีคนหรือตัวอักษร",
-      "B: มองจากเบาะหน้าไปยังถนนกลางทุ่งสีทอง ฟ้าสีคราม แสงอบอุ่น แผนที่และแว่นอยู่นิ่ง กล้องติดนิ่งในรถ เคลื่อนไปข้างหน้าช้า ๆ ไม่มีทางแยก คน หรือตัวอักษร",
-      "C: มองผ่านหน้าต่างด้านข้างไปยังทุ่งสีทองเดิม ฟ้าคราม แสงอบอุ่น กล้องนิ่ง ทุ่งเลื่อนถอยหลังช้า ๆ ขอบฟ้าตรง ไม่มีอาคาร คน หรือตัวอักษร",
-      "D: จุดชมวิวโล่งริมทุ่งสีทอง ฟ้าคราม แสงอบอุ่น ภาพกว้างนิ่ง หญ้าขยับเบา ๆ เว้นพื้นที่ด้านล่างเพื่อใส่ชื่อเรื่องภายหลัง ไม่มีรถ คน หรือตัวอักษร"
-    ],
-    "limits": "พรอมป์ฝึกนี้เขียนขึ้นใหม่และยังไม่ได้ทดสอบสร้างวิดีโอ ไม่ใช่บันทึกการสร้างผลงานต้นฉบับ MusicMaker ระบุ H3 บนหน้าคลิปสั้น แต่การตั้งค่าและโควตาของสองเครื่องมือต่างกัน",
-    "next_intro": "ทำคลิปถนนเสร็จแล้วค่อยเพิ่มทีละทักษะ ภาพเชื่อมไปผลงานต้นฉบับ ส่วนแผนการสร้างเชื่อมไปขั้นตอนละเอียดภาษาอังกฤษ",
-    "next_lessons": [
-      "เชื่อมแสงหน้าต่าง ดอกไม้ และฝาเปียโนเพื่อฝึกตัดเข้ารายละเอียด",
-      "ใช้ภาพตัวละครเดิม ตรวจใบหน้า ไมโครโฟน และวงแสงให้คงเดิม",
-      "อัปโหลดภาพบุคคลและท่อนร้องของคุณ ตรวจปากก่อนแล้วค่อยตรวจมือ",
-      "ใช้ภาพใกล้กล้องนิ่งสื่อหนึ่งท่อนเพลง โดยเคลื่อนไหวเพียงเล็กน้อย"
-    ],
-    "vocal": "งานร้องเพลงใช้เสียงอ้างอิงใน H3 ทางการ หรือช่องเพลงและภาพบุคคลของ MusicMaker ตัวอย่างร้องเพลงของ MusicMaker ไม่ได้ระบุโมเดล ตรวจเสียง ปาก และนิ้ว และอย่าวางเสียงซ้ำสองชั้น",
+    "prompt_intro": "พรอมต์ภาษาอังกฤษสำหรับคัดลอก · เขียนใหม่และยังไม่ได้ทดสอบสร้าง",
+    "limits": "รักษาแสงและภูมิประเทศให้ต่อเนื่อง จบเพลงพร้อมภาพ การฟังเพลงสาธารณะไม่ได้ให้สิทธิ์นำไปใช้ต่อโดยอัตโนมัติ",
+    "next_intro": "ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ เว็บไซต์ไม่เปิดเผยโมเดลของตัวอย่าง และบทฝึกนี้เขียนขึ้นใหม่",
+    "vocal": "คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ พรอมต์ไม่รับประกันการคงเสียงเดิมหรือความตรงของปาก",
     "models": [
       "วางแผนเสียงกับภาพร่วมกัน ชนิดข้อมูลอ้างอิงขึ้นอยู่กับเครื่องมือ",
       "ตัวอย่างทางการแบ่งหน้าที่ของภาพ วิดีโอ และเสียงชัดเจน",
@@ -921,7 +836,15 @@
     "performance_titles": {
       "performance-1": "การแสดงกีตาร์",
       "performance-2": "การร้องเพลงสื่ออารมณ์"
-    }
+    },
+    "vocal_steps": [
+      "เตรียมภาพบุคคลที่ได้รับอนุญาต หันเกือบตรงและเห็นริมฝีปาก พร้อมเสียงร้องของตนเองหรือที่ได้รับอนุญาต ตัดหนึ่งวรรคราวสิบวินาทีโดยเหลือช่วงหายใจต้นท้าย เพลงบรรเลงฝึกใช้แทนเสียงร้องไม่ได้",
+      "ใน H3 Omni Reference ใส่ภาพกับเสียงร้องใน Refs เลือกราวสิบวินาทีและสัดส่วนตรงกับภาพ เสียงอ้างอิงต้องใช้ร่วมกับภาพหรือวิดีโอ",
+      "ใน MusicMaker ใส่เสียงใน Music File ภาพใน Character Image และคำสั่งด้านล่างใน Prompt ตรวจช่วงเสียง ค่าใช้โดยประมาณ และ Public ก่อนกด Generate",
+      "เริ่มด้วยกล้องนิ่ง เปรียบเทียบปากกับเสียงช่วงต้น กลาง และท้าย หากเหลื่อมเท่ากันอาจขยับตอนตัดต่อได้ หากเหลื่อมมากขึ้นให้ย่อวรรคแล้วสร้างใหม่ ลดการพยักหน้าถ้าหน้าเปลี่ยน",
+      "เลือกเสียงต้นฉบับหรือเสียงที่สร้างเพียงหนึ่งแบบ ลบแทร็กซ้ำ ใส่ชื่อเพลงแล้วส่งออก MP4 ตรวจให้ร้องและหายใจจบครบ ก่อนค่อยลองกล้องเคลื่อนเข้าอย่างช้าในรอบถัดไป"
+    ],
+    "watch_demo": "ชมตัวอย่าง MusicMaker"
   },
   "ar": {
     "title": "دليل إنشاء الفيديو الموسيقي",
@@ -932,7 +855,7 @@
       "الفيديو الأول",
       "التدريب التالي"
     ],
-    "hero": "مغنٍّ على سطح، وأشكال معدنية، وقطار ليلي تحت المطر. هذه صور تصورية أصلية وليست نتائج فيديو مولّد.",
+    "hero": "اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.",
     "x_intro": "ستة فيديوهات لها أوامر توليد أو شروح منشورة. اضغط الصورة لفتح منشور صاحب العمل الأصلي.",
     "x_lessons": [
       "ثبّت موضعي المؤديين ثم بدّل بين اللقطات الواسعة والقريبة.",
@@ -943,46 +866,31 @@
       "اترك وقفة قصيرة ثم اكشف التغير مع الضربة الموسيقية القوية."
     ],
     "x_note": "أسماء النماذج بحسب تصريحات أصحاب الأعمال. جرى التحقق من النصوص والوسائط عبر مرآة عامة لمنصة X، دون إعادة إنتاج الفيديوهات. الشروح التفصيلية بالإنجليزية.",
-    "listen_intro": "ست أغانٍ في عمودين وثلاثة صفوف. الأغلفة الأربعة الأولى تقترح أفكارًا بصرية، والأغنيتان الأخيرتان لهما أيضًا وصف توزيع منشور في المصدر. اضغط الغلاف للاستماع.",
+    "listen_intro": "تسع أغانٍ في ثلاثة أعمدة وثلاثة صفوف. قارن أفكار الأغلفة ووصف التوزيع الوارد في المصادر. مثالا الشرح أدناه مختلفان عن هذه المجموعة.",
     "cover_notes": [
       "فكرة الغلاف: مسرح نيون",
       "فكرة الغلاف: بيانو قرب النافذة",
       "فكرة الغلاف: طريق مفتوح",
       "فكرة الغلاف: ساحل صيفي",
       "وصف المصدر: ميزان 6/8 وغيتار وبيانو وتشيلو",
-      "وصف المصدر: غيتار صوتي وكونترباص ووتريات وغناء رجالي"
+      "وصف المصدر: غيتار صوتي وكونترباص ووتريات وغناء رجالي",
+      "الغلاف: رسائل وقهوة",
+      "الغلاف: سطح في المدينة",
+      "الغلاف: شارع مشمس"
     ],
     "play": "استمع للأغنية",
-    "first_intro": "ابدأ من غلاف The Open Road لصنع رحلة مدتها 16 ثانية. الخطوات أدناه تخص الطريق. إن اخترت Summer High فافتح خطة الساحل في بطاقتها.",
+    "first_intro": "استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.",
     "steps": [
-      "اختر جملة موسيقية مكتملة من أغنيتك مدتها 16 ثانية أو استخدم مقطع التدريب الأصلي. في GitHub اختر Download raw file. إتاحة الاستماع لا تعني السماح بإعادة استخدام التسجيل.",
-      "للتوليد النصي انسخ الأوامر أدناه. مع الصور، يتيح H3 الرسمي إطار البداية أو مراجع الصور؛ أما MusicMaker فيحتاج صورة بداية وصورة نهاية لكل لقطة.",
-      "اختر Hailuo H3 الرسمي أو MusicMaker ونسبة 9:16. في H3 اختر 5 ثوانٍ؛ صفحة المقاطع القصيرة في MusicMaker تذكر حاليًا 5 ثوانٍ ودقة 480p. راجع اللقطة الأولى قبل إنشاء البقية.",
-      "اقتطع 4 ثوانٍ من كل مقطع وضعها عند الثواني 0 و4 و8 و12. اكتم صوت المقاطع وأبق الموسيقى المختارة. أعد ضبط نقاط القطع عند تغيير الأغنية.",
-      "أضف العنوان في برنامج المونتاج، وصدّر MP4 ثم شغّل الملف. افحص الإطارات السوداء والصوت المكرر والنهاية المبتورة."
+      "اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.",
+      "في Hailuo الرسمي اختر H3 وتوليد الفيديو من النص، أو استخدم أداة المقاطع القصيرة في MusicMaker. اختر 9:16 وخمس ثوانٍ لكل لقطة. يذكر MusicMaker حاليًا دقة 480p واستخدام H3.",
+      "راجع A للزهور أولًا، ثم أنشئ B للجدول وC لقوس قزح وD للنهاية. انسخ كل أمر إنجليزي منفصلًا. مسار الصور في MusicMaker يحتاج صورتي بداية ونهاية تملك حق استخدامهما.",
+      "احتفظ بأربع ثوانٍ مستقرة من كل مقطع ووصلها بقطع مباشر. اكتم الصوت المولّد واترك مسار موسيقى واحدًا. أضف العنوان في آخر ثانيتين وخفّض الموسيقى تدريجيًا عند النهاية.",
+      "صدّر MP4 بنسبة 9:16. افحص الإطارات السوداء واتجاه الماء والتشوهات. تكبير 480p لا يضيف تفاصيل. قلل الحركة أو استخدم صورة مرجعية مأذونًا بها ثابتة إذا تغير المشهد كثيرًا."
     ],
-    "shots": [
-      "خريطة ونظارة داخل سيارة متوقفة",
-      "طريق بين الحقول من داخل السيارة",
-      "حقول ذهبية عبر النافذة الجانبية",
-      "مشهد واسع للوجهة مع العنوان"
-    ],
-    "prompt_intro": "افتح أوامر اللقطات الأربع. استخدم أمرًا واحدًا في كل مرة.",
-    "prompts": [
-      "A: سيارة متوقفة بجانب حقول ذهبية في ضوء نهاري دافئ. لقطة قريبة ثابتة لخريطة مطوية ونظارة على لوحة القيادة. الداخل والأشياء ساكنة. بلا أشخاص أو كتابة.",
-      "B: منظر من المقعد الأمامي لطريق وسط حقول ذهبية. سماء زرقاء وضوء دافئ. الخريطة والنظارة ثابتتان. كاميرا ثابتة داخل السيارة وتقدم بطيء. بلا تفرعات للطريق أو أشخاص أو كتابة.",
-      "C: منظر جانبي للحقول الذهبية نفسها من نافذة السيارة. سماء زرقاء وضوء دافئ. كاميرا ثابتة والحقول تتحرك ببطء إلى الخلف والأفق مستقيم. بلا مبانٍ أو أشخاص أو كتابة.",
-      "D: نقطة مشاهدة مفتوحة عند حافة الحقول الذهبية. سماء زرقاء وضوء دافئ. لقطة واسعة ثابتة وعشب يتحرك قليلًا. مساحة خالية أسفل الصورة لإضافة العنوان لاحقًا. بلا سيارة أو أشخاص أو كتابة."
-    ],
-    "limits": "هذه أوامر تدريب جديدة لم تُختبر بالتوليد، وليست سجل إنتاج الأعمال الأصلية. تذكر صفحة المقاطع القصيرة في MusicMaker استخدام H3، لكن الإعدادات والحصص تختلف بين الأداتين.",
-    "next_intro": "بعد إنهاء تمرين الطريق، أضف مهارة واحدة كل مرة. الصور تفتح الأعمال الأصلية، والخطط تفتح خطوات مفصلة بالإنجليزية.",
-    "next_lessons": [
-      "اربط ضوء النافذة والزهور وغطاء البيانو للتدرب على الانتقال إلى التفاصيل.",
-      "أعد استخدام مرجع الشخصية وافحص ثبات الوجه والميكروفون والحلقة المضيئة.",
-      "ارفع صورتك ومقطع غناء قصيرًا؛ افحص حركة الفم ثم اليدين.",
-      "عبّر عن جملة غنائية بلقطة قريبة ثابتة وحركات بسيطة."
-    ],
-    "vocal": "للغناء استخدم مراجع الصوت في H3 الرسمي أو مدخلي الموسيقى والصورة في MusicMaker. النموذج المستخدم في أمثلة الغناء المنشورة لدى MusicMaker غير معلن. افحص الصوت والفم والأصابع ولا تكرر المسار الصوتي.",
+    "prompt_intro": "أوامر إنجليزية قابلة للنسخ · جديدة ولم تُختبر بالتوليد",
+    "limits": "حافظ على الضوء والتضاريس، وأنهِ الموسيقى والصورة معًا. الاستماع العام لا يمنح حق إعادة استخدام التسجيل تلقائيًا.",
+    "next_intro": "انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو. نموذج المثال غير معلن، والتمرين أدناه جديد.",
+    "vocal": "الشخص نفسه، شفتان واضحتان، مسار صوت واحد ونهاية طبيعية. الأمر لا يضمن حفظ الصوت أو مزامنة الفم بدقة.",
     "models": [
       "خطط للصوت والصورة معًا؛ المدخلات المرجعية المتاحة تعتمد على الأداة.",
       "تعطي الأمثلة الرسمية أدوارًا منفصلة للصور والفيديو والصوت.",
@@ -1005,6 +913,14 @@
     "performance_titles": {
       "performance-1": "أداء بالغيتار",
       "performance-2": "غناء معبّر"
-    }
+    },
+    "vocal_steps": [
+      "جهّز صورة شخصية مأذونًا بها شبه أمامية تظهر الشفتين، وجملة غنائية لك أو مرخصة. اقتطع نحو عشر ثوانٍ مع مساحة تنفس في البداية والنهاية. المقطع التدريبي الآلي لا يحل محل الصوت الغنائي.",
+      "في H3 Omni Reference أضف الصورة والغناء إلى Refs. اختر نحو عشر ثوانٍ ونسبة مناسبة. مرجع الصوت يتطلب صورة أو فيديو معه.",
+      "في MusicMaker ضع الغناء في Music File والصورة في Character Image والأمر أدناه في Prompt. راجع المقطع والتكلفة المقدرة وخيار Public قبل Generate.",
+      "ابدأ بكاميرا ثابتة. قارن الفم والصوت في البداية والوسط والنهاية. التأخير الثابت يمكن تعديله بالمونتاج؛ إذا زاد مع الوقت فقصّر الجملة وأعد التوليد. قلل الإيماء إذا تغير الوجه.",
+      "اختر الصوت الأصلي أو المولّد واحذف المسار المكرر. أضف عنوان الأغنية وصدّر MP4. تأكد من اكتمال الجملة والنفس الأخير قبل تجربة اقتراب بطيء للكاميرا في محاولة لاحقة."
+    ],
+    "watch_demo": "شاهد مثال MusicMaker"
   }
 }

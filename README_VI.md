@@ -8,9 +8,9 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a></p>
 
-[![Ca sĩ trên sân thượng, hình khối kim loại và chuyến tàu đêm mưa. Đây là hình ý tưởng gốc, không phải kết quả tạo video.](assets/music-video-directions.png)](#first-video)
+[![Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.](assets/music-video-workflow.png)](#first-video)
 
-Ca sĩ trên sân thượng, hình khối kim loại và chuyến tàu đêm mưa. Đây là hình ý tưởng gốc, không phải kết quả tạo video.
+Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.
 
 <a id="x-creators"></a>
 
@@ -39,21 +39,24 @@ Tên mô hình do tác giả công bố. Nội dung và tư liệu được ki�
 
 ## Nghe MusicMaker
 
-Sáu bài hát trong hai cột, ba hàng. Bốn ảnh bìa đầu gợi ý hình ảnh; hai bài cuối còn có mô tả phối khí từ trang nguồn. Bấm ảnh để nghe bản gốc.
+Chín bài hát trong ba cột, ba hàng. So sánh ý tưởng bìa và mô tả phối khí từ nguồn. Hai bài hướng dẫn bên dưới dùng ví dụ khác.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Ý tưởng ảnh bìa: sân khấu neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Ý tưởng ảnh bìa: đàn piano bên cửa sổ<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Ý tưởng ảnh bìa: sân khấu neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Ý tưởng ảnh bìa: đàn piano bên cửa sổ<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ý tưởng ảnh bìa: con đường rộng mở<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Nghe bài hát</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ý tưởng ảnh bìa: con đường rộng mở<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ý tưởng ảnh bìa: bờ biển mùa hè<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ý tưởng ảnh bìa: bờ biển mùa hè<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Nguồn mô tả: nhịp 6/8, guitar, piano và cello<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Nguồn mô tả: guitar mộc, bass, đàn dây và giọng nam<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Nghe bài hát</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Nguồn mô tả: nhịp 6/8, guitar, piano và cello<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Nguồn mô tả: guitar mộc, bass, đàn dây và giọng nam<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Bìa: thư và cà phê<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Bìa: sân thượng thành phố<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Bìa: con phố đầy nắng<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Nghe bài hát</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
@@ -62,64 +65,53 @@ Sáu bài hát trong hai cột, ba hàng. Bốn ảnh bìa đầu gợi ý hình
 
 ## Làm video đầu tiên
 
-Lấy ảnh bìa The Open Road làm ý tưởng cho chuyến đi dài 16 giây. Các bước dưới đây dành cho cảnh đường bộ. Nếu chọn Summer High, mở đề án bờ biển trong thẻ tương ứng.
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ý tưởng ảnh bìa: con đường rộng mở<br><a href="docs/brand-projects.md#the_open_road"><kbd>→ Đề án · tiếng Anh</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ý tưởng ảnh bìa: bờ biển mùa hè<br><a href="docs/brand-projects.md#summer_high"><kbd>→ Đề án · tiếng Anh</kbd></a></td>
-</tr>
-</table>
+[▶ Nghe bài hát](https://musicmaker.im/detail/discover-v2-98/) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
-[♫ Nhạc luyện tập](starter-kit/practice-beat-120bpm.wav) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
+[♫ Nhạc luyện tập](starter-kit/practice-beat-120bpm.wav)
 
-1. Chọn một câu nhạc trọn vẹn dài 16 giây từ bài của bạn hoặc dùng nhạc luyện tập gốc. Trên GitHub, chọn Download raw file để tải. Nghe được không đồng nghĩa với quyền tái sử dụng bản thu.
-2. Nếu chỉ dùng chữ, sao chép câu lệnh bên dưới. Với hình ảnh, H3 chính thức có khung đầu hoặc hình tham chiếu; MusicMaker cần một ảnh đầu và một ảnh cuối cho mỗi cảnh.
-3. Chọn Hailuo H3 chính thức hoặc MusicMaker, tỷ lệ 9:16. Trong H3 chọn 5 giây; trang video ngắn MusicMaker hiện ghi 5 giây, 480p. Kiểm tra cảnh đầu trước khi tạo các cảnh còn lại.
-4. Cắt bốn đoạn còn 4 giây mỗi đoạn, đặt ở giây 0, 4, 8 và 12. Tắt âm thanh đi kèm video, chỉ giữ nhạc. Đổi bài hát thì điều chỉnh lại điểm cắt.
-5. Thêm tên video bằng phần mềm dựng, xuất MP4 rồi xem lại tệp. Kiểm tra khung đen, âm thanh chồng đôi và đoạn kết bị cắt đột ngột.
+1. Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.
 
-- **00–04s** · Bản đồ và kính trong xe đang đỗ
-- **04–08s** · Đường giữa cánh đồng nhìn từ xe
-- **08–12s** · Cánh đồng vàng qua cửa bên
-- **12–16s** · Toàn cảnh điểm đến và tên video
+2. Trong Hailuo chính thức, chọn H3 và tạo video từ văn bản, hoặc dùng công cụ đoạn phim ngắn MusicMaker. Chọn 9:16, mỗi đoạn năm giây. MusicMaker hiện ghi 480p và sử dụng H3.
 
-<details>
-<summary><b>Mở bốn câu lệnh. Mỗi lần chỉ tạo một cảnh.</b></summary>
+3. Kiểm tra A với hoa trước, rồi tạo B với suối, C với cầu vồng và D kết thúc. Sao chép riêng từng câu lệnh tiếng Anh. Cách dùng ảnh trong MusicMaker cần ảnh đầu và cuối do bạn sở hữu hoặc được phép dùng.
+
+4. Giữ bốn giây ổn định mỗi đoạn, nối bằng cắt thẳng. Tắt âm thanh được tạo và chỉ giữ một bản nhạc. Thêm tên trong hai giây cuối, giảm dần âm lượng ở cuối.
+
+5. Xuất MP4 9:16. Kiểm tra khung đen, hướng nước và biến dạng. Phóng lớn 480p không thêm chi tiết. Giảm chuyển động hoặc dùng cùng ảnh tham chiếu hợp lệ nếu cảnh vật thay đổi nhiều.
+
+**Câu lệnh tiếng Anh để sao chép · viết mới, chưa thử tạo video**
 
 ```text
-A: Xe đỗ cạnh cánh đồng vàng, ánh sáng ban ngày ấm.
-Cận cảnh cố định bản đồ gấp và kính trên bảng điều khiển.
-Nội thất và đồ vật đứng yên.
-Không người, không chữ.
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
 ```
 
 ```text
-B: Từ ghế trước nhìn ra đường giữa cánh đồng vàng.
-Trời xanh, ánh sáng ấm.
-Bản đồ và kính đứng yên.
-Máy quay cố định trong xe, tiến chậm.
-Không ngã rẽ, không người, không chữ.
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
 ```
 
 ```text
-C: Nhìn qua cửa bên vào cùng cánh đồng vàng.
-Trời xanh, ánh sáng ấm.
-Máy quay cố định, cánh đồng trôi chậm về sau, đường chân trời cân bằng.
-Không nhà, người hay chữ.
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
 ```
 
 ```text
-D: Điểm ngắm cảnh thoáng ở cuối cánh đồng vàng.
-Trời xanh, ánh sáng ấm.
-Toàn cảnh cố định, cỏ lay nhẹ.
-Chừa khoảng trống phía dưới để thêm tên sau.
-Không xe, người hay chữ.
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-</details>
-
-Đây là câu lệnh luyện tập mới, chưa được kiểm nghiệm bằng việc tạo video và không phải công thức của tác phẩm gốc. MusicMaker ghi dùng H3 ở trang video ngắn, nhưng cài đặt và hạn mức hai công cụ khác nhau.
+Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. Nghe được bài hát công khai không đồng nghĩa có quyền tái sử dụng.
 
 [→ Các bước · tiếng Anh](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -127,22 +119,35 @@ Không xe, người hay chữ.
 
 ## Học kỹ năng tiếp theo
 
-Sau bài tập con đường, thêm từng kỹ năng một. Hình mở tác phẩm gốc; đề án mở các bước chi tiết bằng tiếng Anh.
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video. Mô hình của ví dụ không được công bố, bài tập bên dưới được viết mới.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Nối ánh cửa sổ, hoa và nắp đàn để luyện cắt sang chi tiết.<br><a href="docs/brand-projects.md#echoes_of_you"><kbd>→ Đề án · tiếng Anh</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Dùng cùng hình nhân vật, kiểm tra mặt, micro và vòng sáng có nhất quán không.<br><a href="docs/brand-projects.md#neon_pulse"><kbd>→ Đề án · tiếng Anh</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Input portrait: seated woman holding an electric guitar under warm stage lighting" width="100%"></a><br><b>Biểu diễn ghi-ta</b><br>Tải chân dung và một câu hát của bạn; kiểm tra miệng trước, rồi đến bàn tay.<br><a href="docs/brand-projects.md#performance-1"><kbd>→ Đề án · tiếng Anh</kbd></a></td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a><br><b>Giọng hát giàu cảm xúc</b><br>Diễn đạt một câu hát bằng cận cảnh cố định và cử động nhỏ.<br><a href="docs/brand-projects.md#performance-2"><kbd>→ Đề án · tiếng Anh</kbd></a></td>
-</tr>
-</table>
+[▶ Xem video mẫu MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
-Với cảnh hát, dùng tham chiếu âm thanh của H3 chính thức hoặc nhạc và chân dung trong MusicMaker. Các video hát mẫu của MusicMaker không nêu mô hình. Kiểm tra âm thanh, miệng, ngón tay và tránh chồng hai bản nhạc.
+1. Chuẩn bị chân dung được phép dùng, gần chính diện và thấy rõ môi, cùng một câu hát của bạn hoặc được cấp phép. Cắt khoảng mười giây, chừa hơi thở đầu và cuối. Nhạc luyện tập không lời không thay thế giọng hát.
 
-[↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/) · [→ Các bước · tiếng Anh](docs/first-video.md#vocal)
+2. Trong H3 Omni Reference, thêm chân dung và giọng hát vào Refs. Chọn khoảng mười giây và tỉ lệ phù hợp. Tham chiếu âm thanh phải đi kèm ảnh hoặc video.
+
+3. Trong MusicMaker, đặt giọng hát vào Music File, ảnh vào Character Image, câu lệnh dưới vào Prompt. Kiểm tra đoạn âm thanh, mức dùng dự kiến và Public trước khi nhấn Generate.
+
+4. Bắt đầu bằng máy quay cố định. So môi với âm thanh ở đầu, giữa, cuối. Lệch đều có thể chỉnh khi dựng; lệch tăng dần thì rút ngắn câu hoặc tạo lại. Giảm gật đầu nếu khuôn mặt thay đổi.
+
+5. Chọn giọng gốc hoặc âm thanh được tạo, xóa đường tiếng trùng. Thêm tên bài rồi xuất MP4. Kiểm tra câu hát và hơi thở kết thúc đầy đủ trước khi thử máy quay tiến chậm.
+
+**Câu lệnh tiếng Anh để sao chép · viết mới, chưa thử tạo video**
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên. Câu lệnh không bảo đảm giữ nguyên âm thanh hay khớp môi chính xác.
+
+[→ Các bước · tiếng Anh](docs/first-video.md#vocal)
 
 ## Tài liệu chính thức của mô hình
 

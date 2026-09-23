@@ -8,9 +8,9 @@
 
 <p align="center"><a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a></p>
 
-[![Penyanyi di atap, bentuk logam, dan kereta malam hujan. Ini gambar konsep orisinal, bukan hasil video yang telah dibuat.](assets/music-video-directions.png)](#first-video)
+[![Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.](assets/music-video-workflow.png)](#first-video)
 
-Penyanyi di atap, bentuk logam, dan kereta malam hujan. Ini gambar konsep orisinal, bukan hasil video yang telah dibuat.
+Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.
 
 <a id="x-creators"></a>
 
@@ -39,21 +39,24 @@ Nama model mengikuti keterangan kreator. Teks dan media diperiksa melalui cermin
 
 ## Dengarkan MusicMaker
 
-Enam lagu dalam dua kolom dan tiga baris. Empat sampul pertama memberi ide visual; dua lagu terakhir juga memiliki deskripsi aransemen dari sumber. Klik sampul untuk mendengarkan.
+Sembilan lagu dalam tiga kolom dan tiga baris. Bandingkan ide sampul dan keterangan aransemen dari sumber. Dua tutorial di bawah memakai contoh berbeda.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Ide sampul: panggung neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Ide sampul: piano di jendela<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Ide sampul: panggung neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Ide sampul: piano di jendela<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ide sampul: jalan terbuka<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Dengarkan</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ide sampul: jalan terbuka<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ide sampul: pesisir musim panas<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ide sampul: pesisir musim panas<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Deskripsi sumber: birama 6/8, gitar, piano, selo<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Deskripsi sumber: gitar akustik, bas, alat gesek, vokal pria<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Dengarkan</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Deskripsi sumber: birama 6/8, gitar, piano, selo<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Deskripsi sumber: gitar akustik, bas, alat gesek, vokal pria<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Sampul: surat dan kopi<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Sampul: atap kota<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Sampul: jalan cerah<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Dengarkan</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
@@ -62,64 +65,53 @@ Enam lagu dalam dua kolom dan tiga baris. Empat sampul pertama memberi ide visua
 
 ## Buat video pertama
 
-Gunakan sampul The Open Road sebagai inspirasi video perjalanan 16 detik. Langkah di bawah khusus untuk jalan raya. Untuk Summer High, buka rencana pesisir pada kartunya.
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ide sampul: jalan terbuka<br><a href="docs/brand-projects.md#the_open_road"><kbd>→ Rencana latihan · Inggris</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ide sampul: pesisir musim panas<br><a href="docs/brand-projects.md#summer_high"><kbd>→ Rencana latihan · Inggris</kbd></a></td>
-</tr>
-</table>
+[▶ Dengarkan](https://musicmaker.im/detail/discover-v2-98/) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
-[♫ Musik latihan](starter-kit/practice-beat-120bpm.wav) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
+[♫ Musik latihan](starter-kit/practice-beat-120bpm.wav)
 
-1. Pilih bagian utuh 16 detik dari lagu milik Anda, atau gunakan musik latihan orisinal. Di GitHub, pilih Download raw file. Bisa mendengarkan bukan berarti boleh memakai ulang rekamannya.
-2. Untuk teks saja, tempel prompt di bawah. Untuk panduan gambar, H3 resmi menyediakan bingkai awal atau referensi gambar; MusicMaker memerlukan gambar awal dan akhir untuk setiap klip.
-3. Pilih Hailuo H3 resmi atau MusicMaker, dengan rasio 9:16. Di H3 pilih 5 detik; halaman klip MusicMaker saat ini menyebut 5 detik dan 480p. Periksa satu hasil sebelum membuat sisanya.
-4. Potong empat klip menjadi masing-masing 4 detik, lalu letakkan pada detik 0, 4, 8, dan 12. Matikan suara klip dan sisakan lagu. Sesuaikan titik potong jika mengganti musik.
-5. Tambahkan judul di editor pada klip terakhir, ekspor MP4, lalu putar berkasnya. Periksa bingkai hitam, suara ganda, dan akhir yang terpotong tiba-tiba.
+1. Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.
 
-- **00–04s** · Peta dan kacamata saat mobil parkir
-- **04–08s** · Jalan di antara ladang dari dalam mobil
-- **08–12s** · Ladang keemasan melewati jendela samping
-- **12–16s** · Pemandangan tujuan dengan judul
+2. Di Hailuo resmi pilih H3 dan teks ke video, atau gunakan alat klip pendek MusicMaker. Pilih 9:16 dan lima detik per klip. MusicMaker saat ini mencantumkan 480p dan penggunaan H3.
 
-<details>
-<summary><b>Buka empat prompt klip. Gunakan satu per proses.</b></summary>
+3. Periksa A, bunga, dahulu; lalu buat B, sungai, C, pelangi, dan D, penutup. Salin prompt Inggris satu per satu. Jalur gambar MusicMaker memerlukan gambar awal dan akhir milik sendiri atau berizin.
+
+4. Ambil empat detik stabil dari tiap klip dan gunakan potongan langsung. Bisukan suara hasil generasi, sisakan satu musik. Tambahkan judul pada dua detik terakhir dan turunkan volume perlahan di akhir.
+
+5. Ekspor MP4 9:16. Periksa bingkai hitam, arah air, dan bentuk yang berubah. Memperbesar 480p tidak menambah detail. Kurangi gerakan atau gunakan gambar referensi berizin yang sama bila bentang alam berubah terlalu banyak.
+
+**Prompt bahasa Inggris untuk disalin · baru, belum diuji melalui generasi**
 
 ```text
-A: Mobil parkir di tepi ladang keemasan, cahaya siang hangat.
-Kamera diam menyorot dekat peta terlipat dan kacamata di dasbor.
-Interior dan peta tidak bergerak.
-Tanpa orang atau tulisan.
+A: A green valley after rain, soft afternoon sunlight.
+Close-up of purple wildflowers with water droplets beside a shallow stream.
+Locked camera; a light breeze moves only the flower stems. Soft grassy background.
+Natural photographic realism. No people, buildings or text; keep flower count stable.
 ```
 
 ```text
-B: Pandangan dari kursi depan ke jalan di antara ladang keemasan.
-Langit biru, cahaya hangat.
-Peta dan kacamata tetap di dasbor.
-Kamera diam di interior, mobil maju perlahan.
-Tanpa percabangan jalan, orang, atau tulisan.
+B: The same green valley after rain in soft afternoon sunlight.
+Medium view of a shallow stream flowing between grassy slopes toward the foreground.
+Locked camera; water moves slowly over stones, purple flowers sway subtly.
+Keep the riverbanks stable. No people, buildings or text.
 ```
 
 ```text
-C: Pandangan dari jendela samping ke ladang keemasan yang sama.
-Langit biru dan cahaya hangat.
-Kamera diam, ladang bergerak perlahan ke belakang, cakrawala rata.
-Tanpa bangunan, orang, atau tulisan.
+C: Wide view of a green valley after rain in soft afternoon sunlight.
+One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
+Locked wide camera; grass moves subtly and clouds drift slowly.
+Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
 ```
 
 ```text
-D: Tempat pandang terbuka di ujung ladang keemasan.
-Langit biru dan cahaya hangat.
-Gambar lebar diam, rumput bergerak pelan.
-Sisakan ruang bawah untuk judul nanti.
-Tanpa mobil, orang, atau tulisan.
+D: A distant view of the same green valley after rain, soft afternoon sunlight.
+A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
+Leave clean grass in the lower frame for a title added later.
+Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-</details>
-
-Prompt latihan ini baru ditulis dan belum diuji melalui generasi. Ini bukan rekaman proses pembuatan karya asli. MusicMaker menyebut H3 pada halaman klipnya, tetapi pengaturan dan kuota kedua alat berbeda.
+Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang bisa didengar publik belum tentu boleh digunakan ulang.
 
 [→ Langkah lengkap · Inggris](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -127,22 +119,35 @@ Prompt latihan ini baru ditulis dan belum diuji melalui generasi. Ini bukan reka
 
 ## Pelajari teknik berikutnya
 
-Setelah latihan jalan selesai, tambah satu keterampilan saja. Gambar menuju sumber asli; tautan rencana menuju langkah lengkap berbahasa Inggris.
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton. Model demo tidak diumumkan, dan latihan berikut ditulis baru.</td></tr></table>
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Hubungkan cahaya jendela, bunga, dan tutup piano untuk berlatih potongan detail.<br><a href="docs/brand-projects.md#echoes_of_you"><kbd>→ Rencana latihan · Inggris</kbd></a></td>
-<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Gunakan referensi tokoh yang sama; periksa wajah, mikrofon, dan lingkar neon.<br><a href="docs/brand-projects.md#neon_pulse"><kbd>→ Rencana latihan · Inggris</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Input portrait: seated woman holding an electric guitar under warm stage lighting" width="100%"></a><br><b>Penampilan gitar</b><br>Masukkan potret dan cuplikan vokal milik Anda. Periksa mulut, lalu tangan pada gitar.<br><a href="docs/brand-projects.md#performance-1"><kbd>→ Rencana latihan · Inggris</kbd></a></td>
-<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a><br><b>Vokal penuh perasaan</b><br>Gunakan gambar dekat dengan kamera diam untuk satu frasa lagu dan gerakan kecil.<br><a href="docs/brand-projects.md#performance-2"><kbd>→ Rencana latihan · Inggris</kbd></a></td>
-</tr>
-</table>
+[▶ Tonton demo MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
-Untuk bernyanyi, pilih referensi audio H3 resmi atau input musik dan potret MusicMaker. Model di balik demo vokal MusicMaker tidak disebutkan. Periksa suara, gerak mulut, dan jari; jangan menumpuk audio yang sama.
+1. Siapkan potret berizin hampir menghadap depan, bibir terlihat, serta nyanyian sendiri atau berizin. Potong satu frasa sekitar sepuluh detik dengan sedikit ruang bernapas di awal dan akhir. Musik instrumental latihan bukan pengganti vokal.
 
-[↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/) · [→ Langkah lengkap · Inggris](docs/first-video.md#vocal)
+2. Di H3 Omni Reference masukkan potret dan vokal ke Refs. Pilih sekitar sepuluh detik dan rasio yang sesuai. Referensi audio harus disertai gambar atau video.
+
+3. Di MusicMaker masukkan vokal ke Music File, potret ke Character Image, dan instruksi berikut ke Prompt. Periksa potongan, perkiraan penggunaan, serta Public sebelum Generate.
+
+4. Mulai dengan kamera diam. Bandingkan mulut dan suara di awal, tengah, serta akhir. Selisih tetap bisa digeser saat mengedit; selisih yang makin besar perlu frasa lebih pendek atau generasi ulang. Kurangi anggukan bila wajah berubah.
+
+5. Gunakan vokal asli atau suara hasil generasi, lalu hapus trek ganda. Tambahkan judul dan ekspor MP4. Pastikan frasa serta napas berakhir utuh sebelum mencoba gerakan kamera mendekat perlahan.
+
+**Prompt bahasa Inggris untuk disalin · baru, belum diuji melalui generasi**
+
+```text
+Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
+Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
+Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
+Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
+subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
+Relax naturally after the phrase. Do not add dialogue or change lyrics.
+No costume change, turning around, cuts, additional people, text or exaggerated expressions.
+```
+
+Orang tetap sama, bibir terlihat, satu trek suara, akhir alami. Prompt tidak menjamin audio asli terjaga atau gerak bibir tepat.
+
+[→ Langkah lengkap · Inggris](docs/first-video.md#vocal)
 
 ## Sumber resmi pengembang model
 
