@@ -99,3 +99,16 @@ for code,filename,labels in [('en','README.md',['X examples','Listen','Make your
     # Make the existing play actions distinct without external badge dependencies.
     s=re.sub(r'<a href="([^\"]+)">(试听这首歌 →|Listen to the track →|播放视频|Watch video)</a>',lambda m:f'<a href="{m[1]}"><kbd>▶ {m[2].replace(" →", "")}</kbd></a>',s)
     p.write_text(s)
+
+# Keep the localized affiliate invitation at the end of every homepage.
+affiliate_copy=json.loads((ROOT/'i18n/affiliate-locales.json').read_text())
+for lang in LANGS:
+    p=ROOT/lang['file'];s=p.read_text()
+    s=re.sub(r'\n*<!-- AFFILIATE:START -->.*?<!-- AFFILIATE:END -->\n*','',s,flags=re.S)
+    title,body,action=affiliate_copy[lang['code']]
+    block=f'\n\n<!-- AFFILIATE:START -->\n**{title}**\n\n{body}\n\n<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ {esc(action)}</kbd></a>\n<!-- AFFILIATE:END -->\n'
+    if lang['code']=='ar':
+        closing=s.rfind('</div>')
+        s=s[:closing].rstrip()+block+'\n</div>\n'
+    else:s=s.rstrip()+block
+    p.write_text(s)

@@ -203,3 +203,11 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 [看 Lofi Girl、OK Go 与 Gorillaz 的做法](docs/inspiration.md) · [复制分镜计划模板](starter-kit/brief-template.md) · [贡献自己的方案](CONTRIBUTING.md)
 
 由 [AI Music Maker](https://musicmaker.im/) 维护，可搭配你习惯的生成与剪辑工具。原创文字、代码和练习音乐采用 [MIT 许可](LICENSE)；外部音乐、图片、视频仍归各自权利人所有，见[素材来源与使用说明](assets/README.md)。
+
+<!-- AFFILIATE:START -->
+**联盟推广合作**
+
+MusicMaker 支持联盟推广合作。欢迎通过教程、测评或社群分享我们的音乐创作工具，并按计划规则获得有效推荐订单的佣金。
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 了解并申请联盟合作</kbd></a>
+<!-- AFFILIATE:END -->

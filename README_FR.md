@@ -173,3 +173,11 @@ Les quatre premières lignes proposent des outils annoncés gratuits ; la cinqui
 [→ Sources et droits](assets/README.md) · [MIT](LICENSE)
 
 Maintenu par AI Music Maker. Textes, code et musique d’exercice originaux : MIT. Les médias externes restent la propriété de leurs ayants droit.
+
+<!-- AFFILIATE:START -->
+**Partenariats d’affiliation**
+
+MusicMaker propose un programme d’affiliation. Présentez nos outils de création musicale dans vos tutoriels, avis ou communautés et recevez des commissions sur les achats recommandés éligibles, selon les conditions du programme.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Découvrir le programme et postuler</kbd></a>
+<!-- AFFILIATE:END -->

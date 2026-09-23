@@ -173,3 +173,11 @@ Empat baris pertama berisi alat yang dinyatakan gratis; baris kelima berisi refe
 [→ Sumber dan izin penggunaan](assets/README.md) · [MIT](LICENSE)
 
 Dikelola AI Music Maker. Teks, kode, dan musik latihan orisinal berlisensi MIT. Musik, gambar, dan video eksternal tetap milik pemegang haknya.
+
+<!-- AFFILIATE:START -->
+**Kemitraan afiliasi**
+
+MusicMaker membuka kerja sama afiliasi. Bagikan alat pembuatan musik kami melalui tutorial, ulasan, atau komunitas Anda, dan dapatkan komisi dari pembelian rujukan yang memenuhi ketentuan program.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Pelajari dan daftar program afiliasi</kbd></a>
+<!-- AFFILIATE:END -->

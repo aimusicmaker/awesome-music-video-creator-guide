@@ -173,3 +173,11 @@ Die ersten vier Zeilen zeigen als kostenlos beworbene Werkzeuge; die fünfte ent
 [→ Quellen und Nutzungsrechte](assets/README.md) · [MIT](LICENSE)
 
 Betreut von AI Music Maker. Eigene Texte, Code und Übungsmusik: MIT. Externe Musik, Bilder und Videos bleiben bei ihren Rechteinhabern.
+
+<!-- AFFILIATE:START -->
+**Affiliate-Partnerschaften**
+
+MusicMaker bietet Affiliate-Partnerschaften an. Stelle unsere Werkzeuge zur Musikproduktion in Tutorials, Rezensionen oder deiner Community vor und erhalte nach den Programmregeln Provisionen für qualifizierte Käufe über deine Empfehlungen.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Affiliate-Programm ansehen und bewerben</kbd></a>
+<!-- AFFILIATE:END -->

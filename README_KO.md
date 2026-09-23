@@ -173,3 +173,11 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 [→ 출처와 사용 조건](assets/README.md) · [MIT](LICENSE)
 
 AI Music Maker가 관리합니다. 자체 글·코드·연습 음원은 MIT 라이선스이며 외부 음악·이미지·영상의 권리는 각 소유자에게 있습니다.
+
+<!-- AFFILIATE:START -->
+**제휴 마케팅 협력**
+
+MusicMaker는 제휴 마케팅 협력을 지원합니다. 튜토리얼, 리뷰 또는 커뮤니티에서 음악 제작 도구를 소개하고, 프로그램 조건에 맞는 추천 구매에 대해 수수료를 받을 수 있습니다.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 제휴 프로그램 알아보고 신청하기</kbd></a>
+<!-- AFFILIATE:END -->

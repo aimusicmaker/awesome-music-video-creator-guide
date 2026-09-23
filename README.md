@@ -208,3 +208,11 @@ Build on the sound you picked: choose a tool for the missing ingredient. The fir
 [Study Lofi Girl, OK Go, and Gorillaz](docs/inspiration.md) · [Copy a planning template](starter-kit/brief-template.md) · [Contribute a recipe](CONTRIBUTING.md)
 
 Maintained by [AI Music Maker](https://musicmaker.im/). Use the workflow with your preferred tools. Original text, code, and practice audio: [MIT](LICENSE). External music, images, and videos remain with their owners: [credits and reuse notes](assets/README.md).
+
+<!-- AFFILIATE:START -->
+**Affiliate partnerships**
+
+MusicMaker supports affiliate partnerships. Share our music creation tools through tutorials, reviews or your community, and earn commission on eligible referrals.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Explore the affiliate program</kbd></a>
+<!-- AFFILIATE:END -->

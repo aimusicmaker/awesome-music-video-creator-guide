@@ -173,3 +173,11 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 [→ แหล่งที่มาและสิทธิ์](assets/README.md) · [MIT](LICENSE)
 
 ดูแลโดย AI Music Maker ข้อความ โค้ด และเพลงฝึกต้นฉบับใช้สัญญาอนุญาต MIT ส่วนเพลง ภาพ และวิดีโอภายนอกเป็นของเจ้าของสิทธิ์แต่ละราย
+
+<!-- AFFILIATE:START -->
+**ความร่วมมือแบบแอฟฟิลิเอต**
+
+MusicMaker เปิดรับพันธมิตรแอฟฟิลิเอต แนะนำเครื่องมือสร้างเพลงของเราผ่านบทสอน รีวิว หรือชุมชนของคุณ และรับค่าคอมมิชชันจากคำสั่งซื้อที่เข้าเงื่อนไขของโครงการ
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ ดูรายละเอียดและสมัครเป็นพันธมิตร</kbd></a>
+<!-- AFFILIATE:END -->

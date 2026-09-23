@@ -184,4 +184,12 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 بإدارة AI Music Maker. النصوص والشيفرة وموسيقى التدريب الأصلية بترخيص MIT. تبقى حقوق الموسيقى والصور والفيديوهات الخارجية لأصحابها.
 
+<!-- AFFILIATE:START -->
+**شراكات التسويق بالعمولة**
+
+يدعم MusicMaker شراكات التسويق بالعمولة. شارك أدواتنا لإنشاء الموسيقى عبر الشروحات والمراجعات أو مجتمعك، واحصل على عمولات من عمليات الشراء المؤهلة الناتجة عن إحالاتك وفق شروط البرنامج.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ تعرّف على البرنامج وقدّم طلب الانضمام</kbd></a>
+<!-- AFFILIATE:END -->
+
 </div>

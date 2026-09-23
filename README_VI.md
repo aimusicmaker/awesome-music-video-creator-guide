@@ -173,3 +173,11 @@ Bốn hàng đầu là công cụ được công bố miễn phí; hàng thứ n
 [→ Nguồn và quyền sử dụng](assets/README.md) · [MIT](LICENSE)
 
 Do AI Music Maker duy trì. Văn bản, mã và nhạc luyện tập gốc dùng giấy phép MIT. Nhạc, hình và video bên ngoài thuộc chủ sở hữu quyền tương ứng.
+
+<!-- AFFILIATE:START -->
+**Hợp tác tiếp thị liên kết**
+
+MusicMaker hỗ trợ hợp tác tiếp thị liên kết. Giới thiệu công cụ sáng tạo âm nhạc qua hướng dẫn, bài đánh giá hoặc cộng đồng của bạn và nhận hoa hồng từ các đơn hàng được giới thiệu đáp ứng điều kiện chương trình.
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Tìm hiểu và đăng ký hợp tác</kbd></a>
+<!-- AFFILIATE:END -->

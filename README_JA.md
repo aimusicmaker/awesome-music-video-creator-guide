@@ -173,3 +173,11 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 [→ 素材の出典と利用条件](assets/README.md) · [MIT](LICENSE)
 
 AI Music Maker が管理。独自の文章・コード・練習音源はMIT。外部の音楽、画像、映像は各権利者に帰属します。
+
+<!-- AFFILIATE:START -->
+**アフィリエイト提携**
+
+MusicMaker はアフィリエイト提携を受け付けています。チュートリアル、レビュー、コミュニティで音楽制作ツールを紹介し、プログラムの規定に沿って対象の紹介購入から報酬を得られます。
+
+<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 提携プログラムの詳細・申請</kbd></a>
+<!-- AFFILIATE:END -->
