@@ -30,3 +30,5 @@ Detailed guides are mainly English or simplified Chinese. Preserve language labe
 [Report a translation problem](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new?template=translation.yml) with the language, page, current text and suggested wording. If a reviewer completes a language review, record the reviewed commit, exact pages, date and reviewer attribution with their permission; do not imply that it covers later changes. See the [editorial policy](../docs/editorial-policy.md) for content and source standards.
 
 Editorial, commercial and test-status disclosures belong in the final collapsible note, after the affiliate invitation. `build_trust.py` combines `disclosures.json` (English and Chinese), each generated locale’s `disclosures` array, and the official-case disclosure. Keep useful input descriptions and action steps beside the relevant tutorial.
+
+The centered opening uses `header-locales.json` for titles, taglines and introductions. `build_header.py` generates the language buttons, highlights the active language, and keeps the opening order consistent before the mobile edition is derived.

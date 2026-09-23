@@ -11,7 +11,7 @@
     ]
   },
   "zh": {
-    "mobile": "手机版",
+    "mobile": "手机版首页",
     "desktop": "桌面版",
     "listen_intro": "向下试听九种不同曲风，从钢琴、摇滚到管弦与舞曲。曲风依据原作详情的 Style（风格）字段；视频方向是新编练习建议。",
     "layout_replacements": [
@@ -22,7 +22,7 @@
     ]
   },
   "tw": {
-    "mobile": "手機版",
+    "mobile": "手機版首頁",
     "desktop": "桌面版",
     "listen_intro": "向下試聽九種不同曲風，從鋼琴、搖滾到管弦與舞曲。曲風依據原作詳情的 Style（風格）欄位；影片方向是新編練習建議。",
     "layout_replacements": [

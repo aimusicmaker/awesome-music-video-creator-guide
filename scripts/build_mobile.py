@@ -41,7 +41,7 @@ for lang in LANGS:
     copy = LABELS[lang['code']]
     mobile_label, desktop_label = copy['mobile'], copy['desktop']
     end = desktop.index('<!-- LANGUAGES:END -->') + len('<!-- LANGUAGES:END -->')
-    button = f'\n\n<!-- DEVICE:START -->\n<p align="center"><a href="mobile/{lang["file"]}"><kbd>📱 {html.escape(mobile_label)}</kbd></a></p>\n<!-- DEVICE:END -->'
+    button = f'\n\n<!-- DEVICE:START -->\n<p align="center"><a href="mobile/{lang["file"]}"><img src="assets/navigation/mobile-{lang["code"]}.svg" alt="📱 {html.escape(mobile_label)}" width="200" height="40"></a></p>\n<!-- DEVICE:END -->'
     path.write_text(desktop[:end] + button + desktop[end:])
     # Transform only prose: prompts in fenced code blocks remain byte-for-byte intact.
     parts = re.split(r'(```.*?```)', desktop, flags=re.S)

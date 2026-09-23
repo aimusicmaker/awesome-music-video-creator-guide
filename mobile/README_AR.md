@@ -1,20 +1,19 @@
 <div dir="rtl">
 
-<h1 align="center">دليل إنشاء الفيديو الموسيقي</h1>
+<h1 align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="AI Music Maker logo" width="30" height="30"></a> AI Music Maker دليل إنشاء الفيديو الموسيقي: التعليمات والأمثلة ودروس المبتدئين</h1>
 
-<!-- BRAND:START -->
-<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
-<!-- BRAND:END -->
+<p align="center"><strong>امنح أغنيتك صورًا تستحق المشاهدة حتى النهاية.</strong></p>
+
+<p align="center">شاهد الأمثلة، واختر فكرة واحدة، ثم أكمل أول فيديو قصير لك.</p>
 
 <!-- LANGUAGES:START -->
-<p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <b>العربية</b></p>
+<p align="center"><a href="README.md"><img src="../assets/navigation/en.svg" alt="English" width="96" height="32"></a> <a href="README_ZH.md"><img src="../assets/navigation/zh.svg" alt="简体中文" width="96" height="32"></a> <a href="README_TW.md"><img src="../assets/navigation/tw.svg" alt="繁體中文" width="96" height="32"></a> <a href="README_JA.md"><img src="../assets/navigation/ja.svg" alt="日本語" width="96" height="32"></a> <a href="README_KO.md"><img src="../assets/navigation/ko.svg" alt="한국어" width="96" height="32"></a> <a href="README_ID.md"><img src="../assets/navigation/id.svg" alt="Bahasa Indonesia" width="140" height="32"></a> <a href="README_IT.md"><img src="../assets/navigation/it.svg" alt="Italiano" width="96" height="32"></a> <a href="README_PT.md"><img src="../assets/navigation/pt.svg" alt="Português" width="96" height="32"></a><br>
+<a href="README_ES.md"><img src="../assets/navigation/es.svg" alt="Español" width="96" height="32"></a> <a href="README_DE.md"><img src="../assets/navigation/de.svg" alt="Deutsch" width="96" height="32"></a> <a href="README_RU.md"><img src="../assets/navigation/ru.svg" alt="Русский" width="96" height="32"></a> <a href="README_FR.md"><img src="../assets/navigation/fr.svg" alt="Français" width="96" height="32"></a> <a href="README_TH.md"><img src="../assets/navigation/th.svg" alt="ไทย" width="96" height="32"></a> <a href="README_VI.md"><img src="../assets/navigation/vi.svg" alt="Tiếng Việt" width="96" height="32"></a> <a href="README_AR.md"><img src="../assets/navigation/ar-active.svg" alt="العربية" width="96" height="32"></a></p>
 <!-- LANGUAGES:END -->
 
 <!-- DEVICE:START -->
 <p align="center"><b>📱 نسخة الهاتف</b> · <a href="../README_AR.md"><kbd>🖥 نسخة الحاسوب</kbd></a></p>
 <!-- DEVICE:END -->
-
-<p align="center"><strong>امنح أغنيتك صورًا تستحق المشاهدة حتى النهاية. شاهد الأمثلة، واختر فكرة واحدة، ثم أكمل أول فيديو قصير لك.</strong></p>
 
 <p align="center"><a href="#official-models"><kbd>✦ أمثلة النماذج ودروسها الرسمية</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ أمثلة من X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ استمع عبر MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ الفيديو الأول</kbd></a> &nbsp; <a href="#next-project"><kbd>→ التدريب التالي</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 أدوات مجانية</kbd></a></p>
 

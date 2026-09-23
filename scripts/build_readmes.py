@@ -139,4 +139,5 @@ for lang in LANGS:
 import runpy
 runpy.run_path(str(ROOT/'scripts/build_official.py'))
 runpy.run_path(str(ROOT/'scripts/build_trust.py'))
+runpy.run_path(str(ROOT/'scripts/build_header.py'))
 runpy.run_path(str(ROOT/'scripts/build_mobile.py'))

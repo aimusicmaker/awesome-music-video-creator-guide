@@ -1,20 +1,17 @@
-<h1 align="center">音乐视频创作指南</h1>
-
-<!-- BRAND:START -->
-<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
-<!-- BRAND:END -->
-
-<!-- LANGUAGES:START -->
-<p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <b>简体中文</b> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
-<!-- LANGUAGES:END -->
-
-<!-- DEVICE:START -->
-<p align="center"><b>📱 手机版</b> · <a href="../README_ZH.md"><kbd>🖥 桌面版</kbd></a></p>
-<!-- DEVICE:END -->
+<h1 align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="AI Music Maker logo" width="30" height="30"></a> AI Music Maker 音乐视频创作指南：提示词、案例与入门教程</h1>
 
 <p align="center"><strong>让一首歌，有一个值得看完的画面。</strong></p>
 
-<p align="center">从新歌预告、人物演唱到循环视觉，即使第一次剪视频，也可以从这里开始：选喜欢的画面，拆解创作者的做法，再做自己的版本。</p>
+<p align="center">新歌预告、人物演唱、旅行叙事或循环视觉。从案例中找灵感，复制提示词生成镜头，再配上音乐剪成自己的作品。</p>
+
+<!-- LANGUAGES:START -->
+<p align="center"><a href="README.md"><img src="../assets/navigation/en.svg" alt="English" width="96" height="32"></a> <a href="README_ZH.md"><img src="../assets/navigation/zh-active.svg" alt="简体中文" width="96" height="32"></a> <a href="README_TW.md"><img src="../assets/navigation/tw.svg" alt="繁體中文" width="96" height="32"></a> <a href="README_JA.md"><img src="../assets/navigation/ja.svg" alt="日本語" width="96" height="32"></a> <a href="README_KO.md"><img src="../assets/navigation/ko.svg" alt="한국어" width="96" height="32"></a> <a href="README_ID.md"><img src="../assets/navigation/id.svg" alt="Bahasa Indonesia" width="140" height="32"></a> <a href="README_IT.md"><img src="../assets/navigation/it.svg" alt="Italiano" width="96" height="32"></a> <a href="README_PT.md"><img src="../assets/navigation/pt.svg" alt="Português" width="96" height="32"></a><br>
+<a href="README_ES.md"><img src="../assets/navigation/es.svg" alt="Español" width="96" height="32"></a> <a href="README_DE.md"><img src="../assets/navigation/de.svg" alt="Deutsch" width="96" height="32"></a> <a href="README_RU.md"><img src="../assets/navigation/ru.svg" alt="Русский" width="96" height="32"></a> <a href="README_FR.md"><img src="../assets/navigation/fr.svg" alt="Français" width="96" height="32"></a> <a href="README_TH.md"><img src="../assets/navigation/th.svg" alt="ไทย" width="96" height="32"></a> <a href="README_VI.md"><img src="../assets/navigation/vi.svg" alt="Tiếng Việt" width="96" height="32"></a> <a href="README_AR.md"><img src="../assets/navigation/ar.svg" alt="العربية" width="96" height="32"></a></p>
+<!-- LANGUAGES:END -->
+
+<!-- DEVICE:START -->
+<p align="center"><b>📱 手机版首页</b> · <a href="../README_ZH.md"><kbd>🖥 桌面版</kbd></a></p>
+<!-- DEVICE:END -->
 
 <p align="center"><a href="#official-models"><kbd>✦ 模型官方案例与教程</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免费工具库</kbd></a></p>
 
