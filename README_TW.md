@@ -172,7 +172,7 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 | [模型官方：Hailuo H3](https://hailuoai.video/zh-Intl/tools/minimax-h3) | 選擇 H3 → Omni Reference；在 Refs 放入人像與歌聲音訊，再填提示詞 | 音訊參考須與圖片或影片配合；設定約 10 秒和匹配人像的畫幅 |
 | [品牌工具：MusicMaker 演唱](https://musicmaker.im/ai-music-video-generator/) | 歌聲放到 Music File，人像放到 Character Image，提示詞放到 Prompt | 先裁好音訊，再看預計消耗和 Public 開關，確認後 Generate |
 
-官方參考模式能結合人物與音訊；品牌入口將音樂、人像和提示詞放在同一流程中。兩者設定不同，不能把短片頁的“文字生成”當成音訊驅動演唱。
+你可以選擇兩條創作路徑：在 Hailuo H3 的 Omni Reference 模式中，加入人像與歌聲參考，再設定鏡頭和表演；或使用 MusicMaker 演唱工具，依序上傳音樂、人像並填寫提示詞，完成一次人物演唱創作。
 
 #### 3. 複製這一段完整提示詞
 
