@@ -35,3 +35,7 @@ Durations are browser-reported media lengths, not generator settings. The public
 The product form shows a credit estimate and a Public switch. Check these before submitting. Listening or viewing is not permission to reuse catalog recordings; see the current [MusicMaker commercial-license page](https://musicmaker.im/commercial-license/) for the applicable terms.
 
 提交前查看表单中的积分估算和 Public（公开）开关。可试听、可观看不等于可复用原录音；具体使用条件见 [MusicMaker 授权说明](https://musicmaker.im/commercial-license/)。
+
+## From references to your own project / 从参考到自己的作品
+
+The [illustrated briefs](brand-projects.md) turn these six visible examples into new shot plans. They are not the source works’ production records. [中文图文提案](brand-projects.zh-CN.md)逐项说明图片来源、需准备的素材、分镜、原创提示词和官方／MusicMaker 两种入口。

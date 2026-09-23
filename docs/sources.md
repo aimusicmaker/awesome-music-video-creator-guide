@@ -43,7 +43,8 @@ The companion [inspiration guide](inspiration.md) separates these references fro
 
 - One original AI-generated triptych concept image, created with the built-in image generation tool; exact prompt in [assets/image-prompts.md](../assets/image-prompts.md).
 - A 16-second motion-still editing example with original artwork and practice audio; four editorial crops, not generated scene animation.
-- Twelve original recipe briefs; none has been batch-tested on MusicMaker.
+- Six illustrated briefs derived from the visible elements of the four Discover covers and two performance input portraits; original practice prompts, not recovered production prompts and not render-tested.
+- Twelve independent general recipe briefs; none has been batch-tested on MusicMaker.
 - A deterministic, original synthesized instrumental practice file; see [the generator](../scripts/make_practice_audio.py).
 - An edit plan, one closing subtitle cue, English/Chinese homepages and beginner walkthroughs, plus 12 Chinese action cards with direct links to the English prompt blocks.
 
@@ -52,3 +53,7 @@ The distinction between a creative brief, a published brand example, and a teste
 ## Official models and visual case sources
 
 [Model makers’ documentation](models.md) · [X prompt/video source records](gallery-sources.json) · [Brand example checks](brand-examples.md). Updated 2026-09-23. Model-level capabilities, interface limits, creator claims and published media are recorded separately.
+
+## Official and brand tutorial routes
+
+On 2026-09-23, the [Hailuo H3 tool guide](https://hailuoai.video/tools/minimax-h3) and [MiniMax release](https://www.minimax.io/blog/minimax-h3) were read alongside the MusicMaker short-video and vocal forms. The tutorial pairs text/image scene generation across official H3 and the brand’s explicitly H3-labeled short-video route. For vocals, it pairs audio-reference and audio/portrait workflows without assigning a backend model to MusicMaker’s published vocal demos. No account-specific generation or output-quality comparison was performed.

@@ -1,5 +1,7 @@
 # Original music-video recipes
 
+Want to start from a published brand image? Explore the [six illustrated projects](../docs/brand-projects.md). The 12 exercises below are independent original briefs, not the brand examples’ original generation prompts.
+
 [Home](../README.md) · [First video](../docs/first-video.md) · [中文操作卡片](README_ZH.md)
 
 Pick a result, prepare the inputs, and copy the motion prompt. Image and music directions belong in the corresponding image/music tool; they are not extra fields in the video form. All recipes are original, untested creative briefs. Durations below are editing targets, not guaranteed generation lengths.

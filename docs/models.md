@@ -50,6 +50,12 @@ The guide recommends specifying musical style, feeling, instruments, speed and p
 
 [MusicMaker music route](https://musicmaker.im/eleven-labs/eleven-labs-music/) · [Loop recipe](../prompts/04-lofi-loop.md)
 
+## Use the official or MusicMaker workflow / 选择官方或品牌入口
+
+For a first project, follow the [English walkthrough](first-video.md) or [中文逐步教程](first-video.zh-CN.md): the same shot plan can be used in [official Hailuo H3](https://hailuoai.video/tools/minimax-h3) or the [MusicMaker short-video tool](https://musicmaker.im/free-short-music-video-generator/). The tutorial explains the actual input steps and the separate audio-and-portrait route for singing.
+
+第一次制作可直接跟着教程操作：两种入口共用同一分镜，区别在于输入控件与输出设置。先看[品牌素材衍生的图文提案](brand-projects.zh-CN.md)，选中画面后再决定用哪个入口。
+
 ## Before you generate / 开始前
 
 Keep the song you intend to publish as the timing reference. If you generate visuals separately, mute unwanted clip audio and align cuts in the editor. A prompt requesting accurate lip-sync or beat alignment does not prove the resulting clip achieved it.
