@@ -1,0 +1,23 @@
+name: Suggest a music-video recipe
+description: Share a practical idea, tested result, or correction.
+title: "[Recipe] "
+body:
+  - type: textarea
+    id: result
+    attributes:
+      label: What should a creator be able to make?
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Inputs, prompt, tool, and edit plan
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Example and what failed
+      description: Link your source, identify the creator and media rights, and say if the recipe is untested.
+    validations:
+      required: true
