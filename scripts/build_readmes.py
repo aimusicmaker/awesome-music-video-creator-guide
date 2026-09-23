@@ -112,3 +112,7 @@ for lang in LANGS:
         s=s[:closing].rstrip()+block+'\n</div>\n'
     else:s=s.rstrip()+block
     p.write_text(s)
+
+# Device-specific pages are derived after all desktop content is finalized.
+import runpy
+runpy.run_path(str(ROOT/'scripts/build_mobile.py'))

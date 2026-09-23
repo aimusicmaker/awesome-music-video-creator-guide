@@ -1,0 +1,203 @@
+{
+  "en": {
+    "mobile": "Mobile edition",
+    "desktop": "Desktop edition",
+    "listen_intro": "Hear nine contrasting sounds, from piano and rock to orchestra and dance music. Genres follow each source’s Style field; video directions are editorial exercise ideas.",
+    "layout_replacements": [
+      [
+        "first four rows",
+        "first four steps"
+      ]
+    ]
+  },
+  "zh": {
+    "mobile": "手机版",
+    "desktop": "桌面版",
+    "listen_intro": "向下试听九种不同曲风，从钢琴、摇滚到管弦与舞曲。曲风依据原作详情的 Style（风格）字段；视频方向是新编练习建议。",
+    "layout_replacements": [
+      [
+        "前四行",
+        "前四项"
+      ]
+    ]
+  },
+  "tw": {
+    "mobile": "手機版",
+    "desktop": "桌面版",
+    "listen_intro": "向下試聽九種不同曲風，從鋼琴、搖滾到管弦與舞曲。曲風依據原作詳情的 Style（風格）欄位；影片方向是新編練習建議。",
+    "layout_replacements": [
+      [
+        "前四行",
+        "前四項"
+      ]
+    ]
+  },
+  "ja": {
+    "mobile": "モバイル版",
+    "desktop": "デスクトップ版",
+    "listen_intro": "ピアノ、ロック、管弦楽、ダンス音楽など9曲を聴き比べましょう。曲風は出典のStyle欄、映像の案はこちらで加えた提案です。",
+    "layout_replacements": [
+      [
+        "最初の4行",
+        "最初の4項目"
+      ],
+      [
+        "5行目",
+        "5番目"
+      ]
+    ]
+  },
+  "ko": {
+    "mobile": "모바일 버전",
+    "desktop": "데스크톱 버전",
+    "listen_intro": "피아노, 록, 관현악, 댄스 음악 등 아홉 곡을 비교해 보세요. 장르는 원문 Style 항목, 영상 아이디어는 편집 제안입니다.",
+    "layout_replacements": [
+      [
+        "첫 네 줄",
+        "첫 네 항목"
+      ],
+      [
+        "다섯째 줄",
+        "다섯째 항목"
+      ]
+    ]
+  },
+  "id": {
+    "mobile": "Versi ponsel",
+    "desktop": "Versi desktop",
+    "listen_intro": "Bandingkan sembilan gaya, dari piano dan rock hingga orkestra dan musik dansa. Genre berasal dari kolom Style; ide video adalah saran editorial.",
+    "layout_replacements": [
+      [
+        "Empat baris pertama",
+        "Empat langkah pertama"
+      ],
+      [
+        "baris kelima",
+        "bagian kelima"
+      ]
+    ]
+  },
+  "it": {
+    "mobile": "Versione mobile",
+    "desktop": "Versione desktop",
+    "listen_intro": "Confronta nove stili, dal pianoforte al rock, all’orchestra e alla musica da ballo. I generi provengono dal campo Style; le idee video sono proposte editoriali.",
+    "layout_replacements": [
+      [
+        "Le prime quattro righe",
+        "I primi quattro passaggi"
+      ],
+      [
+        "contengono strumenti dichiarati gratuiti",
+        "contengono strumenti dichiarati gratuiti"
+      ],
+      [
+        "la quinta raccoglie",
+        "il quinto raccoglie"
+      ]
+    ]
+  },
+  "pt": {
+    "mobile": "Versão para celular",
+    "desktop": "Versão para computador",
+    "listen_intro": "Compare nove estilos, do piano e rock à orquestra e música de dança. Os estilos vêm do campo Style da fonte; as ideias de vídeo são sugestões editoriais.",
+    "layout_replacements": [
+      [
+        "As primeiras quatro linhas",
+        "As primeiras quatro etapas"
+      ]
+    ]
+  },
+  "es": {
+    "mobile": "Versión móvil",
+    "desktop": "Versión de escritorio",
+    "listen_intro": "Compara nueve estilos, del piano y el rock a la orquesta y la música de baile. Los estilos proceden del campo Style; las ideas de vídeo son propuestas editoriales.",
+    "layout_replacements": [
+      [
+        "Las primeras cuatro filas",
+        "Las primeras cuatro etapas"
+      ]
+    ]
+  },
+  "de": {
+    "mobile": "Mobilversion",
+    "desktop": "Desktopversion",
+    "listen_intro": "Vergleiche neun Stile, von Klavier und Rock bis zu Orchester und Tanzmusik. Genres stammen aus dem Style-Feld der Quelle; Bildideen sind redaktionelle Vorschläge.",
+    "layout_replacements": [
+      [
+        "Die ersten vier Zeilen",
+        "Die ersten vier Schritte"
+      ],
+      [
+        "die fünfte enthält",
+        "der fünfte enthält"
+      ]
+    ]
+  },
+  "ru": {
+    "mobile": "Мобильная версия",
+    "desktop": "Версия для компьютера",
+    "listen_intro": "Сравните девять стилей: от фортепиано и рока до оркестра и танцевальной музыки. Жанры взяты из поля Style; идеи видео предложены редакцией.",
+    "layout_replacements": [
+      [
+        "Первые четыре строки",
+        "Первые четыре шага"
+      ],
+      [
+        "пятая —",
+        "пятый —"
+      ]
+    ]
+  },
+  "fr": {
+    "mobile": "Version mobile",
+    "desktop": "Version ordinateur",
+    "listen_intro": "Comparez neuf styles, du piano et du rock à l’orchestre et à la danse. Les styles viennent du champ Style des sources ; les idées vidéo sont nos suggestions.",
+    "layout_replacements": [
+      [
+        "Les quatre premières lignes",
+        "Les quatre premières étapes"
+      ]
+    ]
+  },
+  "th": {
+    "mobile": "เวอร์ชันมือถือ",
+    "desktop": "เวอร์ชันเดสก์ท็อป",
+    "listen_intro": "ฟังเปรียบเทียบเก้าสไตล์ ตั้งแต่เปียโนและร็อกไปจนถึงออร์เคสตราและเพลงเต้นรำ สไตล์อ้างอิงช่อง Style ส่วนแนวคิดวิดีโอเป็นข้อเสนอของผู้เขียน",
+    "layout_replacements": [
+      [
+        "สี่แถวแรก",
+        "สี่ขั้นตอนแรก"
+      ],
+      [
+        "แถวที่ห้า",
+        "ขั้นตอนที่ห้า"
+      ]
+    ]
+  },
+  "vi": {
+    "mobile": "Bản di động",
+    "desktop": "Bản máy tính",
+    "listen_intro": "So sánh chín phong cách, từ piano và rock đến dàn nhạc và nhạc nhảy. Thể loại dựa trên mục Style; ý tưởng video là đề xuất biên tập.",
+    "layout_replacements": [
+      [
+        "Bốn hàng đầu",
+        "Bốn bước đầu"
+      ],
+      [
+        "hàng thứ năm",
+        "bước thứ năm"
+      ]
+    ]
+  },
+  "ar": {
+    "mobile": "نسخة الهاتف",
+    "desktop": "نسخة الحاسوب",
+    "listen_intro": "قارن تسعة أنماط، من البيانو والروك إلى الأوركسترا وموسيقى الرقص. الأنماط من حقل Style في المصدر، وأفكار الفيديو اقتراحات تحريرية.",
+    "layout_replacements": [
+      [
+        "الصفوف الأربعة الأولى",
+        "الخطوات الأربع الأولى"
+      ]
+    ]
+  }
+}

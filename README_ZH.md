@@ -4,6 +4,10 @@
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <b>简体中文</b> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
 <!-- LANGUAGES:END -->
 
+<!-- DEVICE:START -->
+<p align="center"><a href="mobile/README_ZH.md"><kbd>📱 手机版</kbd></a></p>
+<!-- DEVICE:END -->
+
 **让一首歌，有一个值得看完的画面。**
 
 从新歌预告、人物演唱到循环视觉，即使第一次剪视频，也可以从这里开始：选喜欢的画面，拆解创作者的做法，再做自己的版本。

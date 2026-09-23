@@ -4,6 +4,10 @@
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <b>Tiếng Việt</b> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
 <!-- LANGUAGES:END -->
 
+<!-- DEVICE:START -->
+<p align="center"><a href="mobile/README_VI.md"><kbd>📱 Bản di động</kbd></a></p>
+<!-- DEVICE:END -->
+
 **Biến một bài hát thành những hình ảnh đáng xem đến cuối. Xem ví dụ, chọn một ý tưởng và hoàn thành video ngắn đầu tiên của bạn.**
 
 <p align="center"><a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>

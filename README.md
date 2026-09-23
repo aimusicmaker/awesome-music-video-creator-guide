@@ -4,6 +4,10 @@
 <p align="center">🌐 <b>English</b> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
 <!-- LANGUAGES:END -->
 
+<!-- DEVICE:START -->
+<p align="center"><a href="mobile/README.md"><kbd>📱 Mobile edition</kbd></a></p>
+<!-- DEVICE:END -->
+
 **Turn a song into a world worth watching.**
 
 Make a release teaser, a performance clip, or a visual loop—even if this is your first edit. Pick a look, study how creators build it, then make your own.

@@ -162,6 +162,24 @@ for language in languages:
     order = [content.find(f'<a id="{a}">') for a in ['x-creators','listen','first-video','next-project','toolkit']]
     if min(order) < 0 or order != sorted(order):
         errors.append(f'{filename}: incorrect reader journey section order')
+# Mobile layouts are derived from desktop content, with intact copyable prompts.
+for language in languages:
+    filename = language['file']
+    desktop = (ROOT/filename).read_text()
+    mobile_path = ROOT/'mobile'/filename
+    if not mobile_path.exists():
+        errors.append(f'Missing mobile homepage: {filename}')
+        continue
+    mobile = mobile_path.read_text()
+    if desktop.count(f'href="mobile/{filename}"') != 1 or mobile.count(f'href="../{filename}"') != 1:
+        errors.append(f'{filename}: missing or duplicated device switch')
+    if '<table' in mobile or re.search(r'^\|',mobile,re.M):
+        errors.append(f'{filename}: mobile must use a single-column layout')
+    if re.findall(r'```.*?```',desktop,re.S) != re.findall(r'```.*?```',mobile,re.S):
+        errors.append(f'{filename}: mobile prompts differ from desktop')
+    for destination in languages:
+        if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in mobile:
+            errors.append(f'{filename}: mobile language switch missing')
 workflow = (ROOT/'assets/music-video-workflow.png').read_bytes()
 if workflow[:8] != b'\x89PNG\r\n\x1a\n' or struct.unpack('>II',workflow[16:24]) != (1536,1024):
     errors.append('Workflow cover is missing or has unexpected dimensions')

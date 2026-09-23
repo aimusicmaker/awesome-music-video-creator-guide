@@ -4,6 +4,10 @@
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <b>Deutsch</b> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
 <!-- LANGUAGES:END -->
 
+<!-- DEVICE:START -->
+<p align="center"><a href="mobile/README_DE.md"><kbd>📱 Mobilversion</kbd></a></p>
+<!-- DEVICE:END -->
+
 **Gib einem Song Bilder, die man bis zum Ende sehen möchte. Schau dir Beispiele an, wähle eine Idee und stelle dein erstes kurzes Video fertig.**
 
 <p align="center"><a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Gratis-Werkzeuge</kbd></a></p>
