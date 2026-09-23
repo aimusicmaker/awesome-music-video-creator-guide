@@ -14,11 +14,33 @@
 
 <p align="center"><strong>Dale a una canción imágenes que apetezca ver hasta el final. Explora ejemplos, elige una idea y termina tu primer vídeo corto.</strong></p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ Ejemplos en X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Escuchar MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primer vídeo</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Siguiente práctica</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Herramientas gratis</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ Ejemplos y tutoriales oficiales de modelos</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Ejemplos en X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Escuchar MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primer vídeo</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Siguiente práctica</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Herramientas gratis</kbd></a></p>
 
 [![Elegir música → preparar planos y prompts → generar clips → editar y exportar. Ilustración original del proceso con canto, viajes y formas abstractas; no demuestra resultados de vídeo generados.](assets/music-video-workflow.png)](#first-video)
 
 Elegir música → preparar planos y prompts → generar clips → editar y exportar. Ilustración original del proceso con canto, viajes y formas abstractas; no demuestra resultados de vídeo generados.
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## Ejemplos y tutoriales oficiales de modelos
+
+Consulta primero las demostraciones y entradas de los desarrolladores, después las creaciones de la comunidad. No son pruebas propias ni una clasificación.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Fotograma de la demo oficial</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Concierto: separar referencias de espacio e intérpretes.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Ejemplo oficial</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Guía / prompt oficial ↗</a><br><a href="docs/official-cases.md#seedance-concert">Pasos · inglés →</a></td>
+<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Imagen de entrada oficial</sub><br><b>MiniMax H3</b> · MiniMax<br>Canto: separar cámara, personaje y voz.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Ejemplo oficial</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Guía / prompt oficial ↗</a><br><a href="docs/official-cases.md#h3-singing">Pasos · inglés →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Portada del vídeo oficial</sub><br><b>Veo 3</b> · Google DeepMind<br>Instrumentos: describir juntos acción y sonido.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Ejemplo oficial</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Guía / prompt oficial ↗</a><br><a href="docs/official-cases.md#veo-instrument">Pasos · inglés →</a></td>
+<td width="50%" valign="top"><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Entrada de personaje · ejemplo de actuación</sub><br><b>Runway Act-Two</b> · Runway<br>Transferencia: grabar una actuación y añadir un personaje.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Ejemplo oficial</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Guía / prompt oficial ↗</a><br><a href="docs/official-cases.md#act-two-performance">Pasos · inglés →</a></td>
+</tr>
+</table>
+
+Veo: ejemplo Veo 3 en la página actual 3.1. Act-Two muestra actuación general. Las imágenes H3 y Act-Two son entradas.
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 

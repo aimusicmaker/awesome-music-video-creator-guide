@@ -14,11 +14,30 @@
 
 <p align="center"><strong>Beri lagu Anda gambar yang ingin ditonton sampai selesai. Pelajari contoh, pilih satu ide, lalu selesaikan video pendek pertama Anda.</strong></p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ Contoh dan tutorial resmi model</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
 
 [![Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.](../assets/music-video-workflow.png)](#first-video)
 
 Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## Contoh dan tutorial resmi model
+
+Lihat demonstrasi dan masukan pengembang sebelum karya komunitas. Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Cuplikan demo resmi</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Konser: pisahkan referensi tempat dan pemain.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a></p>
+
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Gambar input resmi</sub><br><b>MiniMax H3</b> · MiniMax<br>Bernyanyi: pisahkan kamera, karakter, dan vokal.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#h3-singing">Langkah-langkah · Inggris →</a></p>
+
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Poster video resmi</sub><br><b>Veo 3</b> · Google DeepMind<br>Instrumen: jelaskan gerakan dan suara bersama.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#veo-instrument">Langkah-langkah · Inggris →</a></p>
+
+<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Input karakter · contoh akting umum</sub><br><b>Runway Act-Two</b> · Runway<br>Transfer penampilan: rekam video lalu tambahkan karakter.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#act-two-performance">Langkah-langkah · Inggris →</a></p>
+
+Veo: contoh Veo 3 pada halaman 3.1 saat ini. Act-Two adalah contoh penampilan umum. Gambar H3 dan Act-Two adalah masukan.
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 

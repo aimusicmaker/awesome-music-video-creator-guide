@@ -25,3 +25,7 @@ The current homepages show nine listening covers, one different nature-cover tut
 ## Brand logo
 
 The homepage logo is embedded unchanged from [MusicMaker’s official SVG](https://musicmaker.im/images/logo.svg), as used on the [brand website](https://musicmaker.im/). It links to the brand homepage and remains a brand asset, outside this repository’s MIT grant.
+
+## Official model examples
+
+The [official source manifest](../docs/official-cases.json) records four maker-published examples. `official/seedance-concert.jpg` is an unedited frame extracted at 00:12 from ByteDance Seed’s concert demonstration. H3 and Act-Two thumbnails are official character inputs; the Veo thumbnail is its official violin-example poster. These are attributed reference media, outside the MIT grant, not generated or reproduced results from this repository.

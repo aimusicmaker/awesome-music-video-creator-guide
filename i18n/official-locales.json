@@ -1,0 +1,302 @@
+{
+  "en": {
+    "title": "Official model examples and tutorials",
+    "intro": "See the makers’ examples before exploring community work. These are published demonstrations, not our generation tests or a model ranking.",
+    "example": "Official example",
+    "guide": "Official guide / prompt",
+    "notes": "Step-by-step notes",
+    "lessons": [
+      "Concert: separate references for venue and performers.",
+      "Singing: separate camera, character and vocal references.",
+      "Instrument performance: describe action and sound together.",
+      "Performance transfer: record a driving video, then add a character."
+    ],
+    "boundary": "Veo: the violin example is labeled Veo 3 on the current 3.1 page. Act-Two is a general performance example. H3 and Act-Two images are inputs.",
+    "image_labels": [
+      "Official demo frame",
+      "Official input image",
+      "Official video poster",
+      "Character input · general acting example"
+    ]
+  },
+  "zh": {
+    "title": "模型官方案例与教程",
+    "intro": "先看模型开发者的演示与输入方法，再看社媒创作者怎样拓展。这里收录官方发布案例，不是本库实测，也不作为模型排名。",
+    "example": "看官方案例",
+    "guide": "官方教程／提示词",
+    "notes": "逐步学习笔记",
+    "lessons": [
+      "音乐会：分别指定场地、主唱、乐手与合唱团参考。",
+      "人像演唱：把运镜、人物和歌声分配给不同参考。",
+      "器乐演奏：同时写清演奏动作与声音设计。",
+      "表演迁移：先录表演视频，再配人物参考。"
+    ],
+    "boundary": "Veo 小提琴案例标为 Veo 3，收录于当前 3.1 页面；Act-Two 是通用表演迁移案例。H3 与 Act-Two 配图为官方输入图。",
+    "image_labels": [
+      "官方演示截图",
+      "官方输入图",
+      "官方视频封面",
+      "人物输入图 · 通用表演案例"
+    ]
+  },
+  "tw": {
+    "title": "模型官方案例與教學",
+    "intro": "先看模型開發者的示範與輸入方法，再看社群創作者如何延伸。這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。",
+    "example": "看官方案例",
+    "guide": "官方教學／提示詞",
+    "notes": "逐步學習筆記",
+    "lessons": [
+      "音樂會：分別指定場地、主唱、樂手與合唱團參考。",
+      "人像演唱：將運鏡、人物和歌聲分配給不同參考。",
+      "器樂演奏：同時寫清演奏動作與聲音設計。",
+      "表演轉移：先錄表演影片，再搭配人物參考。"
+    ],
+    "boundary": "Veo 小提琴案例標為 Veo 3，收錄於目前的 3.1 頁面；Act-Two 是通用表演轉移案例。H3 與 Act-Two 配圖為官方輸入圖。",
+    "image_labels": [
+      "官方示範截圖",
+      "官方輸入圖",
+      "官方影片封面",
+      "人物輸入圖 · 通用表演案例"
+    ]
+  },
+  "ja": {
+    "title": "モデル公式の作例とチュートリアル",
+    "intro": "開発元の作例と入力方法を見てから、コミュニティの応用へ。公式公開例であり、本庫の生成テストや順位付けではありません。",
+    "example": "公式作例",
+    "guide": "公式ガイド・プロンプト",
+    "notes": "手順ノート（英語）",
+    "lessons": [
+      "演奏会：会場と演奏者の参照を分ける。",
+      "歌唱：カメラ・人物・歌声の参照を分ける。",
+      "楽器演奏：動きと音を一緒に指定する。",
+      "演技転送：演技動画とキャラクターを用意する。"
+    ],
+    "boundary": "Veoの作例は現行3.1ページ掲載のVeo 3。Act-Twoは一般的な演技例。H3とAct-Twoの画像は入力素材です。",
+    "image_labels": [
+      "公式デモのフレーム",
+      "公式入力画像",
+      "公式動画のサムネイル",
+      "キャラクター入力 · 一般的な演技例"
+    ]
+  },
+  "ko": {
+    "title": "모델 공식 사례와 튜토리얼",
+    "intro": "개발사의 사례와 입력 방법을 먼저 보고 커뮤니티 활용법으로 이어집니다. 공식 공개 사례이며 자체 생성 테스트나 순위가 아닙니다.",
+    "example": "공식 사례",
+    "guide": "공식 안내·프롬프트",
+    "notes": "단계별 노트 · 영어",
+    "lessons": [
+      "음악회: 장소와 연주자 참조를 나눕니다.",
+      "노래: 카메라·인물·보컬 참조를 나눕니다.",
+      "악기 연주: 동작과 소리를 함께 설명합니다.",
+      "연기 전달: 연기 영상과 캐릭터를 준비합니다."
+    ],
+    "boundary": "Veo 사례는 현재 3.1 페이지의 Veo 3 예시입니다. Act-Two는 일반 연기 사례이며 H3와 Act-Two 이미지는 입력 자료입니다.",
+    "image_labels": [
+      "공식 데모 장면",
+      "공식 입력 이미지",
+      "공식 동영상 표지",
+      "캐릭터 입력 · 일반 연기 사례"
+    ]
+  },
+  "de": {
+    "title": "Offizielle Modellbeispiele und Anleitungen",
+    "intro": "Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community. Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten.",
+    "example": "Offizielles Beispiel",
+    "guide": "Offizielle Anleitung / Prompt",
+    "notes": "Schrittfolge · Englisch",
+    "lessons": [
+      "Konzert: Bühne und Mitwirkende getrennt referenzieren.",
+      "Gesang: Kamera, Person und Stimme getrennt referenzieren.",
+      "Instrumente: Bewegung und Klang gemeinsam beschreiben.",
+      "Performance-Transfer: Darbietung filmen, Figur hinzufügen."
+    ],
+    "boundary": "Veo: Das Beispiel ist Veo 3 auf der aktuellen 3.1-Seite. Act-Two zeigt allgemeinen Performance-Transfer. H3- und Act-Two-Bilder sind Eingaben.",
+    "image_labels": [
+      "Bild aus der offiziellen Demo",
+      "Offizielles Eingabebild",
+      "Offizielles Videovorschaubild",
+      "Figureneingabe · allgemeines Schauspielbeispiel"
+    ]
+  },
+  "fr": {
+    "title": "Exemples et tutoriels officiels des modèles",
+    "intro": "Découvrez les démonstrations et les entrées des développeurs avant les créations de la communauté. Ce ne sont ni nos tests de génération ni un classement.",
+    "example": "Exemple officiel",
+    "guide": "Guide / prompt officiel",
+    "notes": "Étapes · anglais",
+    "lessons": [
+      "Concert : séparer les références du lieu et des artistes.",
+      "Chant : distinguer caméra, personnage et voix.",
+      "Instrument : décrire ensemble le geste et le son.",
+      "Transfert : filmer une performance, ajouter un personnage."
+    ],
+    "boundary": "Veo : exemple Veo 3 sur la page actuelle 3.1. Act-Two montre un transfert général. Les images H3 et Act-Two sont des entrées.",
+    "image_labels": [
+      "Image de la démonstration officielle",
+      "Image d’entrée officielle",
+      "Affiche de la vidéo officielle",
+      "Personnage en entrée · exemple de jeu d’acteur"
+    ]
+  },
+  "es": {
+    "title": "Ejemplos y tutoriales oficiales de modelos",
+    "intro": "Consulta primero las demostraciones y entradas de los desarrolladores, después las creaciones de la comunidad. No son pruebas propias ni una clasificación.",
+    "example": "Ejemplo oficial",
+    "guide": "Guía / prompt oficial",
+    "notes": "Pasos · inglés",
+    "lessons": [
+      "Concierto: separar referencias de espacio e intérpretes.",
+      "Canto: separar cámara, personaje y voz.",
+      "Instrumentos: describir juntos acción y sonido.",
+      "Transferencia: grabar una actuación y añadir un personaje."
+    ],
+    "boundary": "Veo: ejemplo Veo 3 en la página actual 3.1. Act-Two muestra actuación general. Las imágenes H3 y Act-Two son entradas.",
+    "image_labels": [
+      "Fotograma de la demo oficial",
+      "Imagen de entrada oficial",
+      "Portada del vídeo oficial",
+      "Entrada de personaje · ejemplo de actuación"
+    ]
+  },
+  "it": {
+    "title": "Esempi e tutorial ufficiali dei modelli",
+    "intro": "Parti dalle dimostrazioni e dagli input degli sviluppatori, poi esplora la community. Non sono nostri test di generazione né una classifica.",
+    "example": "Esempio ufficiale",
+    "guide": "Guida / prompt ufficiale",
+    "notes": "Passaggi · inglese",
+    "lessons": [
+      "Concerto: separare riferimenti di luogo e interpreti.",
+      "Canto: separare camera, personaggio e voce.",
+      "Strumenti: descrivere insieme azione e suono.",
+      "Trasferimento: registrare una performance e aggiungere un personaggio."
+    ],
+    "boundary": "Veo: esempio Veo 3 sulla pagina attuale 3.1. Act-Two mostra una performance generica. Le immagini H3 e Act-Two sono input.",
+    "image_labels": [
+      "Fotogramma della demo ufficiale",
+      "Immagine di input ufficiale",
+      "Copertina del video ufficiale",
+      "Input personaggio · esempio di recitazione"
+    ]
+  },
+  "pt": {
+    "title": "Exemplos e tutoriais oficiais dos modelos",
+    "intro": "Veja primeiro as demonstrações e entradas dos desenvolvedores, depois as criações da comunidade. Não são testes próprios nem um ranking.",
+    "example": "Exemplo oficial",
+    "guide": "Guia / prompt oficial",
+    "notes": "Passo a passo · inglês",
+    "lessons": [
+      "Concerto: separar referências do local e dos intérpretes.",
+      "Canto: separar câmera, personagem e voz.",
+      "Instrumentos: descrever ação e som juntos.",
+      "Transferência: gravar uma atuação e adicionar um personagem."
+    ],
+    "boundary": "Veo: exemplo Veo 3 na página atual 3.1. Act-Two mostra atuação geral. As imagens H3 e Act-Two são entradas.",
+    "image_labels": [
+      "Frame da demonstração oficial",
+      "Imagem de entrada oficial",
+      "Capa do vídeo oficial",
+      "Entrada de personagem · exemplo de atuação"
+    ]
+  },
+  "ru": {
+    "title": "Официальные примеры моделей и уроки",
+    "intro": "Сначала изучите демонстрации и входные материалы разработчиков, затем работы сообщества. Это не наши тесты генерации и не рейтинг.",
+    "example": "Официальный пример",
+    "guide": "Руководство / промпт",
+    "notes": "Пошаговые заметки · английский",
+    "lessons": [
+      "Концерт: отдельные референсы сцены и исполнителей.",
+      "Пение: разделить камеру, персонажа и голос.",
+      "Инструменты: описать движение вместе со звуком.",
+      "Перенос исполнения: записать видео и добавить персонажа."
+    ],
+    "boundary": "Veo: пример Veo 3 на текущей странице 3.1. Act-Two — общий пример переноса исполнения. Изображения H3 и Act-Two — входные материалы.",
+    "image_labels": [
+      "Кадр официальной демонстрации",
+      "Официальное входное изображение",
+      "Обложка официального видео",
+      "Изображение персонажа · пример актёрской игры"
+    ]
+  },
+  "id": {
+    "title": "Contoh dan tutorial resmi model",
+    "intro": "Lihat demonstrasi dan masukan pengembang sebelum karya komunitas. Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.",
+    "example": "Contoh resmi",
+    "guide": "Panduan / prompt resmi",
+    "notes": "Langkah-langkah · Inggris",
+    "lessons": [
+      "Konser: pisahkan referensi tempat dan pemain.",
+      "Bernyanyi: pisahkan kamera, karakter, dan vokal.",
+      "Instrumen: jelaskan gerakan dan suara bersama.",
+      "Transfer penampilan: rekam video lalu tambahkan karakter."
+    ],
+    "boundary": "Veo: contoh Veo 3 pada halaman 3.1 saat ini. Act-Two adalah contoh penampilan umum. Gambar H3 dan Act-Two adalah masukan.",
+    "image_labels": [
+      "Cuplikan demo resmi",
+      "Gambar input resmi",
+      "Poster video resmi",
+      "Input karakter · contoh akting umum"
+    ]
+  },
+  "vi": {
+    "title": "Ví dụ và hướng dẫn chính thức của mô hình",
+    "intro": "Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng. Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.",
+    "example": "Ví dụ chính thức",
+    "guide": "Hướng dẫn / câu lệnh chính thức",
+    "notes": "Các bước · tiếng Anh",
+    "lessons": [
+      "Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.",
+      "Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.",
+      "Nhạc cụ: mô tả cả động tác lẫn âm thanh.",
+      "Chuyển biểu diễn: quay video rồi thêm nhân vật."
+    ],
+    "boundary": "Veo: ví dụ Veo 3 trên trang 3.1 hiện tại. Act-Two là ví dụ biểu diễn chung. Ảnh H3 và Act-Two là đầu vào.",
+    "image_labels": [
+      "Khung hình minh họa chính thức",
+      "Ảnh đầu vào chính thức",
+      "Ảnh bìa video chính thức",
+      "Ảnh nhân vật đầu vào · ví dụ diễn xuất"
+    ]
+  },
+  "th": {
+    "title": "ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล",
+    "intro": "ดูตัวอย่างและข้อมูลนำเข้าจากผู้พัฒนาก่อนชมผลงานชุมชน นี่คือตัวอย่างที่เผยแพร่โดยผู้พัฒนา ไม่ใช่ผลทดสอบหรือการจัดอันดับของเรา",
+    "example": "ตัวอย่างทางการ",
+    "guide": "คู่มือ / พรอมต์ทางการ",
+    "notes": "ขั้นตอน · อังกฤษ",
+    "lessons": [
+      "คอนเสิร์ต: แยกภาพอ้างอิงสถานที่และนักดนตรี",
+      "ร้องเพลง: แยกกล้อง ตัวละคร และเสียงร้อง",
+      "เครื่องดนตรี: อธิบายการเคลื่อนไหวและเสียงร่วมกัน",
+      "ถ่ายทอดการแสดง: ถ่ายวิดีโอแล้วเพิ่มตัวละคร"
+    ],
+    "boundary": "Veo เป็นตัวอย่าง Veo 3 บนหน้า 3.1 ปัจจุบัน ส่วน Act-Two เป็นตัวอย่างการแสดงทั่วไป ภาพ H3 และ Act-Two เป็นข้อมูลนำเข้า",
+    "image_labels": [
+      "ภาพจากวิดีโอสาธิตทางการ",
+      "ภาพอินพุตจากทางการ",
+      "ภาพปกวิดีโอทางการ",
+      "ภาพตัวละครอินพุต · ตัวอย่างการแสดงทั่วไป"
+    ]
+  },
+  "ar": {
+    "title": "أمثلة النماذج ودروسها الرسمية",
+    "intro": "ابدأ بعروض المطورين ومدخلاتها ثم استكشف أعمال المجتمع. هذه أمثلة منشورة وليست اختبارات توليد أجريناها أو ترتيبًا للنماذج.",
+    "example": "المثال الرسمي",
+    "guide": "الدليل / الأمر الرسمي",
+    "notes": "الخطوات · بالإنجليزية",
+    "lessons": [
+      "حفل: افصل مراجع المكان والمؤدين.",
+      "غناء: افصل مراجع الكاميرا والشخصية والصوت.",
+      "عزف: صف الحركة والصوت معًا.",
+      "نقل الأداء: سجّل فيديو ثم أضف الشخصية."
+    ],
+    "boundary": "مثال Veo موسوم Veo 3 في صفحة 3.1 الحالية. Act-Two مثال أداء عام. صور H3 وAct-Two هي مدخلات.",
+    "image_labels": [
+      "لقطة من العرض الرسمي",
+      "صورة إدخال رسمية",
+      "غلاف الفيديو الرسمي",
+      "صورة الشخصية المدخلة · مثال تمثيل عام"
+    ]
+  }
+}

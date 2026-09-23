@@ -16,13 +16,35 @@
 
 <p align="center">從新歌預告、人物演唱到迴圈視覺，即使第一次剪影片，也可以從這裡開始：選喜歡的畫面，拆解創作者的做法，再做自己的版本。</p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ X 創作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 試聽</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 製作第一支影片</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一種技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免費工具庫</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ 模型官方案例與教學</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 創作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 試聽</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 製作第一支影片</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一種技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免費工具庫</kbd></a></p>
 
 [![選音樂、設計分鏡與提示詞、生成鏡頭、剪輯匯出；下方展示人物演唱、旅行敘事與抽象音樂視覺](assets/music-video-workflow.png)](#first-video)
 
 原創流程示意圖，展示本庫怎樣把案例、提示詞、工具與剪輯連起來；畫面是概念設計，不是生成影片實測結果。
 
 **從哪裡開始：** [看案例找靈感](#x-creators) → [聽音樂定方向](#listen) → [做四鏡頭自然短片](#first-video) → [嘗試人像演唱](#next-project)。
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## 模型官方案例與教學
+
+先看模型開發者的示範與輸入方法，再看社群創作者如何延伸。這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>官方示範截圖</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>音樂會：分別指定場地、主唱、樂手與合唱團參考。<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#seedance-concert">逐步學習筆記 →</a></td>
+<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>官方輸入圖</sub><br><b>MiniMax H3</b> · MiniMax<br>人像演唱：將運鏡、人物和歌聲分配給不同參考。<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 看官方案例</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#h3-singing">逐步學習筆記 →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>官方影片封面</sub><br><b>Veo 3</b> · Google DeepMind<br>器樂演奏：同時寫清演奏動作與聲音設計。<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 看官方案例</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#veo-instrument">逐步學習筆記 →</a></td>
+<td width="50%" valign="top"><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>人物輸入圖 · 通用表演案例</sub><br><b>Runway Act-Two</b> · Runway<br>表演轉移：先錄表演影片，再搭配人物參考。<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ 看官方案例</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#act-two-performance">逐步學習筆記 →</a></td>
+</tr>
+</table>
+
+Veo 小提琴案例標為 Veo 3，收錄於目前的 3.1 頁面；Act-Two 是通用表演轉移案例。H3 與 Act-Two 配圖為官方輸入圖。
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 

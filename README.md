@@ -16,13 +16,35 @@
 
 <p align="center">Make a release teaser, a performance clip, or a visual loop—even if this is your first edit. Pick a look, study how creators build it, then make your own.</p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ X examples</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Listen</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Make your first video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Next technique</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Free toolkit</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ Official model examples and tutorials</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X examples</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Listen</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Make your first video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Next technique</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Free toolkit</kbd></a></p>
 
 [![Choose music, plan shots and prompts, generate clips, then edit and export; explore vocal performance, travel stories and abstract music visuals](assets/music-video-workflow.png)](#first-video)
 
 Original workflow illustration connecting this library’s examples, prompts, tools and editing steps. Concept artwork, not evidence of tested video generation.
 
 **Start here:** [Find visual ideas](#x-creators) → [Choose a musical direction](#listen) → [Finish four nature shots](#first-video) → [Try portrait singing](#next-project).
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## Official model examples and tutorials
+
+See the makers’ examples before exploring community work. These are published demonstrations, not our generation tests or a model ranking.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Official demo frame</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Concert: separate references for venue and performers.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Official example</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#seedance-concert">Step-by-step notes →</a></td>
+<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Official input image</sub><br><b>MiniMax H3</b> · MiniMax<br>Singing: separate camera, character and vocal references.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Official example</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#h3-singing">Step-by-step notes →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Official video poster</sub><br><b>Veo 3</b> · Google DeepMind<br>Instrument performance: describe action and sound together.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Official example</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#veo-instrument">Step-by-step notes →</a></td>
+<td width="50%" valign="top"><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Character input · general acting example</sub><br><b>Runway Act-Two</b> · Runway<br>Performance transfer: record a driving video, then add a character.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Official example</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#act-two-performance">Step-by-step notes →</a></td>
+</tr>
+</table>
+
+Veo: the violin example is labeled Veo 3 on the current 3.1 page. Act-Two is a general performance example. H3 and Act-Two images are inputs.
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 

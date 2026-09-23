@@ -14,11 +14,33 @@
 
 <p align="center"><strong>Biến một bài hát thành những hình ảnh đáng xem đến cuối. Xem ví dụ, chọn một ý tưởng và hoàn thành video ngắn đầu tiên của bạn.</strong></p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ Ví dụ và hướng dẫn chính thức của mô hình</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>
 
 [![Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.](assets/music-video-workflow.png)](#first-video)
 
 Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## Ví dụ và hướng dẫn chính thức của mô hình
+
+Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng. Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Khung hình minh họa chính thức</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a></td>
+<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Ảnh đầu vào chính thức</sub><br><b>MiniMax H3</b> · MiniMax<br>Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#h3-singing">Các bước · tiếng Anh →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Ảnh bìa video chính thức</sub><br><b>Veo 3</b> · Google DeepMind<br>Nhạc cụ: mô tả cả động tác lẫn âm thanh.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#veo-instrument">Các bước · tiếng Anh →</a></td>
+<td width="50%" valign="top"><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Ảnh nhân vật đầu vào · ví dụ diễn xuất</sub><br><b>Runway Act-Two</b> · Runway<br>Chuyển biểu diễn: quay video rồi thêm nhân vật.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#act-two-performance">Các bước · tiếng Anh →</a></td>
+</tr>
+</table>
+
+Veo: ví dụ Veo 3 trên trang 3.1 hiện tại. Act-Two là ví dụ biểu diễn chung. Ảnh H3 và Act-Two là đầu vào.
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 

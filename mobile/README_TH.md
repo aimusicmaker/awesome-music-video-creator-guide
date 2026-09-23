@@ -14,11 +14,30 @@
 
 <p align="center"><strong>เติมภาพที่น่าดูจนจบให้เพลงของคุณ ดูตัวอย่าง เลือกหนึ่งไอเดีย แล้วทำวิดีโอสั้นชิ้นแรกให้เสร็จ</strong></p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ ตัวอย่างบน X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ ฟัง MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ วิดีโอแรก</kbd></a> &nbsp; <a href="#next-project"><kbd>→ ฝึกขั้นต่อไป</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 เครื่องมือฟรี</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ ตัวอย่างบน X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ ฟัง MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ วิดีโอแรก</kbd></a> &nbsp; <a href="#next-project"><kbd>→ ฝึกขั้นต่อไป</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 เครื่องมือฟรี</kbd></a></p>
 
 [![เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ](../assets/music-video-workflow.png)](#first-video)
 
 เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล
+
+ดูตัวอย่างและข้อมูลนำเข้าจากผู้พัฒนาก่อนชมผลงานชุมชน นี่คือตัวอย่างที่เผยแพร่โดยผู้พัฒนา ไม่ใช่ผลทดสอบหรือการจัดอันดับของเรา
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>ภาพจากวิดีโอสาธิตทางการ</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>คอนเสิร์ต: แยกภาพอ้างอิงสถานที่และนักดนตรี<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ ตัวอย่างทางการ</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#seedance-concert">ขั้นตอน · อังกฤษ →</a></p>
+
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>ภาพอินพุตจากทางการ</sub><br><b>MiniMax H3</b> · MiniMax<br>ร้องเพลง: แยกกล้อง ตัวละคร และเสียงร้อง<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ ตัวอย่างทางการ</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#h3-singing">ขั้นตอน · อังกฤษ →</a></p>
+
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>ภาพปกวิดีโอทางการ</sub><br><b>Veo 3</b> · Google DeepMind<br>เครื่องดนตรี: อธิบายการเคลื่อนไหวและเสียงร่วมกัน<br><a href="https://deepmind.google/models/veo/"><kbd>▶ ตัวอย่างทางการ</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#veo-instrument">ขั้นตอน · อังกฤษ →</a></p>
+
+<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>ภาพตัวละครอินพุต · ตัวอย่างการแสดงทั่วไป</sub><br><b>Runway Act-Two</b> · Runway<br>ถ่ายทอดการแสดง: ถ่ายวิดีโอแล้วเพิ่มตัวละคร<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ ตัวอย่างทางการ</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#act-two-performance">ขั้นตอน · อังกฤษ →</a></p>
+
+Veo เป็นตัวอย่าง Veo 3 บนหน้า 3.1 ปัจจุบัน ส่วน Act-Two เป็นตัวอย่างการแสดงทั่วไป ภาพ H3 และ Act-Two เป็นข้อมูลนำเข้า
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 

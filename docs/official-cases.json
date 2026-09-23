@@ -1,0 +1,57 @@
+{
+  "checked_on": "2026-09-23",
+  "scope": "Official published examples and documentation; no generations reproduced, no claim of a model ranking or universal free access.",
+  "cases": [
+    {
+      "id": "seedance-concert",
+      "model": "Seedance 2.5",
+      "publisher": "ByteDance Seed",
+      "source": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "tutorial": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "image": "assets/official/seedance-concert.jpg",
+      "video": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/user-upload/4xfa4ms8au6q0.mp4",
+      "alt": "Frame from the official Seedance 2.5 concert demonstration",
+      "image_type": "Frame at 00:12 from the official demonstration; unedited extraction",
+      "lesson": "Concert scene: assign references to performers and venue.",
+      "lesson_zh": "音乐会：分别指定场地、主唱、乐手与合唱团参考。"
+    },
+    {
+      "id": "h3-singing",
+      "model": "MiniMax H3",
+      "publisher": "MiniMax",
+      "source": "https://www.minimax.io/blog/minimax-h3",
+      "tutorial": "https://hailuoai.video/tools/minimax-h3",
+      "image": "https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png",
+      "video": "https://filecdn.minimax.chat/public/h3-en-v2-video-003-1785473642166.mp4",
+      "alt": "Official MiniMax H3 character reference image for the singing demonstration",
+      "image_type": "Official input image, not an output frame",
+      "lesson": "Singing: separate camera, character and vocal references.",
+      "lesson_zh": "人像演唱：把运镜、人物和歌声分配给不同参考。"
+    },
+    {
+      "id": "veo-instrument",
+      "model": "Veo 3",
+      "publisher": "Google DeepMind",
+      "source": "https://deepmind.google/models/veo/",
+      "tutorial": "https://deepmind.google/models/veo/prompt-guide/",
+      "image": "https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu",
+      "video": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__violinist.webm",
+      "alt": "Official Veo poster for the violin performance demonstration",
+      "image_type": "Official video poster; Veo 3 example retained on the current Veo 3.1 page",
+      "lesson": "Instrument performance: describe action and sound together.",
+      "lesson_zh": "器乐演奏：同时写清演奏动作与声音设计。"
+    },
+    {
+      "id": "act-two-performance",
+      "model": "Runway Act-Two",
+      "publisher": "Runway",
+      "source": "https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two",
+      "tutorial": "https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two",
+      "image": "https://help.runwayml.com/hc/article_attachments/43008957767443",
+      "alt": "Official Runway Act-Two character input from the performance capture tutorial",
+      "image_type": "Official character input; a general performance-transfer example, not a music-video demo",
+      "lesson": "Performance transfer: driving video plus character input.",
+      "lesson_zh": "表演迁移：先录表演视频，再配人物参考。"
+    }
+  ]
+}

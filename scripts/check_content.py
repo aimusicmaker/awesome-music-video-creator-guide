@@ -159,9 +159,20 @@ for language in languages:
     for destination in languages:
         if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in content:
             errors.append(f'{filename}: missing language switch to {destination["file"]}')
-    order = [content.find(f'<a id="{a}">') for a in ['x-creators','listen','first-video','next-project','toolkit']]
+    order = [content.find(f'<a id="{a}">') for a in ['official-models','x-creators','listen','first-video','next-project','toolkit']]
     if min(order) < 0 or order != sorted(order):
         errors.append(f'{filename}: incorrect reader journey section order')
+# Official case cards must retain source, guide and learning-note links.
+official = json.loads((ROOT/'docs/official-cases.json').read_text())['cases']
+for language in languages:
+    for folder in ['', 'mobile/']:
+        content=(ROOT/(folder+language['file'])).read_text()
+        section=content.split('<!-- OFFICIAL:START -->',1)[-1].split('<!-- OFFICIAL:END -->',1)[0]
+        if section.count('<img ') != len(official):
+            errors.append(f'{folder}{language["file"]}: missing official case images')
+        for case in official:
+            if case['source'] not in section or case['tutorial'] not in section or '#'+case['id'] not in section:
+                errors.append(f'{folder}{language["file"]}: incomplete official case {case["id"]}')
 # Mobile layouts are derived from desktop content, with intact copyable prompts.
 for language in languages:
     filename = language['file']

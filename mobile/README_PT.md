@@ -14,11 +14,30 @@
 
 <p align="center"><strong>Dê à sua música imagens que prendam a atenção até o fim. Explore os exemplos, escolha uma ideia e termine seu primeiro vídeo curto.</strong></p>
 
-<p align="center"><a href="#x-creators"><kbd>▶ Exemplos no X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Ouvir MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primeiro vídeo</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Próximo exercício</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Ferramentas grátis</kbd></a></p>
+<p align="center"><a href="#official-models"><kbd>✦ Exemplos e tutoriais oficiais dos modelos</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Exemplos no X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Ouvir MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primeiro vídeo</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Próximo exercício</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Ferramentas grátis</kbd></a></p>
 
 [![Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.](../assets/music-video-workflow.png)](#first-video)
 
 Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.
+
+<!-- OFFICIAL:START -->
+<a id="official-models"></a>
+
+## Exemplos e tutoriais oficiais dos modelos
+
+Veja primeiro as demonstrações e entradas dos desenvolvedores, depois as criações da comunidade. Não são testes próprios nem um ranking.
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Frame da demonstração oficial</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Concerto: separar referências do local e dos intérpretes.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Exemplo oficial</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Guia / prompt oficial ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Passo a passo · inglês →</a></p>
+
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Imagem de entrada oficial</sub><br><b>MiniMax H3</b> · MiniMax<br>Canto: separar câmera, personagem e voz.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Exemplo oficial</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Guia / prompt oficial ↗</a><br><a href="../docs/official-cases.md#h3-singing">Passo a passo · inglês →</a></p>
+
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Capa do vídeo oficial</sub><br><b>Veo 3</b> · Google DeepMind<br>Instrumentos: descrever ação e som juntos.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Exemplo oficial</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Guia / prompt oficial ↗</a><br><a href="../docs/official-cases.md#veo-instrument">Passo a passo · inglês →</a></p>
+
+<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Entrada de personagem · exemplo de atuação</sub><br><b>Runway Act-Two</b> · Runway<br>Transferência: gravar uma atuação e adicionar um personagem.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Exemplo oficial</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Guia / prompt oficial ↗</a><br><a href="../docs/official-cases.md#act-two-performance">Passo a passo · inglês →</a></p>
+
+Veo: exemplo Veo 3 na página atual 3.1. Act-Two mostra atuação geral. As imagens H3 e Act-Two são entradas.
+
+<!-- OFFICIAL:END -->
 
 <a id="x-creators"></a>
 
