@@ -20,12 +20,12 @@ We used these organizational ideas, not their model claims, recipe counts, promo
 |---|---|---|
 | [Short Music Video Generator](https://musicmaker.im/free-short-music-video-generator/) | Page describes text or start/end frames, 5-second 480p clips and multiple aspect ratios | Generate individual shots; assemble longer videos in an editor |
 | [AI Music Video Generator](https://musicmaker.im/ai-music-video-generator/) | Form exposes audio, character-image and prompt inputs, a credit estimate, and a Public switch | Separate the audio/image workflow from the short-scene workflow; check cost and visibility before generation |
-| [Discover](https://musicmaker.im/discover/) | Lists Neon Pulse, Echoes of You and The Open Road with detail links | Offer listening references; do not infer tempo, genre, or reuse rights from a title |
+| [Discover](https://musicmaker.im/discover/) | Lists Neon Pulse, Echoes of You, The Open Road and Summer High with detail links | Offer listening references; do not infer tempo, genre, or reuse rights from a title |
 | [Commercial license](https://musicmaker.im/commercial-license/) | Describes different scopes for paid-subscription and free-trial content | Link current terms; do not label the entire catalog free to reuse |
 
 The music-video page’s broader marketing copy mentions features not individually verified through generation. This guide relies on visible inputs and does not promise precise beat detection, flawless lip-sync, full-song generation in one request, fixed pricing, or unlimited access.
 
-Discover detail titles were verified through the collection and linked pages. Neon Pulse was also opened in a browser and its play button tested: the audio loaded and playback advanced (approximately 172.85 seconds). The other two titles were not playback-tested. The brand guitar MP4 loaded and played in the browser at 1280 × 720, with a duration of 20.375 seconds. The guide does not assign a genre, tempo, or visual pairing to these tracks from their titles.
+Discover detail titles were verified through the collection and linked pages. Neon Pulse was also opened in a browser and its play button tested: the audio loaded and playback advanced (approximately 172.85 seconds). Echoes of You and The Open Road were also playback-tested on 2026-09-23: audio readyState reached 4 and currentTime advanced; durations were 180.950 and 168.870 seconds. Summer High subsequently passed the same playback check at 157.440 seconds. The brand guitar MP4 loaded and played in the browser at 1280 × 720, with a duration of 20.375 seconds. The second emotional-vocal demo was selected with Next on the source page; its matching video loaded at 1280 × 720 with a duration of 10.375 seconds. The guide does not assign a genre, tempo, or visual pairing to these tracks from their titles.
 
 ## Established creator references
 
@@ -48,3 +48,7 @@ The companion [inspiration guide](inspiration.md) separates these references fro
 - An edit plan, one closing subtitle cue, English/Chinese homepages and beginner walkthroughs, plus 12 Chinese action cards with direct links to the English prompt blocks.
 
 The distinction between a creative brief, a published brand example, and a tested output is intentional. Contributors should preserve it when adding new material.
+
+## Official models and visual case sources
+
+[Model makers’ documentation](models.md) · [X prompt/video source records](gallery-sources.json) · [Brand example checks](brand-examples.md). Updated 2026-09-23. Model-level capabilities, interface limits, creator claims and published media are recorded separately.

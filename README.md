@@ -1,134 +1,105 @@
-<div align="center">
-
 # Awesome Music Video Creator Guide
 
-**Make your song something people can see.**
+**Turn a song into a world worth watching.**
 
-A practical collection for independent musicians and first-time video creators.<br>
-12 original recipes · a downloadable practice beat · shot plans · real-world references
+Make a release teaser, a performance clip, or a visual loop—even if this is your first edit. Pick a look, study how creators build it, then make your own.
 
-[Start your first video](#make-your-first-video) · [Browse recipes](prompts/README.md) · [Get the 16s example](starter-kit/night-train-edit-demo.mp4) · [Watch references](docs/inspiration.md) · [简体中文](README_ZH.md)
+[Explore real examples](#learn-from-creators-on-x) · [12 ready-to-adapt recipes](prompts/README.md) · [16-second starter kit](#make-your-first-video) · [简体中文](README_ZH.md)
 
-![Three original visual directions: rooftop performance, liquid-chrome visualizer, and a rainy night train](assets/music-video-directions.png)
+[![Three music-video concepts: a rooftop singer, liquid chrome, and a rainy night train. Open the recipe collection to make your own.](assets/music-video-directions.png)](prompts/README.md)
 
-<sub>Original AI-generated concept artwork. These are visual directions, not MusicMaker video outputs.</sub>
+**[Rooftop performance](prompts/08-rooftop.md)** · **[Chrome visualizer](prompts/05-chrome-visualizer.md)** · **[Night-train loop](prompts/04-lofi-loop.md)**<br>
+Original concept art for these recipes, not generated-video results. Each recipe has prompts, a shot plan, and editing advice.
 
-[Make the rooftop scene](prompts/08-rooftop.md) · [Make the chrome visualizer](prompts/05-chrome-visualizer.md) · [Make the night train](prompts/04-lofi-loop.md)
+**Your path:** pick a song → choose one visual idea → generate short shots → cut to the music. [See the beginner workflow](docs/first-video.md).
 
-</div>
+## Learn from creators on X
 
-**See a finished editing exercise:** [Download the 16-second night-train MP4](starter-kit/night-train-edit-demo.mp4). Four crops of the original still image, simple editor-made camera moves, and our practice beat. The rain and scene are not animated; this is not a MusicMaker generation. On the GitHub file page, choose **Download raw file**, then open it in your video player.
+Six published video examples with public prompts or screenshot walkthroughs. Click any image to open its original post; use **Inputs + try it** for the required references and an original practice prompt.
 
-## What do you want to make?
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="https://pbs.twimg.com/amplify_video_thumb/2083422025452765184/img/ZFIIYS0hQ9OI5TpK.jpg" alt="Two dancers on a pink studio set; open the creator’s X post" width="100%"></a><br><b>Pink studio duet</b><br><sub><a href="https://x.com/Just_sharon7/status/2083422886686031982">@Just_sharon7</a> · Seedance 2.5</sub><br>Alternate a wide dance shot with solo close-ups.<br><a href="https://x.com/Just_sharon7/status/2083422886686031982">Video + source prompt</a> · <a href="docs/x-cases.md#duo">Inputs + try it</a></td>
+<td width="50%" valign="top"><a href="https://x.com/techhalla/status/2086915118307119269"><img src="https://pbs.twimg.com/amplify_video_thumb/2086903458251112448/img/jSPsz35xEe3ZFz47.jpg" alt="A performer lying on the ground in the opening of TechHalla’s music clip; open the creator’s X post" width="100%"></a><br><b>Reference-led singing with H3</b><br><sub><a href="https://x.com/techhalla/status/2086915118307119269">@techhalla</a> · MiniMax H3</sub><br>Prepare references, then divide the audio into shots.<br><a href="https://x.com/techhalla/status/2086915118307119269">Video + prompt thread</a> · <a href="docs/x-cases.md#h3-performance">Inputs + try it</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/AIwithkhan/status/2087754389624860911"><img src="https://pbs.twimg.com/amplify_video_thumb/2087754331089166336/img/uJ0ET9rgvlWZOLj-.jpg" alt="A performer silhouetted in a backlit corridor; open the creator’s X post" width="100%"></a><br><b>Fisheye rap performance</b><br><sub><a href="https://x.com/AIwithkhan/status/2087754389624860911">@AIwithkhan</a> · Seedance 2.5</sub><br>Use one character reference across bold sets.<br><a href="https://x.com/AIwithkhan/status/2087754389624860911">Video + source prompt</a> · <a href="docs/x-cases.md#y2k">Inputs + try it</a></td>
+<td width="50%" valign="top"><a href="https://x.com/oggii_0/status/2041392542659584302"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2041392519330840576/pu/img/gJnakn0aUsx_Pqnd.jpg" alt="White concentric rings on a black background; open the creator’s X post" width="100%"></a><br><b>Shape changes for a visualizer</b><br><sub><a href="https://x.com/oggii_0/status/2041392542659584302">@oggii_0</a> · Seedance 2.0</sub><br>A motion-design reference for evolving shapes.<br><a href="https://x.com/oggii_0/status/2041392542659584302">Video + source prompt</a> · <a href="docs/x-cases.md#motion-design">Inputs + try it</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="A traveler waiting on a dim station platform; open the creator’s X post" width="100%"></a><br><b>A train journey into space</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br>A fantasy short to study narrative transitions.<br><a href="https://x.com/Strength04_X/status/2098290630179057858">Video + source prompt</a> · <a href="docs/x-cases.md#lunar-train">Inputs + try it</a></td>
+<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="An older performer standing on a gold-lit talent-show stage; open the creator’s X post" width="100%"></a><br><b>A stage reveal on the beat</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br>Pause, reveal, then cut to a reaction.<br><a href="https://x.com/Strength04_X/status/2090399966988550435">Video + source prompt</a> · <a href="docs/x-cases.md#beat-drop">Inputs + try it</a></td>
+</tr>
+</table>
 
-| Your goal | Start here | What you will make |
-|---|---|---|
-| Give a new single a visual identity | [Animated cover](prompts/01-animated-cover.md) | One image, one restrained movement |
-| Turn a chorus into a social post | [Release teaser](prompts/02-release-teaser.md) | Four shots with a clear reveal |
-| Put your words on screen | [Lyric video](prompts/03-lyric-video.md) | A quiet background with readable lyrics |
-| Build a world for an instrumental | [Night train](prompts/04-lofi-loop.md) | A scene designed to loop |
-| Make an electronic track feel bigger | [Chrome visualizer](prompts/05-chrome-visualizer.md) | A recurring shape and a change on the drop |
-| Bring an artist portrait to life | [Portrait performance](prompts/06-portrait-performance.md) | An audio-led performance test |
+Model names are the creators’ claims. We checked post text and attached media through a public X mirror; these are references, not our reproductions. Full prompts remain with their authors. [Source notes and limitations](docs/x-cases.md#source-notes).
 
-**No song or editing experience yet?** Start with the [16-second practice kit](starter-kit/README.md). It includes an original instrumental WAV, a shot list, and editable subtitle cues. No account is needed to download the kit.
+## Hear it, then picture it with MusicMaker
 
-Maintained by [AI Music Maker](https://musicmaker.im/). The methods work with your preferred generator and video editor; the MusicMaker routes below are convenient starting points.
+The next six examples come from MusicMaker: **four songs from Discover and two published performance videos**. Listen first; choose a phrase you want the viewer to remember, then plan the picture around it.
+
+### Four tracks to explore
+
+These are music works with cover art, not music videos. Open a cover to use the original player.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring — Neon Pulse; open the track player" width="100%"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover · Audio track</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/">Listen to the track →</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window — Echoes of You; open the track player" width="100%"></a><br><b>Echoes of You</b><br><sub>MusicMaker Discover · Audio track</sub><br><a href="https://musicmaker.im/detail/discover-v2-95/">Listen to the track →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard — The Open Road; open the track player" width="100%"></a><br><b>The Open Road</b><br><sub>MusicMaker Discover · Audio track</sub><br><a href="https://musicmaker.im/detail/discover-v2-104/">Listen to the track →</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road — Summer High; open the track player" width="100%"></a><br><b>Summer High</b><br><sub>MusicMaker Discover · Audio track</sub><br><a href="https://musicmaker.im/detail/discover-v2-96/">Listen to the track →</a></td>
+</tr>
+</table>
+
+[Browse the full Discover collection →](https://musicmaker.im/discover/) · [Create your own song →](https://musicmaker.im/ai-song-generator/)
+
+### From a portrait and song to a performance
+
+The images below are the source page’s input portraits. Click them to watch the corresponding published videos; compare the performer’s face, expression, hands, and instrument.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="Seated woman holding an electric guitar under warm stage lighting — Guitar performance; watch the performance video" width="100%"></a><br><b>Guitar performance</b><br><sub>MusicMaker · Published video demo</sub><br><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4">Watch video</a> · <a href="https://musicmaker.im/ai-music-video-generator/">Source + prompt</a></td>
+<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Smiling singer at a gold microphone under pink stage lights — Emotional vocal; watch the performance video" width="100%"></a><br><b>Emotional vocal</b><br><sub>MusicMaker · Published video demo</sub><br><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4">Watch video</a> · <a href="https://musicmaker.im/ai-music-video-generator/">Source + prompt</a></td>
+</tr>
+</table>
+
+[Bring your music and portrait to MusicMaker →](https://musicmaker.im/ai-music-video-generator/) · [Try a short visual scene →](https://musicmaker.im/free-short-music-video-generator/)
+
+For your first performance test, use [recipe 06](prompts/06-portrait-performance.md). Discover does not publish the generation prompts for these four tracks; the two video examples do provide short prompts on their source page. [Brand example notes](docs/brand-examples.md).
 
 ## Make your first video
 
-**Small first project: a 16-second night-train visual.** You need the [practice beat](starter-kit/practice-beat-120bpm.wav), four clips, and any editor that supports a video timeline and a separate audio track.
+**Try a 16-second night-train edit.** Download an original beat, copy four shot prompts, and cut at **0:04 → 0:08 → 0:12**. Add your title in the last four seconds.
 
-1. **Get the beat.** Open the WAV link and use GitHub’s download button. It is 120 beats per minute, with eight four-beat bars. Each bar lasts two seconds.
-2. **Generate a first shot.** Open [MusicMaker’s short-video tool](https://musicmaker.im/free-short-music-video-generator/), select 9:16, and paste the prompt below for shot A, the wide carriage. Text-only is enough for this exercise.
-3. **Make the remaining three shots.** Use only **B, C, and D** from the [shot-prompt page](starter-kit/train-shot-prompts.md): rain detail, window reflection, then the wide view again. You now have four clips in total; do not generate A a second time.
-4. **Edit to the music.** Place the beat at 0:00. Trim the four shots to four seconds each and cut at 0:04, 0:08, and 0:12. Mute generated clip audio so the music remains continuous.
-5. **Finish the last frame.** Add your title in the editor, check the crop on a phone, and export a draft. Use the [full walkthrough](docs/first-video.md) if this is your first edit.
+[Get the practice kit](starter-kit/README.md) · [Copy all four prompts](starter-kit/train-shot-prompts.md) · [Step-by-step walkthrough](docs/first-video.md) · [Download the example MP4](starter-kit/night-train-edit-demo.mp4)
 
-```text
-An empty night train carriage, teal fabric seats, a small amber reading
-lamp and rain on the window. Distant city lights move slowly outside.
-Locked camera. Only the rain and outside lights move; the seats and lamp
-remain perfectly still. Quiet, intimate mood, textured painted illustration.
-Vertical composition, no people, no lettering, no cuts, no camera shake.
-```
+The example uses camera moves over a still image with our original beat. It demonstrates editing, not generated scene animation. On the MP4 file page, choose **Download raw file** to watch locally.
 
-The [short-video page](https://musicmaker.im/free-short-music-video-generator/) listed five-second, 480p clips on September 23, 2026. Our 16-second example is an **edited sequence**, not a single generation. Check the live tool for current limits; a larger export will not restore missing detail.
+## Choose your next project
 
-## Watch a brand example
-
-<p align="center">
-<a href="https://musicmaker.im/ai-music-video-generator/">
-<img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="MusicMaker's guitar-performance demo input image; open the source page to view the video" width="360">
-</a>
-</p>
-
-**Guitar performance — MusicMaker’s published demo.** [Watch the MP4](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4) · [Open its source page](https://musicmaker.im/ai-music-video-generator/)
-
-Use it to decide whether an animated performance fits your track. The source page supplies the preview and video; we did not generate this example. For your own version, start with an authorized portrait and a short music excerpt, then use [recipe 06](prompts/06-portrait-performance.md). Check mouth timing and hands before making a longer sequence.
-
-## A recipe for every kind of release
-
-Each recipe includes **inputs → image direction → motion prompt → music direction → edit plan → fixes**. These are original creative briefs, not claims of tested generator output.
-
-| Recipe | Difficulty | Suggested edit |
-|---|---|---|
-| [01 · Living album cover](prompts/01-animated-cover.md) | Easy | 8 seconds |
-| [02 · Four-shot release teaser](prompts/02-release-teaser.md) | Easy | 16 seconds |
-| [03 · Lyric window](prompts/03-lyric-video.md) | Easy | 16 seconds |
-| [04 · Last train home](prompts/04-lofi-loop.md) | Easy | 8-second visual loop |
-| [05 · Liquid chrome](prompts/05-chrome-visualizer.md) | Intermediate | 16 seconds |
-| [06 · Portrait performance](prompts/06-portrait-performance.md) | Intermediate | Short vocal excerpt |
-| [07 · Paper-cut story](prompts/07-paper-story.md) | Intermediate | 20 seconds |
-| [08 · Rooftop afterglow](prompts/08-rooftop.md) | Easy | 16 seconds |
-| [09 · Open-road diary](prompts/09-road-diary.md) | Easy | 20 seconds |
-| [10 · One prop, three worlds](prompts/10-match-cut.md) | Intermediate | 12 seconds |
-| [11 · Chorus color change](prompts/11-drop-reveal.md) | Intermediate | 16 seconds |
-| [12 · Full-song storyboard](prompts/12-full-song.md) | Advanced | Your song’s full duration |
-
-Suggested lengths are **editing targets**. Generate shorter supported shots, then assemble them. A “beat-synced” prompt alone does not guarantee timing; align the cut or effect to your audio in the editor.
-
-## Find your sound
-
-Explore [MusicMaker Discover](https://musicmaker.im/discover/) to hear what different tracks suggest to you. Start with [Neon Pulse](https://musicmaker.im/detail/discover-v2-94/), whose player we opened and verified. [Echoes of You](https://musicmaker.im/detail/discover-v2-95/) and [The Open Road](https://musicmaker.im/detail/discover-v2-104/) are additional catalog entries to browse; their playback was not tested here.
-
-Choose a short phrase, mark the moment you want to emphasize, and then pick a recipe. We have not classified these tracks by genre or tempo. If a detail page fails, find the title in Discover. For a downloadable practice track you can reuse, use our [original 16-second beat](starter-kit/README.md); linked catalog tracks require their own reuse permission.
-
-## Learn from established music videos
-
-- **Lofi Girl:** learn how a recognizable setting supports long listening sessions. [Source and original loop exercise](docs/inspiration.md#lofi-girl).
-- **OK Go — The One Moment:** study planning around musical events. [Official production notes and a simpler exercise](docs/inspiration.md#ok-go).
-- **Gorillaz — Cracker Island:** use a recurring character as a starting point for visual identity. [Official video and character exercise](docs/inspiration.md#gorillaz).
-
-These are references from established creators, not MusicMaker customers or AI-generation case studies. Their original music, characters, and footage stay with their owners.
-
-## Choose your workflow
-
-| You already have… | Use | Do next |
-|---|---|---|
-| A scene idea; no finished artwork | [Short Music Video Generator](https://musicmaker.im/free-short-music-video-generator/) | Generate individual visuals, then add your song in an editor |
-| Music and a character image | [AI Music Video Generator](https://musicmaker.im/ai-music-video-generator/) | Upload inputs, test a short section, inspect the result |
-| No track yet | [MusicMaker Discover](https://musicmaker.im/discover/) | Explore ideas, then create or license your own audio |
-| All your clips | [Editing and export guide](docs/editing.md) | Assemble, add lyrics, balance audio, and check the final file |
-
-The music-video form shows a credit estimate and a Public switch; review both before submitting. We inspected public pages, not paid generation quality. [Tool notes and sources](docs/sources.md).
-
-## When something looks wrong
-
-| Problem | First thing to change |
+| Make this | Start here |
 |---|---|
-| Face or outfit changes | Reuse one reference image; shorten the shot; reduce the movement |
-| Lyrics are misspelled | Generate a clean background and add text in the editor |
-| Visual change misses the beat | Move the cut to the waveform marker; avoid regenerating everything |
-| Loop jumps at its seam | Match opening/closing composition; test two repeats side by side |
-| Everything looks unrelated | Keep one palette, location, prop, and camera rule across shots |
-| The track sounds doubled | Mute clip audio and keep only your chosen song track |
+| A release people recognize | [01 Animated cover](prompts/01-animated-cover.md) · [02 Teaser](prompts/02-release-teaser.md) · [03 Lyric video](prompts/03-lyric-video.md) |
+| A world for your sound | [04 Night train](prompts/04-lofi-loop.md) · [05 Chrome](prompts/05-chrome-visualizer.md) · [07 Paper story](prompts/07-paper-story.md) |
+| A performer-led clip | [06 Portrait](prompts/06-portrait-performance.md) · [08 Rooftop](prompts/08-rooftop.md) · [09 Road diary](prompts/09-road-diary.md) |
+| A memorable edit | [10 Match cut](prompts/10-match-cut.md) · [11 Chorus reveal](prompts/11-drop-reveal.md) · [12 Full song](prompts/12-full-song.md) |
 
-[More editing help](docs/editing.md) · [Copy a planning template](starter-kit/brief-template.md)
+Our 12 recipes are original briefs, **not render-tested**. Lengths are editing targets: generate supported shorter shots, then assemble them. For missed beats, drifting faces, or unreadable lyrics, see the [editing guide](docs/editing.md).
 
-## Share a useful recipe
+## What the model makers actually say
 
-Found an approach worth repeating? [Open a recipe suggestion](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new?template=recipe.yml) with your inputs, prompt, example, and what failed. See [CONTRIBUTING.md](CONTRIBUTING.md).
+- **Seedance 2.5:** “audio-video joint generation model.” [ByteDance’s model page](https://seed.bytedance.com/en/seedance2_5). Our takeaway: plan the soundtrack and shots together; the reference controls depend on your chosen tool.
+- **MiniMax H3:** “native stereo sound.” [MiniMax’s release](https://www.minimax.io/blog/minimax-h3) includes a singing example using separate image, video, and audio references.
+- **MiniMax Music 3.0:** “creative concept and optional lyrics.” [MiniMax’s release](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model). Define how the song changes by section before you storyboard it.
+- **Eleven Music:** “genre, mood, instrumentation, tempo, and production era.” [ElevenLabs’ prompting guide](https://elevenlabs.io/docs/overview/capabilities/music/best-practices). Use these as concrete starting points for a musical brief.
 
-**Ready to make a visual for your song?** [Start with a short scene](https://musicmaker.im/free-short-music-video-generator/) or [bring your music and portrait](https://musicmaker.im/ai-music-video-generator/).
+[Read the practical model guide →](docs/models.md) · [Tool limits and checked sources](docs/sources.md)
 
-Original text, code, and practice audio: [MIT](LICENSE). Artwork and external examples: [asset credits and reuse notes](assets/README.md). This repository’s license does not relicense linked music or videos.
+## Keep making
+
+[Study Lofi Girl, OK Go, and Gorillaz](docs/inspiration.md) · [Copy a planning template](starter-kit/brief-template.md) · [Contribute a recipe](CONTRIBUTING.md)
+
+Maintained by [AI Music Maker](https://musicmaker.im/). Use the workflow with your preferred tools. Original text, code, and practice audio: [MIT](LICENSE). External music, images, and videos remain with their owners: [credits and reuse notes](assets/README.md).

@@ -1,134 +1,107 @@
-<div align="center">
-
 # 音乐视频创作指南
 
-**让你的歌，有一个值得被看见的画面。**
+**让一首歌，有一个值得看完的画面。**
 
-写给独立音乐人和第一次制作音乐视频的创作者。<br>
-12 套原创方案 · 可下载练习音乐 · 分镜与字幕模板 · 官方案例参考
+从新歌预告、人物演唱到循环视觉，即使第一次剪视频，也可以从这里开始：选喜欢的画面，拆解创作者的做法，再做自己的版本。
 
-[开始制作](#做出第一支视频) · [选择方案](#按用途选择方案) · [下载 16 秒示例](starter-kit/night-train-edit-demo.mp4) · [案例参考](docs/inspiration.md) · [English](README.md)
+[看 X 创作者案例](#从-x-创作者的案例开始) · [12 套中文方案](prompts/README_ZH.md) · [16 秒入门练习](#制作你的第一支视频) · [English](README.md)
 
-![三种原创画面方向：天台演出、液态金属圆环和雨夜列车](assets/music-video-directions.png)
+[![三种音乐视频概念：屋顶歌手、液态金属、雨夜列车；点击进入中文制作方案](assets/music-video-directions.png)](prompts/README_ZH.md)
 
-<sub>本仓库用 AI 制作的概念图，用于展示创意方向，并非 MusicMaker 生成视频的效果截图。</sub>
+**[屋顶演唱](prompts/README_ZH.md#recipe-08)** · **[液态金属](prompts/README_ZH.md#recipe-05)** · **[夜车循环](prompts/README_ZH.md#recipe-04)**<br>
+上图为原创概念图，不是视频生成结果。每套方案都提供提示词、分镜和剪辑建议。
 
-[制作天台画面](prompts/README_ZH.md#recipe-08) · [制作金属圆环](prompts/README_ZH.md#recipe-05) · [制作雨夜列车](prompts/README_ZH.md#recipe-04)
+**制作顺序：** 选一首歌 → 定一个画面主题 → 生成短镜头 → 按音乐节奏剪辑。[查看中文入门步骤](docs/first-video.zh-CN.md)。
 
-</div>
+## 从 X 创作者的案例开始
 
-**先看一个完成的剪辑练习：** [下载 16 秒雨夜列车视频](starter-kit/night-train-edit-demo.mp4)。它把原创静态图裁成四个镜头，添加简单推拉运动和练习音乐；图中的雨和场景本身没有生成动画，也不是 MusicMaker 实测结果。在 GitHub 文件页点击 **Download raw file** 下载，再用视频播放器打开。
+六个已发布视频案例，配有公开提示词或截图教程。**点图片看原帖，点“输入与做法”了解参考素材并获取原创练习提示词。**
 
-## 你想做什么？
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="https://pbs.twimg.com/amplify_video_thumb/2083422025452765184/img/ZFIIYS0hQ9OI5TpK.jpg" alt="粉色影棚中跳舞的两位表演者；点击查看作者 X 原帖" width="100%"></a><br><b>粉色影棚双人舞</b><br><sub><a href="https://x.com/Just_sharon7/status/2083422886686031982">@Just_sharon7</a> · Seedance 2.5</sub><br>固定人物，交替使用全景与特写。<br><a href="https://x.com/Just_sharon7/status/2083422886686031982">看原帖与提示词</a> · <a href="docs/x-cases.zh-CN.md#duo">输入与做法</a></td>
+<td width="50%" valign="top"><a href="https://x.com/techhalla/status/2086915118307119269"><img src="https://pbs.twimg.com/amplify_video_thumb/2086903458251112448/img/jSPsz35xEe3ZFz47.jpg" alt="TechHalla 音乐短片开头躺在地面的表演者；点击查看作者 X 原帖" width="100%"></a><br><b>参考素材驱动演唱</b><br><sub><a href="https://x.com/techhalla/status/2086915118307119269">@techhalla</a> · MiniMax H3</sub><br>先做参考图，再按音频安排镜头。<br><a href="https://x.com/techhalla/status/2086915118307119269">看视频与提示词线程</a> · <a href="docs/x-cases.zh-CN.md#h3-performance">输入与做法</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/AIwithkhan/status/2087754389624860911"><img src="https://pbs.twimg.com/amplify_video_thumb/2087754331089166336/img/uJ0ET9rgvlWZOLj-.jpg" alt="逆光长廊中张开双臂的表演者；点击查看作者 X 原帖" width="100%"></a><br><b>鱼眼镜头说唱表演</b><br><sub><a href="https://x.com/AIwithkhan/status/2087754389624860911">@AIwithkhan</a> · Seedance 2.5</sub><br>用一份人物参考串联不同场景。<br><a href="https://x.com/AIwithkhan/status/2087754389624860911">看原帖与提示词</a> · <a href="docs/x-cases.zh-CN.md#y2k">输入与做法</a></td>
+<td width="50%" valign="top"><a href="https://x.com/oggii_0/status/2041392542659584302"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2041392519330840576/pu/img/gJnakn0aUsx_Pqnd.jpg" alt="黑色背景中的白色同心圆；点击查看作者 X 原帖" width="100%"></a><br><b>抽象形状变化</b><br><sub><a href="https://x.com/oggii_0/status/2041392542659584302">@oggii_0</a> · Seedance 2.0</sub><br>动态图形参考：让同一形状连续变化。<br><a href="https://x.com/oggii_0/status/2041392542659584302">看原帖与提示词</a> · <a href="docs/x-cases.zh-CN.md#motion-design">输入与做法</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="在昏暗车站站台等候的旅客；点击查看作者 X 原帖" width="100%"></a><br><b>从车站驶向太空</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br>奇幻短片参考：让场景转变有迹可循。<br><a href="https://x.com/Strength04_X/status/2098290630179057858">看原帖与提示词</a> · <a href="docs/x-cases.zh-CN.md#lunar-train">输入与做法</a></td>
+<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="站在金色灯光才艺秀舞台上的年长表演者；点击查看作者 X 原帖" width="100%"></a><br><b>重拍处的舞台反转</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br>短暂停顿、重拍揭晓，再切反应镜头。<br><a href="https://x.com/Strength04_X/status/2090399966988550435">看原帖与提示词</a> · <a href="docs/x-cases.zh-CN.md#beat-drop">输入与做法</a></td>
+</tr>
+</table>
 
-| 目标 | 从这里开始 | 做出来是什么 |
-|---|---|---|
-| 让专辑封面动起来 | [动态封面](prompts/README_ZH.md#recipe-01) | 保留原构图，只增加轻微运动 |
-| 为新歌做短视频 | [发歌预告](prompts/README_ZH.md#recipe-02) | 四个镜头组成的短片 |
-| 把歌词放进画面 | [歌词视频](prompts/README_ZH.md#recipe-03) | 简洁背景，加上清楚易读的字幕 |
-| 为纯音乐搭配氛围 | [雨夜列车](prompts/README_ZH.md#recipe-04) | 可以尝试循环播放的场景 |
-| 配合电子乐的变化 | [金属圆环](prompts/README_ZH.md#recipe-05) | 在音乐转折处改变光线或画面 |
-| 让人物照片配合演唱 | [人像演唱](prompts/README_ZH.md#recipe-06) | 先做一小段音画配合测试 |
+模型名称由创作者自述。本次通过公开 X 镜像核对正文和所附媒体，未复现这些视频；完整提示词保留在作者原帖。[来源说明](docs/x-cases.zh-CN.md#source-notes)。
 
-**还没有自己的歌？** 下载[16 秒练习包](starter-kit/README.md)：原创练习音乐、分镜表和字幕时间轴已经备好。下载不需要注册。
+## 在 MusicMaker 听见作品，再为它构思画面
 
-本仓库由 [AI Music Maker](https://musicmaker.im/) 维护。方法也适用于你熟悉的生成工具和剪辑软件。中文版首页、[中文入门教程](docs/first-video.zh-CN.md)和[12 套中文操作卡片](prompts/README_ZH.md)可独立使用；英文提示词可以直接复制。
+下面六个品牌案例包括 **Discover 的四首音乐作品，以及两个官方演唱视频**。先听音乐，挑出希望观众记住的一句，再决定画面如何展开。
 
-## 做出第一支视频
+### 四首作品，从试听开始
 
-**先完成一支 16 秒的雨夜列车短片。** 准备[练习音乐](starter-kit/practice-beat-120bpm.wav)、四段画面和一个可以分别放入视频、音频的剪辑软件。
+这些是配有封面的音乐作品，不是音乐视频。点击封面进入原站播放器。
 
-1. **下载音乐。** 打开 WAV 文件，在 GitHub 文件页选择下载。音乐速度是每分钟 120 拍，共 8 个小节，每小节 4 拍、2 秒。
-2. **先生成一个镜头。** 打开 [MusicMaker 短片工具](https://musicmaker.im/free-short-music-video-generator/)，选择 9:16 竖屏，把下方提示词粘贴进去，生成 A 镜头（车厢全景）。本练习可以从文字开始。
-3. **再做剩余三个镜头。** 使用[分镜提示词页](starter-kit/train-shot-prompts.md)中的 **B、C、D**：雨滴特写、玻璃倒影、回到全景。这样一共四段，不需要再次生成 A。
-4. **按音乐剪辑。** 音乐从 0 秒开始，四段画面各取 4 秒，在第 4、8、12 秒切换。关闭生成视频自带的声音，保留一条连续音乐。
-5. **添加片名并导出。** 在最后一个镜头加标题，用手机检查裁切和文字大小。首次剪辑可按[中文完整教程](docs/first-video.zh-CN.md)操作。
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="霓虹光环前手持麦克风的歌手 — Neon Pulse；点击试听音乐" width="100%"></a><br><b>Neon Pulse</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-94/">试听这首歌 →</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="明亮窗边坐在钢琴前的男子 — Echoes of You；点击试听音乐" width="100%"></a><br><b>Echoes of You</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-95/">试听这首歌 →</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="从车内望向穿过金色田野的公路 — The Open Road；点击试听音乐" width="100%"></a><br><b>The Open Road</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-104/">试听这首歌 →</a></td>
+<td width="50%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="阳光海岸公路旁微笑的女子 — Summer High；点击试听音乐" width="100%"></a><br><b>Summer High</b><br><sub>MusicMaker Discover · 音乐作品</sub><br><a href="https://musicmaker.im/detail/discover-v2-96/">试听这首歌 →</a></td>
+</tr>
+</table>
 
-```text
-An empty night train carriage, teal fabric seats, a small amber reading
-lamp and rain on the window. Distant city lights move slowly outside.
-Locked camera. Only the rain and outside lights move; the seats and lamp
-remain perfectly still. Quiet, intimate mood, textured painted illustration.
-Vertical composition, no people, no lettering, no cuts, no camera shake.
-```
+[继续浏览 Discover 曲库 →](https://musicmaker.im/discover/) · [创作自己的歌曲 →](https://musicmaker.im/ai-song-generator/)
 
-这段提示词的意思是：空荡的雨夜列车，青绿色座椅、暖色台灯，镜头固定，只让窗外灯光和雨滴缓慢移动，不出现人物或文字。
+### 一张人像与一段音乐，如何变成演唱画面
 
-截至 2026 年 9 月 23 日，[短片工具页面](https://musicmaker.im/free-short-music-video-generator/)标注的是 5 秒、480p 画面。这里的 16 秒短片需要**把多个镜头剪在一起**。功能以实际页面为准；把低分辨率素材导出成大尺寸，不等于增加细节。
+下方图片来自官网展示的输入人像。点击即可观看对应的官方演唱视频，留意人物表情、口型、手部与乐器的变化。
 
-## 先看品牌现有示例
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="暖色舞台灯光下持电吉他而坐的女子 — Guitar performance；点击观看演唱视频" width="100%"></a><br><b>吉他弹唱</b><br><sub>MusicMaker · 官方视频示例</sub><br><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4">播放视频</a> · <a href="https://musicmaker.im/ai-music-video-generator/">查看来源与提示词</a></td>
+<td width="50%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="粉色舞台灯光下站在金色麦克风前微笑的歌手 — Emotional vocal；点击观看演唱视频" width="100%"></a><br><b>情绪演唱</b><br><sub>MusicMaker · 官方视频示例</sub><br><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4">播放视频</a> · <a href="https://musicmaker.im/ai-music-video-generator/">查看来源与提示词</a></td>
+</tr>
+</table>
 
-<p align="center">
-<a href="https://musicmaker.im/ai-music-video-generator/">
-<img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_cover.webp" alt="MusicMaker 吉他演唱示例的输入图片，点击前往原网页观看视频" width="360">
-</a>
-</p>
+[带上自己的音乐与人像开始制作 →](https://musicmaker.im/ai-music-video-generator/) · [先试一个短场景 →](https://musicmaker.im/free-short-music-video-generator/)
 
-**吉他演唱：MusicMaker 官网演示。** [观看视频](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4) · [查看来源页](https://musicmaker.im/ai-music-video-generator/)
+第一次测试人物演唱，可以照着[中文方案 06](prompts/README_ZH.md#recipe-06)操作。Discover 没有公开这四首歌的生成提示词；两个视频的来源页提供了简短提示词。[品牌案例说明](docs/brand-examples.md)。
 
-这段示例来自品牌网页，不是本仓库实测生成的结果。想用自己的歌和照片尝试，可从[人像演唱方案](prompts/README_ZH.md#recipe-06)开始，先检查一小段里的嘴型、脸部和手部表现。
+<a id="做出第一支视频"></a>
 
-## 按用途选择方案
+## 制作你的第一支视频
 
-每套方案包含输入素材、画面提示词、运动提示词、音乐方向、剪辑方法和失败后的改法。均为原创创作方案，**尚未逐条生成视频验证**。
+**先做一个 16 秒夜车片段。** 下载原创伴奏，复制四条分镜提示词，在 **第 4 → 8 → 12 秒**切换镜头，最后四秒添加标题。
 
-| 方案 | 难度 | 建议剪辑长度 |
-|---|---|---|
-| [01 · 动态专辑封面](prompts/README_ZH.md#recipe-01) | 入门 | 8 秒 |
-| [02 · 四镜头发歌预告](prompts/README_ZH.md#recipe-02) | 入门 | 16 秒 |
-| [03 · 窗边歌词视频](prompts/README_ZH.md#recipe-03) | 入门 | 16 秒 |
-| [04 · 雨夜末班车](prompts/README_ZH.md#recipe-04) | 入门 | 8 秒画面循环 |
-| [05 · 液态金属圆环](prompts/README_ZH.md#recipe-05) | 进阶 | 16 秒 |
-| [06 · 人像演唱](prompts/README_ZH.md#recipe-06) | 进阶 | 工具支持的一小段人声 |
-| [07 · 剪纸角色故事](prompts/README_ZH.md#recipe-07) | 进阶 | 20 秒 |
-| [08 · 天台余晖](prompts/README_ZH.md#recipe-08) | 入门 | 16 秒 |
-| [09 · 公路旅行日记](prompts/README_ZH.md#recipe-09) | 入门 | 20 秒 |
-| [10 · 同一道具，三个世界](prompts/README_ZH.md#recipe-10) | 进阶 | 12 秒 |
-| [11 · 副歌亮灯](prompts/README_ZH.md#recipe-11) | 进阶 | 16 秒 |
-| [12 · 完整歌曲分镜](prompts/README_ZH.md#recipe-12) | 高阶 | 按实际歌曲长度 |
+[下载练习素材](starter-kit/README.md) · [复制四条提示词](starter-kit/train-shot-prompts.md) · [中文逐步教程](docs/first-video.zh-CN.md) · [下载示例 MP4](starter-kit/night-train-edit-demo.mp4)
 
-这些时长是剪辑目标，不是单次生成的承诺。画面需要准确跟上音乐时，在剪辑软件里对齐切点；单靠提示词里的“跟随节拍”不能保证准确。
+示例使用静态图推拉运镜和原创伴奏，展示剪辑节奏，不是场景生成动画。进入 MP4 文件页后，点击 **Download raw file** 下载到本地播放。
 
-## 听音乐，找画面方向
+## 下一支，你想做什么
 
-打开 [MusicMaker Discover](https://musicmaker.im/discover/)，听听不同音乐让你想到什么画面。可以先打开 [Neon Pulse](https://musicmaker.im/detail/discover-v2-94/)，本次已确认其播放器能正常播放。[Echoes of You](https://musicmaker.im/detail/discover-v2-95/) 和 [The Open Road](https://musicmaker.im/detail/discover-v2-104/) 是另外两个已核对的曲库条目，本次未测试播放。
-
-先选一段完整乐句，找出希望强调的音乐变化，再选画面方案。这里不按歌名推断曲风或速度。详情页无法加载时，可回到 Discover 按曲名查找。想直接下载音乐练习，可以用仓库内的[原创 16 秒配乐](starter-kit/README.md)；曲库作品的再使用需要另行确认授权。
-
-## 从成熟案例学什么？
-
-- **Lofi Girl：** 学习固定场景如何陪伴长时间听歌。[来源与改编练习](docs/inspiration.md#lofi-girl)。
-- **OK Go《The One Moment》：** 学习先选音乐中的重点，再安排视觉变化。[官方制作说明与练习](docs/inspiration.md#ok-go)。
-- **Gorillaz《Cracker Island》：** 观察角色在不同镜头中保留哪些识别特征。[官方视频与练习](docs/inspiration.md#gorillaz)。
-
-以上是学习参考，不是 MusicMaker 客户案例，也不代表作品用 AI 制作。仓库不提供这些作品的音乐或视频下载。
-
-## 选对工具入口
-
-| 你手里有什么 | 入口 | 接下来做什么 |
-|---|---|---|
-| 一个画面想法 | [短片生成工具](https://musicmaker.im/free-short-music-video-generator/) | 逐镜头生成，再在剪辑软件中配乐 |
-| 音乐和人物图片 | [音乐视频工具](https://musicmaker.im/ai-music-video-generator/) | 上传素材，先测试短片段 |
-| 还没有音乐方向 | [Discover 曲库](https://musicmaker.im/discover/) | 先找灵感，再制作或授权自己的音乐 |
-| 已有全部画面 | [剪辑说明（英文）](docs/editing.md) | 配乐、加字幕、检查导出文件 |
-
-音乐视频表单显示积分估算和 Public（是否公开）开关，提交前先确认。这里只核查了公开页面，没有测试付费生成质量。[来源记录](docs/sources.md)。
-
-## 常见问题，先这样改
-
-| 问题 | 先改这一项 |
+| 想做的效果 | 对应中文方案 |
 |---|---|
-| 人物变脸、衣服变化 | 复用同一张参考图，缩短镜头并减少动作 |
-| 歌词写错 | 只生成背景，文字放到剪辑软件里添加 |
-| 画面变化没对上音乐 | 调整切点，不要把整段重做 |
-| 循环接头明显 | 固定镜头，找相近的首尾画面，连续播放两遍检查 |
-| 镜头之间像不同作品 | 固定颜色、地点、道具和运镜规则 |
-| 音乐像播放了两遍 | 关闭各段视频自带音频，只留选定的音乐 |
+| 让新歌更容易被记住 | [01 动态封面](prompts/README_ZH.md#recipe-01) · [02 新歌预告](prompts/README_ZH.md#recipe-02) · [03 歌词视频](prompts/README_ZH.md#recipe-03) |
+| 给声音一个完整场景 | [04 夜车循环](prompts/README_ZH.md#recipe-04) · [05 液态金属](prompts/README_ZH.md#recipe-05) · [07 纸艺故事](prompts/README_ZH.md#recipe-07) |
+| 以人物表演为主 | [06 肖像演唱](prompts/README_ZH.md#recipe-06) · [08 屋顶表演](prompts/README_ZH.md#recipe-08) · [09 公路日记](prompts/README_ZH.md#recipe-09) |
+| 用剪辑留下记忆点 | [10 匹配转场](prompts/README_ZH.md#recipe-10) · [11 副歌变色](prompts/README_ZH.md#recipe-11) · [12 完整歌曲](prompts/README_ZH.md#recipe-12) |
 
-## 分享你的做法
+12 套方案是原创创作提案，**尚未逐套实测生成**。标注的时长是剪辑目标，可先生成工具支持的短镜头再拼接。[节拍、人物、歌词常见问题](docs/editing.md)。
 
-欢迎[提交方案](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new?template=recipe.yml)：写清素材、提示词、结果，以及哪一步失败、如何修改。[贡献说明](CONTRIBUTING.md)。
+## 模型能力，回到官方资料核对
 
-**准备好为自己的歌做画面了吗？** [先生成一个短镜头](https://musicmaker.im/free-short-music-video-generator/)，或[带着音乐和照片开始](https://musicmaker.im/ai-music-video-generator/)。
+- **Seedance 2.5**：官方称其为“audio-video joint generation model”（音视频联合生成模型）。[字节跳动官方模型页](https://seed.bytedance.com/en/seedance2_5)。创作时把声音与镜头一起规划，实际参考输入以所用工具为准。
+- **MiniMax H3**：官方介绍“native stereo sound”（原生立体声），并给出组合人物图、运镜视频与音频的演唱示例。[MiniMax 官方发布](https://www.minimax.io/blog/minimax-h3)。
+- **MiniMax Music 3.0**：输入包括“creative concept and optional lyrics”（创作构思与可选歌词）。[MiniMax 官方发布](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)。先描述歌曲各段如何变化，再安排分镜。
+- **Eleven Music**：官方建议写明“genre, mood, instrumentation, tempo, and production era”（曲风、情绪、乐器、速度与制作年代）。[ElevenLabs 提示词指南](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)。这些具体信息比单写“好听、有氛围”更便于表达需求。
 
-原创文字、代码和练习音乐采用 [MIT 许可](LICENSE)。图片和外部案例见[素材说明](assets/README.md)；仓库许可不包含第三方歌曲和视频。
+[模型资料与实际用法 →](docs/models.md) · [工具限制与来源记录](docs/sources.md)
+
+## 继续创作
+
+[看 Lofi Girl、OK Go 与 Gorillaz 的做法](docs/inspiration.md) · [复制分镜计划模板](starter-kit/brief-template.md) · [贡献自己的方案](CONTRIBUTING.md)
+
+由 [AI Music Maker](https://musicmaker.im/) 维护，可搭配你习惯的生成与剪辑工具。原创文字、代码和练习音乐采用 [MIT 许可](LICENSE)；外部音乐、图片、视频仍归各自权利人所有，见[素材来源与使用说明](assets/README.md)。
