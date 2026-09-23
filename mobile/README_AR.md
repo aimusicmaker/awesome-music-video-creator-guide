@@ -1,6 +1,10 @@
 <div dir="rtl">
 
-# دليل إنشاء الفيديو الموسيقي
+<h1 align="center">دليل إنشاء الفيديو الموسيقي</h1>
+
+<!-- BRAND:START -->
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
+<!-- BRAND:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <b>العربية</b></p>
@@ -10,7 +14,7 @@
 <p align="center"><b>📱 نسخة الهاتف</b> · <a href="../README_AR.md"><kbd>🖥 نسخة الحاسوب</kbd></a></p>
 <!-- DEVICE:END -->
 
-**امنح أغنيتك صورًا تستحق المشاهدة حتى النهاية. شاهد الأمثلة، واختر فكرة واحدة، ثم أكمل أول فيديو قصير لك.**
+<p align="center"><strong>امنح أغنيتك صورًا تستحق المشاهدة حتى النهاية. شاهد الأمثلة، واختر فكرة واحدة، ثم أكمل أول فيديو قصير لك.</strong></p>
 
 <p align="center"><a href="#x-creators"><kbd>▶ أمثلة من X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ استمع عبر MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ الفيديو الأول</kbd></a> &nbsp; <a href="#next-project"><kbd>→ التدريب التالي</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 أدوات مجانية</kbd></a></p>
 

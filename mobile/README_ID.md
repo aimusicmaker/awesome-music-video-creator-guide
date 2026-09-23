@@ -1,4 +1,8 @@
-# Panduan Membuat Video Musik
+<h1 align="center">Panduan Membuat Video Musik</h1>
+
+<!-- BRAND:START -->
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
+<!-- BRAND:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <b>Bahasa Indonesia</b> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
@@ -8,7 +12,7 @@
 <p align="center"><b>📱 Versi ponsel</b> · <a href="../README_ID.md"><kbd>🖥 Versi desktop</kbd></a></p>
 <!-- DEVICE:END -->
 
-**Beri lagu Anda gambar yang ingin ditonton sampai selesai. Pelajari contoh, pilih satu ide, lalu selesaikan video pendek pertama Anda.**
+<p align="center"><strong>Beri lagu Anda gambar yang ingin ditonton sampai selesai. Pelajari contoh, pilih satu ide, lalu selesaikan video pendek pertama Anda.</strong></p>
 
 <p align="center"><a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
 

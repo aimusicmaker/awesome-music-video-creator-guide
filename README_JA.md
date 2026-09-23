@@ -1,4 +1,8 @@
-# ミュージックビデオ制作ガイド
+<h1 align="center">ミュージックビデオ制作ガイド</h1>
+
+<!-- BRAND:START -->
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
+<!-- BRAND:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <b>日本語</b> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
@@ -8,7 +12,7 @@
 <p align="center"><a href="mobile/README_JA.md"><kbd>📱 モバイル版</kbd></a></p>
 <!-- DEVICE:END -->
 
-**一曲に、最後まで見たくなる映像を。作品を見て、作り方を学び、自分の短い動画を完成させましょう。**
+<p align="center"><strong>一曲に、最後まで見たくなる映像を。作品を見て、作り方を学び、自分の短い動画を完成させましょう。</strong></p>
 
 <p align="center"><a href="#x-creators"><kbd>▶ Xの作例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMakerで試聴</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 最初の動画</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 次の練習</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 無料ツール</kbd></a></p>
 

@@ -91,6 +91,7 @@ for lang in LANGS:
 # English and simplified Chinese keep their expanded hand-edited walkthroughs.
 for code,filename,labels in [('en','README.md',['X examples','Listen','Make your first video','Next technique']),('zh','README_ZH.md',['X 创作者案例','MusicMaker 试听','制作第一支视频','下一种技巧'])]:
     p=ROOT/filename;s=p.read_text()
+    s=re.sub(r'\n*<!-- BRAND:START -->.*?<!-- BRAND:END -->\n*','\n\n',s,flags=re.S)
     s=re.sub(r'<!-- LANGUAGES:START -->.*?<!-- LANGUAGES:END -->\n*','',s,flags=re.S)
     first=s.index('\n')
     s=s[:first]+'\n\n'+language_bar(code)+s[first:]
@@ -111,6 +112,25 @@ for lang in LANGS:
         closing=s.rfind('</div>')
         s=s[:closing].rstrip()+block+'\n</div>\n'
     else:s=s.rstrip()+block
+    p.write_text(s)
+
+# Use GitHub-supported alignment for the brand, main title and introduction.
+for lang in LANGS:
+    p=ROOT/lang['file'];s=p.read_text()
+    s=re.sub(r'\n*<!-- BRAND:START -->.*?<!-- BRAND:END -->\n*','\n\n',s,flags=re.S)
+    s=re.sub(r'^# (.+)$',lambda m: '<h1 align="center">'+esc(m[1])+'</h1>',s,count=1,flags=re.M)
+    logo='\n\n<!-- BRAND:START -->\n<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>\n<!-- BRAND:END -->'
+    s=re.sub(r'(<h1 align="center">.*?</h1>)',lambda m:m[1]+logo,s,count=1)
+    # Only the opening prose is centered; tutorials and galleries keep their layout.
+    start=s.index('<!-- LANGUAGES:END -->')+len('<!-- LANGUAGES:END -->')
+    end=s.index('<p align="center"><a href="#x-creators">',start)
+    intro=s[start:end]
+    intro=re.sub(r'^\*\*(.+)\*\*$',lambda m:'<p align="center"><strong>'+esc(m[1])+'</strong></p>',intro,flags=re.M)
+    paragraphs=intro.split('\n\n')
+    for i,paragraph in enumerate(paragraphs):
+        if paragraph.strip() and not paragraph.lstrip().startswith('<'):
+            paragraphs[i]='<p align="center">'+esc(paragraph.strip())+'</p>'
+    s=s[:start]+'\n\n'.join(paragraphs)+s[end:]
     p.write_text(s)
 
 # Device-specific pages are derived after all desktop content is finalized.

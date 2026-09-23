@@ -1,4 +1,8 @@
-# Guia para criar videoclipes
+<h1 align="center">Guia para criar videoclipes</h1>
+
+<!-- BRAND:START -->
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
+<!-- BRAND:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <b>Português</b> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
@@ -8,7 +12,7 @@
 <p align="center"><a href="mobile/README_PT.md"><kbd>📱 Versão para celular</kbd></a></p>
 <!-- DEVICE:END -->
 
-**Dê à sua música imagens que prendam a atenção até o fim. Explore os exemplos, escolha uma ideia e termine seu primeiro vídeo curto.**
+<p align="center"><strong>Dê à sua música imagens que prendam a atenção até o fim. Explore os exemplos, escolha uma ideia e termine seu primeiro vídeo curto.</strong></p>
 
 <p align="center"><a href="#x-creators"><kbd>▶ Exemplos no X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Ouvir MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primeiro vídeo</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Próximo exercício</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Ferramentas grátis</kbd></a></p>
 

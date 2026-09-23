@@ -1,4 +1,8 @@
-# 音乐视频创作指南
+<h1 align="center">音乐视频创作指南</h1>
+
+<!-- BRAND:START -->
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
+<!-- BRAND:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <a href="README_IT.md"><kbd>Italiano</kbd></a> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <b>简体中文</b> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
@@ -8,9 +12,9 @@
 <p align="center"><b>📱 手机版</b> · <a href="../README_ZH.md"><kbd>🖥 桌面版</kbd></a></p>
 <!-- DEVICE:END -->
 
-**让一首歌，有一个值得看完的画面。**
+<p align="center"><strong>让一首歌，有一个值得看完的画面。</strong></p>
 
-从新歌预告、人物演唱到循环视觉，即使第一次剪视频，也可以从这里开始：选喜欢的画面，拆解创作者的做法，再做自己的版本。
+<p align="center">从新歌预告、人物演唱到循环视觉，即使第一次剪视频，也可以从这里开始：选喜欢的画面，拆解创作者的做法，再做自己的版本。</p>
 
 <p align="center"><a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免费工具库</kbd></a></p>
 

@@ -1,4 +1,8 @@
-# Guida alla creazione di video musicali
+<h1 align="center">Guida alla creazione di video musicali</h1>
+
+<!-- BRAND:START -->
+<p align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="MusicMaker logo" width="88" height="88"></a></p>
+<!-- BRAND:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">🌐 <a href="README.md"><kbd>English</kbd></a> · <a href="README_JA.md"><kbd>日本語</kbd></a> · <a href="README_ID.md"><kbd>Bahasa Indonesia</kbd></a> · <b>Italiano</b> · <a href="README_PT.md"><kbd>Português</kbd></a> · <a href="README_ES.md"><kbd>Español</kbd></a> · <a href="README_DE.md"><kbd>Deutsch</kbd></a> · <a href="README_RU.md"><kbd>Русский</kbd></a> · <a href="README_FR.md"><kbd>Français</kbd></a> · <a href="README_ZH.md"><kbd>简体中文</kbd></a> · <a href="README_TW.md"><kbd>繁體中文</kbd></a> · <a href="README_KO.md"><kbd>한국어</kbd></a> · <a href="README_TH.md"><kbd>ไทย</kbd></a> · <a href="README_VI.md"><kbd>Tiếng Việt</kbd></a> · <a href="README_AR.md"><kbd>العربية</kbd></a></p>
@@ -8,7 +12,7 @@
 <p align="center"><a href="mobile/README_IT.md"><kbd>📱 Versione mobile</kbd></a></p>
 <!-- DEVICE:END -->
 
-**Dai a una canzone immagini da guardare fino alla fine. Esplora gli esempi, scegli un’idea e completa il tuo primo video breve.**
+<p align="center"><strong>Dai a una canzone immagini da guardare fino alla fine. Esplora gli esempi, scegli un’idea e completa il tuo primo video breve.</strong></p>
 
 <p align="center"><a href="#x-creators"><kbd>▶ Esempi su X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Ascolta MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primo video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Prossimo esercizio</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Strumenti gratuiti</kbd></a></p>
 
