@@ -16,7 +16,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Esempi e tutorial ufficiali dei modelli</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Esempi su X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Ascolta MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Primo video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Prossimo esercizio</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Strumenti gratuiti</kbd></a></p>
 
-[![Scegli la musica → prepara inquadrature e prompt → genera le clip → monta ed esporta. Illustrazione originale del percorso, dal canto ai viaggi e alle forme astratte, non prova di video generati.](assets/music-video-workflow.png)](#first-video)
+[![Scegli la musica → prepara inquadrature e prompt → genera le clip → monta ed esporta. Illustrazione originale del percorso, dal canto ai viaggi e alle forme astratte, non prova di video generati.](assets/social-preview.jpg)](#first-video)
 
 Scegli la musica → prepara inquadrature e prompt → genera le clip → monta ed esporta. Illustrazione originale del percorso, dal canto ai viaggi e alle forme astratte, non prova di video generati.
 

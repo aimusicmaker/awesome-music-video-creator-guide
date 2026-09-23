@@ -18,7 +18,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ 模型官方案例与教程</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免费工具库</kbd></a></p>
 
-[![选音乐、设计分镜与提示词、生成镜头、剪辑导出；下方展示人物演唱、旅行叙事与抽象音乐视觉](assets/music-video-workflow.png)](#first-video)
+[![选音乐、设计分镜与提示词、生成镜头、剪辑导出；下方展示人物演唱、旅行叙事与抽象音乐视觉](assets/social-preview.jpg)](#first-video)
 
 原创流程示意图，展示本库怎样把案例、提示词、工具与剪辑连起来；画面是概念设计，不是生成视频实测结果。
 

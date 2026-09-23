@@ -16,7 +16,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ モデル公式の作例とチュートリアル</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Xの作例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMakerで試聴</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 最初の動画</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 次の練習</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 無料ツール</kbd></a></p>
 
-[![曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。](assets/music-video-workflow.png)](#first-video)
+[![曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。](assets/social-preview.jpg)](#first-video)
 
 曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。
 

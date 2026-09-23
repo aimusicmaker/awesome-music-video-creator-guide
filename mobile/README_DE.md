@@ -16,7 +16,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Offizielle Modellbeispiele und Anleitungen</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Gratis-Werkzeuge</kbd></a></p>
 
-[![Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.](../assets/music-video-workflow.png)](#first-video)
+[![Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.](../assets/social-preview.jpg)](#first-video)
 
 Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.
 

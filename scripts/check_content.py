@@ -154,7 +154,7 @@ for language in languages:
                 errors.append(f'{filename}: wrong brand demo action label')
         if part.count('```text') != prompt_count:
             errors.append(f'{filename}: incomplete inline prompts in {marker}')
-    if 'assets/music-video-workflow.png' not in content:
+    if 'assets/social-preview.jpg' not in content:
         errors.append(f'{filename}: missing workflow cover')
     for destination in languages:
         if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in content:

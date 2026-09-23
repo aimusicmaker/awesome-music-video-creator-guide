@@ -51,7 +51,7 @@ for lang in LANGS:
     if code in ('en','zh','tw'):continue
     c=COPY[code];L=c['labels']
     s=f'# {c["title"]}\n\n{language_bar(code)}\n\n**{c["lead"]}**\n\n{navigation(c["nav"]+[c["toolkit"]["nav"]])}\n\n'
-    s+=f'[![{c["hero"]}](assets/music-video-workflow.png)](#first-video)\n\n{c["hero"]}\n\n'
+    s+=f'[![{c["hero"]}](assets/social-preview.jpg)](#first-video)\n\n{c["hero"]}\n\n'
     s+=f'<a id="x-creators"></a>\n\n## {c["nav"][0]}\n\n{c["x_intro"]}\n\n'
     cards=[]
     for x,desc in zip(G['x'],c['x_lessons']):

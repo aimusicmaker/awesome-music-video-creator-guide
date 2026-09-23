@@ -32,4 +32,4 @@ The [official source manifest](../docs/official-cases.json) records four maker-p
 
 ## Social preview
 
-[Social preview](social-preview.jpg) is original AI-generated concept artwork made with the built-in image generation tool on 2026-09-23, using our workflow illustration as a reference. It is delivered at 1280 × 640, below 1 MB, for GitHub sharing. MIT to the extent rights can be granted; not a model-test result. Prompt recorded above.
+[Social preview](social-preview.jpg) is original AI-generated concept artwork made with the built-in image generation tool on 2026-09-23, using our workflow illustration as a reference. It is delivered at 1280 × 640, below 1 MB, for the homepage cover and GitHub sharing. MIT to the extent rights can be granted; not a model-test result. Prompt recorded above.

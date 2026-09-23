@@ -16,7 +16,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ 모델 공식 사례와 튜토리얼</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 제작 사례</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 미리 듣기</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 첫 영상 만들기</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 다음 연습</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 무료 도구</kbd></a></p>
 
-[![음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.](assets/music-video-workflow.png)](#first-video)
+[![음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.](assets/social-preview.jpg)](#first-video)
 
 음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.
 

@@ -18,7 +18,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Official model examples and tutorials</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X examples</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Listen</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Make your first video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Next technique</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Free toolkit</kbd></a></p>
 
-[![Choose music, plan shots and prompts, generate clips, then edit and export; explore vocal performance, travel stories and abstract music visuals](assets/music-video-workflow.png)](#first-video)
+[![Choose music, plan shots and prompts, generate clips, then edit and export; explore vocal performance, travel stories and abstract music visuals](assets/social-preview.jpg)](#first-video)
 
 Original workflow illustration connecting this library’s examples, prompts, tools and editing steps. Concept artwork, not evidence of tested video generation.
 

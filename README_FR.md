@@ -16,7 +16,7 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Exemples et tutoriels officiels des modèles</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Exemples sur X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Écouter MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Premier clip</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Exercice suivant</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Outils gratuits</kbd></a></p>
 
-[![Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites ; ce ne sont pas des résultats vidéo vérifiés.](assets/music-video-workflow.png)](#first-video)
+[![Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites ; ce ne sont pas des résultats vidéo vérifiés.](assets/social-preview.jpg)](#first-video)
 
 Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites ; ce ne sont pas des résultats vidéo vérifiés.
 
