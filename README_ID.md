@@ -13,11 +13,37 @@
 <p align="center"><a href="mobile/README_ID.md"><img src="assets/navigation/mobile-id.svg" alt="📱 Versi ponsel" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ Contoh dan tutorial resmi model</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI vs syuting langsung</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ Contoh dan tutorial resmi model</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
 
 [![Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak.](assets/social-preview.jpg)](#first-video)
 
 Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak.
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## Dua video musik: apa bedanya AI dan syuting langsung?
+
+Musik bisa mengubah beberapa detik menjadi tontonan megah atau membawa puluhan tahun lewat di depan mata. Tonton dua video musik resmi ini dan pilih cara bercerita yang ingin dicoba.
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>Visual buatan AI · Arahan manusia</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · Sepasang kekasih muda duduk berdekatan" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>Sutradara/editor: Paul Trillo · 2024 · Visual Sora</sub><br>Ikuti kamera yang terus maju melewati potongan kehidupan sepasang kekasih. Perhatikan zaman dan tempat menyatu seperti kenangan.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ Tonton video musik lengkap</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">Proses pembuatan ↗</a></td>
+<td width="50%" valign="top"><b>Penampilan langsung · Kamera berkecepatan tinggi</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · Seorang penampil di depan perangkat yang menyemburkan bubuk warna-warni" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>Sutradara: Damian Kulash · 2016 · Kamera, efek fisik, dan pascaproduksi</sub><br>Lihat cat, properti yang meletus, dan band bergerak bersama musik. Kamera berkecepatan tinggi mengembangkan gerakan sesaat menjadi tontonan.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ Tonton video musik lengkap</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">Proses pembuatan ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>Asal gambar · Jalur pembuatan AI</b><br>Deskripsikan adegan dan bidikan, lalu pilih dan susun klip hasil generasi.</td><td width="50%" valign="top"><b>Asal gambar · Jalur syuting langsung</b><br>Atur pemain, lokasi, dan properti, lalu rekam dan edit.</td></tr>
+<tr><td width="50%" valign="top"><b>Fokus kreatif · Jalur pembuatan AI</b><br>Coba perpindahan adegan unik; periksa kesinambungan karakter dan detail.</td><td width="50%" valign="top"><b>Fokus kreatif · Jalur syuting langsung</b><br>Latih gerakan, atur cahaya dan waktu, lalu edit penampilan mengikuti musik.</td></tr>
+<tr><td width="50%" valign="top"><b>Ide untuk dicoba · Jalur pembuatan AI</b><br>Gunakan satu bidikan untuk membawa penonton antara dua tempat.</td><td width="50%" valign="top"><b>Ide untuk dicoba · Jalur syuting langsung</b><br>Tempatkan satu gerakan jelas pada awal reff atau ketukan kuat.</td></tr>
+</table>
+
+AI memberi pilihan untuk mencoba ide visual sebelum membangun seluruh set. Cerita, ritme, dan bidikan akhir tetap pilihan Anda. Pilih 10–16 detik musik, mulai dengan satu pergantian adegan, lalu jelajahi model dan prompt berikut.
+
+[✦ Jelajahi contoh resmi model](#official-models) · [Catatan perbandingan dan sumber (English)](docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -221,6 +247,8 @@ MusicMaker membuka kerja sama afiliasi. Bagikan alat pembuatan musik kami melalu
 Panduan dikelola tim MusicMaker dan mengutamakan model yang ditawarkan merek. Tautan rekomendasi tidak memuat parameter afiliasi tambahan dari repositori ini; bukan berarti tidak ada kepentingan komersial. [ Kebijakan editorial (English) → ](docs/editorial-policy.md)
 
 Demo penyuntingan orisinal kami sepanjang 16 detik telah selesai. Contoh eksternal hanya diperiksa sumber publik dan ketersediaannya. Kedua tutorial pembuatan dengan AI belum diuji dari awal hingga akhir.
+
+Bagian ini membandingkan visual AI The Hardest Part (2024) karya Washed Out dengan syuting langsung dan pascaproduksi The One Moment (2016) karya OK Go. Keduanya melibatkan kreator manusia. AI merujuk proses visual, bukan penciptaan lagunya. Ini perbandingan editorial karya dan cara produksi, bukan uji terkontrol atau bukti keunggulan biaya, kecepatan, maupun mutu keseluruhan. Sora disebut hanya sebagai alat produksi karya historis tersebut.
 
 Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.
 

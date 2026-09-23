@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-09-23",
+  "scope": "Two officially released music videos; an editorial comparison of visual production methods, not a benchmark. Music authorship is not classified as AI-generated.",
+  "cases": [
+    {
+      "id": "washed-out",
+      "artist": "Washed Out",
+      "title": "The Hardest Part",
+      "year": 2024,
+      "video": "https://www.youtube.com/watch?v=-Nb-M1GAOX8",
+      "image": "https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg",
+      "image_type": "Official video thumbnail returned by YouTube oEmbed; externally hosted and linked unchanged",
+      "making": "https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th",
+      "sources": [
+        "https://www.isea-symposium-archives.org/art-events/washed-out-the-hardest-part-by-paul-trillo/",
+        "https://www.subpop.com/artists/washed_out",
+        "https://ars.electronica.art/hope/en/washed-out-the-hardest-part/"
+      ],
+      "verification": "YouTube oEmbed confirms title, Washed Out authorship and thumbnail. Browser confirms official artist channel and AI-content label; playback required sign-in and was not verified. Artist statement read through indexed Ars Electronica and ISEA source; direct Ars retrieval returned 403. Descriptions are source-based viewing prompts, not a claim of a full fresh viewing. Expanded official video description confirms Director/Editor: Paul Trillo. ISEA source was directly readable and confirms 2024, the song/video title, Sora visual method and the linked official music video. Sub Pop release announcement directly read; confirms the official music video, Paul Trillo direction, Sora visuals and the continuous journey through decades."
+    },
+    {
+      "id": "ok-go",
+      "artist": "OK Go",
+      "title": "The One Moment",
+      "year": 2016,
+      "video": "https://www.youtube.com/watch?v=QvW61K2s0tA",
+      "image": "https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg",
+      "image_type": "Official video thumbnail returned by YouTube oEmbed; externally hosted and linked unchanged",
+      "making": "https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/",
+      "sources": [
+        "https://okgosandbox.org/the-one-moment/",
+        "https://okgo.net/wp/2016/11/23/the-one-moment-music-video/index.html"
+      ],
+      "verification": "YouTube oEmbed confirms title, OK Go authorship and thumbnail. Official director notes and band education site were read. Full playback was not independently verified in this session."
+    }
+  ]
+}

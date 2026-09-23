@@ -12,7 +12,7 @@ for lang in LANGS:
     p=ROOT/lang['file'];s=p.read_text();c=COPY[lang['code']]
     s=re.sub(r'<!-- OFFICIAL:START -->.*?<!-- OFFICIAL:END -->\n*','',s,flags=re.S)
     s=re.sub(r'(?: &nbsp; )?<a href="#official-models"><kbd>.*?</kbd></a>(?: &nbsp; )?','',s)
-    s=s.replace('<p align="center"><a href="#x-creators">','<p align="center"><a href="#official-models"><kbd>✦ '+html.escape(c['title'])+'</kbd></a> &nbsp; <a href="#x-creators">',1)
+    s=s.replace('<a href="#x-creators">','<a href="#official-models"><kbd>✦ '+html.escape(c['title'])+'</kbd></a> &nbsp; <a href="#x-creators">',1)
     notes='docs/official-cases.zh-CN.md' if lang['code'] in ('zh','tw') else 'docs/official-cases.md'
     cards=[]
     for case,lesson,image_label in zip(CASES,c['lessons'],c['image_labels']):

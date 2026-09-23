@@ -13,11 +13,37 @@
 <p align="center"><a href="mobile/README_FR.md"><img src="assets/navigation/mobile-fr.svg" alt="📱 Version mobile" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ Exemples et tutoriels officiels des modèles</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Exemples sur X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Écouter MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Premier clip</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Exercice suivant</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Outils gratuits</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ IA et prises de vues réelles</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ Exemples et tutoriels officiels des modèles</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Exemples sur X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Écouter MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Premier clip</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Exercice suivant</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Outils gratuits</kbd></a></p>
 
 [![Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites.](assets/social-preview.jpg)](#first-video)
 
 Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites.
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## Deux clips : qu’est-ce qui change entre IA et prises de vues réelles ?
+
+La musique peut déployer quelques secondes en spectacle ou faire défiler des décennies. Ouvrez ces deux clips officiels et choisissez le récit que vous aimeriez tenter.
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>Images générées par IA · Réalisation humaine</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · Un jeune couple assis côte à côte" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>Réalisation/montage : Paul Trillo · 2024 · Images Sora</sub><br>Suivez une caméra qui avance dans les fragments de vie d’un couple. Époques et lieux se mêlent comme des souvenirs.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ Voir le clip complet</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">Les coulisses ↗</a></td>
+<td width="50%" valign="top"><b>Performance réelle · Prise de vues à haute vitesse</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · Un artiste devant une structure projetant des poudres colorées" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>Réalisation : Damian Kulash · 2016 · Prises de vues, effets pratiques et postproduction</sub><br>Peinture, accessoires qui éclatent et groupe suivent la musique. La prise de vues à haute vitesse transforme des gestes fugitifs en spectacle.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ Voir le clip complet</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">Les coulisses ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>Origine des images · Création par IA</b><br>Décrire scènes et plans, puis sélectionner et assembler les séquences générées.</td><td width="50%" valign="top"><b>Origine des images · Prises de vues réelles</b><br>Préparer interprètes, lieux et accessoires, puis filmer et monter.</td></tr>
+<tr><td width="50%" valign="top"><b>Travail créatif · Création par IA</b><br>Essayer des changements de scène inhabituels ; vérifier la continuité des personnages et détails.</td><td width="50%" valign="top"><b>Travail créatif · Prises de vues réelles</b><br>Répéter les gestes, régler lumière et timing, puis monter la performance sur la musique.</td></tr>
+<tr><td width="50%" valign="top"><b>Une idée à essayer · Création par IA</b><br>Faire passer le public entre deux lieux dans un seul plan.</td><td width="50%" valign="top"><b>Une idée à essayer · Prises de vues réelles</b><br>Placer un geste net sur l’entrée du refrain ou un temps fort.</td></tr>
+</table>
+
+L’IA permet d’essayer une idée visuelle avant de construire un décor entier. Histoire, rythme et plans finaux restent vos choix. Prenez 10–16 secondes de musique, commencez par un changement de scène et explorez modèles et prompts.
+
+[✦ Découvrir les exemples officiels](#official-models) · [Comparaison et sources (English)](docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -221,6 +247,8 @@ MusicMaker propose un programme d’affiliation. Présentez nos outils de créat
 Ce guide est maintenu par l’équipe MusicMaker et privilégie les modèles proposés par la marque. Aucun paramètre d’affiliation du dépôt n’est ajouté aux liens recommandés ; cela ne signifie pas une absence d’intérêt commercial. [ Politique éditoriale (English) → ](docs/editorial-policy.md)
 
 Notre démonstration originale de montage de 16 secondes est réalisée. Pour les exemples externes, seules les sources publiques et leur disponibilité ont été vérifiées. Les deux tutoriels de génération par IA n’ont pas été testés de bout en bout.
+
+Cette section compare les images IA de The Hardest Part de Washed Out (2024) aux prises de vues réelles et à la postproduction de The One Moment d’OK Go (2016). Les deux impliquent des créateurs humains. IA désigne le procédé visuel, pas la composition de la chanson. C’est une comparaison éditoriale d’œuvres et de méthodes, pas un test contrôlé ni une preuve de supériorité en coût, vitesse ou qualité globale. Sora est cité uniquement comme outil historique de production.
 
 Ce ne sont ni nos tests de génération ni un classement.
 

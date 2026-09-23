@@ -13,13 +13,42 @@
 <p align="center"><b>📱 手机版首页</b> · <a href="../README_ZH.md"><kbd>🖥 桌面版</kbd></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ 模型官方案例与教程</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免费工具库</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI 与实拍对比</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ 模型官方案例与教程</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免费工具库</kbd></a></p>
 
 [![选音乐、设计分镜与提示词、生成镜头、剪辑导出；下方展示人物演唱、旅行叙事与抽象音乐视觉](../assets/social-preview.jpg)](#first-video)
 
 你喜欢的那首歌，会变成怎样的音乐视频？聚光灯下的演唱、驶向远山的列车，或随节拍变幻的光影——从这里的案例找灵感，用提示词让 AI 生成镜头，再把音乐与画面剪成你的第一支作品。
 
 **从哪里开始：** [看案例找灵感](#x-creators) → [听音乐定方向](#listen) → [做四镜头自然短片](#first-video) → [尝试人像演唱](#next-project)。
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## 先看两支音乐视频：AI 与实拍，差别在哪里？
+
+一段音乐，可以把几秒拉成奇观，也可以让几十年从眼前掠过。点开两支正式发行的 MV，看看你更想尝试哪一种表达。
+
+<p><b>AI 生成画面 · 导演编排</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · 一对年轻恋人近坐" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>导演与剪辑：Paul Trillo · 2024 · Sora 生成画面</sub><br>跟着不断向前的镜头，穿过一对恋人的人生片段。看年代与场景怎样像记忆一样交融。<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ 观看完整 MV</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">制作资料 ↗</a></p>
+
+<p><b>实拍表演 · 高速摄影</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · 表演者站在彩色粉末爆开的装置前" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>导演：Damian Kulash · 2016 · 摄影、实物特效与后期</sub><br>看颜料飞溅、道具爆开和乐队表演怎样配合音乐。高速摄影把短暂动作展开成视觉奇观。<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ 观看完整 MV</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">制作资料 ↗</a></p>
+
+<p><b>画面从哪里来 · AI 生成这条路</b><br>用文字设计场景与镜头，生成后挑选、组合。</p>
+
+<p><b>画面从哪里来 · 实拍制作这条路</b><br>先安排人物、场地和道具，再拍摄并剪辑。</p>
+
+<p><b>创作重心 · AI 生成这条路</b><br>尝试不寻常的场景变化，再检查人物与细节能否衔接。</p>
+
+<p><b>创作重心 · 实拍制作这条路</b><br>排练动作、控制光线与时机，再把表演剪到音乐上。</p>
+
+<p><b>先学哪一招 · AI 生成这条路</b><br>让一个镜头带观众穿过两种场景。</p>
+
+<p><b>先学哪一招 · 实拍制作这条路</b><br>让一个明确动作落在副歌或重拍上。</p>
+
+有了 AI，你可以先把脑海里的场景生成一小段，看看它与音乐是否合拍。你仍然决定故事、节奏和最终留下的镜头。挑 10—16 秒喜欢的音乐，从一个场景变化开始，再往下找适合的模型与提示词。
+
+[✦ 看看官方模型怎样实现](#official-models) · [对比笔记与来源](../docs/ai-vs-live.zh-CN.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -308,6 +337,8 @@ MusicMaker 支持联盟推广合作。欢迎通过教程、测评或社群分享
 本指南由 MusicMaker 团队维护，优先介绍品牌已覆盖的模型。推荐链接未附加本库联盟参数，不代表没有商业利益。 [ 编辑与维护说明 → ](../docs/editorial-policy.zh-CN.md)
 
 原创 16 秒剪辑示例已制成；外部案例仅核对公开来源与可用性，两套 AI 生成教程均未完成全流程实测。
+
+本节比较 Washed Out《The Hardest Part》（2024）的 AI 生成视觉与 OK Go《The One Moment》（2016）的实拍及后期制作。两者均有人类创作者参与；AI 指视频画面的生成方式，不表示歌曲由 AI 创作。此处为作品与制作路线的编辑性比较，不是同一任务的对照测试，不据此推断成本、速度或总体质量高低。Sora 在这里仅用于标明历史作品的制作工具。
 
 这里收录官方发布案例，不是本库实测，也不作为模型排名。
 

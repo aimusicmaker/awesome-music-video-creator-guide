@@ -125,7 +125,7 @@ for lang in LANGS:
     s=re.sub(r'(<h1 align="center">.*?</h1>)',lambda m:m[1]+logo,s,count=1)
     # Only the opening prose is centered; tutorials and galleries keep their layout.
     start=s.index('<!-- LANGUAGES:END -->')+len('<!-- LANGUAGES:END -->')
-    end=re.search(r'<p align="center"><a href="#(?:official-models|x-creators)">',s[start:]).start()+start
+    end=re.search(r'<p align="center"><a href="#(?:ai-vs-live|official-models|x-creators)">',s[start:]).start()+start
     intro=s[start:end]
     intro=re.sub(r'^\*\*(.+)\*\*$',lambda m:'<p align="center"><strong>'+esc(m[1])+'</strong></p>',intro,flags=re.M)
     paragraphs=intro.split('\n\n')
@@ -138,6 +138,7 @@ for lang in LANGS:
 # Device-specific pages are derived after all desktop content is finalized.
 import runpy
 runpy.run_path(str(ROOT/'scripts/build_official.py'))
+runpy.run_path(str(ROOT/'scripts/build_comparison.py'))
 runpy.run_path(str(ROOT/'scripts/build_trust.py'))
 runpy.run_path(str(ROOT/'scripts/build_header.py'))
 runpy.run_path(str(ROOT/'scripts/build_mobile.py'))

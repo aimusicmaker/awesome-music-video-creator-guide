@@ -15,11 +15,37 @@
 <p align="center"><a href="mobile/README_AR.md"><img src="assets/navigation/mobile-ar.svg" alt="📱 نسخة الهاتف" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ أمثلة النماذج ودروسها الرسمية</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ أمثلة من X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ استمع عبر MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ الفيديو الأول</kbd></a> &nbsp; <a href="#next-project"><kbd>→ التدريب التالي</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 أدوات مجانية</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ الذكاء الاصطناعي والتصوير الحي</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ أمثلة النماذج ودروسها الرسمية</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ أمثلة من X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ استمع عبر MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ الفيديو الأول</kbd></a> &nbsp; <a href="#next-project"><kbd>→ التدريب التالي</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 أدوات مجانية</kbd></a></p>
 
 [![اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية.](assets/social-preview.jpg)](#first-video)
 
 اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية.
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## فيديوهان موسيقيان: ما الفرق بين الذكاء الاصطناعي والتصوير الحي؟
+
+قد تمد الموسيقى ثواني إلى مشهد مدهش، أو تمرر عقودًا أمام عينيك. شاهد الفيديوهين المنشورين رسميًا واختر أسلوب الحكاية الذي تريد تجربته.
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>صور مولّدة بالذكاء الاصطناعي · إخراج بشري</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · حبيبان شابان يجلسان متقاربين" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>الإخراج والمونتاج: Paul Trillo · 2024 · صور Sora</sub><br>اتبع كاميرا تتقدم عبر شذرات من حياة عاشقين. راقب الأزمنة والأماكن تمتزج كالذكريات.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ شاهد الفيديو الموسيقي كاملًا</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">كيف صُنع ↗</a></td>
+<td width="50%" valign="top"><b>أداء حي · تصوير فائق السرعة</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · مؤدّ يقف أمام هيكل تنطلق منه مساحيق ملونة" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>الإخراج: Damian Kulash · 2016 · تصوير ومؤثرات عملية وما بعد الإنتاج</sub><br>شاهد الطلاء والدعائم المتفجرة والفرقة تتحرك مع الموسيقى. يحوّل التصوير فائق السرعة الأفعال الخاطفة إلى مشهد ممتد.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ شاهد الفيديو الموسيقي كاملًا</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">كيف صُنع ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>من أين تبدأ الصور؟ · مسار التوليد بالذكاء الاصطناعي</b><br>صف المشاهد واللقطات، ثم اختر المقاطع المولّدة واجمعها.</td><td width="50%" valign="top"><b>من أين تبدأ الصور؟ · مسار التصوير الحي</b><br>جهّز المؤدين والمواقع والدعائم، ثم صوّر وحرّر.</td></tr>
+<tr><td width="50%" valign="top"><b>محور الإبداع · مسار التوليد بالذكاء الاصطناعي</b><br>جرّب انتقالات غير مألوفة؛ وافحص استمرارية الشخصيات والتفاصيل.</td><td width="50%" valign="top"><b>محور الإبداع · مسار التصوير الحي</b><br>درّب الحركات واضبط الضوء والتوقيت، ثم حرّر الأداء مع الموسيقى.</td></tr>
+<tr><td width="50%" valign="top"><b>فكرة لتجربتها · مسار التوليد بالذكاء الاصطناعي</b><br>دع لقطة واحدة تنقل المشاهد بين مكانين.</td><td width="50%" valign="top"><b>فكرة لتجربتها · مسار التصوير الحي</b><br>ضع حركة واضحة عند دخول اللازمة أو نبضة قوية.</td></tr>
+</table>
+
+يتيح الذكاء الاصطناعي تجربة فكرة بصرية قبل بناء موقع تصوير كامل. تظل القصة والإيقاع واللقطات النهائية اختيارك. اختر 10–16 ثانية من الموسيقى، وابدأ بانتقال واحد ثم استكشف النماذج والتعليمات.
+
+[✦ استكشف أمثلة النماذج الرسمية](#official-models) · [ملاحظات المقارنة والمصادر (English)](docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -231,6 +257,8 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 يدير هذا الدليل فريق MusicMaker، مع إعطاء الأولوية للنماذج المتاحة لدى العلامة. لا نضيف إلى روابط التوصية معلمات تسويق بالعمولة خاصة بهذا المستودع؛ وهذا لا يعني غياب المصالح التجارية. [ سياسة التحرير (English) → ](docs/editorial-policy.md)
 
 اكتمل مثال المونتاج الأصلي الخاص بنا ومدته 16 ثانية. اقتصر فحص الأمثلة الخارجية على المصادر العامة وإمكانية الوصول إليها. لم يُختبر أي من درسي التوليد بالذكاء الاصطناعي من البداية إلى النهاية.
+
+تقارن الفقرة صور الذكاء الاصطناعي في The Hardest Part لفرقة Washed Out (2024) بالتصوير الحي وما بعد الإنتاج في The One Moment لفرقة OK Go (2016). يشارك مبدعون بشر في العملين. يصف الذكاء الاصطناعي العملية البصرية، لا تأليف الأغنية. هذه مقارنة تحريرية بين أعمال وطرق إنتاج، وليست اختبارًا مضبوطًا أو دليلًا على تفوق التكلفة أو السرعة أو الجودة العامة. يُذكر Sora بوصفه أداة إنتاج العمل التاريخي فقط.
 
 هذه أمثلة منشورة وليست اختبارات توليد أجريناها أو ترتيبًا للنماذج.
 

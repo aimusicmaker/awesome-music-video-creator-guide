@@ -159,7 +159,7 @@ for language in languages:
     for destination in languages:
         if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in content:
             errors.append(f'{filename}: missing language switch to {destination["file"]}')
-    order = [content.find(f'<a id="{a}">') for a in ['official-models','x-creators','listen','first-video','next-project','toolkit']]
+    order = [content.find(f'<a id="{a}">') for a in ['ai-vs-live','official-models','x-creators','listen','first-video','next-project','toolkit']]
     if min(order) < 0 or order != sorted(order):
         errors.append(f'{filename}: incorrect reader journey section order')
 # Official case cards must retain source, guide and learning-note links.
@@ -215,7 +215,7 @@ for language in languages:
         body=page[:page.index('<!-- TRUST:START -->')]
         manual_disclosures=json.loads((ROOT/'i18n/disclosures.json').read_text())
         generated_disclosures=json.loads((ROOT/'i18n/readme-locales.json').read_text())
-        notices=[official_copy['disclosure'],official_copy['boundary']]+manual_disclosures.get(language['code'],generated_disclosures.get(language['code'],{}).get('disclosures',[]))
+        notices=[json.loads((ROOT/'i18n/comparison-locales.json').read_text())[language['code']]['disclosure'],official_copy['disclosure'],official_copy['boundary']]+manual_disclosures.get(language['code'],generated_disclosures.get(language['code'],{}).get('disclosures',[]))
         if any(notice and notice in body for notice in notices):
             errors.append(f'{prefix}{filename}: disclosure interrupts body')
         relative='../' if prefix else ''
@@ -242,6 +242,21 @@ for language in languages:
 for template in ('broken-link','factual-correction','translation'):
     if not (ROOT/f'.github/ISSUE_TEMPLATE/{template}.yml').exists():
         errors.append(f'Missing correction form: {template}')
+
+# Compare full music videos before entering the model catalogue.
+comparison_cases=json.loads((ROOT/'docs/comparison-cases.json').read_text())['cases']
+for language in languages:
+    for folder in ('','mobile/'):
+        text=(ROOT/folder/language['file']).read_text()
+        block=re.search(r'<!-- COMPARISON:START -->.*?<!-- COMPARISON:END -->',text,re.S)
+        if not block or text.count('<!-- COMPARISON:START -->') != 1:
+            errors.append(f'{folder}{language["file"]}: missing/duplicate music-video comparison')
+            continue
+        if block[0].count('<img ') != 2 or 'href="#ai-vs-live"' not in text:
+            errors.append(f'{folder}{language["file"]}: comparison needs two linked video images and navigation')
+        for case in comparison_cases:
+            if case['video'] not in block[0] or case['image'] not in block[0] or case['making'] not in block[0]:
+                errors.append(f'{folder}{language["file"]}: missing full music video or source link')
 
 if errors:
     print('\n'.join(errors));sys.exit(1)

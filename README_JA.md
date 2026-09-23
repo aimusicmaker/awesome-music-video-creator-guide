@@ -13,11 +13,37 @@
 <p align="center"><a href="mobile/README_JA.md"><img src="assets/navigation/mobile-ja.svg" alt="📱 モバイル版" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ モデル公式の作例とチュートリアル</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Xの作例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMakerで試聴</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 最初の動画</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 次の練習</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 無料ツール</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI と実写を比較</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ モデル公式の作例とチュートリアル</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Xの作例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMakerで試聴</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 最初の動画</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 次の練習</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 無料ツール</kbd></a></p>
 
 [![曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。](assets/social-preview.jpg)](#first-video)
 
 曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## 2本の音楽ビデオ：AI と実写で何が変わる？
+
+音楽は数秒を壮大な光景に変え、数十年を一瞬で見せることもできます。正式公開された2本を見て、試したい表現を選びましょう。
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>AI 生成映像 · 人による演出</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · 寄り添って座る若い二人" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>監督・編集：Paul Trillo · 2024 · Sora 生成映像</sub><br>前進するカメラとともに、ある恋人たちの人生の断片をたどります。時代と場所が記憶のように溶け合う様子に注目。<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ フル動画を見る</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">制作の舞台裏 ↗</a></td>
+<td width="50%" valign="top"><b>実写パフォーマンス · 高速度撮影</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · 色鮮やかな粉が噴き出す装置の前に立つ出演者" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>監督：Damian Kulash · 2016 · 撮影・実物効果・ポストプロダクション</sub><br>飛び散る絵の具、はじける小道具、バンドの演奏が音楽に重なります。高速度撮影が一瞬の動きを壮大に広げます。<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ フル動画を見る</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">制作の舞台裏 ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>映像の出発点 · AI 生成の進め方</b><br>場面とショットを文章で設計し、生成した映像を選んで組み立てる。</td><td width="50%" valign="top"><b>映像の出発点 · 実写制作の進め方</b><br>出演者・場所・小道具を準備し、撮影して編集する。</td></tr>
+<tr><td width="50%" valign="top"><b>創作の中心 · AI 生成の進め方</b><br>意外な場面転換を試し、人物や細部のつながりを確認する。</td><td width="50%" valign="top"><b>創作の中心 · 実写制作の進め方</b><br>動きを練習し、光とタイミングを整え、音楽に合わせて編集する。</td></tr>
+<tr><td width="50%" valign="top"><b>まず試す工夫 · AI 生成の進め方</b><br>1つのショットで観客を2つの場所へ連れていく。</td><td width="50%" valign="top"><b>まず試す工夫 · 実写制作の進め方</b><br>明確な動きをサビの入りや強拍に合わせる。</td></tr>
+</table>
+
+AI ならセット全体を用意する前に、映像のアイデアを試せます。物語、リズム、採用するショットはあなたが決めます。好きな音楽を10〜16秒選び、1つの場面転換から始めて、モデルとプロンプトを探しましょう。
+
+[✦ 公式モデルの作例へ](#official-models) · [比較メモと出典 (English)](docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -221,6 +247,8 @@ MusicMaker はアフィリエイト提携を受け付けています。チュー
 MusicMaker チームが管理し、ブランドで利用できるモデルを優先的に紹介しています。紹介リンクに本リポジトリのアフィリエイト用パラメータは付けていませんが、商業的な利害がないという意味ではありません。 [ 編集・管理方針 (English) → ](docs/editorial-policy.md)
 
 独自の16秒編集デモは制作済みです。外部事例は公開情報とアクセス可否のみを確認し、2つの AI 生成チュートリアルは全工程を実測していません。
+
+Washed Out「The Hardest Part」（2024）の AI 生成映像と、OK Go「The One Moment」（2016）の実写・ポストプロダクションを比較しています。どちらも人間の制作者が関わっています。AI は映像制作の方法を指し、曲の作者を指しません。作品と制作手法の編集上の比較であり、対照実験や費用・速度・総合品質の優劣を示すものではありません。Sora は過去の作品の制作ツールとしてのみ記載しています。
 
 公式公開例であり、本庫の生成テストや順位付けではありません。
 

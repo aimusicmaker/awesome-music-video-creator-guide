@@ -13,11 +13,40 @@
 <p align="center"><b>📱 Mobilversion</b> · <a href="../README_DE.md"><kbd>🖥 Desktopversion</kbd></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ Offizielle Modellbeispiele und Anleitungen</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Gratis-Werkzeuge</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ KI und Realfilm</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ Offizielle Modellbeispiele und Anleitungen</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Gratis-Werkzeuge</kbd></a></p>
 
 [![Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern.](../assets/social-preview.jpg)](#first-video)
 
 Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern.
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## Zwei Musikvideos: Was ändert sich mit KI und Realfilm?
+
+Musik kann Sekunden zum Spektakel dehnen oder Jahrzehnte vorbeiziehen lassen. Schau dir die beiden offiziell veröffentlichten Videos an und wähle, welche Erzählweise du ausprobieren möchtest.
+
+<p><b>KI-generierte Bilder · Menschliche Regie</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · Ein junges Paar sitzt dicht beieinander" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>Regie/Schnitt: Paul Trillo · 2024 · Sora-Bilder</sub><br>Folge der vorwärtsfahrenden Kamera durch Lebensmomente eines Paares. Zeiten und Orte verschmelzen wie Erinnerungen.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ Ganzes Musikvideo ansehen</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">Zur Entstehung ↗</a></p>
+
+<p><b>Reale Performance · Hochgeschwindigkeitsaufnahmen</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · Ein Künstler vor einer Konstruktion, aus der buntes Pulver hervorbricht" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>Regie: Damian Kulash · 2016 · Kamera, praktische Effekte und Nachbearbeitung</sub><br>Farbe, platzende Requisiten und die Band bewegen sich zur Musik. Hochgeschwindigkeitsaufnahmen entfalten flüchtige Aktionen zum Spektakel.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ Ganzes Musikvideo ansehen</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">Zur Entstehung ↗</a></p>
+
+<p><b>Ursprung der Bilder · Weg mit KI</b><br>Szenen und Einstellungen beschreiben, dann generierte Clips auswählen und zusammensetzen.</p>
+
+<p><b>Ursprung der Bilder · Weg mit Realfilm</b><br>Mitwirkende, Orte und Requisiten vorbereiten, dann filmen und schneiden.</p>
+
+<p><b>Kreativer Schwerpunkt · Weg mit KI</b><br>Ungewöhnliche Szenenwechsel ausprobieren; Figuren und Details auf Kontinuität prüfen.</p>
+
+<p><b>Kreativer Schwerpunkt · Weg mit Realfilm</b><br>Abläufe proben, Licht und Timing gestalten und die Performance zur Musik schneiden.</p>
+
+<p><b>Eine Idee zum Ausprobieren · Weg mit KI</b><br>Das Publikum in einer Einstellung zwischen zwei Orten führen.</p>
+
+<p><b>Eine Idee zum Ausprobieren · Weg mit Realfilm</b><br>Eine klare Aktion auf den Refrainbeginn oder einen starken Schlag setzen.</p>
+
+Mit KI kannst du eine Bildidee ausprobieren, bevor du ein ganzes Set baust. Geschichte, Rhythmus und endgültige Einstellungen entscheidest weiterhin du. Wähle 10–16 Sekunden Musik, beginne mit einem Szenenwechsel und erkunde die Modelle und Prompts.
+
+[✦ Offizielle Modellbeispiele ansehen](#official-models) · [Vergleich und Quellen (English)](../docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -240,6 +269,8 @@ MusicMaker bietet Affiliate-Partnerschaften an. Stelle unsere Werkzeuge zur Musi
 Vom MusicMaker-Team gepflegt; bevorzugt werden Modelle, die die Marke anbietet. Empfehlungslinks enthalten keine von diesem Repository ergänzten Affiliate-Parameter. Das bedeutet nicht, dass keine kommerziellen Interessen bestehen. [ Redaktion und Pflege (English) → ](../docs/editorial-policy.md)
 
 Unsere eigene 16-sekündige Schnittdemo ist fertig. Bei externen Beispielen wurden nur öffentliche Quellen und Erreichbarkeit geprüft. Beide KI-Generierungsanleitungen sind noch nicht vollständig praktisch getestet.
+
+Verglichen werden die KI-Bilder von Washed Outs The Hardest Part (2024) und Realfilm samt Nachbearbeitung von OK Gos The One Moment (2016). An beiden arbeiten menschliche Kreative. KI bezeichnet das Bildverfahren, nicht die Urheberschaft des Songs. Dies ist ein redaktioneller Vergleich von Werken und Methoden, kein kontrollierter Test oder Beleg für Kosten-, Tempo- oder Qualitätsvorteile. Sora wird nur als damaliges Produktionswerkzeug genannt.
 
 Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten.
 

@@ -13,11 +13,37 @@
 <p align="center"><a href="mobile/README_KO.md"><img src="assets/navigation/mobile-ko.svg" alt="📱 모바일 버전" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ 모델 공식 사례와 튜토리얼</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 제작 사례</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 미리 듣기</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 첫 영상 만들기</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 다음 연습</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 무료 도구</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI와 실사 비교</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ 모델 공식 사례와 튜토리얼</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 제작 사례</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 미리 듣기</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 첫 영상 만들기</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 다음 연습</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 무료 도구</kbd></a></p>
 
 [![음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도입니다.](assets/social-preview.jpg)](#first-video)
 
 음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도입니다.
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## 두 뮤직비디오로 보는 AI와 실사 촬영의 차이
+
+음악은 몇 초를 장관으로 펼치고 수십 년을 눈앞에 스쳐 가게 합니다. 정식 공개된 두 뮤직비디오를 보고 시도하고 싶은 표현을 골라보세요.
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>AI 생성 영상 · 사람의 연출</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · 가까이 앉아 있는 젊은 연인" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>감독·편집: Paul Trillo · 2024 · Sora 생성 영상</sub><br>앞으로 나아가는 카메라를 따라 한 연인의 삶을 지나갑니다. 시대와 장소가 기억처럼 섞이는 모습에 주목하세요.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ 전체 뮤직비디오 보기</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">제작 과정 ↗</a></td>
+<td width="50%" valign="top"><b>실제 퍼포먼스 · 고속 촬영</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · 색색의 가루가 터지는 장치 앞에 서 있는 출연자" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>감독: Damian Kulash · 2016 · 촬영·실물 효과·후반 작업</sub><br>물감, 터지는 소품, 밴드의 동작이 음악과 어우러집니다. 고속 촬영이 찰나의 움직임을 시각적 장관으로 펼칩니다.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ 전체 뮤직비디오 보기</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">제작 과정 ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>영상의 시작 · AI 생성 방식</b><br>장면과 샷을 글로 설계한 뒤 생성된 클립을 골라 조합합니다.</td><td width="50%" valign="top"><b>영상의 시작 · 실사 제작 방식</b><br>인물·장소·소품을 준비한 뒤 촬영하고 편집합니다.</td></tr>
+<tr><td width="50%" valign="top"><b>창작의 초점 · AI 생성 방식</b><br>색다른 장면 전환을 시도하고 인물과 세부 요소의 연결을 확인합니다.</td><td width="50%" valign="top"><b>창작의 초점 · 실사 제작 방식</b><br>동작을 연습하고 빛과 타이밍을 조절한 뒤 음악에 맞춰 편집합니다.</td></tr>
+<tr><td width="50%" valign="top"><b>먼저 배울 기법 · AI 생성 방식</b><br>한 샷으로 관객을 두 공간 사이로 이끕니다.</td><td width="50%" valign="top"><b>먼저 배울 기법 · 실사 제작 방식</b><br>분명한 동작 하나를 후렴 시작이나 강박에 맞춥니다.</td></tr>
+</table>
+
+AI로는 세트 전체를 마련하기 전에 영상 아이디어를 시험할 수 있습니다. 이야기와 리듬, 최종 샷은 여전히 직접 고릅니다. 좋아하는 음악 10–16초를 골라 한 번의 장면 전환부터 시작하고 모델과 프롬프트를 살펴보세요.
+
+[✦ 공식 모델 사례 살펴보기](#official-models) · [비교 노트와 출처 (English)](docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -221,6 +247,8 @@ MusicMaker는 제휴 마케팅 협력을 지원합니다. 튜토리얼, 리뷰 �
 MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소개합니다. 추천 링크에 이 저장소의 제휴 매개변수는 없지만, 상업적 이해관계가 없다는 뜻은 아닙니다. [ 편집·관리 방침 (English) → ](docs/editorial-policy.md)
 
 자체 제작한 16초 편집 예제는 완성되었습니다. 외부 사례는 공개 출처와 접근 가능 여부만 확인했으며, 두 AI 생성 튜토리얼은 전체 과정을 실측하지 않았습니다.
+
+Washed Out의 The Hardest Part(2024)의 AI 생성 영상과 OK Go의 The One Moment(2016)의 실사·후반 작업을 비교합니다. 두 작품 모두 사람이 창작에 참여했습니다. AI는 영상 생성 방식을 뜻하며 곡의 저작 방식을 뜻하지 않습니다. 작품과 제작 방식에 대한 편집상 비교이며, 통제 실험이나 비용·속도·전체 품질의 우열을 보여주는 근거가 아닙니다. Sora는 당시 작품의 제작 도구로만 표기합니다.
 
 공식 공개 사례이며 자체 생성 테스트나 순위가 아닙니다.
 

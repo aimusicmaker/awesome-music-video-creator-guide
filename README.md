@@ -13,13 +13,39 @@
 <p align="center"><a href="mobile/README.md"><img src="assets/navigation/mobile-en.svg" alt="📱 Mobile edition" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ Official model examples and tutorials</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X examples</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Listen</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Make your first video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Next technique</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Free toolkit</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI vs live action</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ Official model examples and tutorials</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X examples</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Listen</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Make your first video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Next technique</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Free toolkit</kbd></a></p>
 
 [![Choose music, plan shots and prompts, generate clips, then edit and export; explore vocal performance, travel stories and abstract music visuals](assets/social-preview.jpg)](#first-video)
 
 Original workflow illustration connecting this library’s examples, prompts, tools and editing steps.
 
 **Start here:** [Find visual ideas](#x-creators) → [Choose a musical direction](#listen) → [Finish four nature shots](#first-video) → [Try portrait singing](#next-project).
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## Two music videos: what changes with AI and live action?
+
+Music can stretch seconds into a spectacle or carry decades past your eyes. Open these two officially released music videos and choose the kind of story you want to try.
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>AI-generated visuals · Human direction</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · A young couple sitting close together" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>Director/editor: Paul Trillo · 2024 · Sora visuals</sub><br>Follow a forward-moving camera through fragments of a couple’s life. Watch eras and places blend like memories.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ Watch the full music video</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">How it was made ↗</a></td>
+<td width="50%" valign="top"><b>Live performance · High-speed photography</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · A performer in front of a rig bursting with colored powder" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>Director: Damian Kulash · 2016 · Camera, practical effects and post-production</sub><br>Watch paint, bursting props and the band move with the music. High-speed photography unfolds fleeting actions into a spectacle.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ Watch the full music video</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">How it was made ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>Where images begin · The AI-generated route</b><br>Describe scenes and shots, then select and assemble generated clips.</td><td width="50%" valign="top"><b>Where images begin · The live-action route</b><br>Arrange performers, locations and props, then film and edit.</td></tr>
+<tr><td width="50%" valign="top"><b>Creative focus · The AI-generated route</b><br>Try unusual scene changes; check character and detail continuity.</td><td width="50%" valign="top"><b>Creative focus · The live-action route</b><br>Rehearse actions, shape light and timing, then edit performance to music.</td></tr>
+<tr><td width="50%" valign="top"><b>One idea to borrow · The AI-generated route</b><br>Let one shot carry the viewer between two settings.</td><td width="50%" valign="top"><b>One idea to borrow · The live-action route</b><br>Land one clear action on a chorus entrance or strong beat.</td></tr>
+</table>
+
+AI offers a way to try a visual idea before building a whole set. You still choose the story, rhythm and final shots. Pick 10–16 seconds of music, start with one scene change, then explore the models and prompts below.
+
+[✦ Explore the official model examples](#official-models) · [Comparison notes and sources](docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -250,6 +276,8 @@ MusicMaker supports affiliate partnerships. Share our music creation tools throu
 Maintained by the MusicMaker team, with priority given to models available through the brand. Recommendation links carry no affiliate parameters added by this repository; this does not mean there is no commercial interest. [ Editorial policy → ](docs/editorial-policy.md)
 
 Our original 16-second editing demo is complete. External examples were checked only against public sources and availability; neither AI generation tutorial has been tested end to end.
+
+This section compares the AI-generated visuals of Washed Out’s The Hardest Part (2024) with the live-action and post-production of OK Go’s The One Moment (2016). Both involve human creators. AI describes the visual process, not the authorship of the song. This is an editorial comparison of works and workflows, not a controlled test or evidence of relative cost, speed or overall quality. Sora is named only as the historical production tool.
 
 These are published demonstrations, not our generation tests or a model ranking.
 

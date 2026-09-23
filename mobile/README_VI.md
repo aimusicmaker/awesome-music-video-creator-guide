@@ -13,11 +13,40 @@
 <p align="center"><b>📱 Bản di động</b> · <a href="../README_VI.md"><kbd>🖥 Bản máy tính</kbd></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ Ví dụ và hướng dẫn chính thức của mô hình</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI và quay thực</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ Ví dụ và hướng dẫn chính thức của mô hình</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>
 
 [![Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng.](../assets/social-preview.jpg)](#first-video)
 
 Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng.
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## Hai video âm nhạc: AI và quay thực khác nhau thế nào?
+
+Âm nhạc có thể kéo vài giây thành cảnh tượng ngoạn mục hoặc đưa hàng thập kỷ lướt qua mắt bạn. Mở hai video phát hành chính thức và chọn cách kể chuyện muốn thử.
+
+<p><b>Hình ảnh tạo bằng AI · Con người đạo diễn</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · Một đôi tình nhân trẻ ngồi sát nhau" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>Đạo diễn/dựng phim: Paul Trillo · 2024 · Hình ảnh Sora</sub><br>Theo máy quay tiến về phía trước qua những mảnh đời của một đôi tình nhân. Xem thời đại và địa điểm hòa vào nhau như ký ức.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ Xem trọn video âm nhạc</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">Quá trình thực hiện ↗</a></p>
+
+<p><b>Biểu diễn thực · Quay tốc độ cao</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · Người biểu diễn đứng trước thiết bị phun bột nhiều màu" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>Đạo diễn: Damian Kulash · 2016 · Quay phim, hiệu ứng thực và hậu kỳ</sub><br>Xem màu vẽ, đạo cụ bung vỡ và ban nhạc hòa cùng âm nhạc. Quay tốc độ cao biến động tác thoáng qua thành cảnh tượng ngoạn mục.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ Xem trọn video âm nhạc</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">Quá trình thực hiện ↗</a></p>
+
+<p><b>Hình ảnh bắt đầu từ đâu · Cách tạo bằng AI</b><br>Mô tả cảnh và góc quay, rồi chọn và ghép các đoạn được tạo.</p>
+
+<p><b>Hình ảnh bắt đầu từ đâu · Cách quay thực</b><br>Chuẩn bị người diễn, địa điểm và đạo cụ, rồi quay và dựng.</p>
+
+<p><b>Trọng tâm sáng tạo · Cách tạo bằng AI</b><br>Thử chuyển cảnh khác lạ; kiểm tra tính liên tục của nhân vật và chi tiết.</p>
+
+<p><b>Trọng tâm sáng tạo · Cách quay thực</b><br>Tập động tác, chỉnh ánh sáng và thời điểm, rồi dựng phần diễn theo nhạc.</p>
+
+<p><b>Một ý tưởng để thử · Cách tạo bằng AI</b><br>Dùng một cú máy đưa người xem qua hai bối cảnh.</p>
+
+<p><b>Một ý tưởng để thử · Cách quay thực</b><br>Đặt một động tác rõ ràng vào đầu điệp khúc hoặc phách mạnh.</p>
+
+AI cho phép thử ý tưởng hình ảnh trước khi dựng cả phim trường. Bạn vẫn chọn câu chuyện, nhịp điệu và cảnh quay cuối cùng. Chọn 10–16 giây nhạc, bắt đầu bằng một lần chuyển cảnh rồi khám phá mô hình và câu lệnh.
+
+[✦ Xem các ví dụ chính thức](#official-models) · [Ghi chú so sánh và nguồn (English)](../docs/ai-vs-live.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -240,6 +269,8 @@ MusicMaker hỗ trợ hợp tác tiếp thị liên kết. Giới thiệu công 
 Hướng dẫn do nhóm MusicMaker duy trì, ưu tiên các mô hình thương hiệu đang cung cấp. Liên kết đề xuất không được thêm tham số tiếp thị liên kết của kho này; điều đó không có nghĩa là không có lợi ích thương mại. [ Chính sách biên tập (English) → ](../docs/editorial-policy.md)
 
 Ví dụ dựng phim gốc dài 16 giây của chúng tôi đã hoàn thành. Với ví dụ bên ngoài, chỉ kiểm tra nguồn công khai và khả năng truy cập. Cả hai hướng dẫn tạo video bằng AI đều chưa được thử nghiệm toàn bộ quy trình.
+
+Phần này so sánh hình ảnh AI của The Hardest Part, Washed Out (2024), với quay thực và hậu kỳ của The One Moment, OK Go (2016). Cả hai đều có con người sáng tạo. AI chỉ quy trình tạo hình ảnh, không chỉ tác giả bài hát. Đây là so sánh biên tập về tác phẩm và cách làm, không phải thử nghiệm có đối chứng hay bằng chứng hơn kém về chi phí, tốc độ hoặc chất lượng tổng thể. Sora chỉ được nêu là công cụ sản xuất của tác phẩm trước đây.
 
 Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.
 

@@ -32,3 +32,5 @@ Detailed guides are mainly English or simplified Chinese. Preserve language labe
 Editorial, commercial and test-status disclosures belong in the final collapsible note, after the affiliate invitation. `build_trust.py` combines `disclosures.json` (English and Chinese), each generated locale’s `disclosures` array, and the official-case disclosure. Keep useful input descriptions and action steps beside the relevant tutorial.
 
 The centered opening uses `header-locales.json` for titles, taglines and introductions. `build_header.py` generates the language buttons, highlights the active language, and keeps the opening order consistent before the mobile edition is derived.
+
+`comparison-locales.json` owns the opening AI/live-action music-video comparison. `build_comparison.py` uses `docs/comparison-cases.json` for the shared two-video selection; production boundaries are rendered only in the final editorial disclosure.

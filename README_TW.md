@@ -13,13 +13,39 @@
 <p align="center"><a href="mobile/README_TW.md"><img src="assets/navigation/mobile-tw.svg" alt="📱 手機版首頁" width="200" height="40"></a></p>
 <!-- DEVICE:END -->
 
-<p align="center"><a href="#official-models"><kbd>✦ 模型官方案例與教學</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 創作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 試聽</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 製作第一支影片</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一種技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免費工具庫</kbd></a></p>
+<p align="center"><a href="#ai-vs-live"><kbd>◈ AI 與實拍比較</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ 模型官方案例與教學</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 創作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 試聽</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 製作第一支影片</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一種技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免費工具庫</kbd></a></p>
 
 [![選音樂、設計分鏡與提示詞、生成鏡頭、剪輯匯出；下方展示人物演唱、旅行敘事與抽象音樂視覺](assets/social-preview.jpg)](#first-video)
 
 原創流程示意圖，展示本庫怎樣把案例、提示詞、工具與剪輯連起來。
 
 **從哪裡開始：** [看案例找靈感](#x-creators) → [聽音樂定方向](#listen) → [做四鏡頭自然短片](#first-video) → [嘗試人像演唱](#next-project)。
+
+<!-- COMPARISON:START -->
+<a id="ai-vs-live"></a>
+
+## 先看兩支音樂影片：AI 與實拍，差別在哪裡？
+
+一段音樂，可以把幾秒拉成奇觀，也可以讓幾十年從眼前掠過。點開兩支正式發行的 MV，看看你更想嘗試哪一種表達。
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>AI 生成畫面 · 導演編排</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · 一對年輕戀人靠近坐著" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>導演與剪輯：Paul Trillo · 2024 · Sora 生成畫面</sub><br>跟著不斷向前的鏡頭，穿過一對戀人的人生片段。看年代與場景如何像記憶一樣交融。<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ 觀看完整 MV</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">製作資料 ↗</a></td>
+<td width="50%" valign="top"><b>實拍表演 · 高速攝影</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · 表演者站在彩色粉末爆開的裝置前" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>導演：Damian Kulash · 2016 · 攝影、實物特效與後製</sub><br>看顏料飛濺、道具爆開和樂團表演如何配合音樂。高速攝影把短暫動作展開成視覺奇觀。<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ 觀看完整 MV</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">製作資料 ↗</a></td>
+</tr>
+</table>
+
+<table>
+<tr><td width="50%" valign="top"><b>畫面從哪裡來 · AI 生成這條路</b><br>用文字設計場景與鏡頭，生成後挑選、組合。</td><td width="50%" valign="top"><b>畫面從哪裡來 · 實拍製作這條路</b><br>先安排人物、場地和道具，再拍攝並剪輯。</td></tr>
+<tr><td width="50%" valign="top"><b>創作重心 · AI 生成這條路</b><br>嘗試不尋常的場景變化，再檢查人物與細節能否銜接。</td><td width="50%" valign="top"><b>創作重心 · 實拍製作這條路</b><br>排練動作、控制光線與時機，再把表演剪到音樂上。</td></tr>
+<tr><td width="50%" valign="top"><b>先學哪一招 · AI 生成這條路</b><br>讓一個鏡頭帶觀眾穿過兩種場景。</td><td width="50%" valign="top"><b>先學哪一招 · 實拍製作這條路</b><br>讓一個明確動作落在副歌或重拍上。</td></tr>
+</table>
+
+有了 AI，你可以先把腦海裡的場景生成一小段，看看它與音樂是否合拍。故事、節奏和最終鏡頭仍由你決定。挑 10–16 秒喜歡的音樂，從一次場景變化開始，再往下找適合的模型與提示詞。
+
+[✦ 看看官方模型如何實現](#official-models) · [比較筆記與來源](docs/ai-vs-live.zh-CN.md)
+
+<!-- COMPARISON:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
@@ -245,6 +271,8 @@ MusicMaker 支援聯盟推廣合作。歡迎透過教學、評測或社群分享
 本指南由 MusicMaker 團隊維護，優先介紹品牌已涵蓋的模型。推薦連結未附加本庫聯盟參數，不代表沒有商業利益。 [ 編輯與維護說明 → ](docs/editorial-policy.zh-CN.md)
 
 原創 16 秒剪輯範例已完成；外部案例僅核對公開來源與可用性，兩套 AI 生成教學均未完成全流程實測。
+
+本節比較 Washed Out《The Hardest Part》（2024）的 AI 生成視覺與 OK Go《The One Moment》（2016）的實拍及後製。兩者均有人類創作者參與；AI 指畫面的生成方式，不表示歌曲由 AI 創作。這是作品與製作方式的編輯性比較，並非對照測試，不據此推斷成本、速度或整體品質高低。Sora 僅用於標明歷史作品的製作工具。
 
 這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。
 

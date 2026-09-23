@@ -79,3 +79,7 @@ Historical six-track revision (superseded by the current nine-track shelf): the 
 ## Latest generation attempt and sharing assets
 
 The [attempt log](generation-tests.md) records a free-form submission without a returned task or video, and the pending vocal test. No successful generation is claimed. The new [social preview](../assets/social-preview.jpg) is original illustrative artwork; [settings handoff](github-settings.md) distinguishes prepared files from unapplied GitHub settings.
+
+## AI-generated visuals and live-action music videos
+
+The new opening comparison pairs two formally released music videos: Washed Out’s *The Hardest Part* (2024), directed/edited by Paul Trillo with Sora-generated visuals, and OK Go’s *The One Moment* (2016), directed by Damian Kulash using practical production, high-speed photography and post-production. It compares visual workflows, not song authorship or measured quality. Sources and the sign-in-limited playback check are documented in [the comparison notes](ai-vs-live.md) and [manifest](comparison-cases.json).

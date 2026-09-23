@@ -21,7 +21,7 @@ for code in ORDER:
     (OUT/f'mobile-{code}.svg').write_text(badge(DEVICE[code]['mobile'],200,True,True))
 for lang in LANGS:
     code=lang['code'];p=ROOT/lang['file'];s=p.read_text();c=COPY[code]
-    nav=re.search(r'<p align="center"><a href="#(?:official-models|x-creators)">',s)
+    nav=re.search(r'<p align="center"><a href="#(?:ai-vs-live|official-models|x-creators)">',s)
     assert nav,f'{p}: missing section navigation'
     title=f'<h1 align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="AI Music Maker logo" width="30" height="30"></a> {html.escape(c["title"])}</h1>'
     header=title+'\n\n<p align="center"><strong>'+html.escape(c['tagline'])+'</strong></p>\n\n'
