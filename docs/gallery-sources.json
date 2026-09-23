@@ -314,7 +314,7 @@
       "video": "https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example1_video.mp4",
       "provider": "MusicMaker",
       "checked_on": "2026-09-23",
-      "alt": "Seated woman holding an electric guitar under warm stage lighting",
+      "alt": "Input portrait: seated woman holding an electric guitar under warm stage lighting",
       "alt_zh": "暖色舞台灯光下持电吉他而坐的女子",
       "media_check": {
         "checked_on": "2026-09-23",
@@ -333,7 +333,7 @@
       "video": "https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4",
       "provider": "MusicMaker",
       "checked_on": "2026-09-23",
-      "alt": "Smiling singer at a gold microphone under pink stage lights",
+      "alt": "Input portrait: smiling singer at a gold microphone under pink stage lights",
       "alt_zh": "粉色舞台灯光下站在金色麦克风前微笑的歌手",
       "media_check": {
         "checked_on": "2026-09-23",
@@ -347,6 +347,50 @@
         "height": 720,
         "source_selected": "Next button in product-page demo carousel"
       }
+    },
+    {
+      "id": "another_shape",
+      "title": "It Takes Another Shape",
+      "type": "audio",
+      "source": "https://musicmaker.im/detail/discover-v2-108/",
+      "thumbnail": "https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp",
+      "provider": "MusicMaker Discover",
+      "checked_on": "2026-09-23",
+      "alt": "Man by an open kitchen window with a book and kettle in the foreground; open the song player",
+      "alt_zh": "敞开的厨房窗边站着一名男子，前方有书本和水壶；点击试听歌曲",
+      "style_note": "Source describes a 6/8 acoustic arrangement with piano and cello; not an independent listening assessment.",
+      "playback_check": {
+        "checked_on": "2026-09-23",
+        "duration_seconds": 263.04,
+        "observed_current_time": 263.04,
+        "method": "Clicked native play; readyState 4, reached end of recording"
+      }
+    },
+    {
+      "id": "healing_hands",
+      "title": "Morning with Healing Hands",
+      "type": "audio",
+      "source": "https://musicmaker.im/detail/discover-v2-106/",
+      "thumbnail": "https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp",
+      "provider": "MusicMaker Discover",
+      "checked_on": "2026-09-23",
+      "alt": "Man holding a cup on a porch in morning sunlight; open the original song player",
+      "alt_zh": "晨光中坐在门廊手持杯子的男子，点击进入原站播放器",
+      "style_note": "Source describes acoustic guitar, bass, strings and male vocals; not an independent listening assessment.",
+      "playback_check": {
+        "checked_on": "2026-09-23",
+        "duration_seconds": 212.784,
+        "observed_current_time": 7.767737,
+        "method": "Clicked native play control; readyState 4 and advancing time"
+      }
     }
+  ],
+  "listening": [
+    "neon_pulse",
+    "echoes_of_you",
+    "the_open_road",
+    "summer_high",
+    "another_shape",
+    "healing_hands"
   ]
 }

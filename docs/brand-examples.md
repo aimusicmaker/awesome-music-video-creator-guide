@@ -2,9 +2,9 @@
 
 [Home](../README.md) · [中文首页](../README_ZH.md) · [Complete source manifest](gallery-sources.json)
 
-Checked **2026-09-23**. The homepages show four official catalog songs and two product-page videos. The song covers are not music-video stills. These existing brand examples were not generated during this repository project.
+Checked **2026-09-23**. The homepages show six official catalog songs and two product-page videos. The song covers are not music-video stills. These existing brand examples were not generated during this repository project.
 
-首页展示四首官方曲库作品和两个产品页视频。歌曲封面不是音乐视频截图；本次没有重新生成这些品牌作品。
+首页展示六首官方曲库作品和两个产品页视频。歌曲封面不是音乐视频截图；本次没有重新生成这些品牌作品。
 
 ## Listen / 试听
 
@@ -39,3 +39,10 @@ The product form shows a credit estimate and a Public switch. Check these before
 ## From references to your own project / 从参考到自己的作品
 
 The [illustrated briefs](brand-projects.md) turn these six visible examples into new shot plans. They are not the source works’ production records. [中文图文提案](brand-projects.zh-CN.md)逐项说明图片来源、需准备的素材、分镜、原创提示词和官方／MusicMaker 两种入口。
+
+## Two more listening references / 新增两首试听
+
+- [It Takes Another Shape](https://musicmaker.im/detail/discover-v2-108/): the source describes a 6/8 arrangement with acoustic guitar, piano and cello. 官网公开了节拍与编曲描述，适合研究逐渐展开的配器。
+- [Morning with Healing Hands](https://musicmaker.im/detail/discover-v2-106/): the source describes acoustic guitar, bass, strings and male vocals. 官网描述偏重原声乐器与男声，与霓虹、舞台类视觉方向形成补充。
+
+These are summaries of the source's Style field, not our listening judgments. Their lyrics are not reproduced. 两首新增作品有公开风格描述；前文“未公开生成提示词”仅指最初四首。新增播放器均已实际点击播放并确认音频载入。

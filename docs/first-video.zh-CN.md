@@ -54,6 +54,8 @@
 
 **不用生成也能练剪辑：** 下载[原创概念图](../assets/music-video-directions.png)，新建 16:9 横屏项目，把静态图铺满 16 秒，再加入音乐。它不是生成动画。要改做品牌作品衍生的画面，可先选[六个带图提案](brand-projects.zh-CN.md)，再沿用本页的生成与剪辑步骤。
 
+<a id="edit-timeline"></a>
+
 ## 3. 放到剪辑时间轴
 
 使用能分别放入视频和音频、添加文字并导出的软件即可。没有现成软件时，可以选择免费开源的桌面剪辑软件 [Shotcut](https://www.shotcut.org/)，[官方教程](https://www.shotcut.org/tutorials/)介绍了界面和基础操作。不同软件的按钮名称有差异，下面按实际操作目标说明。

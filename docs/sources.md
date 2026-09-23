@@ -57,3 +57,9 @@ The distinction between a creative brief, a published brand example, and a teste
 ## Official and brand tutorial routes
 
 On 2026-09-23, the [Hailuo H3 tool guide](https://hailuoai.video/tools/minimax-h3) and [MiniMax release](https://www.minimax.io/blog/minimax-h3) were read alongside the MusicMaker short-video and vocal forms. The tutorial pairs text/image scene generation across official H3 and the brand’s explicitly H3-labeled short-video route. For vocals, it pairs audio-reference and audio/portrait workflows without assigning a backend model to MusicMaker’s published vocal demos. No account-specific generation or output-quality comparison was performed.
+
+## Language coverage and listening shelf
+
+The [Discover footer](https://musicmaker.im/discover/) listed 15 languages on 2026-09-23: English, Japanese, Indonesian, Italian, Portuguese, Spanish, German, Russian, French, simplified Chinese, traditional Chinese, Korean, Thai, Vietnamese and Arabic. Exact language destinations are recorded in [languages.json](../i18n/languages.json). README editions cover this list; linked detailed guides remain English or simplified Chinese and are labeled accordingly.
+
+The listening shelf now contains six tracks, including It Takes Another Shape and Morning with Healing Hands. Their public Style fields informed the two new arrangement descriptions. Both players loaded successfully; Morning advanced to 7.768 seconds of 212.784, while Shape reached the end of its 263.04-second recording. These checks establish playback availability, not musical-quality ratings.

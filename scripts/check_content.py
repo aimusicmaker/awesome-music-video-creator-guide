@@ -100,23 +100,51 @@ class GalleryParser(HTMLParser):
             self.href = None
 
 gallery = json.loads((ROOT/'docs/gallery-sources.json').read_text())
-if len(gallery['x']) != 6 or len(gallery['brand']) != 6:
-    errors.append('Homepage gallery requires six community and six brand entries; revise stated counts together')
+languages = json.loads((ROOT/'i18n/languages.json').read_text())['languages']
+if len(languages) != 15 or len({x['code'] for x in languages}) != 15:
+    errors.append('Expected the 15 language options recorded from the brand website')
+if len(gallery['x']) != 6 or len(gallery['brand']) != 8:
+    errors.append('Expected six X cases and eight distinct brand references')
+if len(set(gallery['listening'])) != 6:
+    errors.append('Listening shelf must contain six distinct tracks')
 if len({item['post'] for item in gallery['x']}) != len(gallery['x']):
     errors.append('Duplicate X post in gallery')
-for filename in ['README.md', 'README_ZH.md']:
-    parser = GalleryParser()
-    content = (ROOT/filename).read_text()
-    parser.feed(content)
+for language in languages:
+    filename = language['file']
+    path = ROOT/filename
+    if not path.exists():
+        errors.append(f'Missing language edition: {filename}')
+        continue
+    content = path.read_text()
+    parser = GalleryParser(); parser.feed(content)
     for item in gallery['x'] + gallery['brand']:
         matches = [row for row in parser.images if row[0] == item['thumbnail']]
         target = item['post'] if 'post' in item else item.get('video', item['source'])
-        if len(matches) != 1 or matches[0][2] != target:
-            errors.append(f'{filename}: missing, duplicated or mislinked gallery image: {item["id"]}')
-        elif len(matches[0][1].strip()) < 12:
+        expected_count = 2 if item['id'] in gallery['listening'][:4] else 1
+        if len(matches) != expected_count or any(row[2] != target for row in matches):
+            errors.append(f'{filename}: missing, duplicated or mislinked image: {item["id"]}')
+        elif any(len(row[1].strip()) < 12 for row in matches):
             errors.append(f'{filename}: uninformative image alt: {item["id"]}')
-    if content.find(gallery['x'][0]['post']) > content.find(gallery['brand'][0]['source']):
-        errors.append(f'{filename}: creator examples must precede brand examples')
+    if language['code'] not in ('en','zh','tw'):
+        for item in gallery['x'] + gallery['brand']:
+            if any(alt != item['alt'] for src,alt,href in parser.images if src == item['thumbnail']):
+                errors.append(f'{filename}: scene alt differs from verified source: {item["id"]}')
+        for item in gallery['x']:
+            if f'<a href="{item["post"]}">@{item["author"]}</a>' not in content:
+                errors.append(f'{filename}: author must link to original X post')
+    shelf = re.search(r'<!-- LISTENING-GRID:START -->(.*?)<!-- LISTENING-GRID:END -->',content,re.S)
+    if not shelf or shelf[1].count('<tr>') != 3 or shelf[1].count('<td ') != 6:
+        errors.append(f'{filename}: listening grid must have two columns and three rows')
+    else:
+        for item in gallery['brand']:
+            if item['id'] in gallery['listening'] and shelf[1].count(item['thumbnail']) != 1:
+                errors.append(f'{filename}: listening track mismatch: {item["id"]}')
+    for destination in languages:
+        if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in content:
+            errors.append(f'{filename}: missing language switch to {destination["file"]}')
+    order = [content.find(f'<a id="{a}">') for a in ['x-creators','listen','first-video','next-project']]
+    if min(order) < 0 or order != sorted(order):
+        errors.append(f'{filename}: incorrect reader journey section order')
 if errors:
     print('\n'.join(errors));sys.exit(1)
 print(f'PASS: {len(mds)} Markdown files, {refs} local links, {len(recipes)} recipes, artwork, audio and edit timings')

@@ -1,0 +1,96 @@
+{
+  "source": "https://musicmaker.im/discover/",
+  "checked_on": "2026-09-23",
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "file": "README.md",
+      "website": "https://musicmaker.im/en/discover/"
+    },
+    {
+      "code": "ja",
+      "name": "日本語",
+      "file": "README_JA.md",
+      "website": "https://musicmaker.im/ja/discover/"
+    },
+    {
+      "code": "id",
+      "name": "Bahasa Indonesia",
+      "file": "README_ID.md",
+      "website": "https://musicmaker.im/id/discover/"
+    },
+    {
+      "code": "it",
+      "name": "Italiano",
+      "file": "README_IT.md",
+      "website": "https://musicmaker.im/it/discover/"
+    },
+    {
+      "code": "pt",
+      "name": "Português",
+      "file": "README_PT.md",
+      "website": "https://musicmaker.im/pt/discover/"
+    },
+    {
+      "code": "es",
+      "name": "Español",
+      "file": "README_ES.md",
+      "website": "https://musicmaker.im/es/discover/"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch",
+      "file": "README_DE.md",
+      "website": "https://musicmaker.im/de/discover/"
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "file": "README_RU.md",
+      "website": "https://musicmaker.im/ru/discover/"
+    },
+    {
+      "code": "fr",
+      "name": "Français",
+      "file": "README_FR.md",
+      "website": "https://musicmaker.im/fr/discover/"
+    },
+    {
+      "code": "zh",
+      "name": "简体中文",
+      "file": "README_ZH.md",
+      "website": "https://musicmaker.im/zh/discover/"
+    },
+    {
+      "code": "tw",
+      "name": "繁體中文",
+      "file": "README_TW.md",
+      "website": "https://musicmaker.im/tw/discover/"
+    },
+    {
+      "code": "ko",
+      "name": "한국어",
+      "file": "README_KO.md",
+      "website": "https://musicmaker.im/ko/discover/"
+    },
+    {
+      "code": "th",
+      "name": "ไทย",
+      "file": "README_TH.md",
+      "website": "https://musicmaker.im/th/discover/"
+    },
+    {
+      "code": "vi",
+      "name": "Tiếng Việt",
+      "file": "README_VI.md",
+      "website": "https://musicmaker.im/vi/discover/"
+    },
+    {
+      "code": "ar",
+      "name": "العربية",
+      "file": "README_AR.md",
+      "website": "https://musicmaker.im/ar/discover/"
+    }
+  ]
+}
