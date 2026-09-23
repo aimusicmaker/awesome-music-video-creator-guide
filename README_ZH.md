@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="AI Music Maker logo" width="30" height="30"></a> AI Music Maker 音乐视频创作指南：提示词、案例与入门教程</h1>
+<h1 align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="AI Music Maker logo" width="30" height="30"></a> AI音乐视频创作指南：提示词、案例与入门教程</h1>
 
 <p align="center"><strong>让一首歌，有一个值得看完的画面。</strong></p>
 
