@@ -16,24 +16,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Offizielle Modellbeispiele und Anleitungen</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Gratis-Werkzeuge</kbd></a></p>
 
-[![Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.](assets/social-preview.jpg)](#first-video)
+[![Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern.](assets/social-preview.jpg)](#first-video)
 
-Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.
-
-<!-- TRUST:START -->
-Vom MusicMaker-Team gepflegt; bevorzugt werden Modelle, die die Marke anbietet. Empfehlungslinks enthalten keine von diesem Repository ergänzten Affiliate-Parameter. Das bedeutet nicht, dass keine kommerziellen Interessen bestehen. [ Redaktion und Pflege (English) → ](docs/editorial-policy.md)
-
-Unsere eigene 16-sekündige Schnittdemo ist fertig. Bei externen Beispielen wurden nur öffentliche Quellen und Erreichbarkeit geprüft. Beide KI-Generierungsanleitungen sind noch nicht vollständig praktisch getestet.
-
-[▶ Eigene Schnittdemo ansehen](starter-kit/night-train-edit-demo.mp4) · [Belege und Teststand (EN / 简体中文)](docs/generation-tests.md) · [Korrektur melden](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern.
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## Offizielle Modellbeispiele und Anleitungen
 
-Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community. Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten.
+Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community.
 
 <table>
 <tr>
@@ -45,8 +37,6 @@ Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community. Dies s
 <td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Offizielles Videovorschaubild</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Klavier: von der Halbnahen zur Nahaufnahme des Ausdrucks.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Offizielle Anleitung / Prompt ↗</a><br><a href="docs/official-cases.md#seedance-piano">Schrittfolge · Englisch →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
-
-Alle vier Modellversionen haben MusicMaker-Seiten. Beispiele und Anleitungen stammen von den Entwicklern; MusicMaker-Funktionen können abweichen. Das H3-Bild ist eine Eingabe.
 
 <!-- OFFICIAL:END -->
 
@@ -71,13 +61,11 @@ Sechs Videos mit öffentlichen Prompts oder Erläuterungen. Jedes Bild führt zu
 </tr>
 </table>
 
-Die Modellnamen stammen von den Urhebern. Text und Medien wurden über einen öffentlichen X-Spiegel geprüft; die Videos wurden nicht nachproduziert. Ausführliche Erläuterungen sind auf Englisch.
-
 <a id="listen"></a>
 
 ## MusicMaker anhören
 
-Neun Kontraste in drei Reihen: von Klavier über Rock und Orchester bis zur Tanzfläche. Hör auf Dichte und Rhythmus. Genres stammen aus dem Style-Feld der Quelle; Bildideen sind redaktionelle Vorschläge.
+Neun Kontraste in drei Reihen: von Klavier über Rock und Orchester bis zur Tanzfläche. Hör auf Dichte und Rhythmus. Genres stammen aus dem Style-Feld der Quelle.
 
 <!-- LISTENING-GRID:START -->
 <table>
@@ -105,7 +93,7 @@ Ein Klang gefällt dir? Erstelle zuerst ein Cover und eine kurze Szene. Wähle d
 
 ## Erstelle dein erstes Video
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen. Es ist ein Songcover, kein Videoframe.<br><br><b>1.</b> Wähle 16 Sekunden eigener oder lizenzierter Musik. Den Übungsbeat speicherst du mit Download raw file. Markiere im Editor 0, 4, 8, 12 und 16 Sekunden; passe die Schnitte bei anderen Songs an Takte und Phrasen an.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen.<br><br><b>1.</b> Wähle 16 Sekunden eigener oder lizenzierter Musik. Den Übungsbeat speicherst du mit Download raw file. Markiere im Editor 0, 4, 8, 12 und 16 Sekunden; passe die Schnitte bei anderen Songs an Takte und Phrasen an.</td></tr></table>
 
 [▶ Titel anhören](https://musicmaker.im/detail/discover-v2-98/) · [↗ Offizielles Werkzeug](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -119,7 +107,7 @@ Ein Klang gefällt dir? Erstelle zuerst ein Cover und eine kurze Szene. Wähle d
 
 5. Exportiere MP4 in 9:16. Prüfe schwarze Frames, Fließrichtung und Verformungen. Hochskalieren von 480p schafft keine Details. Reduziere Bewegung oder nutze ein einheitliches erlaubtes Referenzbild, wenn Landschaft oder Regenbogen driften.
 
-**Englische Prompts zum Kopieren · neu geschrieben, nicht render-getestet**
+**Englische Prompts zum Kopieren**
 
 ```text
 A: A green valley after rain, soft afternoon sunlight.
@@ -149,7 +137,7 @@ Leave clean grass in the lower frame for a title added later.
 Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam. Öffentliches Anhören erlaubt nicht automatisch die Weiterverwendung.
+Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam.
 
 [→ Anleitung · Englisch](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -157,7 +145,7 @@ Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam. Öf
 
 ## Lerne die nächste Technik
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video. Dessen Modell ist unbekannt, die Übung ist neu geschrieben.<br><br><b>1.</b> Bereite ein erlaubtes, möglichst frontales Porträt mit sichtbaren Lippen und eine eigene oder lizenzierte Gesangsphrase vor. Schneide etwa zehn Sekunden mit etwas Atemraum an beiden Enden. Der instrumentale Übungsbeat ersetzt keinen Gesang.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video.<br><br><b>1.</b> Bereite ein erlaubtes, möglichst frontales Porträt mit sichtbaren Lippen und eine eigene oder lizenzierte Gesangsphrase vor. Schneide etwa zehn Sekunden mit etwas Atemraum an beiden Enden. Der instrumentale Übungsbeat ersetzt keinen Gesang.</td></tr></table>
 
 [▶ Markenbeispiel ansehen](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Offizielles Werkzeug](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -169,7 +157,7 @@ Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam. Öf
 
 5. Nutze entweder Originalgesang oder generierten Ton und entferne die doppelte Spur. Ergänze den Songtitel und exportiere MP4. Prüfe die vollständige Phrase samt Atemschluss. Erst danach probierst du eine langsame Kamerafahrt nach vorn.
 
-**Englische Prompts zum Kopieren · neu geschrieben, nicht render-getestet**
+**Englische Prompts zum Kopieren**
 
 ```text
 Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
@@ -181,7 +169,7 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-Gleiche Person, sichtbare Lippen, eine Tonspur, natürlicher Abschluss. Ein Prompt garantiert weder Originalton noch präzise Lippensynchronität.
+Gleiche Person, sichtbare Lippen, eine Tonspur, natürlicher Abschluss.
 
 [→ Anleitung · Englisch](docs/first-video.md#vocal)
 
@@ -226,6 +214,31 @@ MusicMaker bietet Affiliate-Partnerschaften an. Stelle unsere Werkzeuge zur Musi
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Affiliate-Programm ansehen und bewerben</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>Redaktion und Pflege</summary>
+
+Vom MusicMaker-Team gepflegt; bevorzugt werden Modelle, die die Marke anbietet. Empfehlungslinks enthalten keine von diesem Repository ergänzten Affiliate-Parameter. Das bedeutet nicht, dass keine kommerziellen Interessen bestehen. [ Redaktion und Pflege (English) → ](docs/editorial-policy.md)
+
+Unsere eigene 16-sekündige Schnittdemo ist fertig. Bei externen Beispielen wurden nur öffentliche Quellen und Erreichbarkeit geprüft. Beide KI-Generierungsanleitungen sind noch nicht vollständig praktisch getestet.
+
+Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten.
+
+Alle vier Modellversionen haben MusicMaker-Seiten. Beispiele und Anleitungen stammen von den Entwicklern; MusicMaker-Funktionen können abweichen. Das H3-Bild ist eine Eingabe.
+
+Das Titelbild der Startseite ist eine eigene Konzeptillustration. Discover-Bilder sind Songcover; das Gesangstutorial verwendet das Eingabeporträt der Markendemo. Diese Bilder belegen keine von uns generierten Videoergebnisse.
+
+Die Modellnamen der X-Beispiele folgen den Angaben der Urheber. Beiträge und angehängte Medien wurden über öffentliche Spiegel geprüft, die Videos jedoch nicht nachproduziert. Produktionsprompts bleiben in den Originalbeiträgen. [Quellenhinweise · Englisch](docs/x-cases.md#source-notes).
+
+Die Videoideen im Hörbereich sind Vorschläge dieses Repositorys. Natur- und Gesangstutorial sind neu verfasste Übungen, keine Produktionsanleitungen der Originale. MusicMaker hat das Modell seiner veröffentlichten Gesangsdemo nicht genannt. Beide Prompt-Sätze sind nicht durchgängig praktisch getestet und garantieren weder eine Nachbildung des Covers noch den Erhalt des Originaltons oder präzise Lippensynchronität.
+
+Öffentliches Anhören und Ansehen gewährt keine Weiterverwendungsrechte. Für externe Musik, Bilder und Videos sind entsprechende Genehmigungen erforderlich.
+
+[▶ Eigene Schnittdemo ansehen](starter-kit/night-train-edit-demo.mp4) · [Belege und Teststand (EN / 简体中文)](docs/generation-tests.md) · [Korrektur melden](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 Texte und Übersetzungen entstehen mit KI-Unterstützung. Eine unabhängige muttersprachliche Prüfung ist nicht dokumentiert. Ausführliche Dokumente gibt es auf Englisch und vereinfachtem Chinesisch. [🌐 Sprachen und Prüfstatus (English)](i18n/README.md)

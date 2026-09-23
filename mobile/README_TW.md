@@ -20,24 +20,16 @@
 
 [![選音樂、設計分鏡與提示詞、生成鏡頭、剪輯匯出；下方展示人物演唱、旅行敘事與抽象音樂視覺](../assets/social-preview.jpg)](#first-video)
 
-原創流程示意圖，展示本庫怎樣把案例、提示詞、工具與剪輯連起來；畫面是概念設計，不是生成影片實測結果。
+原創流程示意圖，展示本庫怎樣把案例、提示詞、工具與剪輯連起來。
 
 **從哪裡開始：** [看案例找靈感](#x-creators) → [聽音樂定方向](#listen) → [做四鏡頭自然短片](#first-video) → [嘗試人像演唱](#next-project)。
-
-<!-- TRUST:START -->
-本指南由 MusicMaker 團隊維護，優先介紹品牌已涵蓋的模型。推薦連結未附加本庫聯盟參數，不代表沒有商業利益。 [ 編輯與維護說明 → ](../docs/editorial-policy.zh-CN.md)
-
-原創 16 秒剪輯範例已完成；外部案例僅核對公開來源與可用性，兩套 AI 生成教學均未完成全流程實測。
-
-[▶ 看原創剪輯範例](../starter-kit/night-train-edit-demo.mp4) · [證據與實測狀態 (EN / 简体中文)](../docs/generation-tests.md) · [回報與更正](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## 模型官方案例與教學
 
-先看模型開發者的示範與輸入方法，再看社群創作者如何延伸。這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。
+先看模型開發者的示範與輸入方法，再看社群創作者如何延伸。
 
 <p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>官方示範截圖</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>音樂會：分別指定場地、主唱、樂手與合唱團參考。<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教學／提示詞 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-concert">逐步學習筆記 →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
@@ -46,8 +38,6 @@
 <p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>官方輸入與輸出對照</sub><br><b>Veo 3.1</b> · Google DeepMind<br>奇幻演唱場景：用參考素材組織人物與環境。<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 看官方案例</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">官方教學／提示詞 ↗</a><br><a href="../docs/official-cases.zh-CN.md#veo-scene">逐步學習筆記 →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
 <p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>官方影片封面</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>鋼琴演奏：從人物中景切到表情特寫。<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">官方教學／提示詞 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-piano">逐步學習筆記 →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
-
-這四個模型版本均有 MusicMaker 對應頁面。案例與教學來自模型開發者，品牌入口的可用功能以實際介面為準；H3 配圖為輸入圖。
 
 <!-- OFFICIAL:END -->
 
@@ -68,8 +58,6 @@
 <p><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="在昏暗車站站臺等候的旅客；點選檢視作者 X 原帖" width="100%"></a><br><b>從車站駛向太空</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br>奇幻短片參考：讓場景轉變有跡可循。<br><a href="https://x.com/Strength04_X/status/2098290630179057858">看原帖與提示詞</a> · <a href="../docs/x-cases.zh-CN.md#lunar-train">輸入與做法</a></p>
 
 <p><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="站在金色燈光才藝秀舞臺上的年長表演者；點選檢視作者 X 原帖" width="100%"></a><br><b>重拍處的舞臺反轉</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br>短暫停頓、重拍揭曉，再切反應鏡頭。<br><a href="https://x.com/Strength04_X/status/2090399966988550435">看原帖與提示詞</a> · <a href="../docs/x-cases.zh-CN.md#beat-drop">輸入與做法</a></p>
-
-模型名稱由創作者自述。本次透過公開 X 映象核對正文和所附媒體，未復現這些影片；完整提示詞保留在作者原帖。[來源說明](../docs/x-cases.zh-CN.md#source-notes)。
 
 <a id="listen"></a>
 
@@ -97,7 +85,7 @@
 <p><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="海景敞門旁相對而坐交談的男女" width="100%"></a><br><b>Keep It Open</b><br><b>電子節奏布魯斯</b><br><sub>情緒近景與呼吸停頓</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ 試聽原作</kbd></a></p>
 <!-- LISTENING-GRID:END -->
 
-喜歡哪一種聲音，就先為它做一張封面、一個短鏡頭。[🧰 按創作步驟選免費工具](#toolkit) · [檢視曲風與來源說明](../docs/listening-notes.zh-CN.md) · [瀏覽全部歌曲](https://musicmaker.im/discover/)。封面不是影片截圖；試聽不等於獲得素材使用權。
+喜歡哪一種聲音，就先為它做一張封面、一個短鏡頭。[🧰 按創作步驟選免費工具](#toolkit) · [檢視曲風與來源說明](../docs/listening-notes.zh-CN.md) · [瀏覽全部歌曲](https://musicmaker.im/discover/)。
 
 <a id="first-video"></a>
 
@@ -110,8 +98,6 @@
 <p>從 MusicMaker《Living on the Brightside》的封面取景：溪流、野花、綠色山谷和彩虹。<b>先不拍人物，用四個鏡頭學會把畫面剪成一個完整樂句。</b><br><br><b>1. 先準備音樂，再確定四個切點</b><br>用自有或獲授權的音樂擷取完整的 16 秒樂句；沒有現成音樂，就用上方原創伴奏，在 GitHub 檔案頁點 <b>Download raw file</b> 儲存。把音訊匯入剪輯軟體，標記 0、4、8、12、16 秒。練習伴奏適用這些切點；換歌后應聽重拍和樂句結束的位置，再調整剪輯。</p>
 
 [▶ 試聽案例原曲](https://musicmaker.im/detail/discover-v2-98/) · [♫ 下載原創練習伴奏](../starter-kit/practice-beat-120bpm.wav)
-
-這是歌曲封面，不是影片截圖。下方是據此新編的練習，不是原作生成記錄。試聽區的九首歌曲與這兩個教程案例不重複。
 
 #### 2. 選一條工具路線
 
@@ -195,7 +181,7 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 
 將四段依次拖入剪輯時間軸，每段選取最穩定的 4 秒，使用直接切換。關閉生成片段自帶聲音，只保留選定的伴奏。在最後 2 秒加入片名，片尾給音樂做短淡出；不要靠拉長靜幀掩蓋缺失鏡頭。匯出 MP4，豎屏比例保持 9:16，解析度按實際素材選擇，放大 480p 不會增加細節。[剪輯按鈕與匯出步驟](../docs/first-video.zh-CN.md#edit-timeline)。
 
-**完成標準：** 音樂與畫面同時結束；沒有黑幀和重複音軌；溪水方向、光線和彩虹沒有明顯跳變。彩虹變形就減小運動、固定機位；鏡頭間地形差異太大，就用同一張自有場景圖作為參考重做。以上提示詞尚未實測生成，不保證復現封面。
+**完成標準：** 音樂與畫面同時結束；沒有黑幀和重複音軌；溪水方向、光線和彩虹沒有明顯跳變。彩虹變形就減小運動、固定機位；鏡頭間地形差異太大，就用同一張自有場景圖作為參考重做。
 
 <a id="next-project"></a>
 
@@ -209,7 +195,7 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 
 [▶ 觀看品牌演唱示例](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [檢視案例來源](../docs/brand-examples.md)
 
-圖為官網示例的**輸入人像**，點圖觀看約 10 秒成片。官網沒有公佈該演唱示例使用的底層模型；下面的兩條路線是練習選擇，不是對原作模型的推斷。
+圖為官網示例的**輸入人像**，點圖觀看約 10 秒成片。
 
 #### 2. 按工具放入相同素材
 
@@ -241,8 +227,6 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 不換裝、不轉身、不切鏡、不新增其他人物、文字或誇張表情。
 ```
 
-這是新編練習提示詞，不是原作提示詞，也未實測生成。提示詞提出的是目標，不能保證輸出保留原音軌或準確對口型。
-
 #### 4. 先修口型，再考慮運鏡
 
 先聽開頭、句中和結尾，再看嘴唇開合是否對應母音與收音。整段只是固定提前或延後，可在剪輯軟體中小幅移動畫面；越到後面越錯位，說明不是簡單偏移，應縮短樂句或重新生成。臉部漂移時去掉點頭與運鏡；嘴被遮擋時更換人像，不要只往提示詞裡繼續加限制。
@@ -257,7 +241,7 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 
 ## 免費起步的音樂影片工具庫
 
-從剛才的曲風選擇出發，按缺少的素材選工具。下面前四項是官網標註免費的入口；歌曲生成、人像演唱及完整目錄中的其他工具可能需要額度或付費，見[當前價格](https://musicmaker.im/pricing/)。公開示例可供參考，使用素材仍需相應授權。
+從剛才的曲風選擇出發，按缺少的素材選工具。下面前四項是官網標註免費的入口；歌曲生成、人像演唱及完整目錄中的其他工具可能需要額度或付費，見[當前價格](https://musicmaker.im/pricing/)。
 
 <p><b>🖼 補封面與分鏡圖</b></p>
 
@@ -319,6 +303,31 @@ MusicMaker 支援聯盟推廣合作。歡迎透過教學、評測或社群分享
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 瞭解並申請聯盟合作</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>編輯與維護說明</summary>
+
+本指南由 MusicMaker 團隊維護，優先介紹品牌已涵蓋的模型。推薦連結未附加本庫聯盟參數，不代表沒有商業利益。 [ 編輯與維護說明 → ](../docs/editorial-policy.zh-CN.md)
+
+原創 16 秒剪輯範例已完成；外部案例僅核對公開來源與可用性，兩套 AI 生成教學均未完成全流程實測。
+
+這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。
+
+這四個模型版本均有 MusicMaker 對應頁面。案例與教學來自模型開發者，品牌入口的可用功能以實際介面為準；H3 配圖為輸入圖。
+
+首頁封面為原創概念插圖；Discover 配圖為歌曲封面，人像教學配圖為品牌示例的輸入人像。這些圖片不代表本庫已生成的影片結果。
+
+X 案例的模型名稱由創作者自述。本次透過公開 X 鏡像核對正文和所附媒體，未重現這些影片；原作提示詞保留在作者原帖。[來源說明](../docs/x-cases.zh-CN.md#source-notes)。
+
+自然短片與人像演唱教學均為新編練習，不是原作生成紀錄。官網未公布演唱示例的底層模型。兩套提示詞尚未完成全流程實測，不保證重現封面、保留原音軌或準確對嘴。
+
+公開試聽和觀看不等於獲得素材使用權；使用外部音樂、圖片與影片仍需相應授權。
+
+[▶ 看原創剪輯範例](../starter-kit/night-train-edit-demo.mp4) · [證據與實測狀態 (EN / 简体中文)](../docs/generation-tests.md) · [回報與更正](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 文案與翻譯有 AI 輔助，暫無獨立母語審校紀錄。詳細文件提供英文與簡體中文。 [🌐 語言與審校狀態](../i18n/README.md)

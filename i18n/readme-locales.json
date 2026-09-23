@@ -8,7 +8,7 @@
       "最初の動画",
       "次の練習"
     ],
-    "hero": "曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。",
+    "hero": "曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。",
     "x_intro": "公開プロンプトや解説のある6本。画像から作者の元投稿へ進めます。",
     "x_lessons": [
       "二人の位置を固定し、全景とアップを切り替える。",
@@ -18,8 +18,8 @@
       "出発、変化、到着をつなぐ。原作は幻想的な短編。",
       "静かな間を置き、強い拍で舞台の変化を見せる。"
     ],
-    "x_note": "モデル名は作者の説明に基づきます。公開ミラーで本文と素材を確認しましたが、動画は再現していません。詳しい解説は英語です。",
-    "listen_intro": "9曲を3列3段で比較。静かなピアノからロック、管弦楽、ダンス音楽まで、音の密度とリズムを聴き比べましょう。曲風は出典のStyle欄、映像の案はこちらで加えた提案です。",
+    "x_note": "",
+    "listen_intro": "9曲を3列3段で比較。静かなピアノからロック、管弦楽、ダンス音楽まで、音の密度とリズムを聴き比べましょう。曲風は出典のStyle欄に基づきます。",
     "cover_notes": [
       "ピアノ独奏 · 長回し",
       "モダンロック · 強い拍で切る",
@@ -32,7 +32,7 @@
       "電子R&B · 表情のアップ"
     ],
     "play": "試聴する",
-    "first_intro": "Living on the Brightside の虹、渓流、野花を参考に、16秒の自然映像を作ります。これは曲のジャケットであり、動画の一場面ではありません。",
+    "first_intro": "Living on the Brightside のジャケットに描かれた虹、渓流、野花を参考に、16秒の自然映像を作ります。",
     "steps": [
       "自作または利用許諾のある曲から16秒を選びます。練習音源は Download raw file で保存。編集ソフトで0・4・8・12・16秒に印を付け、別の曲なら拍に合わせ直します。",
       "公式HailuoではH3のテキスト動画を選択。MusicMaker短編ツールもテキストから始められます。9:16、各5秒。ブランド側は現在480pでH3使用を明記しています。",
@@ -40,10 +40,10 @@
       "各動画の安定した4秒を順に配置し、元の動画音声を消して曲を一つだけ残します。最後の2秒にタイトルを加え、音楽の終わりを短くフェードします。",
       "9:16のMP4を書き出し、黒いコマ、川の流れ、虹や地形の変形を確認。480pを拡大しても細部は増えません。変形するなら動きを減らし、同じ許諾済み場面画像で再生成します。"
     ],
-    "prompt_intro": "コピー用の英語プロンプト（新規作成・生成未検証）",
-    "limits": "光と地形をそろえ、映像と音楽を同時に終えます。公開曲を試聴できても再利用権があるとは限りません。",
-    "next_intro": "次は約10秒の歌唱アップ。画像はMusicMaker公開例の入力用人物画像です。クリックで動画が開きます。公開例のモデルは非公開で、下記は再現手順ではなく新しい練習です。",
-    "vocal": "同じ人物、見える口、一つの音声、自然な句末を確認。指示だけで音声保持や口の同期は保証されません。",
+    "prompt_intro": "コピー用の英語プロンプト",
+    "limits": "光と地形をそろえ、映像と音楽を同時に終えます。",
+    "next_intro": "次は約10秒の歌唱アップ。画像はMusicMaker公開例の入力用人物画像です。クリックで動画が開きます。",
+    "vocal": "同じ人物、見える口、一つの音声、自然な句末を確認。",
     "models": [
       "音と映像を一緒に計画。使える参照入力はツールによって異なります。",
       "画像、映像、音声を役割別に参照する公式例があります。",
@@ -89,7 +89,13 @@
       "catalog": "全素材・ツール一覧（英語）",
       "nav": "無料ツール",
       "sources": "詳細な曲風と出典（英語）"
-    }
+    },
+    "disclosures": [
+      "ホームの表紙は独自のコンセプトイラストです。Discover の画像は曲のジャケット、歌唱チュートリアルの人物画像はブランドのデモに使われた入力画像です。いずれも本庫が生成した動画の実績を示すものではありません。",
+      "X のモデル名は作者の説明に基づきます。公開ミラーで投稿本文と添付メディアを確認しましたが、動画は再現していません。制作時のプロンプトは作者の元投稿を参照してください。[出典メモ（英語）](docs/x-cases.md#source-notes)。",
+      "試聴欄の映像案は本庫の提案です。自然映像と人物歌唱のチュートリアルは新規の練習であり、元作品の制作記録ではありません。MusicMaker は公開歌唱デモのモデルを明かしていません。両方のプロンプトは全工程を実測しておらず、ジャケットの再現、元の音声の保持、正確な口の同期を保証しません。",
+      "公開試聴・視聴は再利用の許可を意味しません。外部の音楽・画像・動画を使うには、適切な許可が必要です。"
+    ]
   },
   "ko": {
     "title": "뮤직비디오 제작 가이드",
@@ -100,7 +106,7 @@
       "첫 영상 만들기",
       "다음 연습"
     ],
-    "hero": "음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.",
+    "hero": "음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도입니다.",
     "x_intro": "공개 프롬프트나 제작 설명이 있는 영상 6개입니다. 이미지를 누르면 제작자의 원문 게시물로 이동합니다.",
     "x_lessons": [
       "두 사람의 위치를 고정하고 전체 화면과 클로즈업을 번갈아 사용합니다.",
@@ -110,8 +116,8 @@
       "출발, 변화, 도착을 연결합니다. 원작은 판타지 단편입니다.",
       "잠깐의 정적 뒤 강한 박자에 맞춰 무대의 변화를 보여 줍니다."
     ],
-    "x_note": "모델 이름은 제작자의 설명입니다. 공개 미러에서 글과 미디어를 확인했지만 영상을 재현하지는 않았습니다. 자세한 사례 해설은 영어입니다.",
-    "listen_intro": "아홉 곡을 3열 3행으로 비교합니다. 피아노부터 록, 관현악, 댄스 음악까지 소리의 밀도와 리듬을 들어보세요. 장르는 원문 Style 항목, 영상 아이디어는 편집 제안입니다.",
+    "x_note": "",
+    "listen_intro": "아홉 곡을 3열 3행으로 비교합니다. 피아노부터 록, 관현악, 댄스 음악까지 소리의 밀도와 리듬을 들어보세요. 장르는 원문의 Style 항목을 따릅니다.",
     "cover_notes": [
       "피아노 연주 · 긴 호흡의 장면",
       "모던 록 · 강한 박자에 컷",
@@ -124,7 +130,7 @@
       "일렉트로닉 R&B · 감정 클로즈업"
     ],
     "play": "곡 듣기",
-    "first_intro": "Living on the Brightside의 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다. 이미지는 노래 커버이며 영상 프레임이 아닙니다.",
+    "first_intro": "Living on the Brightside의 커버에 담긴 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다.",
     "steps": [
       "직접 만든 곡이나 허가받은 곡에서 16초를 고릅니다. 연습 음원은 Download raw file로 저장합니다. 편집기에 0·4·8·12·16초를 표시하고 다른 곡을 쓰면 박자에 맞춰 조정합니다.",
       "공식 Hailuo에서 H3 텍스트 영상 모드를 선택하거나 MusicMaker 짧은 영상 도구를 사용합니다. 9:16, 각 5초로 만들며 브랜드 페이지는 현재 480p와 H3 사용을 명시합니다.",
@@ -132,10 +138,10 @@
       "각 영상에서 안정적인 4초를 골라 이어 붙입니다. 생성 영상 소리를 끄고 음악 한 트랙만 남깁니다. 마지막 2초에 제목을 넣고 음악 끝을 짧게 페이드합니다.",
       "9:16 MP4를 내보내 검은 프레임, 물 흐름, 무지개와 지형 변형을 확인합니다. 480p 확대는 디테일을 늘리지 않습니다. 변형되면 움직임을 줄이고 동일한 허가된 장면 이미지를 참조해 다시 만듭니다."
     ],
-    "prompt_intro": "복사할 영어 프롬프트 · 새로 작성했으며 생성 미검증",
-    "limits": "빛과 지형을 유지하고 음악과 영상을 함께 끝냅니다. 공개 음원 감상이 재사용 허가를 뜻하지는 않습니다.",
-    "next_intro": "이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다. 원작 모델은 공개되지 않았고 아래는 새 연습입니다.",
-    "vocal": "같은 인물, 보이는 입, 하나의 음성, 자연스러운 끝을 확인합니다. 프롬프트만으로 원음 유지나 입 모양 일치를 보장할 수 없습니다.",
+    "prompt_intro": "복사할 영어 프롬프트",
+    "limits": "빛과 지형을 유지하고 음악과 영상을 함께 끝냅니다.",
+    "next_intro": "이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다.",
+    "vocal": "같은 인물, 보이는 입, 하나의 음성, 자연스러운 끝을 확인합니다.",
     "models": [
       "소리와 화면을 함께 계획합니다. 참조 입력은 도구마다 다릅니다.",
       "이미지·영상·음성을 역할별로 참조하는 공식 사례가 있습니다.",
@@ -181,7 +187,13 @@
       "catalog": "전체 자료·도구 목록 · 영어",
       "nav": "무료 도구",
       "sources": "곡풍과 출처 · 영어"
-    }
+    },
+    "disclosures": [
+      "홈 표지는 자체 제작한 콘셉트 일러스트입니다. Discover 이미지는 노래 커버이며, 인물 노래 튜토리얼의 사진은 브랜드 데모에 사용한 입력 인물 이미지입니다. 이 이미지들은 저장소에서 생성한 영상 결과의 증거가 아닙니다.",
+      "X 사례의 모델 이름은 제작자의 설명을 따릅니다. 공개 미러로 게시물과 첨부 미디어를 확인했지만 영상을 재현하지 않았습니다. 제작에 사용한 프롬프트는 원본 게시물에서 확인하세요. [출처 설명 · 영어](docs/x-cases.md#source-notes).",
+      "감상 섹션의 영상 아이디어는 이 저장소의 제안입니다. 자연 영상과 인물 노래 튜토리얼은 새로 작성한 연습이며 원작 제작 기록이 아닙니다. MusicMaker는 공개 노래 데모의 모델을 밝히지 않았습니다. 두 프롬프트는 전체 과정을 실측하지 않았으며 커버 재현, 원음 유지, 정확한 입 모양 일치를 보장하지 않습니다.",
+      "공개 감상은 재사용 허가를 뜻하지 않습니다. 외부 음악·이미지·영상을 사용하려면 적절한 권한이 필요합니다."
+    ]
   },
   "id": {
     "title": "Panduan Membuat Video Musik",
@@ -192,7 +204,7 @@
       "Video pertama",
       "Latihan berikutnya"
     ],
-    "hero": "Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.",
+    "hero": "Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak.",
     "x_intro": "Enam video dengan prompt atau penjelasan publik. Klik gambar untuk membuka unggahan asli kreatornya.",
     "x_lessons": [
       "Tetapkan posisi kedua penampil, lalu bergantian antara gambar lebar dan dekat.",
@@ -202,8 +214,8 @@
       "Hubungkan keberangkatan, perubahan, dan kedatangan. Sumbernya film pendek fantasi.",
       "Sisakan jeda singkat, lalu tampilkan perubahan panggung pada ketukan kuat."
     ],
-    "x_note": "Nama model mengikuti keterangan kreator. Teks dan media diperiksa melalui cermin publik X; videonya tidak kami reproduksi. Ulasan rinci tersedia dalam bahasa Inggris.",
-    "listen_intro": "Sembilan kontras dalam tiga baris: piano, rock, orkestra, dan musik dansa. Bandingkan kepadatan bunyi dan ritme. Genre berasal dari kolom Style; ide video adalah saran editorial.",
+    "x_note": "",
+    "listen_intro": "Sembilan kontras dalam tiga baris: piano, rock, orkestra, dan musik dansa. Bandingkan kepadatan bunyi dan ritme. Genre berasal dari kolom Style.",
     "cover_notes": [
       "Piano solo · adegan panjang",
       "Rock modern · potongan kuat",
@@ -216,7 +228,7 @@
       "R&B elektronik · ekspresi dekat"
     ],
     "play": "Dengarkan",
-    "first_intro": "Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.",
+    "first_intro": "Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga.",
     "steps": [
       "Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.",
       "Di Hailuo resmi pilih H3 dan teks ke video, atau gunakan alat klip pendek MusicMaker. Pilih 9:16 dan lima detik per klip. MusicMaker saat ini mencantumkan 480p dan penggunaan H3.",
@@ -224,10 +236,10 @@
       "Ambil empat detik stabil dari tiap klip dan gunakan potongan langsung. Bisukan suara hasil generasi, sisakan satu musik. Tambahkan judul pada dua detik terakhir dan turunkan volume perlahan di akhir.",
       "Ekspor MP4 9:16. Periksa bingkai hitam, arah air, dan bentuk yang berubah. Memperbesar 480p tidak menambah detail. Kurangi gerakan atau gunakan gambar referensi berizin yang sama bila bentang alam berubah terlalu banyak."
     ],
-    "prompt_intro": "Prompt bahasa Inggris untuk disalin · baru, belum diuji melalui generasi",
-    "limits": "Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang bisa didengar publik belum tentu boleh digunakan ulang.",
-    "next_intro": "Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton. Model demo tidak diumumkan, dan latihan berikut ditulis baru.",
-    "vocal": "Orang tetap sama, bibir terlihat, satu trek suara, akhir alami. Prompt tidak menjamin audio asli terjaga atau gerak bibir tepat.",
+    "prompt_intro": "Prompt bahasa Inggris untuk disalin",
+    "limits": "Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama.",
+    "next_intro": "Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton.",
+    "vocal": "Orang tetap sama, bibir terlihat, satu trek suara, akhir alami.",
     "models": [
       "Rencanakan suara dan gambar bersama. Jenis referensi bergantung pada alat.",
       "Contoh resmi membagi peran antara gambar, video, dan audio.",
@@ -273,7 +285,13 @@
       "catalog": "Semua sumber dan alat · Inggris",
       "nav": "Alat gratis",
       "sources": "Gaya dan sumber · Inggris"
-    }
+    },
+    "disclosures": [
+      "Ilustrasi sampul halaman utama adalah karya konsep orisinal. Gambar Discover adalah sampul lagu, sedangkan tutorial vokal memakai potret input demo merek. Gambar-gambar tersebut bukan bukti hasil video yang kami buat.",
+      "Nama model dalam contoh X mengikuti keterangan kreator. Postingan dan media diperiksa melalui cermin publik, tanpa mereproduksi videonya. Prompt produksi tetap ada di postingan asli. [Catatan sumber · Inggris](docs/x-cases.md#source-notes).",
+      "Ide video di bagian dengarkan adalah saran repositori ini. Tutorial alam dan vokal adalah latihan baru, bukan catatan produksi karya asli. MusicMaker belum mengungkap model demo vokal publiknya. Kedua kumpulan prompt belum diuji dari awal hingga akhir dan tidak menjamin kesamaan dengan sampul, audio asli yang tetap utuh, atau sinkronisasi bibir yang tepat.",
+      "Akses dengar dan tonton publik tidak memberikan hak penggunaan ulang. Musik, gambar, dan video eksternal memerlukan izin yang sesuai."
+    ]
   },
   "it": {
     "title": "Guida alla creazione di video musicali",
@@ -284,7 +302,7 @@
       "Primo video",
       "Prossimo esercizio"
     ],
-    "hero": "Scegli la musica → prepara inquadrature e prompt → genera le clip → monta ed esporta. Illustrazione originale del percorso, dal canto ai viaggi e alle forme astratte, non prova di video generati.",
+    "hero": "Scegli la musica → prepara inquadrature e prompt → genera le clip → monta ed esporta. Illustrazione originale del percorso, dal canto ai viaggi e alle forme astratte.",
     "x_intro": "Sei video con prompt o spiegazioni pubbliche. Ogni immagine apre il post originale del creatore.",
     "x_lessons": [
       "Mantieni le posizioni dei due interpreti e alterna campi larghi e primi piani.",
@@ -294,8 +312,8 @@
       "Collega partenza, trasformazione e arrivo. L’originale è un corto fantastico.",
       "Lascia una breve pausa, poi rivela il cambiamento sul tempo forte."
     ],
-    "x_note": "I nomi dei modelli sono dichiarati dagli autori. Testi e media sono stati verificati tramite un mirror pubblico di X, senza riprodurre i video. Le analisi dettagliate sono in inglese.",
-    "listen_intro": "Nove contrasti in tre righe, dal pianoforte al rock, all’orchestra e alla pista da ballo. Ascolta densità e ritmo. I generi provengono dal campo Style; le idee video sono proposte editoriali.",
+    "x_note": "",
+    "listen_intro": "Nove contrasti in tre righe, dal pianoforte al rock, all’orchestra e alla pista da ballo. Ascolta densità e ritmo. I generi provengono dal campo Style.",
     "cover_notes": [
       "Pianoforte solo · piani lunghi",
       "Rock moderno · tagli sul ritmo",
@@ -308,7 +326,7 @@
       "R&B elettronico · primi piani emotivi"
     ],
     "play": "Ascolta il brano",
-    "first_intro": "La copertina di Living on the Brightside ispira 16 secondi di natura con arcobaleno, ruscello e fiori. È una copertina musicale, non un fotogramma.",
+    "first_intro": "La copertina di Living on the Brightside ispira 16 secondi di natura con arcobaleno, ruscello e fiori.",
     "steps": [
       "Scegli 16 secondi di musica tua o autorizzata. Scarica la base con Download raw file. Segna 0, 4, 8, 12 e 16 secondi nell’editor; adatta i tagli alle frasi di un altro brano.",
       "In Hailuo ufficiale seleziona H3 e testo-video, oppure usa lo strumento per clip brevi MusicMaker. Scegli 9:16 e cinque secondi per clip. MusicMaker dichiara attualmente 480p e H3.",
@@ -316,10 +334,10 @@
       "Tieni quattro secondi stabili per clip e usa stacchi netti. Disattiva il suono generato, lasciando una sola musica. Aggiungi il titolo negli ultimi due secondi e una breve dissolvenza audio finale.",
       "Esporta MP4 in 9:16. Controlla fotogrammi neri, corrente e deformazioni. Ingrandire 480p non crea dettagli. Riduci il movimento o usa la stessa immagine autorizzata se il paesaggio cambia troppo."
     ],
-    "prompt_intro": "Prompt inglesi da copiare · nuovi e non verificati con generazione",
-    "limits": "Mantieni luce e paesaggio coerenti, con musica e video che finiscono insieme. L’ascolto pubblico non concede automaticamente diritti di riuso.",
-    "next_intro": "Passa a circa dieci secondi di canto in primo piano. L’immagine è il ritratto di ingresso della demo MusicMaker; clicca per il video. Il modello non è dichiarato e questo è un nuovo esercizio.",
-    "vocal": "Stessa persona, labbra visibili, una traccia e chiusura naturale. Il prompt non garantisce audio originale o sincronizzazione perfetta.",
+    "prompt_intro": "Prompt inglesi da copiare",
+    "limits": "Mantieni luce e paesaggio coerenti, con musica e video che finiscono insieme.",
+    "next_intro": "Passa a circa dieci secondi di canto in primo piano. L’immagine è il ritratto di ingresso della demo MusicMaker; clicca per il video.",
+    "vocal": "Stessa persona, labbra visibili, una traccia e chiusura naturale.",
     "models": [
       "Pianifica insieme suono e immagini; gli ingressi disponibili dipendono dallo strumento.",
       "Gli esempi ufficiali assegnano ruoli distinti a immagini, video e audio.",
@@ -365,7 +383,13 @@
       "catalog": "Tutte le risorse e gli strumenti · inglese",
       "nav": "Strumenti gratuiti",
       "sources": "Stili e fonti · inglese"
-    }
+    },
+    "disclosures": [
+      "L’illustrazione di copertina della pagina iniziale è un’opera concettuale originale. Le immagini Discover sono copertine musicali; il tutorial vocale usa il ritratto di input della demo del marchio. Queste immagini non documentano risultati video generati da noi.",
+      "I nomi dei modelli nei casi X seguono le dichiarazioni degli autori. Post e media allegati sono stati verificati tramite mirror pubblici, senza riprodurre i video. I prompt di produzione rimangono nei post originali. [Note sulle fonti · inglese](docs/x-cases.md#source-notes).",
+      "Le idee video nella sezione di ascolto sono proposte del repository. I tutorial naturalistico e vocale sono nuovi esercizi, non ricette di produzione originali. MusicMaker non ha indicato il modello della demo vocale pubblica. Entrambe le serie di prompt non sono state testate dall’inizio alla fine e non garantiscono la riproduzione della copertina, la conservazione dell’audio originale o una sincronizzazione labiale precisa.",
+      "La disponibilità pubblica per l’ascolto o la visione non concede diritti di riuso. Musica, immagini e video esterni richiedono le autorizzazioni appropriate."
+    ]
   },
   "es": {
     "title": "Guía para crear vídeos musicales",
@@ -376,7 +400,7 @@
       "Primer vídeo",
       "Siguiente práctica"
     ],
-    "hero": "Elegir música → preparar planos y prompts → generar clips → editar y exportar. Ilustración original del proceso con canto, viajes y formas abstractas; no demuestra resultados de vídeo generados.",
+    "hero": "Elegir música → preparar planos y prompts → generar clips → editar y exportar. Ilustración original del proceso con canto, viajes y formas abstractas.",
     "x_intro": "Seis vídeos con prompts o explicaciones públicas. Cada imagen abre la publicación original de su creador.",
     "x_lessons": [
       "Fija la posición de ambos intérpretes y alterna planos generales y primeros planos.",
@@ -386,8 +410,8 @@
       "Une salida, transformación y llegada. La fuente es un corto de fantasía.",
       "Deja una breve pausa y revela el cambio de escenario en un golpe fuerte."
     ],
-    "x_note": "Los modelos son los que declaran los autores. Se comprobaron textos y medios mediante un espejo público de X; no se reprodujeron los vídeos. El análisis detallado está en inglés.",
-    "listen_intro": "Nueve contrastes en tres filas: del piano al rock, la orquesta y la pista de baile. Compara densidad y ritmo. Los estilos proceden del campo Style; las ideas de vídeo son propuestas editoriales.",
+    "x_note": "",
+    "listen_intro": "Nueve contrastes en tres filas: del piano al rock, la orquesta y la pista de baile. Compara densidad y ritmo. Los estilos proceden del campo Style.",
     "cover_notes": [
       "Piano solo · planos largos",
       "Rock moderno · cortes fuertes",
@@ -400,7 +424,7 @@
       "R&B electrónico · primer plano emotivo"
     ],
     "play": "Escuchar canción",
-    "first_intro": "La portada de Living on the Brightside inspira un vídeo natural de 16 segundos con arcoíris, arroyo y flores. Es una portada musical, no un fotograma.",
+    "first_intro": "La portada de Living on the Brightside inspira un vídeo natural de 16 segundos con arcoíris, arroyo y flores.",
     "steps": [
       "Elige 16 segundos de música propia o autorizada. Descarga la pista de práctica con Download raw file. Marca 0, 4, 8, 12 y 16 segundos en el editor; adapta los cortes al ritmo y las frases de otra canción.",
       "En Hailuo oficial elige H3 y texto a vídeo, o usa clips cortos de MusicMaker. Selecciona 9:16 y cinco segundos por plano. MusicMaker indica actualmente 480p y el uso de H3.",
@@ -408,10 +432,10 @@
       "Conserva cuatro segundos estables de cada clip y usa cortes directos. Silencia el audio generado y deja una sola pista musical. Añade el título en los últimos dos segundos y un breve fundido sonoro al final.",
       "Exporta MP4 en 9:16. Revisa fotogramas negros, dirección del agua y deformaciones. Ampliar 480p no añade detalle. Reduce el movimiento o usa una misma referencia autorizada si el paisaje cambia demasiado."
     ],
-    "prompt_intro": "Prompts en inglés para copiar · originales y sin prueba de generación",
-    "limits": "Mantén luz y paisaje coherentes, con música e imagen terminando juntas. Poder escuchar una canción no concede permiso de reutilización.",
-    "next_intro": "Ahora crea unos diez segundos de canto en primer plano. La imagen es el retrato de entrada del ejemplo MusicMaker; púlsala para ver el vídeo. Su modelo no está publicado y este ejercicio es nuevo.",
-    "vocal": "Misma persona, labios visibles, una pista y final natural. El prompt no garantiza conservar el audio ni sincronizar perfectamente la boca.",
+    "prompt_intro": "Prompts en inglés para copiar",
+    "limits": "Mantén luz y paisaje coherentes, con música e imagen terminando juntas.",
+    "next_intro": "Ahora crea unos diez segundos de canto en primer plano. La imagen es el retrato de entrada del ejemplo MusicMaker; púlsala para ver el vídeo.",
+    "vocal": "Misma persona, labios visibles, una pista y final natural.",
     "models": [
       "Planifica sonido e imagen juntos; las entradas disponibles dependen de la herramienta.",
       "Los ejemplos oficiales asignan funciones distintas a imágenes, vídeo y audio.",
@@ -457,7 +481,13 @@
       "catalog": "Todos los recursos y herramientas · inglés",
       "nav": "Herramientas gratis",
       "sources": "Estilos y fuentes · inglés"
-    }
+    },
+    "disclosures": [
+      "La ilustración de portada de la página principal es una obra conceptual original. Las imágenes de Discover son portadas de canciones; el tutorial vocal usa el retrato de entrada de la demo de la marca. Estas imágenes no acreditan resultados de vídeo generados por nosotros.",
+      "Los modelos de los casos de X son los declarados por sus autores. Se comprobaron publicaciones y archivos adjuntos mediante espejos públicos, sin reproducir los vídeos. Los prompts de producción permanecen en las publicaciones originales. [Notas de fuentes · inglés](docs/x-cases.md#source-notes).",
+      "Las ideas de vídeo de la sección de escucha son propuestas del repositorio. Los tutoriales de naturaleza y canto son ejercicios nuevos, no registros de producción de los originales. MusicMaker no ha identificado el modelo de su demo vocal pública. Los dos conjuntos de prompts no se han probado de principio a fin ni garantizan reproducir la portada, conservar el audio original o sincronizar los labios con precisión.",
+      "El acceso público para escuchar o ver no concede derechos de reutilización. La música, las imágenes y los vídeos externos requieren la autorización correspondiente."
+    ]
   },
   "pt": {
     "title": "Guia para criar videoclipes",
@@ -468,7 +498,7 @@
       "Primeiro vídeo",
       "Próximo exercício"
     ],
-    "hero": "Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.",
+    "hero": "Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas.",
     "x_intro": "Seis vídeos com prompts ou explicações públicas. Cada imagem abre a publicação original do criador.",
     "x_lessons": [
       "Mantenha a posição dos dois artistas e alterne planos abertos e fechados.",
@@ -478,8 +508,8 @@
       "Conecte partida, transformação e chegada. A fonte é um curta de fantasia.",
       "Deixe uma pausa breve e revele a mudança no tempo forte."
     ],
-    "x_note": "Os nomes dos modelos foram informados pelos autores. Texto e mídia foram conferidos em um espelho público do X; não reproduzimos os vídeos. As análises detalhadas estão em inglês.",
-    "listen_intro": "Nove contrastes em três linhas: piano, rock, orquestra e pista de dança. Compare densidade e ritmo. Os estilos vêm do campo Style da fonte; as ideias de vídeo são sugestões editoriais.",
+    "x_note": "",
+    "listen_intro": "Nove contrastes em três linhas: piano, rock, orquestra e pista de dança. Compare densidade e ritmo. Os estilos vêm do campo Style da fonte.",
     "cover_notes": [
       "Piano solo · planos longos",
       "Rock moderno · cortes fortes",
@@ -492,7 +522,7 @@
       "R&B eletrônico · emoção em close"
     ],
     "play": "Ouvir música",
-    "first_intro": "A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores. É uma capa musical, não um quadro de vídeo.",
+    "first_intro": "A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores.",
     "steps": [
       "Escolha 16 segundos de música própria ou autorizada. Baixe a faixa de treino com Download raw file. Marque 0, 4, 8, 12 e 16 segundos no editor; ajuste os cortes ao ritmo e às frases de outra música.",
       "No Hailuo oficial, escolha H3 e texto para vídeo, ou use os clipes curtos MusicMaker. Selecione 9:16 e cinco segundos por cena. MusicMaker informa atualmente 480p e uso do H3.",
@@ -500,10 +530,10 @@
       "Use quatro segundos estáveis de cada clipe, com cortes diretos. Silencie o som gerado e mantenha uma música. Acrescente o título nos dois segundos finais e um breve fade de áudio no fim.",
       "Exporte MP4 em 9:16. Confira quadros pretos, direção da água e deformações. Ampliar 480p não cria detalhes. Diminua o movimento ou use a mesma imagem autorizada se o cenário variar demais."
     ],
-    "prompt_intro": "Prompts em inglês para copiar · novos e ainda não testados por geração",
-    "limits": "Mantenha luz e relevo coerentes; termine música e imagem juntas. Ouvir uma música pública não concede automaticamente permissão de reutilização.",
-    "next_intro": "Agora faça cerca de dez segundos de canto em close. A imagem é o retrato de entrada da demonstração MusicMaker; clique para ver o vídeo. O modelo não foi divulgado e o exercício abaixo é novo.",
-    "vocal": "Mesma pessoa, lábios visíveis, uma faixa e final natural. O prompt não garante preservação do áudio nem sincronização perfeita.",
+    "prompt_intro": "Prompts em inglês para copiar",
+    "limits": "Mantenha luz e relevo coerentes; termine música e imagem juntas.",
+    "next_intro": "Agora faça cerca de dez segundos de canto em close. A imagem é o retrato de entrada da demonstração MusicMaker; clique para ver o vídeo.",
+    "vocal": "Mesma pessoa, lábios visíveis, uma faixa e final natural.",
     "models": [
       "Planeje som e imagem juntos; as entradas disponíveis dependem da ferramenta.",
       "Exemplos oficiais atribuem funções distintas a imagem, vídeo e áudio.",
@@ -549,7 +579,13 @@
       "catalog": "Todos os recursos e ferramentas · inglês",
       "nav": "Ferramentas grátis",
       "sources": "Estilos e fontes · inglês"
-    }
+    },
+    "disclosures": [
+      "A ilustração de capa da página inicial é uma arte conceitual original. As imagens do Discover são capas de músicas; o tutorial vocal usa o retrato de entrada da demo da marca. Essas imagens não comprovam resultados de vídeos gerados por nós.",
+      "Os modelos dos casos do X são os informados pelos criadores. Publicações e mídias anexadas foram verificadas por espelhos públicos, sem reproduzir os vídeos. Os prompts de produção permanecem nas publicações originais. [Notas de fontes · inglês](docs/x-cases.md#source-notes).",
+      "As ideias de vídeo na seção de escuta são sugestões do repositório. Os tutoriais de natureza e canto são exercícios novos, não registros de produção dos originais. A MusicMaker não revelou o modelo de sua demo vocal pública. Os dois conjuntos de prompts não foram testados do início ao fim e não garantem reproduzir a capa, preservar o áudio original ou sincronizar os lábios com precisão.",
+      "O acesso público para ouvir ou assistir não concede direitos de reutilização. Músicas, imagens e vídeos externos exigem a autorização apropriada."
+    ]
   },
   "fr": {
     "title": "Guide de création de clips musicaux",
@@ -560,7 +596,7 @@
       "Premier clip",
       "Exercice suivant"
     ],
-    "hero": "Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites ; ce ne sont pas des résultats vidéo vérifiés.",
+    "hero": "Choisir la musique → préparer les plans et les prompts → générer → monter et exporter. Illustration originale du parcours, du chant au voyage et aux formes abstraites.",
     "x_intro": "Six vidéos avec des prompts ou des explications publics. Chaque image ouvre la publication originale de son auteur.",
     "x_lessons": [
       "Fixez les positions des deux artistes, puis alternez plans larges et rapprochés.",
@@ -570,8 +606,8 @@
       "Reliez départ, transformation et arrivée. La source est un court métrage fantastique.",
       "Ménagez une courte pause, puis révélez le changement sur un temps fort."
     ],
-    "x_note": "Les modèles sont ceux déclarés par les auteurs. Texte et médias ont été vérifiés via un miroir public de X ; les vidéos n’ont pas été reproduites. Les analyses détaillées sont en anglais.",
-    "listen_intro": "Neuf contrastes sur trois lignes : piano, rock, orchestre et danse. Écoutez la densité et le rythme. Les styles viennent du champ Style des sources ; les idées vidéo sont nos suggestions.",
+    "x_note": "",
+    "listen_intro": "Neuf contrastes sur trois lignes : piano, rock, orchestre et danse. Écoutez la densité et le rythme. Les styles viennent du champ Style des sources.",
     "cover_notes": [
       "Piano solo · plans longs",
       "Rock moderne · coupes marquées",
@@ -584,7 +620,7 @@
       "R&B électronique · gros plans expressifs"
     ],
     "play": "Écouter le morceau",
-    "first_intro": "La pochette de Living on the Brightside inspire un film de nature de 16 secondes : arc-en-ciel, ruisseau et fleurs. C’est une pochette de chanson, pas une image de vidéo.",
+    "first_intro": "La pochette de Living on the Brightside inspire un film de nature de 16 secondes : arc-en-ciel, ruisseau et fleurs.",
     "steps": [
       "Choisissez 16 secondes de musique personnelle ou autorisée. Téléchargez la piste d’exercice avec Download raw file. Marquez 0, 4, 8, 12 et 16 secondes dans le logiciel ; adaptez ces coupes aux phrases d’un autre morceau.",
       "Dans Hailuo officiel, choisissez H3 et le mode texte vers vidéo, ou utilisez les clips courts MusicMaker. Réglez 9:16 et cinq secondes par plan. MusicMaker annonce actuellement 480p et l’utilisation de H3.",
@@ -592,10 +628,10 @@
       "Gardez quatre secondes stables par plan, avec des coupes franches. Coupez le son généré et conservez une seule musique. Ajoutez le titre sur les deux dernières secondes et un bref fondu sonore final.",
       "Exportez en MP4 9:16. Vérifiez les images noires, le courant et les déformations. Agrandir du 480p ne crée pas de détail. Réduisez les mouvements ou réutilisez une même image autorisée si le paysage change trop."
     ],
-    "prompt_intro": "Prompts anglais à copier · nouveaux et non testés par génération",
-    "limits": "Conservez lumière et relief cohérents ; terminez musique et image ensemble. L’écoute publique ne donne pas automatiquement le droit de réutiliser un enregistrement.",
-    "next_intro": "Passez à un portrait chanté d’environ dix secondes. L’image est le portrait d’entrée de la démonstration MusicMaker ; cliquez pour voir la vidéo. Le modèle de cette démonstration n’est pas divulgué ; l’exercice ci-dessous est nouveau.",
-    "vocal": "Même personne, lèvres visibles, une piste sonore, fin naturelle. Le prompt ne garantit ni la conservation du son ni la synchronisation labiale.",
+    "prompt_intro": "Prompts anglais à copier",
+    "limits": "Conservez lumière et relief cohérents ; terminez musique et image ensemble.",
+    "next_intro": "Passez à un portrait chanté d’environ dix secondes. L’image est le portrait d’entrée de la démonstration MusicMaker ; cliquez pour voir la vidéo.",
+    "vocal": "Même personne, lèvres visibles, une piste sonore, fin naturelle.",
     "models": [
       "Planifiez ensemble son et image ; les références acceptées dépendent de l’outil.",
       "Les exemples officiels donnent des rôles distincts aux images, vidéos et sons.",
@@ -641,7 +677,13 @@
       "catalog": "Tous les outils et ressources · anglais",
       "nav": "Outils gratuits",
       "sources": "Styles et sources · anglais"
-    }
+    },
+    "disclosures": [
+      "L’illustration de couverture de la page d’accueil est une création conceptuelle originale. Les images Discover sont des pochettes de chansons ; le tutoriel vocal utilise le portrait d’entrée de la démonstration de la marque. Ces images ne prouvent pas des résultats vidéo générés par notre équipe.",
+      "Les modèles des exemples X sont ceux déclarés par les créateurs. Les publications et médias joints ont été vérifiés via des miroirs publics, sans reproduire les vidéos. Les prompts de production restent dans les publications originales. [Notes sur les sources · anglais](docs/x-cases.md#source-notes).",
+      "Les idées vidéo de la section d’écoute sont des suggestions du dépôt. Les tutoriels de nature et de chant sont de nouveaux exercices, pas les recettes de production originales. MusicMaker n’a pas identifié le modèle de sa démonstration vocale publique. Les deux ensembles de prompts n’ont pas été testés de bout en bout et ne garantissent ni la reproduction de la pochette, ni la conservation du son original, ni une synchronisation labiale précise.",
+      "L’écoute et le visionnage publics ne donnent pas de droits de réutilisation. Les musiques, images et vidéos externes nécessitent les autorisations appropriées."
+    ]
   },
   "de": {
     "title": "Leitfaden für eigene Musikvideos",
@@ -652,7 +694,7 @@
       "Erstes Video",
       "Nächste Übung"
     ],
-    "hero": "Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.",
+    "hero": "Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern.",
     "x_intro": "Sechs Videos mit öffentlichen Prompts oder Erläuterungen. Jedes Bild führt zum Originalbeitrag des Urhebers.",
     "x_lessons": [
       "Halte die Positionen beider Darsteller fest und wechsle zwischen Totalen und Nahaufnahmen.",
@@ -662,8 +704,8 @@
       "Verbinde Abfahrt, Verwandlung und Ankunft. Die Vorlage ist ein Fantasy-Kurzfilm.",
       "Lass eine kurze Pause und zeige die Veränderung auf einem starken Schlag."
     ],
-    "x_note": "Die Modellnamen stammen von den Urhebern. Text und Medien wurden über einen öffentlichen X-Spiegel geprüft; die Videos wurden nicht nachproduziert. Ausführliche Erläuterungen sind auf Englisch.",
-    "listen_intro": "Neun Kontraste in drei Reihen: von Klavier über Rock und Orchester bis zur Tanzfläche. Hör auf Dichte und Rhythmus. Genres stammen aus dem Style-Feld der Quelle; Bildideen sind redaktionelle Vorschläge.",
+    "x_note": "",
+    "listen_intro": "Neun Kontraste in drei Reihen: von Klavier über Rock und Orchester bis zur Tanzfläche. Hör auf Dichte und Rhythmus. Genres stammen aus dem Style-Feld der Quelle.",
     "cover_notes": [
       "Klaviersolo · lange Einstellungen",
       "Moderner Rock · harte Taktschnitte",
@@ -676,7 +718,7 @@
       "Elektronischer R&B · emotionale Nahaufnahme"
     ],
     "play": "Titel anhören",
-    "first_intro": "Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen. Es ist ein Songcover, kein Videoframe.",
+    "first_intro": "Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen.",
     "steps": [
       "Wähle 16 Sekunden eigener oder lizenzierter Musik. Den Übungsbeat speicherst du mit Download raw file. Markiere im Editor 0, 4, 8, 12 und 16 Sekunden; passe die Schnitte bei anderen Songs an Takte und Phrasen an.",
       "Wähle im offiziellen Hailuo H3 Text-to-Video oder das Kurzclip-Werkzeug von MusicMaker. Nutze 9:16 und je fünf Sekunden. MusicMaker nennt derzeit 480p und H3 als Modell.",
@@ -684,10 +726,10 @@
       "Nimm je vier stabile Sekunden und setze direkte Schnitte. Schalte den generierten Ton aus und behalte eine Musikspur. Füge in den letzten zwei Sekunden den Titel und am Ende eine kurze Tonblende hinzu.",
       "Exportiere MP4 in 9:16. Prüfe schwarze Frames, Fließrichtung und Verformungen. Hochskalieren von 480p schafft keine Details. Reduziere Bewegung oder nutze ein einheitliches erlaubtes Referenzbild, wenn Landschaft oder Regenbogen driften."
     ],
-    "prompt_intro": "Englische Prompts zum Kopieren · neu geschrieben, nicht render-getestet",
-    "limits": "Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam. Öffentliches Anhören erlaubt nicht automatisch die Weiterverwendung.",
-    "next_intro": "Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video. Dessen Modell ist unbekannt, die Übung ist neu geschrieben.",
-    "vocal": "Gleiche Person, sichtbare Lippen, eine Tonspur, natürlicher Abschluss. Ein Prompt garantiert weder Originalton noch präzise Lippensynchronität.",
+    "prompt_intro": "Englische Prompts zum Kopieren",
+    "limits": "Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam.",
+    "next_intro": "Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video.",
+    "vocal": "Gleiche Person, sichtbare Lippen, eine Tonspur, natürlicher Abschluss.",
     "models": [
       "Plane Ton und Bild gemeinsam; die verfügbaren Referenzen hängen vom Werkzeug ab.",
       "Offizielle Beispiele weisen Bild, Video und Audio unterschiedliche Aufgaben zu.",
@@ -733,7 +775,13 @@
       "catalog": "Alle Ressourcen und Werkzeuge · Englisch",
       "nav": "Gratis-Werkzeuge",
       "sources": "Stile und Quellen · Englisch"
-    }
+    },
+    "disclosures": [
+      "Das Titelbild der Startseite ist eine eigene Konzeptillustration. Discover-Bilder sind Songcover; das Gesangstutorial verwendet das Eingabeporträt der Markendemo. Diese Bilder belegen keine von uns generierten Videoergebnisse.",
+      "Die Modellnamen der X-Beispiele folgen den Angaben der Urheber. Beiträge und angehängte Medien wurden über öffentliche Spiegel geprüft, die Videos jedoch nicht nachproduziert. Produktionsprompts bleiben in den Originalbeiträgen. [Quellenhinweise · Englisch](docs/x-cases.md#source-notes).",
+      "Die Videoideen im Hörbereich sind Vorschläge dieses Repositorys. Natur- und Gesangstutorial sind neu verfasste Übungen, keine Produktionsanleitungen der Originale. MusicMaker hat das Modell seiner veröffentlichten Gesangsdemo nicht genannt. Beide Prompt-Sätze sind nicht durchgängig praktisch getestet und garantieren weder eine Nachbildung des Covers noch den Erhalt des Originaltons oder präzise Lippensynchronität.",
+      "Öffentliches Anhören und Ansehen gewährt keine Weiterverwendungsrechte. Für externe Musik, Bilder und Videos sind entsprechende Genehmigungen erforderlich."
+    ]
   },
   "ru": {
     "title": "Руководство по созданию музыкальных видео",
@@ -744,7 +792,7 @@
       "Первое видео",
       "Следующее упражнение"
     ],
-    "hero": "Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией, а не доказательство результатов видеогенерации.",
+    "hero": "Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией.",
     "x_intro": "Шесть видео с открытыми промптами или пояснениями. Нажмите на изображение, чтобы открыть исходный пост автора.",
     "x_lessons": [
       "Закрепите позиции двух исполнителей и чередуйте общие и крупные планы.",
@@ -754,8 +802,8 @@
       "Соедините отправление, превращение и прибытие. Источник — фантастическая короткометражка.",
       "Оставьте небольшую паузу и покажите смену сцены на сильную долю."
     ],
-    "x_note": "Названия моделей указаны авторами. Тексты и материалы проверены через публичное зеркало X; видео не воспроизводились заново. Подробные разборы доступны на английском.",
-    "listen_intro": "Девять контрастов в трёх рядах: фортепиано, рок, оркестр и танцевальная музыка. Сравните плотность звука и ритм. Жанры взяты из поля Style; идеи видео предложены редакцией.",
+    "x_note": "",
+    "listen_intro": "Девять контрастов в трёх рядах: фортепиано, рок, оркестр и танцевальная музыка. Сравните плотность звука и ритм. Жанры взяты из поля Style.",
     "cover_notes": [
       "Соло фортепиано · длинные планы",
       "Современный рок · резкие склейки",
@@ -768,7 +816,7 @@
       "Электронный R&B · эмоции крупным планом"
     ],
     "play": "Слушать песню",
-    "first_intro": "Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы. Это музыкальная обложка, не кадр видео.",
+    "first_intro": "Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы.",
     "steps": [
       "Выберите 16 секунд собственной или разрешённой музыки. Учебный трек скачивается через Download raw file. Отметьте в редакторе 0, 4, 8, 12 и 16 секунд; для другой песни подстройте склейки под ритм и фразы.",
       "В официальном Hailuo выберите H3 и генерацию по тексту либо используйте короткие клипы MusicMaker. Формат 9:16, по пять секунд. MusicMaker сейчас указывает 480p и использование H3.",
@@ -776,10 +824,10 @@
       "Оставьте по четыре стабильные секунды и соедините прямыми склейками. Выключите сгенерированный звук, сохранив одну музыкальную дорожку. Добавьте название в последние две секунды и короткое затухание музыки.",
       "Экспортируйте MP4 9:16. Проверьте чёрные кадры, течение воды и деформации. Увеличение 480p не добавляет деталей. Уменьшите движение или используйте одно разрешённое изображение, если пейзаж сильно меняется."
     ],
-    "prompt_intro": "Английские промпты для копирования · новые, без проверки генерацией",
-    "limits": "Сохраняйте освещение и рельеф; музыка и изображение заканчиваются вместе. Публичное прослушивание не означает право повторного использования.",
-    "next_intro": "Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео. Модель примера не раскрыта, упражнение написано заново.",
-    "vocal": "Один человек, видимые губы, одна звуковая дорожка, естественный финал. Промпт не гарантирует сохранения звука или точной синхронизации губ.",
+    "prompt_intro": "Английские промпты для копирования",
+    "limits": "Сохраняйте освещение и рельеф; музыка и изображение заканчиваются вместе.",
+    "next_intro": "Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео.",
+    "vocal": "Один человек, видимые губы, одна звуковая дорожка, естественный финал.",
     "models": [
       "Планируйте звук и изображение вместе; доступные референсы зависят от инструмента.",
       "В официальных примерах изображениям, видео и звуку отведены разные роли.",
@@ -825,7 +873,13 @@
       "catalog": "Все ресурсы и инструменты · английский",
       "nav": "Бесплатные инструменты",
       "sources": "Стили и источники · английский"
-    }
+    },
+    "disclosures": [
+      "Обложка главной страницы — оригинальная концептуальная иллюстрация. Изображения Discover — обложки песен, а урок по вокалу использует входной портрет из демонстрации бренда. Эти изображения не подтверждают результаты нашей видеогенерации.",
+      "Названия моделей в примерах X приведены со слов авторов. Посты и вложения проверены через публичные зеркала, но видео не создавались заново. Производственные промпты остаются в оригинальных постах. [Примечания об источниках · английский](docs/x-cases.md#source-notes).",
+      "Идеи видео в разделе прослушивания предложены этим репозиторием. Уроки о природе и пении — новые упражнения, а не записи производства оригиналов. MusicMaker не раскрыл модель опубликованной вокальной демонстрации. Оба набора промптов не проверены на практике от начала до конца и не гарантируют воспроизведения обложки, сохранения исходного звука или точной синхронизации губ.",
+      "Публичное прослушивание и просмотр не дают прав на повторное использование. Внешние музыка, изображения и видео требуют соответствующего разрешения."
+    ]
   },
   "vi": {
     "title": "Hướng dẫn làm video âm nhạc",
@@ -836,7 +890,7 @@
       "Video đầu tiên",
       "Bài tập tiếp theo"
     ],
-    "hero": "Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.",
+    "hero": "Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng.",
     "x_intro": "Sáu video có câu lệnh hoặc hướng dẫn công khai. Bấm vào hình để xem bài đăng gốc của tác giả.",
     "x_lessons": [
       "Giữ vị trí hai người biểu diễn rồi xen kẽ toàn cảnh và cận cảnh.",
@@ -846,8 +900,8 @@
       "Nối khởi hành, biến đổi và đến nơi. Bản gốc là phim ngắn kỳ ảo.",
       "Chừa một khoảng lặng ngắn rồi hé lộ thay đổi ở nhịp mạnh."
     ],
-    "x_note": "Tên mô hình do tác giả công bố. Nội dung và tư liệu được kiểm tra qua bản sao công khai của X; chúng tôi chưa tái tạo các video. Phân tích chi tiết bằng tiếng Anh.",
-    "listen_intro": "Chín phong cách tương phản trong ba hàng: piano, rock, dàn nhạc và nhạc nhảy. So sánh độ dày âm thanh và nhịp điệu. Thể loại dựa trên mục Style; ý tưởng video là đề xuất biên tập.",
+    "x_note": "",
+    "listen_intro": "Chín phong cách tương phản trong ba hàng: piano, rock, dàn nhạc và nhạc nhảy. So sánh độ dày âm thanh và nhịp điệu. Thể loại dựa trên mục Style.",
     "cover_notes": [
       "Piano độc tấu · cảnh dài",
       "Rock hiện đại · cắt theo nhịp mạnh",
@@ -860,7 +914,7 @@
       "R&B điện tử · cận cảnh cảm xúc"
     ],
     "play": "Nghe bài hát",
-    "first_intro": "Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.",
+    "first_intro": "Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại.",
     "steps": [
       "Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.",
       "Trong Hailuo chính thức, chọn H3 và tạo video từ văn bản, hoặc dùng công cụ đoạn phim ngắn MusicMaker. Chọn 9:16, mỗi đoạn năm giây. MusicMaker hiện ghi 480p và sử dụng H3.",
@@ -868,10 +922,10 @@
       "Giữ bốn giây ổn định mỗi đoạn, nối bằng cắt thẳng. Tắt âm thanh được tạo và chỉ giữ một bản nhạc. Thêm tên trong hai giây cuối, giảm dần âm lượng ở cuối.",
       "Xuất MP4 9:16. Kiểm tra khung đen, hướng nước và biến dạng. Phóng lớn 480p không thêm chi tiết. Giảm chuyển động hoặc dùng cùng ảnh tham chiếu hợp lệ nếu cảnh vật thay đổi nhiều."
     ],
-    "prompt_intro": "Câu lệnh tiếng Anh để sao chép · viết mới, chưa thử tạo video",
-    "limits": "Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. Nghe được bài hát công khai không đồng nghĩa có quyền tái sử dụng.",
-    "next_intro": "Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video. Mô hình của ví dụ không được công bố, bài tập bên dưới được viết mới.",
-    "vocal": "Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên. Câu lệnh không bảo đảm giữ nguyên âm thanh hay khớp môi chính xác.",
+    "prompt_intro": "Câu lệnh tiếng Anh để sao chép",
+    "limits": "Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình.",
+    "next_intro": "Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video.",
+    "vocal": "Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên.",
     "models": [
       "Lên kế hoạch âm thanh và hình ảnh cùng nhau; đầu vào tham chiếu tùy công cụ.",
       "Ví dụ chính thức phân vai riêng cho hình ảnh, video và âm thanh.",
@@ -917,7 +971,13 @@
       "catalog": "Tất cả tư liệu và công cụ · tiếng Anh",
       "nav": "Công cụ miễn phí",
       "sources": "Phong cách và nguồn · tiếng Anh"
-    }
+    },
+    "disclosures": [
+      "Ảnh bìa trang chủ là tranh ý tưởng gốc. Ảnh Discover là bìa bài hát; hướng dẫn ca hát dùng chân dung đầu vào của bản trình diễn thương hiệu. Các ảnh này không chứng minh kết quả video do chúng tôi tạo.",
+      "Tên mô hình trong ví dụ X theo lời tác giả. Bài đăng và tư liệu đính kèm được kiểm tra qua bản sao công khai, nhưng video chưa được tái tạo. Câu lệnh sản xuất nằm trong bài đăng gốc. [Ghi chú nguồn · tiếng Anh](docs/x-cases.md#source-notes).",
+      "Ý tưởng video trong phần nghe thử là đề xuất của kho này. Hướng dẫn thiên nhiên và ca hát là bài tập mới, không phải quy trình sản xuất bản gốc. MusicMaker chưa công bố mô hình của bản trình diễn ca hát công khai. Hai bộ câu lệnh chưa được thử nghiệm toàn bộ quy trình và không bảo đảm tái hiện bìa, giữ nguyên âm thanh gốc hay khớp môi chính xác.",
+      "Khả năng nghe và xem công khai không cấp quyền tái sử dụng. Nhạc, ảnh và video bên ngoài cần được cấp phép phù hợp."
+    ]
   },
   "th": {
     "title": "คู่มือสร้างมิวสิกวิดีโอ",
@@ -928,7 +988,7 @@
       "วิดีโอแรก",
       "ฝึกขั้นต่อไป"
     ],
-    "hero": "เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ",
+    "hero": "เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม",
     "x_intro": "วิดีโอหกตัวอย่างที่มีพรอมป์หรือคำอธิบายสาธารณะ คลิกภาพเพื่อเปิดโพสต์ต้นฉบับของผู้สร้าง",
     "x_lessons": [
       "กำหนดตำแหน่งผู้แสดงทั้งสองให้คงที่ แล้วสลับภาพกว้างกับภาพใกล้",
@@ -938,8 +998,8 @@
       "เชื่อมการออกเดินทาง การเปลี่ยนแปลง และการมาถึง ต้นฉบับเป็นหนังสั้นแฟนตาซี",
       "เว้นจังหวะนิ่งสั้น ๆ แล้วเผยการเปลี่ยนฉากตรงจังหวะหนัก"
     ],
-    "x_note": "ชื่อโมเดลเป็นข้อมูลจากผู้สร้าง ตรวจข้อความและสื่อผ่านสำเนาสาธารณะของ X แต่ยังไม่ได้สร้างวิดีโอซ้ำ คำอธิบายละเอียดเป็นภาษาอังกฤษ",
-    "listen_intro": "เก้าสไตล์ที่ต่างกันในสามแถว ตั้งแต่เปียโน ร็อก ออร์เคสตรา ไปจนถึงเพลงเต้นรำ ลองฟังความหนาแน่นของเสียงและจังหวะ สไตล์อ้างอิงช่อง Style ส่วนแนวคิดวิดีโอเป็นข้อเสนอของผู้เขียน",
+    "x_note": "",
+    "listen_intro": "เก้าสไตล์ที่ต่างกันในสามแถว ตั้งแต่เปียโน ร็อก ออร์เคสตรา ไปจนถึงเพลงเต้นรำ ลองฟังความหนาแน่นของเสียงและจังหวะ สไตล์อ้างอิงช่อง Style",
     "cover_notes": [
       "เปียโนเดี่ยว · ช็อตยาว",
       "ร็อกร่วมสมัย · ตัดตรงจังหวะหนัก",
@@ -952,7 +1012,7 @@
       "อาร์แอนด์บีอิเล็กทรอนิกส์ · ภาพใกล้สื่ออารมณ์"
     ],
     "play": "ฟังเพลง",
-    "first_intro": "ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ",
+    "first_intro": "ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้",
     "steps": [
       "เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง",
       "ใน Hailuo ทางการเลือก H3 แบบข้อความเป็นวิดีโอ หรือใช้เครื่องมือคลิปสั้น MusicMaker เลือก 9:16 คลิปละห้าวินาที หน้า MusicMaker ระบุ 480p และใช้ H3 ในขณะตรวจสอบ",
@@ -960,10 +1020,10 @@
       "เลือกช่วงนิ่งสี่วินาทีจากแต่ละคลิปแล้วตัดตรง ปิดเสียงที่สร้างและเก็บเพลงเพียงแทร็กเดียว ใส่ชื่อในสองวินาทีสุดท้ายและค่อยลดเสียงตอนจบ",
       "ส่งออก MP4 9:16 ตรวจเฟรมดำ ทิศทางน้ำ และรูปทรงบิดเบี้ยว การขยาย 480p ไม่เพิ่มรายละเอียด หากฉากเปลี่ยนมากให้ลดการเคลื่อนไหวหรือใช้ภาพอ้างอิงที่ได้รับอนุญาตภาพเดิม"
     ],
-    "prompt_intro": "พรอมต์ภาษาอังกฤษสำหรับคัดลอก · เขียนใหม่และยังไม่ได้ทดสอบสร้าง",
-    "limits": "รักษาแสงและภูมิประเทศให้ต่อเนื่อง จบเพลงพร้อมภาพ การฟังเพลงสาธารณะไม่ได้ให้สิทธิ์นำไปใช้ต่อโดยอัตโนมัติ",
-    "next_intro": "ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ เว็บไซต์ไม่เปิดเผยโมเดลของตัวอย่าง และบทฝึกนี้เขียนขึ้นใหม่",
-    "vocal": "คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ พรอมต์ไม่รับประกันการคงเสียงเดิมหรือความตรงของปาก",
+    "prompt_intro": "พรอมต์ภาษาอังกฤษสำหรับคัดลอก",
+    "limits": "รักษาแสงและภูมิประเทศให้ต่อเนื่อง จบเพลงพร้อมภาพ",
+    "next_intro": "ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ",
+    "vocal": "คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ",
     "models": [
       "วางแผนเสียงกับภาพร่วมกัน ชนิดข้อมูลอ้างอิงขึ้นอยู่กับเครื่องมือ",
       "ตัวอย่างทางการแบ่งหน้าที่ของภาพ วิดีโอ และเสียงชัดเจน",
@@ -1009,7 +1069,13 @@
       "catalog": "สื่อและเครื่องมือทั้งหมด · อังกฤษ",
       "nav": "เครื่องมือฟรี",
       "sources": "สไตล์และแหล่งที่มา · อังกฤษ"
-    }
+    },
+    "disclosures": [
+      "ภาพปกหน้าแรกเป็นภาพแนวคิดต้นฉบับ ภาพ Discover เป็นปกเพลง ส่วนบทสอนร้องเพลงใช้ภาพบุคคลอินพุตจากตัวอย่างของแบรนด์ ภาพเหล่านี้ไม่ใช่หลักฐานวิดีโอที่เราสร้างสำเร็จ",
+      "ชื่อโมเดลในกรณี X อ้างอิงคำบอกเล่าของผู้สร้าง ตรวจโพสต์และสื่อแนบผ่านสำเนาสาธารณะ แต่ไม่ได้สร้างวิดีโอซ้ำ พรอมต์ที่ใช้ผลิตอยู่ในโพสต์ต้นฉบับ [หมายเหตุแหล่งข้อมูล · อังกฤษ](docs/x-cases.md#source-notes)",
+      "แนวคิดวิดีโอในส่วนฟังเพลงเป็นข้อเสนอของคลังนี้ บทสอนธรรมชาติและร้องเพลงเป็นแบบฝึกใหม่ ไม่ใช่บันทึกวิธีสร้างผลงานต้นฉบับ MusicMaker ไม่ได้เปิดเผยโมเดลของตัวอย่างร้องเพลงสาธารณะ พรอมต์ทั้งสองชุดยังไม่ได้ทดสอบครบทุกขั้นตอน และไม่รับประกันการสร้างภาพตรงปก การคงเสียงต้นฉบับ หรือการขยับปากตรงเสียง",
+      "การเปิดให้ฟังและชมสาธารณะไม่ได้ให้สิทธิ์นำไปใช้ต่อ เพลง ภาพ และวิดีโอภายนอกต้องได้รับอนุญาตอย่างเหมาะสม"
+    ]
   },
   "ar": {
     "title": "دليل إنشاء الفيديو الموسيقي",
@@ -1020,7 +1086,7 @@
       "الفيديو الأول",
       "التدريب التالي"
     ],
-    "hero": "اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.",
+    "hero": "اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية.",
     "x_intro": "ستة فيديوهات لها أوامر توليد أو شروح منشورة. اضغط الصورة لفتح منشور صاحب العمل الأصلي.",
     "x_lessons": [
       "ثبّت موضعي المؤديين ثم بدّل بين اللقطات الواسعة والقريبة.",
@@ -1030,8 +1096,8 @@
       "اربط الانطلاق والتحول والوصول. المصدر فيلم قصير خيالي.",
       "اترك وقفة قصيرة ثم اكشف التغير مع الضربة الموسيقية القوية."
     ],
-    "x_note": "أسماء النماذج بحسب تصريحات أصحاب الأعمال. جرى التحقق من النصوص والوسائط عبر مرآة عامة لمنصة X، دون إعادة إنتاج الفيديوهات. الشروح التفصيلية بالإنجليزية.",
-    "listen_intro": "تسعة تباينات في ثلاثة صفوف: من البيانو إلى الروك والأوركسترا والرقص. قارن كثافة الصوت والإيقاع. الأنماط من حقل Style في المصدر، وأفكار الفيديو اقتراحات تحريرية.",
+    "x_note": "",
+    "listen_intro": "تسعة تباينات في ثلاثة صفوف: من البيانو إلى الروك والأوركسترا والرقص. قارن كثافة الصوت والإيقاع. الأنماط من حقل Style في المصدر.",
     "cover_notes": [
       "بيانو منفرد · لقطات طويلة",
       "روك حديث · قطع على الضربات",
@@ -1044,7 +1110,7 @@
       "آر أند بي إلكتروني · تعبيرات قريبة"
     ],
     "play": "استمع للأغنية",
-    "first_intro": "استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.",
+    "first_intro": "استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور.",
     "steps": [
       "اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.",
       "في Hailuo الرسمي اختر H3 وتوليد الفيديو من النص، أو استخدم أداة المقاطع القصيرة في MusicMaker. اختر 9:16 وخمس ثوانٍ لكل لقطة. يذكر MusicMaker حاليًا دقة 480p واستخدام H3.",
@@ -1052,10 +1118,10 @@
       "احتفظ بأربع ثوانٍ مستقرة من كل مقطع ووصلها بقطع مباشر. اكتم الصوت المولّد واترك مسار موسيقى واحدًا. أضف العنوان في آخر ثانيتين وخفّض الموسيقى تدريجيًا عند النهاية.",
       "صدّر MP4 بنسبة 9:16. افحص الإطارات السوداء واتجاه الماء والتشوهات. تكبير 480p لا يضيف تفاصيل. قلل الحركة أو استخدم صورة مرجعية مأذونًا بها ثابتة إذا تغير المشهد كثيرًا."
     ],
-    "prompt_intro": "أوامر إنجليزية قابلة للنسخ · جديدة ولم تُختبر بالتوليد",
-    "limits": "حافظ على الضوء والتضاريس، وأنهِ الموسيقى والصورة معًا. الاستماع العام لا يمنح حق إعادة استخدام التسجيل تلقائيًا.",
-    "next_intro": "انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو. نموذج المثال غير معلن، والتمرين أدناه جديد.",
-    "vocal": "الشخص نفسه، شفتان واضحتان، مسار صوت واحد ونهاية طبيعية. الأمر لا يضمن حفظ الصوت أو مزامنة الفم بدقة.",
+    "prompt_intro": "أوامر إنجليزية قابلة للنسخ",
+    "limits": "حافظ على الضوء والتضاريس، وأنهِ الموسيقى والصورة معًا.",
+    "next_intro": "انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو.",
+    "vocal": "الشخص نفسه، شفتان واضحتان، مسار صوت واحد ونهاية طبيعية.",
     "models": [
       "خطط للصوت والصورة معًا؛ المدخلات المرجعية المتاحة تعتمد على الأداة.",
       "تعطي الأمثلة الرسمية أدوارًا منفصلة للصور والفيديو والصوت.",
@@ -1101,6 +1167,12 @@
       "catalog": "جميع الموارد والأدوات · بالإنجليزية",
       "nav": "أدوات مجانية",
       "sources": "الأنماط والمصادر · بالإنجليزية"
-    }
+    },
+    "disclosures": [
+      "رسم غلاف الصفحة الرئيسية عمل تصوري أصلي. صور Discover أغلفة أغانٍ، ويستخدم درس الغناء صورة الشخصية المُدخلة في عرض العلامة. هذه الصور ليست دليلًا على نتائج فيديو ولّدناها.",
+      "أسماء النماذج في أمثلة X بحسب تصريحات المبدعين. فُحصت المنشورات والوسائط المرفقة عبر مرايا عامة، دون إعادة إنتاج الفيديوهات. تبقى تعليمات الإنتاج في المنشورات الأصلية. [ملاحظات المصادر · بالإنجليزية](docs/x-cases.md#source-notes).",
+      "أفكار الفيديو في قسم الاستماع اقتراحات من هذا المستودع. درسا الطبيعة والغناء تمرينان جديدان، وليسا سجلًا لإنتاج الأعمال الأصلية. لم تعلن MusicMaker نموذج عرض الغناء المنشور. لم تُختبر مجموعتا التعليمات من البداية إلى النهاية، ولا تضمنان إعادة إنتاج الغلاف أو الحفاظ على الصوت الأصلي أو دقة مزامنة الشفاه.",
+      "الاستماع والمشاهدة العامة لا يمنحان حقوق إعادة الاستخدام. تتطلب الموسيقى والصور والفيديوهات الخارجية الإذن المناسب."
+    ]
   }
 }

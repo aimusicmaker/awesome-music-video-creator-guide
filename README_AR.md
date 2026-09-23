@@ -18,24 +18,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ أمثلة النماذج ودروسها الرسمية</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ أمثلة من X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ استمع عبر MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ الفيديو الأول</kbd></a> &nbsp; <a href="#next-project"><kbd>→ التدريب التالي</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 أدوات مجانية</kbd></a></p>
 
-[![اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.](assets/social-preview.jpg)](#first-video)
+[![اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية.](assets/social-preview.jpg)](#first-video)
 
-اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.
-
-<!-- TRUST:START -->
-يدير هذا الدليل فريق MusicMaker، مع إعطاء الأولوية للنماذج المتاحة لدى العلامة. لا نضيف إلى روابط التوصية معلمات تسويق بالعمولة خاصة بهذا المستودع؛ وهذا لا يعني غياب المصالح التجارية. [ سياسة التحرير (English) → ](docs/editorial-policy.md)
-
-اكتمل مثال المونتاج الأصلي الخاص بنا ومدته 16 ثانية. اقتصر فحص الأمثلة الخارجية على المصادر العامة وإمكانية الوصول إليها. لم يُختبر أي من درسي التوليد بالذكاء الاصطناعي من البداية إلى النهاية.
-
-[▶ شاهد مثال المونتاج الأصلي](starter-kit/night-train-edit-demo.mp4) · [الأدلة وحالة الاختبار (EN / 简体中文)](docs/generation-tests.md) · [الإبلاغ عن تصحيح](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية.
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## أمثلة النماذج ودروسها الرسمية
 
-ابدأ بعروض المطورين ومدخلاتها ثم استكشف أعمال المجتمع. هذه أمثلة منشورة وليست اختبارات توليد أجريناها أو ترتيبًا للنماذج.
+ابدأ بعروض المطورين ومدخلاتها ثم استكشف أعمال المجتمع.
 
 <table>
 <tr>
@@ -47,8 +39,6 @@
 <td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>غلاف الفيديو الرسمي</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>عزف البيانو: من لقطة متوسطة إلى لقطة قريبة للتعبير.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ المثال الرسمي</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#seedance-piano">الخطوات · بالإنجليزية →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
-
-توجد صفحات MusicMaker للإصدارات الأربعة. الأمثلة والأدلة من المطورين، وقد تختلف خيارات MusicMaker. صورة H3 هي صورة إدخال.
 
 <!-- OFFICIAL:END -->
 
@@ -73,13 +63,11 @@
 </tr>
 </table>
 
-أسماء النماذج بحسب تصريحات أصحاب الأعمال. جرى التحقق من النصوص والوسائط عبر مرآة عامة لمنصة X، دون إعادة إنتاج الفيديوهات. الشروح التفصيلية بالإنجليزية.
-
 <a id="listen"></a>
 
 ## استمع عبر MusicMaker
 
-تسعة تباينات في ثلاثة صفوف: من البيانو إلى الروك والأوركسترا والرقص. قارن كثافة الصوت والإيقاع. الأنماط من حقل Style في المصدر، وأفكار الفيديو اقتراحات تحريرية.
+تسعة تباينات في ثلاثة صفوف: من البيانو إلى الروك والأوركسترا والرقص. قارن كثافة الصوت والإيقاع. الأنماط من حقل Style في المصدر.
 
 <!-- LISTENING-GRID:START -->
 <table>
@@ -107,7 +95,7 @@
 
 ## أنشئ الفيديو الأول
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.<br><br><b>1.</b> اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور.<br><br><b>1.</b> اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.</td></tr></table>
 
 [▶ استمع للأغنية](https://musicmaker.im/detail/discover-v2-98/) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -121,7 +109,7 @@
 
 5. صدّر MP4 بنسبة 9:16. افحص الإطارات السوداء واتجاه الماء والتشوهات. تكبير 480p لا يضيف تفاصيل. قلل الحركة أو استخدم صورة مرجعية مأذونًا بها ثابتة إذا تغير المشهد كثيرًا.
 
-**أوامر إنجليزية قابلة للنسخ · جديدة ولم تُختبر بالتوليد**
+**أوامر إنجليزية قابلة للنسخ**
 
 <div dir="ltr">
 
@@ -155,7 +143,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 </div>
 
-حافظ على الضوء والتضاريس، وأنهِ الموسيقى والصورة معًا. الاستماع العام لا يمنح حق إعادة استخدام التسجيل تلقائيًا.
+حافظ على الضوء والتضاريس، وأنهِ الموسيقى والصورة معًا.
 
 [→ الخطوات · إنجليزي](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -163,7 +151,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## تعلّم التقنية التالية
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو. نموذج المثال غير معلن، والتمرين أدناه جديد.<br><br><b>1.</b> جهّز صورة شخصية مأذونًا بها شبه أمامية تظهر الشفتين، وجملة غنائية لك أو مرخصة. اقتطع نحو عشر ثوانٍ مع مساحة تنفس في البداية والنهاية. المقطع التدريبي الآلي لا يحل محل الصوت الغنائي.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو.<br><br><b>1.</b> جهّز صورة شخصية مأذونًا بها شبه أمامية تظهر الشفتين، وجملة غنائية لك أو مرخصة. اقتطع نحو عشر ثوانٍ مع مساحة تنفس في البداية والنهاية. المقطع التدريبي الآلي لا يحل محل الصوت الغنائي.</td></tr></table>
 
 [▶ شاهد مثال MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -175,7 +163,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 5. اختر الصوت الأصلي أو المولّد واحذف المسار المكرر. أضف عنوان الأغنية وصدّر MP4. تأكد من اكتمال الجملة والنفس الأخير قبل تجربة اقتراب بطيء للكاميرا في محاولة لاحقة.
 
-**أوامر إنجليزية قابلة للنسخ · جديدة ولم تُختبر بالتوليد**
+**أوامر إنجليزية قابلة للنسخ**
 
 <div dir="ltr">
 
@@ -191,7 +179,7 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 </div>
 
-الشخص نفسه، شفتان واضحتان، مسار صوت واحد ونهاية طبيعية. الأمر لا يضمن حفظ الصوت أو مزامنة الفم بدقة.
+الشخص نفسه، شفتان واضحتان، مسار صوت واحد ونهاية طبيعية.
 
 [→ الخطوات · إنجليزي](docs/first-video.md#vocal)
 
@@ -236,6 +224,31 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ تعرّف على البرنامج وقدّم طلب الانضمام</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>سياسة التحرير</summary>
+
+يدير هذا الدليل فريق MusicMaker، مع إعطاء الأولوية للنماذج المتاحة لدى العلامة. لا نضيف إلى روابط التوصية معلمات تسويق بالعمولة خاصة بهذا المستودع؛ وهذا لا يعني غياب المصالح التجارية. [ سياسة التحرير (English) → ](docs/editorial-policy.md)
+
+اكتمل مثال المونتاج الأصلي الخاص بنا ومدته 16 ثانية. اقتصر فحص الأمثلة الخارجية على المصادر العامة وإمكانية الوصول إليها. لم يُختبر أي من درسي التوليد بالذكاء الاصطناعي من البداية إلى النهاية.
+
+هذه أمثلة منشورة وليست اختبارات توليد أجريناها أو ترتيبًا للنماذج.
+
+توجد صفحات MusicMaker للإصدارات الأربعة. الأمثلة والأدلة من المطورين، وقد تختلف خيارات MusicMaker. صورة H3 هي صورة إدخال.
+
+رسم غلاف الصفحة الرئيسية عمل تصوري أصلي. صور Discover أغلفة أغانٍ، ويستخدم درس الغناء صورة الشخصية المُدخلة في عرض العلامة. هذه الصور ليست دليلًا على نتائج فيديو ولّدناها.
+
+أسماء النماذج في أمثلة X بحسب تصريحات المبدعين. فُحصت المنشورات والوسائط المرفقة عبر مرايا عامة، دون إعادة إنتاج الفيديوهات. تبقى تعليمات الإنتاج في المنشورات الأصلية. [ملاحظات المصادر · بالإنجليزية](docs/x-cases.md#source-notes).
+
+أفكار الفيديو في قسم الاستماع اقتراحات من هذا المستودع. درسا الطبيعة والغناء تمرينان جديدان، وليسا سجلًا لإنتاج الأعمال الأصلية. لم تعلن MusicMaker نموذج عرض الغناء المنشور. لم تُختبر مجموعتا التعليمات من البداية إلى النهاية، ولا تضمنان إعادة إنتاج الغلاف أو الحفاظ على الصوت الأصلي أو دقة مزامنة الشفاه.
+
+الاستماع والمشاهدة العامة لا يمنحان حقوق إعادة الاستخدام. تتطلب الموسيقى والصور والفيديوهات الخارجية الإذن المناسب.
+
+[▶ شاهد مثال المونتاج الأصلي](starter-kit/night-train-edit-demo.mp4) · [الأدلة وحالة الاختبار (EN / 简体中文)](docs/generation-tests.md) · [الإبلاغ عن تصحيح](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 تُستخدم مساعدة الذكاء الاصطناعي في الكتابة والترجمة. لا يوجد سجل لمراجعة مستقلة من متحدثين أصليين. الوثائق المفصلة بالإنجليزية والصينية المبسطة. [🌐 اللغات وحالة المراجعة (English)](i18n/README.md)

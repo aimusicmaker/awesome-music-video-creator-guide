@@ -16,24 +16,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ 모델 공식 사례와 튜토리얼</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X 제작 사례</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 미리 듣기</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 첫 영상 만들기</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 다음 연습</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 무료 도구</kbd></a></p>
 
-[![음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.](../assets/social-preview.jpg)](#first-video)
+[![음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도입니다.](../assets/social-preview.jpg)](#first-video)
 
-음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.
-
-<!-- TRUST:START -->
-MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소개합니다. 추천 링크에 이 저장소의 제휴 매개변수는 없지만, 상업적 이해관계가 없다는 뜻은 아닙니다. [ 편집·관리 방침 (English) → ](../docs/editorial-policy.md)
-
-자체 제작한 16초 편집 예제는 완성되었습니다. 외부 사례는 공개 출처와 접근 가능 여부만 확인했으며, 두 AI 생성 튜토리얼은 전체 과정을 실측하지 않았습니다.
-
-[▶ 자체 편집 예제 보기](../starter-kit/night-train-edit-demo.mp4) · [근거와 테스트 현황 (EN / 简体中文)](../docs/generation-tests.md) · [오류·수정 제보](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도입니다.
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## 모델 공식 사례와 튜토리얼
 
-개발사의 사례와 입력 방법을 먼저 보고 커뮤니티 활용법으로 이어집니다. 공식 공개 사례이며 자체 생성 테스트나 순위가 아닙니다.
+개발사의 사례와 입력 방법을 먼저 보고 커뮤니티 활용법으로 이어집니다.
 
 <p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>공식 데모 장면</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>음악회: 장소와 연주자 참조를 나눕니다.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 공식 사례</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">공식 안내·프롬프트 ↗</a><br><a href="../docs/official-cases.md#seedance-concert">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
@@ -42,8 +34,6 @@ MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소
 <p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>공식 입력·출력 비교</sub><br><b>Veo 3.1</b> · Google DeepMind<br>환상적인 노래 장면: 인물과 배경 참조를 조합합니다.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 공식 사례</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">공식 안내·프롬프트 ↗</a><br><a href="../docs/official-cases.md#veo-scene">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
 <p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>공식 동영상 표지</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>피아노 연주: 미디엄 샷에서 표정 클로즈업으로.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ 공식 사례</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">공식 안내·프롬프트 ↗</a><br><a href="../docs/official-cases.md#seedance-piano">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
-
-네 모델 버전 모두 MusicMaker 페이지가 있습니다. 사례와 안내는 개발사 자료이며 실제 기능은 MusicMaker 화면에서 확인하세요. H3 이미지는 입력 자료입니다.
 
 <!-- OFFICIAL:END -->
 
@@ -64,8 +54,6 @@ MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소
 <p><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="A traveler waiting on a dim station platform" width="100%"></a><br><b>출발, 변화, 도착을 연결합니다. 원작은 판타지 단편입니다.</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br><a href="https://x.com/Strength04_X/status/2098290630179057858">원문 ↗</a> · <a href="../docs/x-cases.md#lunar-train">연습 기획안·영어 →</a></p>
 
 <p><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="An older performer standing on a gold-lit talent-show stage" width="100%"></a><br><b>잠깐의 정적 뒤 강한 박자에 맞춰 무대의 변화를 보여 줍니다.</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br><a href="https://x.com/Strength04_X/status/2090399966988550435">원문 ↗</a> · <a href="../docs/x-cases.md#beat-drop">연습 기획안·영어 →</a></p>
-
-모델 이름은 제작자의 설명입니다. 공개 미러에서 글과 미디어를 확인했지만 영상을 재현하지는 않았습니다. 자세한 사례 해설은 영어입니다.
 
 <a id="listen"></a>
 
@@ -101,7 +89,7 @@ MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소
 
 <p><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></p>
 
-<p>Living on the Brightside의 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다. 이미지는 노래 커버이며 영상 프레임이 아닙니다.<br><br><b>1.</b> 직접 만든 곡이나 허가받은 곡에서 16초를 고릅니다. 연습 음원은 Download raw file로 저장합니다. 편집기에 0·4·8·12·16초를 표시하고 다른 곡을 쓰면 박자에 맞춰 조정합니다.</p>
+<p>Living on the Brightside의 커버에 담긴 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다.<br><br><b>1.</b> 직접 만든 곡이나 허가받은 곡에서 16초를 고릅니다. 연습 음원은 Download raw file로 저장합니다. 편집기에 0·4·8·12·16초를 표시하고 다른 곡을 쓰면 박자에 맞춰 조정합니다.</p>
 
 [▶ 곡 듣기](https://musicmaker.im/detail/discover-v2-98/) · [↗ 공식 도구](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -115,7 +103,7 @@ MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소
 
 5. 9:16 MP4를 내보내 검은 프레임, 물 흐름, 무지개와 지형 변형을 확인합니다. 480p 확대는 디테일을 늘리지 않습니다. 변형되면 움직임을 줄이고 동일한 허가된 장면 이미지를 참조해 다시 만듭니다.
 
-**복사할 영어 프롬프트 · 새로 작성했으며 생성 미검증**
+**복사할 영어 프롬프트**
 
 ```text
 A: A green valley after rain, soft afternoon sunlight.
@@ -145,7 +133,7 @@ Leave clean grass in the lower frame for a title added later.
 Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-빛과 지형을 유지하고 음악과 영상을 함께 끝냅니다. 공개 음원 감상이 재사용 허가를 뜻하지는 않습니다.
+빛과 지형을 유지하고 음악과 영상을 함께 끝냅니다.
 
 [→ 상세 단계·영어](../docs/first-video.md#3-assemble-in-an-editor)
 
@@ -155,7 +143,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 <p><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></p>
 
-<p>이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다. 원작 모델은 공개되지 않았고 아래는 새 연습입니다.<br><br><b>1.</b> 입이 가려지지 않는 정면에 가까운 허가된 인물 사진과 직접 녹음하거나 허가받은 노래를 준비합니다. 약 10초의 한 구절에 앞뒤 숨 쉴 여백을 남기세요. 연습용 반주는 보컬 입력을 대신하지 못합니다.</p>
+<p>이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다.<br><br><b>1.</b> 입이 가려지지 않는 정면에 가까운 허가된 인물 사진과 직접 녹음하거나 허가받은 노래를 준비합니다. 약 10초의 한 구절에 앞뒤 숨 쉴 여백을 남기세요. 연습용 반주는 보컬 입력을 대신하지 못합니다.</p>
 
 [▶ 브랜드 영상 보기](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ 공식 도구](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -167,7 +155,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 5. 원음을 쓰면 생성 소리를 끄고 생성 소리를 쓰면 중복 트랙을 지웁니다. 끝에 곡명을 넣고 MP4를 내보내 구절과 호흡이 잘리지 않는지 확인한 뒤 다음 시도에서만 천천히 다가가는 카메라를 추가합니다.
 
-**복사할 영어 프롬프트 · 새로 작성했으며 생성 미검증**
+**복사할 영어 프롬프트**
 
 ```text
 Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
@@ -179,7 +167,7 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-같은 인물, 보이는 입, 하나의 음성, 자연스러운 끝을 확인합니다. 프롬프트만으로 원음 유지나 입 모양 일치를 보장할 수 없습니다.
+같은 인물, 보이는 입, 하나의 음성, 자연스러운 끝을 확인합니다.
 
 [→ 상세 단계·영어](../docs/first-video.md#vocal)
 
@@ -245,6 +233,31 @@ MusicMaker는 제휴 마케팅 협력을 지원합니다. 튜토리얼, 리뷰 �
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 제휴 프로그램 알아보고 신청하기</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>편집·관리 방침</summary>
+
+MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소개합니다. 추천 링크에 이 저장소의 제휴 매개변수는 없지만, 상업적 이해관계가 없다는 뜻은 아닙니다. [ 편집·관리 방침 (English) → ](../docs/editorial-policy.md)
+
+자체 제작한 16초 편집 예제는 완성되었습니다. 외부 사례는 공개 출처와 접근 가능 여부만 확인했으며, 두 AI 생성 튜토리얼은 전체 과정을 실측하지 않았습니다.
+
+공식 공개 사례이며 자체 생성 테스트나 순위가 아닙니다.
+
+네 모델 버전 모두 MusicMaker 페이지가 있습니다. 사례와 안내는 개발사 자료이며 실제 기능은 MusicMaker 화면에서 확인하세요. H3 이미지는 입력 자료입니다.
+
+홈 표지는 자체 제작한 콘셉트 일러스트입니다. Discover 이미지는 노래 커버이며, 인물 노래 튜토리얼의 사진은 브랜드 데모에 사용한 입력 인물 이미지입니다. 이 이미지들은 저장소에서 생성한 영상 결과의 증거가 아닙니다.
+
+X 사례의 모델 이름은 제작자의 설명을 따릅니다. 공개 미러로 게시물과 첨부 미디어를 확인했지만 영상을 재현하지 않았습니다. 제작에 사용한 프롬프트는 원본 게시물에서 확인하세요. [출처 설명 · 영어](../docs/x-cases.md#source-notes).
+
+감상 섹션의 영상 아이디어는 이 저장소의 제안입니다. 자연 영상과 인물 노래 튜토리얼은 새로 작성한 연습이며 원작 제작 기록이 아닙니다. MusicMaker는 공개 노래 데모의 모델을 밝히지 않았습니다. 두 프롬프트는 전체 과정을 실측하지 않았으며 커버 재현, 원음 유지, 정확한 입 모양 일치를 보장하지 않습니다.
+
+공개 감상은 재사용 허가를 뜻하지 않습니다. 외부 음악·이미지·영상을 사용하려면 적절한 권한이 필요합니다.
+
+[▶ 자체 편집 예제 보기](../starter-kit/night-train-edit-demo.mp4) · [근거와 테스트 현황 (EN / 简体中文)](../docs/generation-tests.md) · [오류·수정 제보](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 작성과 번역에 AI를 활용했습니다. 독립적인 원어민 감수 기록은 없습니다. 상세 문서는 영어와 중국어 간체로 제공합니다. [🌐 언어 및 검토 현황 (English)](../i18n/README.md)

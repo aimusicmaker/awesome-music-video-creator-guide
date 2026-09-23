@@ -209,6 +209,15 @@ for language in languages:
         for marker in ('TRUST','TRANSLATION'):
             if page.count(f'<!-- {marker}:START -->') != 1 or page.count(f'<!-- {marker}:END -->') != 1:
                 errors.append(f'{prefix}{filename}: invalid {marker} block count')
+        if page.index('<!-- TRUST:START -->') < page.index('<!-- AFFILIATE:END -->'):
+            errors.append(f'{prefix}{filename}: disclosures must follow the reading content')
+        official_copy=json.loads((ROOT/'i18n/official-locales.json').read_text())[language['code']]
+        body=page[:page.index('<!-- TRUST:START -->')]
+        manual_disclosures=json.loads((ROOT/'i18n/disclosures.json').read_text())
+        generated_disclosures=json.loads((ROOT/'i18n/readme-locales.json').read_text())
+        notices=[official_copy['disclosure'],official_copy['boundary']]+manual_disclosures.get(language['code'],generated_disclosures.get(language['code'],{}).get('disclosures',[]))
+        if any(notice and notice in body for notice in notices):
+            errors.append(f'{prefix}{filename}: disclosure interrupts body')
         relative='../' if prefix else ''
         for target in ('docs/generation-tests.md','starter-kit/night-train-edit-demo.mp4','i18n/README.md'):
             if ']('+relative+target+')' not in page:

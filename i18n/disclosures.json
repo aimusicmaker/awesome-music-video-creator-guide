@@ -1,0 +1,20 @@
+{
+  "en": [
+    "The cover illustration is original concept artwork. Discover images are song covers, and the vocal tutorial uses the brand demo’s input portrait; these images are not evidence of our generated video results.",
+    "X model names follow creator descriptions. Public mirrors were used to check posts and attached media; the videos were not reproduced. Production prompts remain in the original posts. [Source notes](docs/x-cases.md#source-notes).",
+    "The nature and vocal tutorials are newly written exercises, not the original production recipes. MusicMaker has not identified the published vocal demo’s underlying model. The prompts have not been tested end to end and do not guarantee a matching cover, preserved audio or accurate lip sync.",
+    "Public listening and viewing do not grant reuse rights. External music, images and video require appropriate authorization."
+  ],
+  "zh": [
+    "首页封面为原创概念插图；Discover 配图为歌曲封面，人像教程配图为品牌示例的输入人像。这些图片不代表本库已生成的视频结果。",
+    "X 案例的模型名称由创作者自述。本次通过公开 X 镜像核对正文和所附媒体，未复现这些视频；原作提示词保留在作者原帖。[来源说明](docs/x-cases.zh-CN.md#source-notes)。",
+    "自然短片与人像演唱教程均为新编练习，不是原作生成记录。官网未公布演唱示例的底层模型。两套提示词尚未完成全流程实测，不保证复现封面、保留原音轨或准确对口型。",
+    "公开试听和观看不等于获得素材使用权；使用外部音乐、图片与视频仍需相应授权。"
+  ],
+  "tw": [
+    "首頁封面為原創概念插圖；Discover 配圖為歌曲封面，人像教學配圖為品牌示例的輸入人像。這些圖片不代表本庫已生成的影片結果。",
+    "X 案例的模型名稱由創作者自述。本次透過公開 X 鏡像核對正文和所附媒體，未重現這些影片；原作提示詞保留在作者原帖。[來源說明](docs/x-cases.zh-CN.md#source-notes)。",
+    "自然短片與人像演唱教學均為新編練習，不是原作生成紀錄。官網未公布演唱示例的底層模型。兩套提示詞尚未完成全流程實測，不保證重現封面、保留原音軌或準確對嘴。",
+    "公開試聽和觀看不等於獲得素材使用權；使用外部音樂、圖片與影片仍需相應授權。"
+  ]
+}

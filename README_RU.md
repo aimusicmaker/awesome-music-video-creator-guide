@@ -16,24 +16,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Официальные примеры моделей и уроки</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Примеры в X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Слушать MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Первое видео</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Следующее упражнение</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Бесплатные инструменты</kbd></a></p>
 
-[![Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией, а не доказательство результатов видеогенерации.](assets/social-preview.jpg)](#first-video)
+[![Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией.](assets/social-preview.jpg)](#first-video)
 
-Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией, а не доказательство результатов видеогенерации.
-
-<!-- TRUST:START -->
-Руководство ведёт команда MusicMaker, отдавая приоритет моделям, доступным у бренда. В рекомендательные ссылки не добавлены партнёрские параметры этого репозитория; это не означает отсутствия коммерческих интересов. [ Редакционная политика (English) → ](docs/editorial-policy.md)
-
-Наш собственный 16-секундный пример монтажа готов. Для внешних примеров проверены лишь открытые источники и доступность. Оба урока по генерации с ИИ ещё не проверены на практике от начала до конца.
-
-[▶ Посмотреть наш монтаж](starter-kit/night-train-edit-demo.mp4) · [Подтверждения и статус тестов (EN / 简体中文)](docs/generation-tests.md) · [Сообщить об ошибке](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией.
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## Официальные примеры моделей и уроки
 
-Сначала изучите демонстрации и входные материалы разработчиков, затем работы сообщества. Это не наши тесты генерации и не рейтинг.
+Сначала изучите демонстрации и входные материалы разработчиков, затем работы сообщества.
 
 <table>
 <tr>
@@ -45,8 +37,6 @@
 <td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Обложка официального видео</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Фортепиано: от среднего плана к крупному плану лица.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Официальный пример</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Руководство / промпт ↗</a><br><a href="docs/official-cases.md#seedance-piano">Пошаговые заметки · английский →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
-
-Для всех четырёх версий есть страницы MusicMaker. Примеры и руководства взяты у разработчиков; функции MusicMaker могут отличаться. Изображение H3 — входной материал.
 
 <!-- OFFICIAL:END -->
 
@@ -71,13 +61,11 @@
 </tr>
 </table>
 
-Названия моделей указаны авторами. Тексты и материалы проверены через публичное зеркало X; видео не воспроизводились заново. Подробные разборы доступны на английском.
-
 <a id="listen"></a>
 
 ## Слушать MusicMaker
 
-Девять контрастов в трёх рядах: фортепиано, рок, оркестр и танцевальная музыка. Сравните плотность звука и ритм. Жанры взяты из поля Style; идеи видео предложены редакцией.
+Девять контрастов в трёх рядах: фортепиано, рок, оркестр и танцевальная музыка. Сравните плотность звука и ритм. Жанры взяты из поля Style.
 
 <!-- LISTENING-GRID:START -->
 <table>
@@ -105,7 +93,7 @@
 
 ## Создайте первое видео
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы. Это музыкальная обложка, не кадр видео.<br><br><b>1.</b> Выберите 16 секунд собственной или разрешённой музыки. Учебный трек скачивается через Download raw file. Отметьте в редакторе 0, 4, 8, 12 и 16 секунд; для другой песни подстройте склейки под ритм и фразы.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы.<br><br><b>1.</b> Выберите 16 секунд собственной или разрешённой музыки. Учебный трек скачивается через Download raw file. Отметьте в редакторе 0, 4, 8, 12 и 16 секунд; для другой песни подстройте склейки под ритм и фразы.</td></tr></table>
 
 [▶ Слушать песню](https://musicmaker.im/detail/discover-v2-98/) · [↗ Официальный инструмент](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -119,7 +107,7 @@
 
 5. Экспортируйте MP4 9:16. Проверьте чёрные кадры, течение воды и деформации. Увеличение 480p не добавляет деталей. Уменьшите движение или используйте одно разрешённое изображение, если пейзаж сильно меняется.
 
-**Английские промпты для копирования · новые, без проверки генерацией**
+**Английские промпты для копирования**
 
 ```text
 A: A green valley after rain, soft afternoon sunlight.
@@ -149,7 +137,7 @@ Leave clean grass in the lower frame for a title added later.
 Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-Сохраняйте освещение и рельеф; музыка и изображение заканчиваются вместе. Публичное прослушивание не означает право повторного использования.
+Сохраняйте освещение и рельеф; музыка и изображение заканчиваются вместе.
 
 [→ Инструкция · английский](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -157,7 +145,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## Освойте следующий приём
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео. Модель примера не раскрыта, упражнение написано заново.<br><br><b>1.</b> Подготовьте разрешённый портрет почти анфас с видимыми губами и собственную или разрешённую вокальную фразу. Оставьте около десяти секунд с небольшим запасом для дыхания. Инструментальный учебный трек не заменяет вокал.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео.<br><br><b>1.</b> Подготовьте разрешённый портрет почти анфас с видимыми губами и собственную или разрешённую вокальную фразу. Оставьте около десяти секунд с небольшим запасом для дыхания. Инструментальный учебный трек не заменяет вокал.</td></tr></table>
 
 [▶ Смотреть пример MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Официальный инструмент](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -169,7 +157,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 5. Оставьте исходный вокал либо сгенерированный звук, удалив дублирующую дорожку. Добавьте название, экспортируйте MP4 и проверьте целую фразу с дыханием в конце. Лишь затем пробуйте медленное приближение.
 
-**Английские промпты для копирования · новые, без проверки генерацией**
+**Английские промпты для копирования**
 
 ```text
 Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
@@ -181,7 +169,7 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-Один человек, видимые губы, одна звуковая дорожка, естественный финал. Промпт не гарантирует сохранения звука или точной синхронизации губ.
+Один человек, видимые губы, одна звуковая дорожка, естественный финал.
 
 [→ Инструкция · английский](docs/first-video.md#vocal)
 
@@ -226,6 +214,31 @@ MusicMaker приглашает к партнёрскому продвижени
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Узнать условия и подать заявку</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>Редакционная политика</summary>
+
+Руководство ведёт команда MusicMaker, отдавая приоритет моделям, доступным у бренда. В рекомендательные ссылки не добавлены партнёрские параметры этого репозитория; это не означает отсутствия коммерческих интересов. [ Редакционная политика (English) → ](docs/editorial-policy.md)
+
+Наш собственный 16-секундный пример монтажа готов. Для внешних примеров проверены лишь открытые источники и доступность. Оба урока по генерации с ИИ ещё не проверены на практике от начала до конца.
+
+Это не наши тесты генерации и не рейтинг.
+
+Для всех четырёх версий есть страницы MusicMaker. Примеры и руководства взяты у разработчиков; функции MusicMaker могут отличаться. Изображение H3 — входной материал.
+
+Обложка главной страницы — оригинальная концептуальная иллюстрация. Изображения Discover — обложки песен, а урок по вокалу использует входной портрет из демонстрации бренда. Эти изображения не подтверждают результаты нашей видеогенерации.
+
+Названия моделей в примерах X приведены со слов авторов. Посты и вложения проверены через публичные зеркала, но видео не создавались заново. Производственные промпты остаются в оригинальных постах. [Примечания об источниках · английский](docs/x-cases.md#source-notes).
+
+Идеи видео в разделе прослушивания предложены этим репозиторием. Уроки о природе и пении — новые упражнения, а не записи производства оригиналов. MusicMaker не раскрыл модель опубликованной вокальной демонстрации. Оба набора промптов не проверены на практике от начала до конца и не гарантируют воспроизведения обложки, сохранения исходного звука или точной синхронизации губ.
+
+Публичное прослушивание и просмотр не дают прав на повторное использование. Внешние музыка, изображения и видео требуют соответствующего разрешения.
+
+[▶ Посмотреть наш монтаж](starter-kit/night-train-edit-demo.mp4) · [Подтверждения и статус тестов (EN / 简体中文)](docs/generation-tests.md) · [Сообщить об ошибке](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 Тексты и переводы подготовлены с помощью ИИ. Независимая проверка носителями языка не зафиксирована. Подробные материалы доступны на английском и упрощённом китайском. [🌐 Языки и статус проверки (English)](i18n/README.md)

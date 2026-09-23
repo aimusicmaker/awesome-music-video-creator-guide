@@ -19,7 +19,7 @@ for lang in LANGS:
         cards.append(f'<td width="50%" valign="top"><a href="{case["source"]}"><img src="{case["image"]}" alt="{html.escape(case["alt"],quote=True)}" width="100%"></a><br><sub>{html.escape(image_label)}</sub><br><b>{case["model"]}</b> · {case["publisher"]}<br>{html.escape(lesson)}<br><a href="{case["source"]}"><kbd>▶ {c["example"]}</kbd></a> · <a href="{case["tutorial"]}">{c["guide"]} ↗</a><br><a href="{notes}#{case["id"]}">{c["notes"]} →</a> · <a href="{case["brand_url"]}"><kbd>MusicMaker ↗</kbd></a></td>')
     section='<!-- OFFICIAL:START -->\n<a id="official-models"></a>\n\n## '+c['title']+'\n\n'+c['intro']+'\n\n<table>\n'
     section+='\n'.join('<tr>\n'+'\n'.join(cards[i:i+2])+'\n</tr>' for i in range(0,len(cards),2))
-    section+='\n</table>\n\n'+c['boundary']+'\n\n<!-- OFFICIAL:END -->\n\n'
+    section+='\n</table>\n\n<!-- OFFICIAL:END -->\n\n'
     s=s.replace('<a id="x-creators"></a>',section+'<a id="x-creators"></a>',1)
     rows=[]
     for case,lesson in zip(CASES,c['capabilities']):

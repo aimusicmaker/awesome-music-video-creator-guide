@@ -16,24 +16,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Contoh dan tutorial resmi model</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
 
-[![Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.](../assets/social-preview.jpg)](#first-video)
+[![Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak.](../assets/social-preview.jpg)](#first-video)
 
-Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.
-
-<!-- TRUST:START -->
-Panduan dikelola tim MusicMaker dan mengutamakan model yang ditawarkan merek. Tautan rekomendasi tidak memuat parameter afiliasi tambahan dari repositori ini; bukan berarti tidak ada kepentingan komersial. [ Kebijakan editorial (English) → ](../docs/editorial-policy.md)
-
-Demo penyuntingan orisinal kami sepanjang 16 detik telah selesai. Contoh eksternal hanya diperiksa sumber publik dan ketersediaannya. Kedua tutorial pembuatan dengan AI belum diuji dari awal hingga akhir.
-
-[▶ Tonton demo penyuntingan kami](../starter-kit/night-train-edit-demo.mp4) · [Bukti dan status pengujian (EN / 简体中文)](../docs/generation-tests.md) · [Laporkan koreksi](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak.
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## Contoh dan tutorial resmi model
 
-Lihat demonstrasi dan masukan pengembang sebelum karya komunitas. Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.
+Lihat demonstrasi dan masukan pengembang sebelum karya komunitas.
 
 <p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Cuplikan demo resmi</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Konser: pisahkan referensi tempat dan pemain.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
@@ -42,8 +34,6 @@ Lihat demonstrasi dan masukan pengembang sebelum karya komunitas. Ini contoh res
 <p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>Perbandingan input/output resmi</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Adegan bernyanyi surealis: gabungkan referensi karakter dan latar.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#veo-scene">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
 <p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Poster video resmi</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Piano: dari bidikan sedang ke close-up ekspresi.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
-
-Keempat versi model memiliki halaman MusicMaker. Contoh dan panduan berasal dari pengembang; fitur MusicMaker mengikuti antarmukanya. Gambar H3 adalah input.
 
 <!-- OFFICIAL:END -->
 
@@ -64,8 +54,6 @@ Enam video dengan prompt atau penjelasan publik. Klik gambar untuk membuka ungga
 <p><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="A traveler waiting on a dim station platform" width="100%"></a><br><b>Hubungkan keberangkatan, perubahan, dan kedatangan. Sumbernya film pendek fantasi.</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br><a href="https://x.com/Strength04_X/status/2098290630179057858">Unggahan asli ↗</a> · <a href="../docs/x-cases.md#lunar-train">Rencana latihan · Inggris →</a></p>
 
 <p><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="An older performer standing on a gold-lit talent-show stage" width="100%"></a><br><b>Sisakan jeda singkat, lalu tampilkan perubahan panggung pada ketukan kuat.</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br><a href="https://x.com/Strength04_X/status/2090399966988550435">Unggahan asli ↗</a> · <a href="../docs/x-cases.md#beat-drop">Rencana latihan · Inggris →</a></p>
-
-Nama model mengikuti keterangan kreator. Teks dan media diperiksa melalui cermin publik X; videonya tidak kami reproduksi. Ulasan rinci tersedia dalam bahasa Inggris.
 
 <a id="listen"></a>
 
@@ -101,7 +89,7 @@ Menemukan suara yang menarik? Buat sampul dan satu adegan pendek dahulu. Pilih a
 
 <p><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></p>
 
-<p>Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.<br><br><b>1.</b> Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.</p>
+<p>Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga.<br><br><b>1.</b> Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.</p>
 
 [▶ Dengarkan](https://musicmaker.im/detail/discover-v2-98/) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -115,7 +103,7 @@ Menemukan suara yang menarik? Buat sampul dan satu adegan pendek dahulu. Pilih a
 
 5. Ekspor MP4 9:16. Periksa bingkai hitam, arah air, dan bentuk yang berubah. Memperbesar 480p tidak menambah detail. Kurangi gerakan atau gunakan gambar referensi berizin yang sama bila bentang alam berubah terlalu banyak.
 
-**Prompt bahasa Inggris untuk disalin · baru, belum diuji melalui generasi**
+**Prompt bahasa Inggris untuk disalin**
 
 ```text
 A: A green valley after rain, soft afternoon sunlight.
@@ -145,7 +133,7 @@ Leave clean grass in the lower frame for a title added later.
 Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang bisa didengar publik belum tentu boleh digunakan ulang.
+Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama.
 
 [→ Langkah lengkap · Inggris](../docs/first-video.md#3-assemble-in-an-editor)
 
@@ -155,7 +143,7 @@ Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang 
 
 <p><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></p>
 
-<p>Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton. Model demo tidak diumumkan, dan latihan berikut ditulis baru.<br><br><b>1.</b> Siapkan potret berizin hampir menghadap depan, bibir terlihat, serta nyanyian sendiri atau berizin. Potong satu frasa sekitar sepuluh detik dengan sedikit ruang bernapas di awal dan akhir. Musik instrumental latihan bukan pengganti vokal.</p>
+<p>Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton.<br><br><b>1.</b> Siapkan potret berizin hampir menghadap depan, bibir terlihat, serta nyanyian sendiri atau berizin. Potong satu frasa sekitar sepuluh detik dengan sedikit ruang bernapas di awal dan akhir. Musik instrumental latihan bukan pengganti vokal.</p>
 
 [▶ Tonton demo MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -167,7 +155,7 @@ Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang 
 
 5. Gunakan vokal asli atau suara hasil generasi, lalu hapus trek ganda. Tambahkan judul dan ekspor MP4. Pastikan frasa serta napas berakhir utuh sebelum mencoba gerakan kamera mendekat perlahan.
 
-**Prompt bahasa Inggris untuk disalin · baru, belum diuji melalui generasi**
+**Prompt bahasa Inggris untuk disalin**
 
 ```text
 Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
@@ -179,7 +167,7 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-Orang tetap sama, bibir terlihat, satu trek suara, akhir alami. Prompt tidak menjamin audio asli terjaga atau gerak bibir tepat.
+Orang tetap sama, bibir terlihat, satu trek suara, akhir alami.
 
 [→ Langkah lengkap · Inggris](../docs/first-video.md#vocal)
 
@@ -245,6 +233,31 @@ MusicMaker membuka kerja sama afiliasi. Bagikan alat pembuatan musik kami melalu
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Pelajari dan daftar program afiliasi</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>Kebijakan editorial</summary>
+
+Panduan dikelola tim MusicMaker dan mengutamakan model yang ditawarkan merek. Tautan rekomendasi tidak memuat parameter afiliasi tambahan dari repositori ini; bukan berarti tidak ada kepentingan komersial. [ Kebijakan editorial (English) → ](../docs/editorial-policy.md)
+
+Demo penyuntingan orisinal kami sepanjang 16 detik telah selesai. Contoh eksternal hanya diperiksa sumber publik dan ketersediaannya. Kedua tutorial pembuatan dengan AI belum diuji dari awal hingga akhir.
+
+Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.
+
+Keempat versi model memiliki halaman MusicMaker. Contoh dan panduan berasal dari pengembang; fitur MusicMaker mengikuti antarmukanya. Gambar H3 adalah input.
+
+Ilustrasi sampul halaman utama adalah karya konsep orisinal. Gambar Discover adalah sampul lagu, sedangkan tutorial vokal memakai potret input demo merek. Gambar-gambar tersebut bukan bukti hasil video yang kami buat.
+
+Nama model dalam contoh X mengikuti keterangan kreator. Postingan dan media diperiksa melalui cermin publik, tanpa mereproduksi videonya. Prompt produksi tetap ada di postingan asli. [Catatan sumber · Inggris](../docs/x-cases.md#source-notes).
+
+Ide video di bagian dengarkan adalah saran repositori ini. Tutorial alam dan vokal adalah latihan baru, bukan catatan produksi karya asli. MusicMaker belum mengungkap model demo vokal publiknya. Kedua kumpulan prompt belum diuji dari awal hingga akhir dan tidak menjamin kesamaan dengan sampul, audio asli yang tetap utuh, atau sinkronisasi bibir yang tepat.
+
+Akses dengar dan tonton publik tidak memberikan hak penggunaan ulang. Musik, gambar, dan video eksternal memerlukan izin yang sesuai.
+
+[▶ Tonton demo penyuntingan kami](../starter-kit/night-train-edit-demo.mp4) · [Bukti dan status pengujian (EN / 简体中文)](../docs/generation-tests.md) · [Laporkan koreksi](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 Penulisan dan penerjemahan dibantu AI. Belum ada catatan peninjauan independen oleh penutur asli. Dokumen terperinci tersedia dalam bahasa Inggris dan Mandarin sederhana. [🌐 Bahasa dan status peninjauan (English)](../i18n/README.md)

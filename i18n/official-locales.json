@@ -1,7 +1,7 @@
 {
   "en": {
     "title": "Official model examples and tutorials",
-    "intro": "See the makers’ examples before exploring community work. These are published demonstrations, not our generation tests or a model ranking.",
+    "intro": "See the makers’ examples before exploring community work.",
     "example": "Official example",
     "guide": "Official guide / prompt",
     "notes": "Step-by-step notes",
@@ -25,11 +25,12 @@
       "Text or images → a solo performance shot. Check continuity of hands and instruments; note-for-note accuracy is not guaranteed."
     ],
     "capability_title": "Choosing a model: official documentation and MusicMaker routes",
-    "advice_label": "Our practice advice"
+    "advice_label": "Our practice advice",
+    "disclosure": "These are published demonstrations, not our generation tests or a model ranking."
   },
   "zh": {
     "title": "模型官方案例与教程",
-    "intro": "先看模型开发者的演示与输入方法，再看社媒创作者怎样拓展。这里收录官方发布案例，不是本库实测，也不作为模型排名。",
+    "intro": "先看模型开发者的演示与输入方法，再看社媒创作者怎样拓展。",
     "example": "看官方案例",
     "guide": "官方教程／提示词",
     "notes": "逐步学习笔记",
@@ -53,11 +54,12 @@
       "文字或图片 → 单人演奏镜头；检查手部与乐器连续性，不保证逐音符还原。"
     ],
     "capability_title": "怎么选模型：官方资料与 MusicMaker 入口",
-    "advice_label": "本库练习建议"
+    "advice_label": "本库练习建议",
+    "disclosure": "这里收录官方发布案例，不是本库实测，也不作为模型排名。"
   },
   "tw": {
     "title": "模型官方案例與教學",
-    "intro": "先看模型開發者的示範與輸入方法，再看社群創作者如何延伸。這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。",
+    "intro": "先看模型開發者的示範與輸入方法，再看社群創作者如何延伸。",
     "example": "看官方案例",
     "guide": "官方教學／提示詞",
     "notes": "逐步學習筆記",
@@ -81,11 +83,12 @@
       "文字或圖片 → 單人演奏鏡頭；檢查手部與樂器連續性，不保證逐音符還原。"
     ],
     "capability_title": "怎麼選模型：官方資料與 MusicMaker 入口",
-    "advice_label": "本庫練習建議"
+    "advice_label": "本庫練習建議",
+    "disclosure": "這裡收錄官方發布案例，並非本庫實測，也不作為模型排名。"
   },
   "ja": {
     "title": "モデル公式の作例とチュートリアル",
-    "intro": "開発元の作例と入力方法を見てから、コミュニティの応用へ。公式公開例であり、本庫の生成テストや順位付けではありません。",
+    "intro": "開発元の作例と入力方法を見てから、コミュニティの応用へ。",
     "example": "公式作例",
     "guide": "公式ガイド・プロンプト",
     "notes": "手順ノート（英語）",
@@ -109,11 +112,12 @@
       "テキスト・画像 → 一人の演奏ショット。手や楽器の連続性を確認してください。音符ごとの正確な再現は保証されません。"
     ],
     "capability_title": "モデルの選び方：公式資料と MusicMaker",
-    "advice_label": "本ガイドの練習提案"
+    "advice_label": "本ガイドの練習提案",
+    "disclosure": "公式公開例であり、本庫の生成テストや順位付けではありません。"
   },
   "ko": {
     "title": "모델 공식 사례와 튜토리얼",
-    "intro": "개발사의 사례와 입력 방법을 먼저 보고 커뮤니티 활용법으로 이어집니다. 공식 공개 사례이며 자체 생성 테스트나 순위가 아닙니다.",
+    "intro": "개발사의 사례와 입력 방법을 먼저 보고 커뮤니티 활용법으로 이어집니다.",
     "example": "공식 사례",
     "guide": "공식 안내·프롬프트",
     "notes": "단계별 노트 · 영어",
@@ -137,11 +141,12 @@
       "텍스트·이미지 → 1인 연주 샷. 손과 악기의 연속성을 확인하세요. 음표 하나하나의 재현은 보장하지 않습니다."
     ],
     "capability_title": "모델 선택: 공식 자료와 MusicMaker",
-    "advice_label": "이 가이드의 연습 제안"
+    "advice_label": "이 가이드의 연습 제안",
+    "disclosure": "공식 공개 사례이며 자체 생성 테스트나 순위가 아닙니다."
   },
   "de": {
     "title": "Offizielle Modellbeispiele und Anleitungen",
-    "intro": "Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community. Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten.",
+    "intro": "Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community.",
     "example": "Offizielles Beispiel",
     "guide": "Offizielle Anleitung / Prompt",
     "notes": "Schrittfolge · Englisch",
@@ -165,11 +170,12 @@
       "Text oder Bilder → Solo-Aufnahme. Hände und Instrumente auf Kontinuität prüfen; eine notengenaue Wiedergabe ist nicht garantiert."
     ],
     "capability_title": "Modellwahl: offizielle Quellen und MusicMaker",
-    "advice_label": "Unsere Übungstipps"
+    "advice_label": "Unsere Übungstipps",
+    "disclosure": "Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten."
   },
   "fr": {
     "title": "Exemples et tutoriels officiels des modèles",
-    "intro": "Découvrez les démonstrations et les entrées des développeurs avant les créations de la communauté. Ce ne sont ni nos tests de génération ni un classement.",
+    "intro": "Découvrez les démonstrations et les entrées des développeurs avant les créations de la communauté.",
     "example": "Exemple officiel",
     "guide": "Guide / prompt officiel",
     "notes": "Étapes · anglais",
@@ -193,11 +199,12 @@
       "Texte ou images → plan d’un soliste. Vérifiez la continuité des mains et de l’instrument ; la fidélité note par note n’est pas garantie."
     ],
     "capability_title": "Choisir un modèle : documentation officielle et MusicMaker",
-    "advice_label": "Nos conseils de pratique"
+    "advice_label": "Nos conseils de pratique",
+    "disclosure": "Ce ne sont ni nos tests de génération ni un classement."
   },
   "es": {
     "title": "Ejemplos y tutoriales oficiales de modelos",
-    "intro": "Consulta primero las demostraciones y entradas de los desarrolladores, después las creaciones de la comunidad. No son pruebas propias ni una clasificación.",
+    "intro": "Consulta primero las demostraciones y entradas de los desarrolladores, después las creaciones de la comunidad.",
     "example": "Ejemplo oficial",
     "guide": "Guía / prompt oficial",
     "notes": "Pasos · inglés",
@@ -221,11 +228,12 @@
       "Texto o imágenes → plano de un solista. Revisa la continuidad de manos e instrumento; no se garantiza precisión nota por nota."
     ],
     "capability_title": "Elegir modelo: documentación oficial y MusicMaker",
-    "advice_label": "Nuestros consejos de práctica"
+    "advice_label": "Nuestros consejos de práctica",
+    "disclosure": "No son pruebas propias ni una clasificación."
   },
   "it": {
     "title": "Esempi e tutorial ufficiali dei modelli",
-    "intro": "Parti dalle dimostrazioni e dagli input degli sviluppatori, poi esplora la community. Non sono nostri test di generazione né una classifica.",
+    "intro": "Parti dalle dimostrazioni e dagli input degli sviluppatori, poi esplora la community.",
     "example": "Esempio ufficiale",
     "guide": "Guida / prompt ufficiale",
     "notes": "Passaggi · inglese",
@@ -249,11 +257,12 @@
       "Testo o immagini → inquadratura di un solista. Controlla la continuità di mani e strumento; la precisione nota per nota non è garantita."
     ],
     "capability_title": "Scegliere un modello: fonti ufficiali e MusicMaker",
-    "advice_label": "I nostri consigli pratici"
+    "advice_label": "I nostri consigli pratici",
+    "disclosure": "Non sono nostri test di generazione né una classifica."
   },
   "pt": {
     "title": "Exemplos e tutoriais oficiais dos modelos",
-    "intro": "Veja primeiro as demonstrações e entradas dos desenvolvedores, depois as criações da comunidade. Não são testes próprios nem um ranking.",
+    "intro": "Veja primeiro as demonstrações e entradas dos desenvolvedores, depois as criações da comunidade.",
     "example": "Exemplo oficial",
     "guide": "Guia / prompt oficial",
     "notes": "Passo a passo · inglês",
@@ -277,11 +286,12 @@
       "Texto ou imagens → plano de um solista. Confira a continuidade das mãos e do instrumento; a precisão nota por nota não é garantida."
     ],
     "capability_title": "Escolher um modelo: fontes oficiais e MusicMaker",
-    "advice_label": "Nossas sugestões de prática"
+    "advice_label": "Nossas sugestões de prática",
+    "disclosure": "Não são testes próprios nem um ranking."
   },
   "ru": {
     "title": "Официальные примеры моделей и уроки",
-    "intro": "Сначала изучите демонстрации и входные материалы разработчиков, затем работы сообщества. Это не наши тесты генерации и не рейтинг.",
+    "intro": "Сначала изучите демонстрации и входные материалы разработчиков, затем работы сообщества.",
     "example": "Официальный пример",
     "guide": "Руководство / промпт",
     "notes": "Пошаговые заметки · английский",
@@ -305,11 +315,12 @@
       "Текст или изображения → кадр с одним исполнителем. Проверьте непрерывность рук и инструмента; точное воспроизведение каждой ноты не гарантируется."
     ],
     "capability_title": "Выбор модели: официальные материалы и MusicMaker",
-    "advice_label": "Наши рекомендации для практики"
+    "advice_label": "Наши рекомендации для практики",
+    "disclosure": "Это не наши тесты генерации и не рейтинг."
   },
   "id": {
     "title": "Contoh dan tutorial resmi model",
-    "intro": "Lihat demonstrasi dan masukan pengembang sebelum karya komunitas. Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.",
+    "intro": "Lihat demonstrasi dan masukan pengembang sebelum karya komunitas.",
     "example": "Contoh resmi",
     "guide": "Panduan / prompt resmi",
     "notes": "Langkah-langkah · Inggris",
@@ -333,11 +344,12 @@
       "Teks atau gambar → bidikan pemain tunggal. Periksa kesinambungan tangan dan instrumen; ketepatan setiap not tidak dijamin."
     ],
     "capability_title": "Memilih model: dokumentasi resmi dan MusicMaker",
-    "advice_label": "Saran latihan kami"
+    "advice_label": "Saran latihan kami",
+    "disclosure": "Ini contoh resmi, bukan pengujian generasi kami atau peringkat model."
   },
   "vi": {
     "title": "Ví dụ và hướng dẫn chính thức của mô hình",
-    "intro": "Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng. Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.",
+    "intro": "Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng.",
     "example": "Ví dụ chính thức",
     "guide": "Hướng dẫn / câu lệnh chính thức",
     "notes": "Các bước · tiếng Anh",
@@ -361,11 +373,12 @@
       "Văn bản hoặc ảnh → cảnh một người biểu diễn. Kiểm tra tính liên tục của tay và nhạc cụ; không bảo đảm tái hiện chính xác từng nốt."
     ],
     "capability_title": "Chọn mô hình: tài liệu chính thức và MusicMaker",
-    "advice_label": "Gợi ý thực hành của chúng tôi"
+    "advice_label": "Gợi ý thực hành của chúng tôi",
+    "disclosure": "Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi."
   },
   "th": {
     "title": "ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล",
-    "intro": "ดูตัวอย่างและข้อมูลนำเข้าจากผู้พัฒนาก่อนชมผลงานชุมชน นี่คือตัวอย่างที่เผยแพร่โดยผู้พัฒนา ไม่ใช่ผลทดสอบหรือการจัดอันดับของเรา",
+    "intro": "ดูตัวอย่างและข้อมูลนำเข้าจากผู้พัฒนาก่อนชมผลงานชุมชน",
     "example": "ตัวอย่างทางการ",
     "guide": "คู่มือ / พรอมต์ทางการ",
     "notes": "ขั้นตอน · อังกฤษ",
@@ -389,11 +402,12 @@
       "ข้อความหรือภาพ → ช็อตนักดนตรีคนเดียว ตรวจความต่อเนื่องของมือและเครื่องดนตรี ไม่รับประกันการเล่นตรงทุกโน้ต"
     ],
     "capability_title": "เลือกโมเดล: เอกสารทางการและ MusicMaker",
-    "advice_label": "คำแนะนำการฝึกของคู่มือนี้"
+    "advice_label": "คำแนะนำการฝึกของคู่มือนี้",
+    "disclosure": "นี่คือตัวอย่างที่เผยแพร่โดยผู้พัฒนา ไม่ใช่ผลทดสอบหรือการจัดอันดับของเรา"
   },
   "ar": {
     "title": "أمثلة النماذج ودروسها الرسمية",
-    "intro": "ابدأ بعروض المطورين ومدخلاتها ثم استكشف أعمال المجتمع. هذه أمثلة منشورة وليست اختبارات توليد أجريناها أو ترتيبًا للنماذج.",
+    "intro": "ابدأ بعروض المطورين ومدخلاتها ثم استكشف أعمال المجتمع.",
     "example": "المثال الرسمي",
     "guide": "الدليل / الأمر الرسمي",
     "notes": "الخطوات · بالإنجليزية",
@@ -417,6 +431,7 @@
       "نص أو صور ← لقطة لعازف منفرد. افحص استمرارية اليدين والآلة؛ لا يُضمن التطابق مع كل نوتة."
     ],
     "capability_title": "اختيار النموذج: الوثائق الرسمية وMusicMaker",
-    "advice_label": "نصائحنا للتدريب"
+    "advice_label": "نصائحنا للتدريب",
+    "disclosure": "هذه أمثلة منشورة وليست اختبارات توليد أجريناها أو ترتيبًا للنماذج."
   }
 }

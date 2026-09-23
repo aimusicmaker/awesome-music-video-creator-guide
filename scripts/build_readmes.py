@@ -105,6 +105,7 @@ for code,filename,labels in [('en','README.md',['X examples','Listen','Make your
 affiliate_copy=json.loads((ROOT/'i18n/affiliate-locales.json').read_text())
 for lang in LANGS:
     p=ROOT/lang['file'];s=p.read_text()
+    s=re.sub(r'\n*<!-- TRUST:START -->.*?<!-- TRUST:END -->\n*','\n\n',s,flags=re.S)
     s=re.sub(r'\n*<!-- TRANSLATION:START -->.*?<!-- TRANSLATION:END -->\n*','\n\n',s,flags=re.S)
     s=re.sub(r'\n*<!-- AFFILIATE:START -->.*?<!-- AFFILIATE:END -->\n*','',s,flags=re.S)
     title,body,action=affiliate_copy[lang['code']]

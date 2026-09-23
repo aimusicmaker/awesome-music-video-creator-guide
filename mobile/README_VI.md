@@ -16,24 +16,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ Ví dụ và hướng dẫn chính thức của mô hình</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>
 
-[![Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.](../assets/social-preview.jpg)](#first-video)
+[![Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng.](../assets/social-preview.jpg)](#first-video)
 
-Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.
-
-<!-- TRUST:START -->
-Hướng dẫn do nhóm MusicMaker duy trì, ưu tiên các mô hình thương hiệu đang cung cấp. Liên kết đề xuất không được thêm tham số tiếp thị liên kết của kho này; điều đó không có nghĩa là không có lợi ích thương mại. [ Chính sách biên tập (English) → ](../docs/editorial-policy.md)
-
-Ví dụ dựng phim gốc dài 16 giây của chúng tôi đã hoàn thành. Với ví dụ bên ngoài, chỉ kiểm tra nguồn công khai và khả năng truy cập. Cả hai hướng dẫn tạo video bằng AI đều chưa được thử nghiệm toàn bộ quy trình.
-
-[▶ Xem ví dụ dựng phim gốc](../starter-kit/night-train-edit-demo.mp4) · [Bằng chứng và trạng thái thử nghiệm (EN / 简体中文)](../docs/generation-tests.md) · [Gửi đính chính](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng.
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## Ví dụ và hướng dẫn chính thức của mô hình
 
-Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng. Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.
+Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng.
 
 <p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Khung hình minh họa chính thức</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
@@ -42,8 +34,6 @@ Xem bản trình diễn và đầu vào của nhà phát triển trước khi kh
 <p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>So sánh đầu vào và đầu ra chính thức</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Cảnh hát siêu thực: kết hợp tham chiếu nhân vật và bối cảnh.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#veo-scene">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
 <p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Ảnh bìa video chính thức</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Piano: từ cảnh trung đến cận cảnh biểu cảm.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
-
-Cả bốn phiên bản đều có trang MusicMaker. Ví dụ và hướng dẫn từ nhà phát triển; tính năng MusicMaker có thể khác. Ảnh H3 là ảnh đầu vào.
 
 <!-- OFFICIAL:END -->
 
@@ -64,8 +54,6 @@ Sáu video có câu lệnh hoặc hướng dẫn công khai. Bấm vào hình đ
 <p><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="A traveler waiting on a dim station platform" width="100%"></a><br><b>Nối khởi hành, biến đổi và đến nơi. Bản gốc là phim ngắn kỳ ảo.</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br><a href="https://x.com/Strength04_X/status/2098290630179057858">Bài gốc ↗</a> · <a href="../docs/x-cases.md#lunar-train">Đề án · tiếng Anh →</a></p>
 
 <p><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="An older performer standing on a gold-lit talent-show stage" width="100%"></a><br><b>Chừa một khoảng lặng ngắn rồi hé lộ thay đổi ở nhịp mạnh.</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br><a href="https://x.com/Strength04_X/status/2090399966988550435">Bài gốc ↗</a> · <a href="../docs/x-cases.md#beat-drop">Đề án · tiếng Anh →</a></p>
-
-Tên mô hình do tác giả công bố. Nội dung và tư liệu được kiểm tra qua bản sao công khai của X; chúng tôi chưa tái tạo các video. Phân tích chi tiết bằng tiếng Anh.
 
 <a id="listen"></a>
 
@@ -101,7 +89,7 @@ So sánh chín phong cách, từ piano và rock đến dàn nhạc và nhạc nh
 
 <p><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></p>
 
-<p>Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.<br><br><b>1.</b> Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.</p>
+<p>Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại.<br><br><b>1.</b> Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.</p>
 
 [▶ Nghe bài hát](https://musicmaker.im/detail/discover-v2-98/) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -115,7 +103,7 @@ So sánh chín phong cách, từ piano và rock đến dàn nhạc và nhạc nh
 
 5. Xuất MP4 9:16. Kiểm tra khung đen, hướng nước và biến dạng. Phóng lớn 480p không thêm chi tiết. Giảm chuyển động hoặc dùng cùng ảnh tham chiếu hợp lệ nếu cảnh vật thay đổi nhiều.
 
-**Câu lệnh tiếng Anh để sao chép · viết mới, chưa thử tạo video**
+**Câu lệnh tiếng Anh để sao chép**
 
 ```text
 A: A green valley after rain, soft afternoon sunlight.
@@ -145,7 +133,7 @@ Leave clean grass in the lower frame for a title added later.
 Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. Nghe được bài hát công khai không đồng nghĩa có quyền tái sử dụng.
+Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình.
 
 [→ Các bước · tiếng Anh](../docs/first-video.md#3-assemble-in-an-editor)
 
@@ -155,7 +143,7 @@ Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. 
 
 <p><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></p>
 
-<p>Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video. Mô hình của ví dụ không được công bố, bài tập bên dưới được viết mới.<br><br><b>1.</b> Chuẩn bị chân dung được phép dùng, gần chính diện và thấy rõ môi, cùng một câu hát của bạn hoặc được cấp phép. Cắt khoảng mười giây, chừa hơi thở đầu và cuối. Nhạc luyện tập không lời không thay thế giọng hát.</p>
+<p>Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video.<br><br><b>1.</b> Chuẩn bị chân dung được phép dùng, gần chính diện và thấy rõ môi, cùng một câu hát của bạn hoặc được cấp phép. Cắt khoảng mười giây, chừa hơi thở đầu và cuối. Nhạc luyện tập không lời không thay thế giọng hát.</p>
 
 [▶ Xem video mẫu MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -167,7 +155,7 @@ Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. 
 
 5. Chọn giọng gốc hoặc âm thanh được tạo, xóa đường tiếng trùng. Thêm tên bài rồi xuất MP4. Kiểm tra câu hát và hơi thở kết thúc đầy đủ trước khi thử máy quay tiến chậm.
 
-**Câu lệnh tiếng Anh để sao chép · viết mới, chưa thử tạo video**
+**Câu lệnh tiếng Anh để sao chép**
 
 ```text
 Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
@@ -179,7 +167,7 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên. Câu lệnh không bảo đảm giữ nguyên âm thanh hay khớp môi chính xác.
+Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên.
 
 [→ Các bước · tiếng Anh](../docs/first-video.md#vocal)
 
@@ -245,6 +233,31 @@ MusicMaker hỗ trợ hợp tác tiếp thị liên kết. Giới thiệu công 
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Tìm hiểu và đăng ký hợp tác</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>Chính sách biên tập</summary>
+
+Hướng dẫn do nhóm MusicMaker duy trì, ưu tiên các mô hình thương hiệu đang cung cấp. Liên kết đề xuất không được thêm tham số tiếp thị liên kết của kho này; điều đó không có nghĩa là không có lợi ích thương mại. [ Chính sách biên tập (English) → ](../docs/editorial-policy.md)
+
+Ví dụ dựng phim gốc dài 16 giây của chúng tôi đã hoàn thành. Với ví dụ bên ngoài, chỉ kiểm tra nguồn công khai và khả năng truy cập. Cả hai hướng dẫn tạo video bằng AI đều chưa được thử nghiệm toàn bộ quy trình.
+
+Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.
+
+Cả bốn phiên bản đều có trang MusicMaker. Ví dụ và hướng dẫn từ nhà phát triển; tính năng MusicMaker có thể khác. Ảnh H3 là ảnh đầu vào.
+
+Ảnh bìa trang chủ là tranh ý tưởng gốc. Ảnh Discover là bìa bài hát; hướng dẫn ca hát dùng chân dung đầu vào của bản trình diễn thương hiệu. Các ảnh này không chứng minh kết quả video do chúng tôi tạo.
+
+Tên mô hình trong ví dụ X theo lời tác giả. Bài đăng và tư liệu đính kèm được kiểm tra qua bản sao công khai, nhưng video chưa được tái tạo. Câu lệnh sản xuất nằm trong bài đăng gốc. [Ghi chú nguồn · tiếng Anh](../docs/x-cases.md#source-notes).
+
+Ý tưởng video trong phần nghe thử là đề xuất của kho này. Hướng dẫn thiên nhiên và ca hát là bài tập mới, không phải quy trình sản xuất bản gốc. MusicMaker chưa công bố mô hình của bản trình diễn ca hát công khai. Hai bộ câu lệnh chưa được thử nghiệm toàn bộ quy trình và không bảo đảm tái hiện bìa, giữ nguyên âm thanh gốc hay khớp môi chính xác.
+
+Khả năng nghe và xem công khai không cấp quyền tái sử dụng. Nhạc, ảnh và video bên ngoài cần được cấp phép phù hợp.
+
+[▶ Xem ví dụ dựng phim gốc](../starter-kit/night-train-edit-demo.mp4) · [Bằng chứng và trạng thái thử nghiệm (EN / 简体中文)](../docs/generation-tests.md) · [Gửi đính chính](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 Nội dung và bản dịch có AI hỗ trợ. Chưa có hồ sơ thẩm định độc lập bởi người bản ngữ. Tài liệu chi tiết có bằng tiếng Anh và tiếng Trung giản thể. [🌐 Ngôn ngữ và trạng thái rà soát (English)](../i18n/README.md)

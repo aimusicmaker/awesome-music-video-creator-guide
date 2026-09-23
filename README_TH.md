@@ -16,24 +16,16 @@
 
 <p align="center"><a href="#official-models"><kbd>✦ ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ ตัวอย่างบน X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ ฟัง MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ วิดีโอแรก</kbd></a> &nbsp; <a href="#next-project"><kbd>→ ฝึกขั้นต่อไป</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 เครื่องมือฟรี</kbd></a></p>
 
-[![เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ](assets/social-preview.jpg)](#first-video)
+[![เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม](assets/social-preview.jpg)](#first-video)
 
-เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ
-
-<!-- TRUST:START -->
-คู่มือนี้ดูแลโดยทีม MusicMaker โดยเน้นโมเดลที่แบรนด์มีให้ใช้ ลิงก์แนะนำไม่ได้เพิ่มพารามิเตอร์พันธมิตรของคลังนี้ แต่ไม่ได้หมายความว่าไม่มีผลประโยชน์ทางการค้า [ นโยบายการจัดทำ (English) → ](docs/editorial-policy.md)
-
-ตัวอย่างการตัดต่อที่เราสร้างเองยาว 16 วินาทีเสร็จแล้ว ตัวอย่างภายนอกตรวจเฉพาะแหล่งข้อมูลสาธารณะและการเข้าถึง ส่วนบทสอนสร้างวิดีโอด้วย AI ทั้งสองแบบยังไม่ได้ทดสอบครบทุกขั้นตอน
-
-[▶ ดูตัวอย่างการตัดต่อของเรา](starter-kit/night-train-edit-demo.mp4) · [หลักฐานและสถานะการทดสอบ (EN / 简体中文)](docs/generation-tests.md) · [แจ้งข้อแก้ไข](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
+เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล
 
-ดูตัวอย่างและข้อมูลนำเข้าจากผู้พัฒนาก่อนชมผลงานชุมชน นี่คือตัวอย่างที่เผยแพร่โดยผู้พัฒนา ไม่ใช่ผลทดสอบหรือการจัดอันดับของเรา
+ดูตัวอย่างและข้อมูลนำเข้าจากผู้พัฒนาก่อนชมผลงานชุมชน
 
 <table>
 <tr>
@@ -45,8 +37,6 @@
 <td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>ภาพปกวิดีโอทางการ</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>เปียโน: จากภาพระยะกลางไปยังภาพใกล้ของสีหน้า<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ ตัวอย่างทางการ</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="docs/official-cases.md#seedance-piano">ขั้นตอน · อังกฤษ →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
-
-โมเดลทั้งสี่เวอร์ชันมีหน้าบน MusicMaker ตัวอย่างและคู่มือมาจากผู้พัฒนา ฟังก์ชันของ MusicMaker ให้ตรวจสอบจากหน้าจอจริง ภาพ H3 เป็นภาพอินพุต
 
 <!-- OFFICIAL:END -->
 
@@ -71,13 +61,11 @@
 </tr>
 </table>
 
-ชื่อโมเดลเป็นข้อมูลจากผู้สร้าง ตรวจข้อความและสื่อผ่านสำเนาสาธารณะของ X แต่ยังไม่ได้สร้างวิดีโอซ้ำ คำอธิบายละเอียดเป็นภาษาอังกฤษ
-
 <a id="listen"></a>
 
 ## ฟัง MusicMaker
 
-เก้าสไตล์ที่ต่างกันในสามแถว ตั้งแต่เปียโน ร็อก ออร์เคสตรา ไปจนถึงเพลงเต้นรำ ลองฟังความหนาแน่นของเสียงและจังหวะ สไตล์อ้างอิงช่อง Style ส่วนแนวคิดวิดีโอเป็นข้อเสนอของผู้เขียน
+เก้าสไตล์ที่ต่างกันในสามแถว ตั้งแต่เปียโน ร็อก ออร์เคสตรา ไปจนถึงเพลงเต้นรำ ลองฟังความหนาแน่นของเสียงและจังหวะ สไตล์อ้างอิงช่อง Style
 
 <!-- LISTENING-GRID:START -->
 <table>
@@ -105,7 +93,7 @@
 
 ## สร้างวิดีโอแรก
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ<br><br><b>1.</b> เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้<br><br><b>1.</b> เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง</td></tr></table>
 
 [▶ ฟังเพลง](https://musicmaker.im/detail/discover-v2-98/) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
@@ -119,7 +107,7 @@
 
 5. ส่งออก MP4 9:16 ตรวจเฟรมดำ ทิศทางน้ำ และรูปทรงบิดเบี้ยว การขยาย 480p ไม่เพิ่มรายละเอียด หากฉากเปลี่ยนมากให้ลดการเคลื่อนไหวหรือใช้ภาพอ้างอิงที่ได้รับอนุญาตภาพเดิม
 
-**พรอมต์ภาษาอังกฤษสำหรับคัดลอก · เขียนใหม่และยังไม่ได้ทดสอบสร้าง**
+**พรอมต์ภาษาอังกฤษสำหรับคัดลอก**
 
 ```text
 A: A green valley after rain, soft afternoon sunlight.
@@ -149,7 +137,7 @@ Leave clean grass in the lower frame for a title added later.
 Keep terrain and rainbow stable. No people, buildings or generated text.
 ```
 
-รักษาแสงและภูมิประเทศให้ต่อเนื่อง จบเพลงพร้อมภาพ การฟังเพลงสาธารณะไม่ได้ให้สิทธิ์นำไปใช้ต่อโดยอัตโนมัติ
+รักษาแสงและภูมิประเทศให้ต่อเนื่อง จบเพลงพร้อมภาพ
 
 [→ ขั้นตอนละเอียด · อังกฤษ](docs/first-video.md#3-assemble-in-an-editor)
 
@@ -157,7 +145,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## ฝึกเทคนิคถัดไป
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ เว็บไซต์ไม่เปิดเผยโมเดลของตัวอย่าง และบทฝึกนี้เขียนขึ้นใหม่<br><br><b>1.</b> เตรียมภาพบุคคลที่ได้รับอนุญาต หันเกือบตรงและเห็นริมฝีปาก พร้อมเสียงร้องของตนเองหรือที่ได้รับอนุญาต ตัดหนึ่งวรรคราวสิบวินาทีโดยเหลือช่วงหายใจต้นท้าย เพลงบรรเลงฝึกใช้แทนเสียงร้องไม่ได้</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ<br><br><b>1.</b> เตรียมภาพบุคคลที่ได้รับอนุญาต หันเกือบตรงและเห็นริมฝีปาก พร้อมเสียงร้องของตนเองหรือที่ได้รับอนุญาต ตัดหนึ่งวรรคราวสิบวินาทีโดยเหลือช่วงหายใจต้นท้าย เพลงบรรเลงฝึกใช้แทนเสียงร้องไม่ได้</td></tr></table>
 
 [▶ ชมตัวอย่าง MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
 
@@ -169,7 +157,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 5. เลือกเสียงต้นฉบับหรือเสียงที่สร้างเพียงหนึ่งแบบ ลบแทร็กซ้ำ ใส่ชื่อเพลงแล้วส่งออก MP4 ตรวจให้ร้องและหายใจจบครบ ก่อนค่อยลองกล้องเคลื่อนเข้าอย่างช้าในรอบถัดไป
 
-**พรอมต์ภาษาอังกฤษสำหรับคัดลอก · เขียนใหม่และยังไม่ได้ทดสอบสร้าง**
+**พรอมต์ภาษาอังกฤษสำหรับคัดลอก**
 
 ```text
 Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
@@ -181,7 +169,7 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ พรอมต์ไม่รับประกันการคงเสียงเดิมหรือความตรงของปาก
+คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ
 
 [→ ขั้นตอนละเอียด · อังกฤษ](docs/first-video.md#vocal)
 
@@ -226,6 +214,31 @@ MusicMaker เปิดรับพันธมิตรแอฟฟิลิเ
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ ดูรายละเอียดและสมัครเป็นพันธมิตร</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>นโยบายการจัดทำ</summary>
+
+คู่มือนี้ดูแลโดยทีม MusicMaker โดยเน้นโมเดลที่แบรนด์มีให้ใช้ ลิงก์แนะนำไม่ได้เพิ่มพารามิเตอร์พันธมิตรของคลังนี้ แต่ไม่ได้หมายความว่าไม่มีผลประโยชน์ทางการค้า [ นโยบายการจัดทำ (English) → ](docs/editorial-policy.md)
+
+ตัวอย่างการตัดต่อที่เราสร้างเองยาว 16 วินาทีเสร็จแล้ว ตัวอย่างภายนอกตรวจเฉพาะแหล่งข้อมูลสาธารณะและการเข้าถึง ส่วนบทสอนสร้างวิดีโอด้วย AI ทั้งสองแบบยังไม่ได้ทดสอบครบทุกขั้นตอน
+
+นี่คือตัวอย่างที่เผยแพร่โดยผู้พัฒนา ไม่ใช่ผลทดสอบหรือการจัดอันดับของเรา
+
+โมเดลทั้งสี่เวอร์ชันมีหน้าบน MusicMaker ตัวอย่างและคู่มือมาจากผู้พัฒนา ฟังก์ชันของ MusicMaker ให้ตรวจสอบจากหน้าจอจริง ภาพ H3 เป็นภาพอินพุต
+
+ภาพปกหน้าแรกเป็นภาพแนวคิดต้นฉบับ ภาพ Discover เป็นปกเพลง ส่วนบทสอนร้องเพลงใช้ภาพบุคคลอินพุตจากตัวอย่างของแบรนด์ ภาพเหล่านี้ไม่ใช่หลักฐานวิดีโอที่เราสร้างสำเร็จ
+
+ชื่อโมเดลในกรณี X อ้างอิงคำบอกเล่าของผู้สร้าง ตรวจโพสต์และสื่อแนบผ่านสำเนาสาธารณะ แต่ไม่ได้สร้างวิดีโอซ้ำ พรอมต์ที่ใช้ผลิตอยู่ในโพสต์ต้นฉบับ [หมายเหตุแหล่งข้อมูล · อังกฤษ](docs/x-cases.md#source-notes)
+
+แนวคิดวิดีโอในส่วนฟังเพลงเป็นข้อเสนอของคลังนี้ บทสอนธรรมชาติและร้องเพลงเป็นแบบฝึกใหม่ ไม่ใช่บันทึกวิธีสร้างผลงานต้นฉบับ MusicMaker ไม่ได้เปิดเผยโมเดลของตัวอย่างร้องเพลงสาธารณะ พรอมต์ทั้งสองชุดยังไม่ได้ทดสอบครบทุกขั้นตอน และไม่รับประกันการสร้างภาพตรงปก การคงเสียงต้นฉบับ หรือการขยับปากตรงเสียง
+
+การเปิดให้ฟังและชมสาธารณะไม่ได้ให้สิทธิ์นำไปใช้ต่อ เพลง ภาพ และวิดีโอภายนอกต้องได้รับอนุญาตอย่างเหมาะสม
+
+[▶ ดูตัวอย่างการตัดต่อของเรา](starter-kit/night-train-edit-demo.mp4) · [หลักฐานและสถานะการทดสอบ (EN / 简体中文)](docs/generation-tests.md) · [แจ้งข้อแก้ไข](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 ใช้ AI ช่วยเขียนและแปล ยังไม่มีบันทึกการตรวจภาษาโดยเจ้าของภาษาอิสระ เอกสารละเอียดมีภาษาอังกฤษและจีนตัวย่อ [🌐 ภาษาและสถานะการตรวจทาน (English)](i18n/README.md)

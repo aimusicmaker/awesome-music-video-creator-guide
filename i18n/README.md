@@ -28,3 +28,5 @@ AI assists with drafting and translation. Direct maintenance of a language file 
 Detailed guides are mainly English or simplified Chinese. Preserve language labels on those links so readers know before leaving their edition. For Arabic, verify both right-to-left reading order and mixed-language model names and prompts.
 
 [Report a translation problem](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new?template=translation.yml) with the language, page, current text and suggested wording. If a reviewer completes a language review, record the reviewed commit, exact pages, date and reviewer attribution with their permission; do not imply that it covers later changes. See the [editorial policy](../docs/editorial-policy.md) for content and source standards.
+
+Editorial, commercial and test-status disclosures belong in the final collapsible note, after the affiliate invitation. `build_trust.py` combines `disclosures.json` (English and Chinese), each generated locale’s `disclosures` array, and the official-case disclosure. Keep useful input descriptions and action steps beside the relevant tutorial.

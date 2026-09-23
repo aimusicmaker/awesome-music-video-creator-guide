@@ -20,24 +20,16 @@
 
 [![Choose music, plan shots and prompts, generate clips, then edit and export; explore vocal performance, travel stories and abstract music visuals](assets/social-preview.jpg)](#first-video)
 
-Original workflow illustration connecting this library’s examples, prompts, tools and editing steps. Concept artwork, not evidence of tested video generation.
+Original workflow illustration connecting this library’s examples, prompts, tools and editing steps.
 
 **Start here:** [Find visual ideas](#x-creators) → [Choose a musical direction](#listen) → [Finish four nature shots](#first-video) → [Try portrait singing](#next-project).
-
-<!-- TRUST:START -->
-Maintained by the MusicMaker team, with priority given to models available through the brand. Recommendation links carry no affiliate parameters added by this repository; this does not mean there is no commercial interest. [ Editorial policy → ](docs/editorial-policy.md)
-
-Our original 16-second editing demo is complete. External examples were checked only against public sources and availability; neither AI generation tutorial has been tested end to end.
-
-[▶ Watch our editing demo](starter-kit/night-train-edit-demo.mp4) · [Evidence and test status (EN / 简体中文)](docs/generation-tests.md) · [Report a correction](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## Official model examples and tutorials
 
-See the makers’ examples before exploring community work. These are published demonstrations, not our generation tests or a model ranking.
+See the makers’ examples before exploring community work.
 
 <table>
 <tr>
@@ -49,8 +41,6 @@ See the makers’ examples before exploring community work. These are published 
 <td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Official video poster</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Piano performance: move from a medium shot to an expression close-up.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Official example</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#seedance-piano">Step-by-step notes →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
-
-All four model versions have MusicMaker pages. Examples and guides come from the model makers; MusicMaker controls may differ. The H3 image is an input.
 
 <!-- OFFICIAL:END -->
 
@@ -74,8 +64,6 @@ Six published video examples with public prompts or screenshot walkthroughs. Cli
 <td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="An older performer standing on a gold-lit talent-show stage; open the creator’s X post" width="100%"></a><br><b>A stage reveal on the beat</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br>Pause, reveal, then cut to a reaction.<br><a href="https://x.com/Strength04_X/status/2090399966988550435">Video + source prompt</a> · <a href="docs/x-cases.md#beat-drop">Inputs + try it</a></td>
 </tr>
 </table>
-
-Model names are the creators’ claims. We checked post text and attached media through a public X mirror; these are references, not our reproductions. Full prompts remain with their authors. [Source notes and limitations](docs/x-cases.md#source-notes).
 
 <a id="listen"></a>
 
@@ -103,7 +91,7 @@ From solo piano to heavy guitars, from epic orchestra to dance-floor pulses: hea
 </table>
 <!-- LISTENING-GRID:END -->
 
-Pick a sound, then make a cover and one short scene for it. [🧰 Choose free tools by step](#toolkit) · [Genre and source notes](docs/listening-notes.md) · [Browse all songs](https://musicmaker.im/discover/). Covers are not video frames; listening is not a reuse license.
+Pick a sound, then make a cover and one short scene for it. [🧰 Choose free tools by step](#toolkit) · [Genre and source notes](docs/listening-notes.md) · [Browse all songs](https://musicmaker.im/discover/).
 
 <a id="first-video"></a>
 
@@ -114,8 +102,6 @@ Pick a sound, then make a cover and one short scene for it. [🧰 Choose free to
 <table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow over a green valley, stream and wildflowers; open Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">Use the cover of MusicMaker's <b>Living on the Brightside</b> as visual inspiration: a stream, wildflowers, green hills and a rainbow. Start with scenery and four cuts, so you can finish one musical phrase without solving character consistency first.<br><br><b>1. Prepare music and mark the cuts</b><br>Choose a complete 16-second phrase from music you own or have permission to use. Alternatively, download our original practice beat with <b>Download raw file</b> on its GitHub page. Import it into your editor and mark 0, 4, 8, 12 and 16 seconds. These cuts fit the practice beat; adjust them to the beats and phrase endings of another song.</td></tr></table>
 
 [▶ Hear the source track](https://musicmaker.im/detail/discover-v2-98/) · [♫ Download the original practice beat](starter-kit/practice-beat-120bpm.wav)
-
-This is a song cover, not a video frame. The exercise below is newly written, not the source production recipe. Neither tutorial case appears in the nine-track listening shelf.
 
 #### 2. Choose a tool route
 
@@ -169,7 +155,7 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 Keep the best four seconds of each clip and use straight cuts. Mute generated sound and retain one music track. Add your title in the final two seconds and a brief music fade at the end. Export MP4 at 9:16 using a resolution appropriate to your footage; enlarging 480p does not create extra detail. [Editor and export walkthrough](docs/first-video.md#3-assemble-in-an-editor).
 
-**Done means:** music and picture end together; no black frames or doubled audio; water direction, lighting and rainbow remain plausible. Reduce motion if the rainbow warps. If the landscape changes too much, regenerate with a consistent authorized image reference. These prompts have not been render-tested and do not guarantee the source cover's appearance.
+**Done means:** music and picture end together; no black frames or doubled audio; water direction, lighting and rainbow remain plausible. Reduce motion if the rainbow warps. If the landscape changes too much, regenerate with a consistent authorized image reference.
 
 <a id="next-project"></a>
 
@@ -181,7 +167,7 @@ Keep the best four seconds of each clip and use straight cuts. Mute generated so
 
 [▶ Watch the brand performance](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [Source notes](docs/brand-examples.md)
 
-The image is the published demo's **input portrait**, not a video frame. Click it to watch the approximately ten-second example. MusicMaker does not identify that demo's underlying model; the routes below are practice choices, not claims about its production.
+The image is the published demo's **input portrait**. Click it to watch the approximately ten-second example.
 
 #### 2. Place the same inputs in either tool
 
@@ -204,8 +190,6 @@ Relax naturally after the phrase. Do not add dialogue or change lyrics.
 No costume change, turning around, cuts, additional people, text or exaggerated expressions.
 ```
 
-This is a new, untested practice prompt, not the original demo prompt. It describes the target; it cannot guarantee preserved audio or accurate lip sync.
-
 #### 4. Fix timing before adding camera movement
 
 Inspect the beginning, middle and end of the phrase. Check vowels and closed-mouth endings against the sound. A constant early/late offset may be adjusted in your editor; an offset that grows over time calls for a shorter phrase or a new generation. If identity drifts, remove nodding and camera motion. If lips are hidden, replace the portrait rather than adding more instructions.
@@ -220,7 +204,7 @@ Place the video and original vocal on one timeline. To use the original vocal, m
 
 ## A free-first music video toolkit
 
-Build on the sound you picked: choose a tool for the missing ingredient. The first four rows are advertised as free on their pages. Song generation, portrait singing and other catalog tools may require credits or payment; check [pricing](https://musicmaker.im/pricing/). Public examples are references, not reuse licenses.
+Build on the sound you picked: choose a tool for the missing ingredient. The first four rows are advertised as free on their pages. Song generation, portrait singing and other catalog tools may require credits or payment; check [pricing](https://musicmaker.im/pricing/).
 
 <table>
 <tr><td width="35%"><b>🖼 Artwork and storyboard</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
@@ -261,6 +245,31 @@ MusicMaker supports affiliate partnerships. Share our music creation tools throu
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Explore the affiliate program</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>Editorial policy</summary>
+
+Maintained by the MusicMaker team, with priority given to models available through the brand. Recommendation links carry no affiliate parameters added by this repository; this does not mean there is no commercial interest. [ Editorial policy → ](docs/editorial-policy.md)
+
+Our original 16-second editing demo is complete. External examples were checked only against public sources and availability; neither AI generation tutorial has been tested end to end.
+
+These are published demonstrations, not our generation tests or a model ranking.
+
+All four model versions have MusicMaker pages. Examples and guides come from the model makers; MusicMaker controls may differ. The H3 image is an input.
+
+The cover illustration is original concept artwork. Discover images are song covers, and the vocal tutorial uses the brand demo’s input portrait; these images are not evidence of our generated video results.
+
+X model names follow creator descriptions. Public mirrors were used to check posts and attached media; the videos were not reproduced. Production prompts remain in the original posts. [Source notes](docs/x-cases.md#source-notes).
+
+The nature and vocal tutorials are newly written exercises, not the original production recipes. MusicMaker has not identified the published vocal demo’s underlying model. The prompts have not been tested end to end and do not guarantee a matching cover, preserved audio or accurate lip sync.
+
+Public listening and viewing do not grant reuse rights. External music, images and video require appropriate authorization.
+
+[▶ Watch our editing demo](starter-kit/night-train-edit-demo.mp4) · [Evidence and test status (EN / 简体中文)](docs/generation-tests.md) · [Report a correction](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 Writing and translation use AI assistance. No independent native-language review is recorded. Detailed documents are in English and Simplified Chinese. [🌐 Language and review status](i18n/README.md)

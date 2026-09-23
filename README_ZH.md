@@ -20,24 +20,16 @@
 
 [![选音乐、设计分镜与提示词、生成镜头、剪辑导出；下方展示人物演唱、旅行叙事与抽象音乐视觉](assets/social-preview.jpg)](#first-video)
 
-原创流程示意图，展示本库怎样把案例、提示词、工具与剪辑连起来；画面是概念设计，不是生成视频实测结果。
+原创流程示意图，展示本库怎样把案例、提示词、工具与剪辑连起来。
 
 **从哪里开始：** [看案例找灵感](#x-creators) → [听音乐定方向](#listen) → [做四镜头自然短片](#first-video) → [尝试人像演唱](#next-project)。
-
-<!-- TRUST:START -->
-本指南由 MusicMaker 团队维护，优先介绍品牌已覆盖的模型。推荐链接未附加本库联盟参数，不代表没有商业利益。 [ 编辑与维护说明 → ](docs/editorial-policy.zh-CN.md)
-
-原创 16 秒剪辑示例已制成；外部案例仅核对公开来源与可用性，两套 AI 生成教程均未完成全流程实测。
-
-[▶ 看原创剪辑示例](starter-kit/night-train-edit-demo.mp4) · [证据与实测状态 (EN / 简体中文)](docs/generation-tests.md) · [报错与纠正](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-<!-- TRUST:END -->
 
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
 ## 模型官方案例与教程
 
-先看模型开发者的演示与输入方法，再看社媒创作者怎样拓展。这里收录官方发布案例，不是本库实测，也不作为模型排名。
+先看模型开发者的演示与输入方法，再看社媒创作者怎样拓展。
 
 <table>
 <tr>
@@ -49,8 +41,6 @@
 <td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>官方视频封面</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>钢琴演奏：从人物中景切到表情特写。<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">官方教程／提示词 ↗</a><br><a href="docs/official-cases.zh-CN.md#seedance-piano">逐步学习笔记 →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
-
-这四个模型版本均有 MusicMaker 对应页面。案例与教程来自模型开发者，品牌入口的可用功能以实际界面为准；H3 配图为输入图。
 
 <!-- OFFICIAL:END -->
 
@@ -74,8 +64,6 @@
 <td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="站在金色灯光才艺秀舞台上的年长表演者；点击查看作者 X 原帖" width="100%"></a><br><b>重拍处的舞台反转</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br>短暂停顿、重拍揭晓，再切反应镜头。<br><a href="https://x.com/Strength04_X/status/2090399966988550435">看原帖与提示词</a> · <a href="docs/x-cases.zh-CN.md#beat-drop">输入与做法</a></td>
 </tr>
 </table>
-
-模型名称由创作者自述。本次通过公开 X 镜像核对正文和所附媒体，未复现这些视频；完整提示词保留在作者原帖。[来源说明](docs/x-cases.zh-CN.md#source-notes)。
 
 <a id="listen"></a>
 
@@ -103,7 +91,7 @@
 </table>
 <!-- LISTENING-GRID:END -->
 
-喜欢哪一种声音，就先为它做一张封面、一个短镜头。[🧰 按创作步骤选免费工具](#toolkit) · [查看曲风与来源说明](docs/listening-notes.zh-CN.md) · [浏览全部歌曲](https://musicmaker.im/discover/)。封面不是视频截图；试听不等于获得素材使用权。
+喜欢哪一种声音，就先为它做一张封面、一个短镜头。[🧰 按创作步骤选免费工具](#toolkit) · [查看曲风与来源说明](docs/listening-notes.zh-CN.md) · [浏览全部歌曲](https://musicmaker.im/discover/)。
 
 <a id="first-video"></a>
 
@@ -114,8 +102,6 @@
 <table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="溪流、野花与绿色山谷上空的一道彩虹；点击试听 Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">从 MusicMaker《Living on the Brightside》的封面取景：溪流、野花、绿色山谷和彩虹。<b>先不拍人物，用四个镜头学会把画面剪成一个完整乐句。</b><br><br><b>1. 先准备音乐，再确定四个切点</b><br>用自有或获授权的音乐截取完整的 16 秒乐句；没有现成音乐，就用上方原创伴奏，在 GitHub 文件页点 <b>Download raw file</b> 保存。把音频导入剪辑软件，标记 0、4、8、12、16 秒。练习伴奏适用这些切点；换歌后应听重拍和乐句结束的位置，再调整剪辑。</td></tr></table>
 
 [▶ 试听案例原曲](https://musicmaker.im/detail/discover-v2-98/) · [♫ 下载原创练习伴奏](starter-kit/practice-beat-120bpm.wav)
-
-这是歌曲封面，不是视频截图。下方是据此新编的练习，不是原作生成记录。试听区的九首歌曲与这两个教程案例不重复。
 
 #### 2. 选一条工具路线
 
@@ -165,7 +151,7 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 
 将四段依次拖入剪辑时间轴，每段选取最稳定的 4 秒，使用直接切换。关闭生成片段自带声音，只保留选定的伴奏。在最后 2 秒加入片名，片尾给音乐做短淡出；不要靠拉长静帧掩盖缺失镜头。导出 MP4，竖屏比例保持 9:16，分辨率按实际素材选择，放大 480p 不会增加细节。[剪辑按钮与导出步骤](docs/first-video.zh-CN.md#edit-timeline)。
 
-**完成标准：** 音乐与画面同时结束；没有黑帧和重复音轨；溪水方向、光线和彩虹没有明显跳变。彩虹变形就减小运动、固定机位；镜头间地形差异太大，就用同一张自有场景图作为参考重做。以上提示词尚未实测生成，不保证复现封面。
+**完成标准：** 音乐与画面同时结束；没有黑帧和重复音轨；溪水方向、光线和彩虹没有明显跳变。彩虹变形就减小运动、固定机位；镜头间地形差异太大，就用同一张自有场景图作为参考重做。
 
 <a id="next-project"></a>
 
@@ -177,7 +163,7 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 
 [▶ 观看品牌演唱示例](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [查看案例来源](docs/brand-examples.md)
 
-图为官网示例的**输入人像**，点图观看约 10 秒成片。官网没有公布该演唱示例使用的底层模型；下面的两条路线是练习选择，不是对原作模型的推断。
+图为官网示例的**输入人像**，点图观看约 10 秒成片。
 
 #### 2. 按工具放入相同素材
 
@@ -199,8 +185,6 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 不换装、不转身、不切镜、不添加其他人物、文字或夸张表情。
 ```
 
-这是新编练习提示词，不是原作提示词，也未实测生成。提示词提出的是目标，不能保证输出保留原音轨或准确对口型。
-
 #### 4. 先修口型，再考虑运镜
 
 先听开头、句中和结尾，再看嘴唇开合是否对应元音与收音。整段只是固定提前或延后，可在剪辑软件中小幅移动画面；越到后面越错位，说明不是简单偏移，应缩短乐句或重新生成。脸部漂移时去掉点头与运镜；嘴被遮挡时更换人像，不要只往提示词里继续加限制。
@@ -215,7 +199,7 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 
 ## 免费起步的音乐视频工具库
 
-从刚才的曲风选择出发，按缺少的素材选工具。下面前四行是官网标注免费的入口；歌曲生成、人像演唱及完整目录中的其他工具可能需要额度或付费，见[当前价格](https://musicmaker.im/pricing/)。公开示例可供参考，使用素材仍需相应授权。
+从刚才的曲风选择出发，按缺少的素材选工具。下面前四行是官网标注免费的入口；歌曲生成、人像演唱及完整目录中的其他工具可能需要额度或付费，见[当前价格](https://musicmaker.im/pricing/)。
 
 <table>
 <tr><td width="35%"><b>🖼 补封面与分镜图</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ 免费制图</kbd></a></td></tr>
@@ -256,6 +240,31 @@ MusicMaker 支持联盟推广合作。欢迎通过教程、测评或社群分享
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 了解并申请联盟合作</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRUST:START -->
+<details>
+<summary>编辑与维护说明</summary>
+
+本指南由 MusicMaker 团队维护，优先介绍品牌已覆盖的模型。推荐链接未附加本库联盟参数，不代表没有商业利益。 [ 编辑与维护说明 → ](docs/editorial-policy.zh-CN.md)
+
+原创 16 秒剪辑示例已制成；外部案例仅核对公开来源与可用性，两套 AI 生成教程均未完成全流程实测。
+
+这里收录官方发布案例，不是本库实测，也不作为模型排名。
+
+这四个模型版本均有 MusicMaker 对应页面。案例与教程来自模型开发者，品牌入口的可用功能以实际界面为准；H3 配图为输入图。
+
+首页封面为原创概念插图；Discover 配图为歌曲封面，人像教程配图为品牌示例的输入人像。这些图片不代表本库已生成的视频结果。
+
+X 案例的模型名称由创作者自述。本次通过公开 X 镜像核对正文和所附媒体，未复现这些视频；原作提示词保留在作者原帖。[来源说明](docs/x-cases.zh-CN.md#source-notes)。
+
+自然短片与人像演唱教程均为新编练习，不是原作生成记录。官网未公布演唱示例的底层模型。两套提示词尚未完成全流程实测，不保证复现封面、保留原音轨或准确对口型。
+
+公开试听和观看不等于获得素材使用权；使用外部音乐、图片与视频仍需相应授权。
+
+[▶ 看原创剪辑示例](starter-kit/night-train-edit-demo.mp4) · [证据与实测状态 (EN / 简体中文)](docs/generation-tests.md) · [报错与纠正](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+
+</details>
+<!-- TRUST:END -->
 
 <!-- TRANSLATION:START -->
 文案和翻译有 AI 辅助，暂无独立母语审校记录。详细文档提供英文和简体中文。 [🌐 语言与审校状态](i18n/README.md)
