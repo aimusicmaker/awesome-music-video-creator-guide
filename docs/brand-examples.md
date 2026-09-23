@@ -6,7 +6,11 @@ Checked **2026-09-23**. The homepages show nine listening tracks, one different 
 
 首页展示九首试听曲、一首不同歌曲封面衍生的自然短片教程，以及一个人像演唱教程。歌曲封面不是音乐视频截图；本次没有重新生成这些品牌作品。
 
-## Listen / 试听
+## Current listening selection / 当前试听
+
+The nine contrasting genres now featured on the homepage are documented in [listening notes](listening-notes.md). 全新九首及其风格依据见[试听来源说明](listening-notes.zh-CN.md)。其他品牌素材见[完整工具与素材库](brand-resources.zh-CN.md)。
+
+## Earlier listening references / 历史试听参考
 
 - [Neon Pulse](https://musicmaker.im/detail/discover-v2-94/)
 - [Echoes of You](https://musicmaker.im/detail/discover-v2-95/)

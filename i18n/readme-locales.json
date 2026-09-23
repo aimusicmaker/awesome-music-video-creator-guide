@@ -19,17 +19,17 @@
       "静かな間を置き、強い拍で舞台の変化を見せる。"
     ],
     "x_note": "モデル名は作者の説明に基づきます。公開ミラーで本文と素材を確認しましたが、動画は再現していません。詳しい解説は英語です。",
-    "listen_intro": "9曲を3列3段で試聴。ジャケットの発想と、出典にある編曲説明を見比べてください。以下の二つの練習作品とは重複しません。",
+    "listen_intro": "9曲を3列3段で比較。静かなピアノからロック、管弦楽、ダンス音楽まで、音の密度とリズムを聴き比べましょう。曲風は出典のStyle欄、映像の案はこちらで加えた提案です。",
     "cover_notes": [
-      "ジャケット：ネオンの舞台",
-      "ジャケット：窓辺のピアノ",
-      "ジャケット：広い道路",
-      "ジャケット：夏の海岸",
-      "公式説明：6/8拍子、ギター、ピアノ、チェロ",
-      "公式説明：アコースティックギター、低音弦楽器、弦楽合奏、男性歌唱",
-      "ジャケット：手紙とコーヒー",
-      "ジャケット：都会の屋上",
-      "ジャケット：明るい街角"
+      "ピアノ独奏 · 長回し",
+      "モダンロック · 強い拍で切る",
+      "壮大な管弦楽 · 広い情景",
+      "ローファイ・ジャズ · 雨のループ",
+      "プログレッシブ・ハウス · 高揚で転換",
+      "カントリー・バラード · 暖かな物語",
+      "アンビエント電子音楽 · 抽象映像",
+      "ヒップホップ · 明確なカット",
+      "電子R&B · 表情のアップ"
     ],
     "play": "試聴する",
     "first_intro": "Living on the Brightside の虹、渓流、野花を参考に、16秒の自然映像を作ります。これは曲のジャケットであり、動画の一場面ではありません。",
@@ -74,7 +74,22 @@
       "最初は固定アップのみ。冒頭・中間・末尾の口と声を確認。一定のずれなら編集で調整し、ずれが広がるなら短い一節で再生成。顔が変わる場合はうなずきも減らします。",
       "原音を使うなら生成音を消し、生成音を使うなら重複音声を削除。最後に曲名を加えてMP4を書き出し、一節と呼吸が切れずに終わるか確認してから、次回だけ緩い寄りを試します。"
     ],
-    "watch_demo": "ブランドの動画を見る"
+    "watch_demo": "ブランドの動画を見る",
+    "toolkit": {
+      "title": "無料から始める制作ツール集",
+      "bridge": "好きな音が見つかったら、まずジャケットと短い一場面を作ってみましょう。必要な道具を制作順に選べます。",
+      "note": "最初の4行は各ページで無料と案内されるツール、5行目は参考素材です。利用枠・ログイン・待ち時間は現在のページで確認してください。 楽曲生成や人物歌唱は利用枠・料金を別途確認してください。公開素材の閲覧は再利用許諾ではありません。",
+      "rows": [
+        "🖼 ジャケット・絵コンテを作る",
+        "🎬 短い映像に動かす",
+        "🎧 音の質感を変える",
+        "📦 形式と曲情報を整える",
+        "📚 素材・プロンプトを探す"
+      ],
+      "catalog": "全素材・ツール一覧（英語）",
+      "nav": "無料ツール",
+      "sources": "詳細な曲風と出典（英語）"
+    }
   },
   "ko": {
     "title": "뮤직비디오 제작 가이드",
@@ -96,17 +111,17 @@
       "잠깐의 정적 뒤 강한 박자에 맞춰 무대의 변화를 보여 줍니다."
     ],
     "x_note": "모델 이름은 제작자의 설명입니다. 공개 미러에서 글과 미디어를 확인했지만 영상을 재현하지는 않았습니다. 자세한 사례 해설은 영어입니다.",
-    "listen_intro": "아홉 곡을 3열 3행으로 소개합니다. 커버의 시각적 아이디어와 출처의 편곡 설명을 살펴보세요. 아래 두 튜토리얼 사례와 겹치지 않습니다.",
+    "listen_intro": "아홉 곡을 3열 3행으로 비교합니다. 피아노부터 록, 관현악, 댄스 음악까지 소리의 밀도와 리듬을 들어보세요. 장르는 원문 Style 항목, 영상 아이디어는 편집 제안입니다.",
     "cover_notes": [
-      "표지 아이디어: 네온 무대",
-      "표지 아이디어: 창가 피아노",
-      "표지 아이디어: 넓은 도로",
-      "표지 아이디어: 여름 해안",
-      "공식 설명: 6/8박자, 기타, 피아노, 첼로",
-      "공식 설명: 어쿠스틱 기타, 베이스, 현악기, 남성 보컬",
-      "커버: 편지와 커피",
-      "커버: 도시 옥상",
-      "커버: 햇살 가득한 거리"
+      "피아노 연주 · 긴 호흡의 장면",
+      "모던 록 · 강한 박자에 컷",
+      "웅장한 관현악 · 넓은 풍경",
+      "로파이 재즈 · 빗속 반복 영상",
+      "프로그레시브 하우스 · 고조되는 전환",
+      "컨트리 발라드 · 따뜻한 이야기",
+      "앰비언트 전자음악 · 추상 화면",
+      "힙합 · 또렷한 컷",
+      "일렉트로닉 R&B · 감정 클로즈업"
     ],
     "play": "곡 듣기",
     "first_intro": "Living on the Brightside의 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다. 이미지는 노래 커버이며 영상 프레임이 아닙니다.",
@@ -151,7 +166,22 @@
       "고정 클로즈업부터 시작합니다. 시작·중간·끝의 입과 소리를 비교하세요. 일정한 지연은 편집으로 맞추고 점점 어긋나면 더 짧은 구절로 재생성합니다. 얼굴이 바뀌면 고개 움직임도 줄입니다.",
       "원음을 쓰면 생성 소리를 끄고 생성 소리를 쓰면 중복 트랙을 지웁니다. 끝에 곡명을 넣고 MP4를 내보내 구절과 호흡이 잘리지 않는지 확인한 뒤 다음 시도에서만 천천히 다가가는 카메라를 추가합니다."
     ],
-    "watch_demo": "브랜드 영상 보기"
+    "watch_demo": "브랜드 영상 보기",
+    "toolkit": {
+      "title": "무료로 시작하는 제작 도구 모음",
+      "bridge": "마음에 드는 소리를 찾았다면 커버와 짧은 장면부터 만들어 보세요. 제작 순서에 따라 도구를 고를 수 있습니다.",
+      "note": "첫 네 줄은 각 페이지가 무료로 안내하는 도구이며, 다섯째 줄은 참고 자료입니다. 사용량, 로그인, 대기 조건은 현재 페이지에서 확인하세요. 곡 생성과 인물 노래는 별도 사용량·요금을 확인하세요. 공개 자료 열람은 재사용 허가가 아닙니다.",
+      "rows": [
+        "🖼 커버와 장면 설계",
+        "🎬 짧은 영상 만들기",
+        "🎧 소리 질감 바꾸기",
+        "📦 형식과 곡 정보 정리",
+        "📚 자료와 프롬프트 찾기"
+      ],
+      "catalog": "전체 자료·도구 목록 · 영어",
+      "nav": "무료 도구",
+      "sources": "곡풍과 출처 · 영어"
+    }
   },
   "id": {
     "title": "Panduan Membuat Video Musik",
@@ -173,17 +203,17 @@
       "Sisakan jeda singkat, lalu tampilkan perubahan panggung pada ketukan kuat."
     ],
     "x_note": "Nama model mengikuti keterangan kreator. Teks dan media diperiksa melalui cermin publik X; videonya tidak kami reproduksi. Ulasan rinci tersedia dalam bahasa Inggris.",
-    "listen_intro": "Sembilan lagu dalam tiga kolom dan tiga baris. Bandingkan ide sampul dan keterangan aransemen dari sumber. Dua tutorial di bawah memakai contoh berbeda.",
+    "listen_intro": "Sembilan kontras dalam tiga baris: piano, rock, orkestra, dan musik dansa. Bandingkan kepadatan bunyi dan ritme. Genre berasal dari kolom Style; ide video adalah saran editorial.",
     "cover_notes": [
-      "Ide sampul: panggung neon",
-      "Ide sampul: piano di jendela",
-      "Ide sampul: jalan terbuka",
-      "Ide sampul: pesisir musim panas",
-      "Deskripsi sumber: birama 6/8, gitar, piano, selo",
-      "Deskripsi sumber: gitar akustik, bas, alat gesek, vokal pria",
-      "Sampul: surat dan kopi",
-      "Sampul: atap kota",
-      "Sampul: jalan cerah"
+      "Piano solo · adegan panjang",
+      "Rock modern · potongan kuat",
+      "Orkestra epik · lanskap luas",
+      "Jazz lo-fi · lingkar hujan",
+      "Progressive house · bangun lalu berubah",
+      "Balada country · cerita hangat",
+      "Elektronik ambient · bentuk abstrak",
+      "Hip-hop · potongan tegas",
+      "R&B elektronik · ekspresi dekat"
     ],
     "play": "Dengarkan",
     "first_intro": "Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.",
@@ -228,7 +258,22 @@
       "Mulai dengan kamera diam. Bandingkan mulut dan suara di awal, tengah, serta akhir. Selisih tetap bisa digeser saat mengedit; selisih yang makin besar perlu frasa lebih pendek atau generasi ulang. Kurangi anggukan bila wajah berubah.",
       "Gunakan vokal asli atau suara hasil generasi, lalu hapus trek ganda. Tambahkan judul dan ekspor MP4. Pastikan frasa serta napas berakhir utuh sebelum mencoba gerakan kamera mendekat perlahan."
     ],
-    "watch_demo": "Tonton demo MusicMaker"
+    "watch_demo": "Tonton demo MusicMaker",
+    "toolkit": {
+      "title": "Mulai gratis: kumpulan alat kreatif",
+      "bridge": "Menemukan suara yang menarik? Buat sampul dan satu adegan pendek dahulu. Pilih alat sesuai langkah berikutnya.",
+      "note": "Empat baris pertama berisi alat yang dinyatakan gratis; baris kelima berisi referensi. Periksa kuota, login, dan antrean pada halaman saat ini. Pembuatan lagu dan animasi vokal dapat memerlukan kuota atau pembayaran. Melihat materi publik bukan izin penggunaan ulang.",
+      "rows": [
+        "🖼 Sampul dan storyboard",
+        "🎬 Membuat klip pendek",
+        "🎧 Mengubah tekstur suara",
+        "📦 Format dan informasi lagu",
+        "📚 Materi dan prompt"
+      ],
+      "catalog": "Semua sumber dan alat · Inggris",
+      "nav": "Alat gratis",
+      "sources": "Gaya dan sumber · Inggris"
+    }
   },
   "it": {
     "title": "Guida alla creazione di video musicali",
@@ -250,17 +295,17 @@
       "Lascia una breve pausa, poi rivela il cambiamento sul tempo forte."
     ],
     "x_note": "I nomi dei modelli sono dichiarati dagli autori. Testi e media sono stati verificati tramite un mirror pubblico di X, senza riprodurre i video. Le analisi dettagliate sono in inglese.",
-    "listen_intro": "Nove brani in tre colonne e tre righe. Confronta copertine e arrangiamenti descritti dalla fonte. I due tutorial usano casi diversi.",
+    "listen_intro": "Nove contrasti in tre righe, dal pianoforte al rock, all’orchestra e alla pista da ballo. Ascolta densità e ritmo. I generi provengono dal campo Style; le idee video sono proposte editoriali.",
     "cover_notes": [
-      "Copertina: palco al neon",
-      "Copertina: pianoforte alla finestra",
-      "Copertina: strada aperta",
-      "Copertina: costa estiva",
-      "Fonte: tempo in 6/8, chitarra, piano e violoncello",
-      "Fonte: chitarra acustica, contrabbasso, archi e voce maschile",
-      "Copertina: lettere e caffè",
-      "Copertina: tetto in città",
-      "Copertina: strada al sole"
+      "Pianoforte solo · piani lunghi",
+      "Rock moderno · tagli sul ritmo",
+      "Orchestra epica · grandi paesaggi",
+      "Jazz lo-fi · pioggia in loop",
+      "Progressive house · crescita e cambio",
+      "Ballata country · racconto caldo",
+      "Elettronica ambient · forme astratte",
+      "Hip-hop · tagli netti",
+      "R&B elettronico · primi piani emotivi"
     ],
     "play": "Ascolta il brano",
     "first_intro": "La copertina di Living on the Brightside ispira 16 secondi di natura con arcobaleno, ruscello e fiori. È una copertina musicale, non un fotogramma.",
@@ -305,7 +350,22 @@
       "Parti con camera fissa. Confronta bocca e voce all’inizio, a metà e alla fine. Un ritardo costante si può correggere nel montaggio; se cresce, accorcia la frase e rigenera. Riduci i cenni se il viso cambia.",
       "Usa la voce originale oppure quella generata, eliminando i doppioni. Aggiungi il titolo ed esporta MP4. Controlla che frase e respiro finiscano interi, poi prova un lento avvicinamento nella versione successiva."
     ],
-    "watch_demo": "Guarda la demo MusicMaker"
+    "watch_demo": "Guarda la demo MusicMaker",
+    "toolkit": {
+      "title": "Inizia gratis: strumenti per creare",
+      "bridge": "Un suono ti ispira? Crea prima una copertina e una breve scena. Scegli gli strumenti in base al prossimo passaggio.",
+      "note": "Le prime quattro righe contengono strumenti dichiarati gratuiti; la quinta raccoglie riferimenti. Verifica limiti, accesso e attese sulle pagine attuali. Generare canzoni o animare il canto può richiedere crediti o pagamenti. Consultare materiale pubblico non autorizza il riutilizzo.",
+      "rows": [
+        "🖼 Copertine e storyboard",
+        "🎬 Creare clip brevi",
+        "🎧 Cambiare la texture sonora",
+        "📦 Formati e dati del brano",
+        "📚 Materiali e prompt"
+      ],
+      "catalog": "Tutte le risorse e gli strumenti · inglese",
+      "nav": "Strumenti gratuiti",
+      "sources": "Stili e fonti · inglese"
+    }
   },
   "es": {
     "title": "Guía para crear vídeos musicales",
@@ -327,17 +387,17 @@
       "Deja una breve pausa y revela el cambio de escenario en un golpe fuerte."
     ],
     "x_note": "Los modelos son los que declaran los autores. Se comprobaron textos y medios mediante un espejo público de X; no se reprodujeron los vídeos. El análisis detallado está en inglés.",
-    "listen_intro": "Nueve canciones en tres columnas y tres filas. Compara ideas de portada y arreglos descritos en la fuente. Los dos tutoriales usan casos diferentes.",
+    "listen_intro": "Nueve contrastes en tres filas: del piano al rock, la orquesta y la pista de baile. Compara densidad y ritmo. Los estilos proceden del campo Style; las ideas de vídeo son propuestas editoriales.",
     "cover_notes": [
-      "Portada: escenario de neón",
-      "Portada: piano junto a la ventana",
-      "Portada: carretera abierta",
-      "Portada: costa de verano",
-      "Fuente: compás de 6/8, guitarra, piano y violonchelo",
-      "Fuente: guitarra acústica, contrabajo, cuerdas y voz masculina",
-      "Portada: cartas y café",
-      "Portada: azotea urbana",
-      "Portada: calle soleada"
+      "Piano solo · planos largos",
+      "Rock moderno · cortes fuertes",
+      "Orquesta épica · grandes paisajes",
+      "Jazz lo-fi · bucle de lluvia",
+      "House progresivo · subida y cambio",
+      "Balada country · historia cálida",
+      "Electrónica ambiental · formas abstractas",
+      "Hip-hop · cortes precisos",
+      "R&B electrónico · primer plano emotivo"
     ],
     "play": "Escuchar canción",
     "first_intro": "La portada de Living on the Brightside inspira un vídeo natural de 16 segundos con arcoíris, arroyo y flores. Es una portada musical, no un fotograma.",
@@ -382,7 +442,22 @@
       "Empieza con cámara fija. Compara labios y sonido al inicio, centro y final. Un desfase constante puede ajustarse editando; si crece, acorta la frase y vuelve a generar. Reduce los gestos si cambia el rostro.",
       "Usa la voz original o el sonido generado, eliminando la pista duplicada. Añade el título y exporta MP4. Comprueba que la frase y la respiración terminan completas antes de probar un acercamiento lento."
     ],
-    "watch_demo": "Ver ejemplo de MusicMaker"
+    "watch_demo": "Ver ejemplo de MusicMaker",
+    "toolkit": {
+      "title": "Empieza gratis: herramientas de creación",
+      "bridge": "¿Te inspira un sonido? Crea primero una portada y una escena breve. Elige cada herramienta según el siguiente paso.",
+      "note": "Las primeras cuatro filas ofrecen herramientas anunciadas como gratuitas; la quinta reúne referencias. Consulta los límites, el inicio de sesión y las esperas en cada página. Generar canciones o animar un cantante puede requerir créditos o pago. Consultar material público no autoriza su reutilización.",
+      "rows": [
+        "🖼 Portadas y guiones visuales",
+        "🎬 Crear clips breves",
+        "🎧 Cambiar la textura sonora",
+        "📦 Formatos y datos de la canción",
+        "📚 Materiales y prompts"
+      ],
+      "catalog": "Todos los recursos y herramientas · inglés",
+      "nav": "Herramientas gratis",
+      "sources": "Estilos y fuentes · inglés"
+    }
   },
   "pt": {
     "title": "Guia para criar videoclipes",
@@ -404,17 +479,17 @@
       "Deixe uma pausa breve e revele a mudança no tempo forte."
     ],
     "x_note": "Os nomes dos modelos foram informados pelos autores. Texto e mídia foram conferidos em um espelho público do X; não reproduzimos os vídeos. As análises detalhadas estão em inglês.",
-    "listen_intro": "Nove músicas em três colunas e três linhas. Compare ideias das capas e arranjos descritos na fonte. Os dois tutoriais usam outros exemplos.",
+    "listen_intro": "Nove contrastes em três linhas: piano, rock, orquestra e pista de dança. Compare densidade e ritmo. Os estilos vêm do campo Style da fonte; as ideias de vídeo são sugestões editoriais.",
     "cover_notes": [
-      "Capa: palco de neon",
-      "Capa: piano à janela",
-      "Capa: estrada aberta",
-      "Capa: litoral no verão",
-      "Fonte: compasso 6/8, violão, piano e violoncelo",
-      "Fonte: violão, contrabaixo, cordas e voz masculina",
-      "Capa: cartas e café",
-      "Capa: terraço urbano",
-      "Capa: rua ensolarada"
+      "Piano solo · planos longos",
+      "Rock moderno · cortes fortes",
+      "Orquestra épica · grandes cenários",
+      "Jazz lo-fi · chuva em loop",
+      "House progressivo · subida e mudança",
+      "Balada country · história acolhedora",
+      "Eletrônica ambiente · formas abstratas",
+      "Hip-hop · cortes marcantes",
+      "R&B eletrônico · emoção em close"
     ],
     "play": "Ouvir música",
     "first_intro": "A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores. É uma capa musical, não um quadro de vídeo.",
@@ -459,7 +534,22 @@
       "Comece com câmera fixa. Compare boca e voz no início, meio e fim. Um atraso constante pode ser ajustado na edição; se aumentar, encurte a frase e gere novamente. Reduza gestos se o rosto mudar.",
       "Use a voz original ou o som gerado e remova a faixa duplicada. Adicione o título e exporte MP4. Confira a frase e a respiração completas; só depois experimente uma aproximação lenta."
     ],
-    "watch_demo": "Ver exemplo MusicMaker"
+    "watch_demo": "Ver exemplo MusicMaker",
+    "toolkit": {
+      "title": "Comece grátis: ferramentas de criação",
+      "bridge": "Gostou de um som? Crie uma capa e uma cena curta primeiro. Escolha as ferramentas conforme a próxima etapa.",
+      "note": "As primeiras quatro linhas mostram ferramentas anunciadas como gratuitas; a quinta reúne referências. Confira limites, login e filas em cada página. Gerar músicas ou animar canto pode exigir créditos ou pagamento. Consultar material público não autoriza reutilizá-lo.",
+      "rows": [
+        "🖼 Capas e roteiros visuais",
+        "🎬 Criar clipes curtos",
+        "🎧 Mudar a textura sonora",
+        "📦 Formatos e dados da música",
+        "📚 Materiais e prompts"
+      ],
+      "catalog": "Todos os recursos e ferramentas · inglês",
+      "nav": "Ferramentas grátis",
+      "sources": "Estilos e fontes · inglês"
+    }
   },
   "fr": {
     "title": "Guide de création de clips musicaux",
@@ -481,17 +571,17 @@
       "Ménagez une courte pause, puis révélez le changement sur un temps fort."
     ],
     "x_note": "Les modèles sont ceux déclarés par les auteurs. Texte et médias ont été vérifiés via un miroir public de X ; les vidéos n’ont pas été reproduites. Les analyses détaillées sont en anglais.",
-    "listen_intro": "Neuf titres sur trois colonnes et trois lignes. Comparez les idées de pochettes et les arrangements décrits à la source. Les deux tutoriels utilisent d’autres œuvres.",
+    "listen_intro": "Neuf contrastes sur trois lignes : piano, rock, orchestre et danse. Écoutez la densité et le rythme. Les styles viennent du champ Style des sources ; les idées vidéo sont nos suggestions.",
     "cover_notes": [
-      "Pochette : scène au néon",
-      "Pochette : piano près de la fenêtre",
-      "Pochette : route ouverte",
-      "Pochette : côte estivale",
-      "Source : mesure à 6/8, guitare, piano et violoncelle",
-      "Source : guitare acoustique, contrebasse, cordes et voix masculine",
-      "Pochette : lettres et café",
-      "Pochette : toit urbain",
-      "Pochette : rue ensoleillée"
+      "Piano solo · plans longs",
+      "Rock moderne · coupes marquées",
+      "Orchestre épique · grands paysages",
+      "Jazz lo-fi · boucle sous la pluie",
+      "House progressive · montée et bascule",
+      "Ballade country · récit chaleureux",
+      "Électronique ambient · formes abstraites",
+      "Hip-hop · coupes nettes",
+      "R&B électronique · gros plans expressifs"
     ],
     "play": "Écouter le morceau",
     "first_intro": "La pochette de Living on the Brightside inspire un film de nature de 16 secondes : arc-en-ciel, ruisseau et fleurs. C’est une pochette de chanson, pas une image de vidéo.",
@@ -536,7 +626,22 @@
       "Commencez par un gros plan fixe. Comparez bouche et son au début, au milieu et à la fin. Un décalage constant peut se régler au montage ; s’il augmente, raccourcissez la phrase et régénérez. Réduisez les hochements si le visage change.",
       "Gardez soit le chant original, soit le son généré, sans doublon. Ajoutez le titre puis exportez en MP4. Vérifiez que la phrase et la respiration finales sont complètes avant d’essayer un lent rapprochement de caméra."
     ],
-    "watch_demo": "Voir la démonstration MusicMaker"
+    "watch_demo": "Voir la démonstration MusicMaker",
+    "toolkit": {
+      "title": "Commencer gratuitement : les outils de création",
+      "bridge": "Un son vous inspire ? Créez une pochette puis une courte scène. Choisissez ensuite l’outil qui répond à votre prochaine étape.",
+      "note": "Les quatre premières lignes proposent des outils annoncés gratuits ; la cinquième regroupe des références. Vérifiez les quotas, la connexion et les délais sur chaque page. La création de chansons et le chant animé peuvent nécessiter des crédits ou un paiement. Consulter une ressource publique ne donne pas le droit de la réutiliser.",
+      "rows": [
+        "🖼 Pochettes et storyboards",
+        "🎬 Créer de courts clips",
+        "🎧 Changer la texture sonore",
+        "📦 Formats et informations du titre",
+        "📚 Ressources et prompts"
+      ],
+      "catalog": "Tous les outils et ressources · anglais",
+      "nav": "Outils gratuits",
+      "sources": "Styles et sources · anglais"
+    }
   },
   "de": {
     "title": "Leitfaden für eigene Musikvideos",
@@ -558,17 +663,17 @@
       "Lass eine kurze Pause und zeige die Veränderung auf einem starken Schlag."
     ],
     "x_note": "Die Modellnamen stammen von den Urhebern. Text und Medien wurden über einen öffentlichen X-Spiegel geprüft; die Videos wurden nicht nachproduziert. Ausführliche Erläuterungen sind auf Englisch.",
-    "listen_intro": "Neun Songs in drei Spalten und drei Reihen. Vergleiche Coverideen und belegte Arrangementangaben. Die beiden folgenden Übungsfälle sind nicht Teil dieser Auswahl.",
+    "listen_intro": "Neun Kontraste in drei Reihen: von Klavier über Rock und Orchester bis zur Tanzfläche. Hör auf Dichte und Rhythmus. Genres stammen aus dem Style-Feld der Quelle; Bildideen sind redaktionelle Vorschläge.",
     "cover_notes": [
-      "Coveridee: Neonbühne",
-      "Coveridee: Klavier am Fenster",
-      "Coveridee: offene Straße",
-      "Coveridee: Sommerküste",
-      "Quelle: 6/8-Takt, Gitarre, Klavier und Cello",
-      "Quelle: Akustikgitarre, Kontrabass, Streicher und Männerstimme",
-      "Cover: Briefe und Kaffee",
-      "Cover: Dach über der Stadt",
-      "Cover: sonnige Straße"
+      "Klaviersolo · lange Einstellungen",
+      "Moderner Rock · harte Taktschnitte",
+      "Episches Orchester · weite Szenen",
+      "Lo-Fi-Jazz · Regenschleifen",
+      "Progressive House · Steigerung und Wechsel",
+      "Country-Ballade · warme Geschichten",
+      "Ambient-Elektronik · abstrakte Formen",
+      "Hip-Hop · markante Schnitte",
+      "Elektronischer R&B · emotionale Nahaufnahme"
     ],
     "play": "Titel anhören",
     "first_intro": "Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen. Es ist ein Songcover, kein Videoframe.",
@@ -613,7 +718,22 @@
       "Beginne mit einer festen Nahaufnahme. Vergleiche Mund und Ton am Anfang, in der Mitte und am Ende. Konstante Versätze lassen sich schneiden; wachsende Abweichungen brauchen eine kürzere Phrase oder neue Generierung. Bei Gesichtsdrift auch Nicken reduzieren.",
       "Nutze entweder Originalgesang oder generierten Ton und entferne die doppelte Spur. Ergänze den Songtitel und exportiere MP4. Prüfe die vollständige Phrase samt Atemschluss. Erst danach probierst du eine langsame Kamerafahrt nach vorn."
     ],
-    "watch_demo": "Markenbeispiel ansehen"
+    "watch_demo": "Markenbeispiel ansehen",
+    "toolkit": {
+      "title": "Kostenlos starten: Werkzeuge für dein Video",
+      "bridge": "Ein Klang gefällt dir? Erstelle zuerst ein Cover und eine kurze Szene. Wähle die Werkzeuge passend zum nächsten Arbeitsschritt.",
+      "note": "Die ersten vier Zeilen zeigen als kostenlos beworbene Werkzeuge; die fünfte enthält Referenzen. Prüfe aktuelle Kontingente, Anmeldung und Wartezeiten auf der jeweiligen Seite. Songerzeugung und Porträtgesang können Kontingente oder Zahlungen erfordern. Öffentliches Material ist nicht automatisch zur Wiederverwendung freigegeben.",
+      "rows": [
+        "🖼 Cover und Storyboards",
+        "🎬 Kurze Clips erzeugen",
+        "🎧 Klangtextur verändern",
+        "📦 Formate und Songdaten",
+        "📚 Material und Prompts"
+      ],
+      "catalog": "Alle Ressourcen und Werkzeuge · Englisch",
+      "nav": "Gratis-Werkzeuge",
+      "sources": "Stile und Quellen · Englisch"
+    }
   },
   "ru": {
     "title": "Руководство по созданию музыкальных видео",
@@ -635,17 +755,17 @@
       "Оставьте небольшую паузу и покажите смену сцены на сильную долю."
     ],
     "x_note": "Названия моделей указаны авторами. Тексты и материалы проверены через публичное зеркало X; видео не воспроизводились заново. Подробные разборы доступны на английском.",
-    "listen_intro": "Девять песен: три столбца и три ряда. Сравните идеи обложек и описания аранжировки из источников. Два учебных примера ниже не входят в эту подборку.",
+    "listen_intro": "Девять контрастов в трёх рядах: фортепиано, рок, оркестр и танцевальная музыка. Сравните плотность звука и ритм. Жанры взяты из поля Style; идеи видео предложены редакцией.",
     "cover_notes": [
-      "Обложка: неоновая сцена",
-      "Обложка: пианино у окна",
-      "Обложка: открытая дорога",
-      "Обложка: летнее побережье",
-      "Описание источника: размер 6/8, гитара, пианино и виолончель",
-      "Описание источника: акустическая гитара, контрабас, струнные и мужской вокал",
-      "Обложка: письма и кофе",
-      "Обложка: городская крыша",
-      "Обложка: солнечная улица"
+      "Соло фортепиано · длинные планы",
+      "Современный рок · резкие склейки",
+      "Эпический оркестр · просторные сцены",
+      "Лоу-фай-джаз · дождевой цикл",
+      "Прогрессив-хаус · нарастание и смена",
+      "Кантри-баллада · тёплая история",
+      "Эмбиент-электроника · абстракция",
+      "Хип-хоп · чёткие склейки",
+      "Электронный R&B · эмоции крупным планом"
     ],
     "play": "Слушать песню",
     "first_intro": "Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы. Это музыкальная обложка, не кадр видео.",
@@ -690,7 +810,22 @@
       "Начните с неподвижной камеры. Сравните губы и звук в начале, середине и конце. Постоянное смещение можно поправить монтажом; растущее требует более короткой фразы или новой генерации. При изменении лица уменьшите кивки.",
       "Оставьте исходный вокал либо сгенерированный звук, удалив дублирующую дорожку. Добавьте название, экспортируйте MP4 и проверьте целую фразу с дыханием в конце. Лишь затем пробуйте медленное приближение."
     ],
-    "watch_demo": "Смотреть пример MusicMaker"
+    "watch_demo": "Смотреть пример MusicMaker",
+    "toolkit": {
+      "title": "Начните бесплатно: инструменты для творчества",
+      "bridge": "Понравился звук? Сначала создайте обложку и короткую сцену. Выбирайте инструмент под следующий шаг.",
+      "note": "Первые четыре строки содержат инструменты, заявленные как бесплатные; пятая — справочные материалы. Лимиты, вход и очереди проверяйте на текущих страницах. Создание песен и анимация пения могут требовать кредитов или оплаты. Просмотр открытого материала не даёт права повторного использования.",
+      "rows": [
+        "🖼 Обложки и раскадровки",
+        "🎬 Короткие клипы",
+        "🎧 Изменение фактуры звука",
+        "📦 Форматы и данные песни",
+        "📚 Материалы и промпты"
+      ],
+      "catalog": "Все ресурсы и инструменты · английский",
+      "nav": "Бесплатные инструменты",
+      "sources": "Стили и источники · английский"
+    }
   },
   "vi": {
     "title": "Hướng dẫn làm video âm nhạc",
@@ -712,17 +847,17 @@
       "Chừa một khoảng lặng ngắn rồi hé lộ thay đổi ở nhịp mạnh."
     ],
     "x_note": "Tên mô hình do tác giả công bố. Nội dung và tư liệu được kiểm tra qua bản sao công khai của X; chúng tôi chưa tái tạo các video. Phân tích chi tiết bằng tiếng Anh.",
-    "listen_intro": "Chín bài hát trong ba cột, ba hàng. So sánh ý tưởng bìa và mô tả phối khí từ nguồn. Hai bài hướng dẫn bên dưới dùng ví dụ khác.",
+    "listen_intro": "Chín phong cách tương phản trong ba hàng: piano, rock, dàn nhạc và nhạc nhảy. So sánh độ dày âm thanh và nhịp điệu. Thể loại dựa trên mục Style; ý tưởng video là đề xuất biên tập.",
     "cover_notes": [
-      "Ý tưởng ảnh bìa: sân khấu neon",
-      "Ý tưởng ảnh bìa: đàn piano bên cửa sổ",
-      "Ý tưởng ảnh bìa: con đường rộng mở",
-      "Ý tưởng ảnh bìa: bờ biển mùa hè",
-      "Nguồn mô tả: nhịp 6/8, guitar, piano và cello",
-      "Nguồn mô tả: guitar mộc, bass, đàn dây và giọng nam",
-      "Bìa: thư và cà phê",
-      "Bìa: sân thượng thành phố",
-      "Bìa: con phố đầy nắng"
+      "Piano độc tấu · cảnh dài",
+      "Rock hiện đại · cắt theo nhịp mạnh",
+      "Dàn nhạc sử thi · toàn cảnh rộng",
+      "Jazz lo-fi · vòng lặp mưa",
+      "Progressive house · cao trào đổi cảnh",
+      "Ballad đồng quê · chuyện ấm áp",
+      "Điện tử ambient · hình trừu tượng",
+      "Hip-hop · điểm cắt rõ",
+      "R&B điện tử · cận cảnh cảm xúc"
     ],
     "play": "Nghe bài hát",
     "first_intro": "Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.",
@@ -767,7 +902,22 @@
       "Bắt đầu bằng máy quay cố định. So môi với âm thanh ở đầu, giữa, cuối. Lệch đều có thể chỉnh khi dựng; lệch tăng dần thì rút ngắn câu hoặc tạo lại. Giảm gật đầu nếu khuôn mặt thay đổi.",
       "Chọn giọng gốc hoặc âm thanh được tạo, xóa đường tiếng trùng. Thêm tên bài rồi xuất MP4. Kiểm tra câu hát và hơi thở kết thúc đầy đủ trước khi thử máy quay tiến chậm."
     ],
-    "watch_demo": "Xem video mẫu MusicMaker"
+    "watch_demo": "Xem video mẫu MusicMaker",
+    "toolkit": {
+      "title": "Bắt đầu miễn phí: bộ công cụ sáng tạo",
+      "bridge": "Đã chọn được âm thanh yêu thích? Hãy làm bìa và một cảnh ngắn trước. Chọn công cụ theo bước tiếp theo.",
+      "note": "Bốn hàng đầu là công cụ được công bố miễn phí; hàng thứ năm là tư liệu tham khảo. Kiểm tra hạn mức, đăng nhập và thời gian chờ trên trang hiện tại. Tạo bài hát và hoạt ảnh ca sĩ có thể cần hạn mức hoặc trả phí. Xem tài liệu công khai không đồng nghĩa được tái sử dụng.",
+      "rows": [
+        "🖼 Bìa và phân cảnh",
+        "🎬 Tạo đoạn phim ngắn",
+        "🎧 Đổi chất âm",
+        "📦 Định dạng và thông tin bài hát",
+        "📚 Tư liệu và câu lệnh"
+      ],
+      "catalog": "Tất cả tư liệu và công cụ · tiếng Anh",
+      "nav": "Công cụ miễn phí",
+      "sources": "Phong cách và nguồn · tiếng Anh"
+    }
   },
   "th": {
     "title": "คู่มือสร้างมิวสิกวิดีโอ",
@@ -789,17 +939,17 @@
       "เว้นจังหวะนิ่งสั้น ๆ แล้วเผยการเปลี่ยนฉากตรงจังหวะหนัก"
     ],
     "x_note": "ชื่อโมเดลเป็นข้อมูลจากผู้สร้าง ตรวจข้อความและสื่อผ่านสำเนาสาธารณะของ X แต่ยังไม่ได้สร้างวิดีโอซ้ำ คำอธิบายละเอียดเป็นภาษาอังกฤษ",
-    "listen_intro": "ฟังเก้าเพลงในสามคอลัมน์สามแถว เปรียบเทียบแนวคิดจากปกกับคำอธิบายการเรียบเรียงจากต้นทาง สองบทเรียนด้านล่างใช้คนละกรณี",
+    "listen_intro": "เก้าสไตล์ที่ต่างกันในสามแถว ตั้งแต่เปียโน ร็อก ออร์เคสตรา ไปจนถึงเพลงเต้นรำ ลองฟังความหนาแน่นของเสียงและจังหวะ สไตล์อ้างอิงช่อง Style ส่วนแนวคิดวิดีโอเป็นข้อเสนอของผู้เขียน",
     "cover_notes": [
-      "แนวคิดจากปก: เวทีนีออน",
-      "แนวคิดจากปก: เปียโนริมหน้าต่าง",
-      "แนวคิดจากปก: ถนนโล่ง",
-      "แนวคิดจากปก: ชายฝั่งฤดูร้อน",
-      "ต้นทางระบุ: จังหวะ 6/8 กีตาร์ เปียโน และเชลโล",
-      "ต้นทางระบุ: กีตาร์อะคูสติก เบส เครื่องสาย และเสียงร้องชาย",
-      "ปก: จดหมายและกาแฟ",
-      "ปก: ดาดฟ้าในเมือง",
-      "ปก: ถนนกลางแดด"
+      "เปียโนเดี่ยว · ช็อตยาว",
+      "ร็อกร่วมสมัย · ตัดตรงจังหวะหนัก",
+      "ออร์เคสตรายิ่งใหญ่ · ฉากกว้าง",
+      "แจ๊สโลไฟ · ภาพฝนวนซ้ำ",
+      "โปรเกรสซีฟเฮาส์ · ไต่ระดับแล้วเปลี่ยนฉาก",
+      "คันทรีบัลลาด · เรื่องราวอบอุ่น",
+      "อิเล็กทรอนิกส์แอมเบียนต์ · ภาพนามธรรม",
+      "ฮิปฮอป · จุดตัดชัดเจน",
+      "อาร์แอนด์บีอิเล็กทรอนิกส์ · ภาพใกล้สื่ออารมณ์"
     ],
     "play": "ฟังเพลง",
     "first_intro": "ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ",
@@ -844,7 +994,22 @@
       "เริ่มด้วยกล้องนิ่ง เปรียบเทียบปากกับเสียงช่วงต้น กลาง และท้าย หากเหลื่อมเท่ากันอาจขยับตอนตัดต่อได้ หากเหลื่อมมากขึ้นให้ย่อวรรคแล้วสร้างใหม่ ลดการพยักหน้าถ้าหน้าเปลี่ยน",
       "เลือกเสียงต้นฉบับหรือเสียงที่สร้างเพียงหนึ่งแบบ ลบแทร็กซ้ำ ใส่ชื่อเพลงแล้วส่งออก MP4 ตรวจให้ร้องและหายใจจบครบ ก่อนค่อยลองกล้องเคลื่อนเข้าอย่างช้าในรอบถัดไป"
     ],
-    "watch_demo": "ชมตัวอย่าง MusicMaker"
+    "watch_demo": "ชมตัวอย่าง MusicMaker",
+    "toolkit": {
+      "title": "เริ่มฟรี: คลังเครื่องมือสร้างสรรค์",
+      "bridge": "เจอเสียงที่ชอบแล้ว ลองทำปกและฉากสั้นก่อน เลือกเครื่องมือให้ตรงกับขั้นตอนถัดไป",
+      "note": "สี่แถวแรกเป็นเครื่องมือที่หน้าเว็บระบุว่าใช้ฟรี ส่วนแถวที่ห้าเป็นสื่ออ้างอิง โปรดตรวจสอบโควตา การเข้าสู่ระบบ และคิวบนหน้าเว็บปัจจุบัน การสร้างเพลงและวิดีโอร้องเพลงอาจใช้โควตาหรือมีค่าใช้จ่าย การดูสื่อสาธารณะไม่ได้ให้สิทธิ์ใช้ซ้ำ",
+      "rows": [
+        "🖼 ปกและสตอรีบอร์ด",
+        "🎬 สร้างคลิปสั้น",
+        "🎧 เปลี่ยนเนื้อเสียง",
+        "📦 รูปแบบไฟล์และข้อมูลเพลง",
+        "📚 สื่อและพรอมต์"
+      ],
+      "catalog": "สื่อและเครื่องมือทั้งหมด · อังกฤษ",
+      "nav": "เครื่องมือฟรี",
+      "sources": "สไตล์และแหล่งที่มา · อังกฤษ"
+    }
   },
   "ar": {
     "title": "دليل إنشاء الفيديو الموسيقي",
@@ -866,17 +1031,17 @@
       "اترك وقفة قصيرة ثم اكشف التغير مع الضربة الموسيقية القوية."
     ],
     "x_note": "أسماء النماذج بحسب تصريحات أصحاب الأعمال. جرى التحقق من النصوص والوسائط عبر مرآة عامة لمنصة X، دون إعادة إنتاج الفيديوهات. الشروح التفصيلية بالإنجليزية.",
-    "listen_intro": "تسع أغانٍ في ثلاثة أعمدة وثلاثة صفوف. قارن أفكار الأغلفة ووصف التوزيع الوارد في المصادر. مثالا الشرح أدناه مختلفان عن هذه المجموعة.",
+    "listen_intro": "تسعة تباينات في ثلاثة صفوف: من البيانو إلى الروك والأوركسترا والرقص. قارن كثافة الصوت والإيقاع. الأنماط من حقل Style في المصدر، وأفكار الفيديو اقتراحات تحريرية.",
     "cover_notes": [
-      "فكرة الغلاف: مسرح نيون",
-      "فكرة الغلاف: بيانو قرب النافذة",
-      "فكرة الغلاف: طريق مفتوح",
-      "فكرة الغلاف: ساحل صيفي",
-      "وصف المصدر: ميزان 6/8 وغيتار وبيانو وتشيلو",
-      "وصف المصدر: غيتار صوتي وكونترباص ووتريات وغناء رجالي",
-      "الغلاف: رسائل وقهوة",
-      "الغلاف: سطح في المدينة",
-      "الغلاف: شارع مشمس"
+      "بيانو منفرد · لقطات طويلة",
+      "روك حديث · قطع على الضربات",
+      "أوركسترا ملحمية · مشاهد واسعة",
+      "جاز لو فاي · مطر متكرر",
+      "هاوس تدريجي · تصاعد وتحوّل",
+      "بالاد كانتري · حكاية دافئة",
+      "إلكتروني محيطي · أشكال تجريدية",
+      "هيب هوب · قطع واضح",
+      "آر أند بي إلكتروني · تعبيرات قريبة"
     ],
     "play": "استمع للأغنية",
     "first_intro": "استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.",
@@ -921,6 +1086,21 @@
       "ابدأ بكاميرا ثابتة. قارن الفم والصوت في البداية والوسط والنهاية. التأخير الثابت يمكن تعديله بالمونتاج؛ إذا زاد مع الوقت فقصّر الجملة وأعد التوليد. قلل الإيماء إذا تغير الوجه.",
       "اختر الصوت الأصلي أو المولّد واحذف المسار المكرر. أضف عنوان الأغنية وصدّر MP4. تأكد من اكتمال الجملة والنفس الأخير قبل تجربة اقتراب بطيء للكاميرا في محاولة لاحقة."
     ],
-    "watch_demo": "شاهد مثال MusicMaker"
+    "watch_demo": "شاهد مثال MusicMaker",
+    "toolkit": {
+      "title": "ابدأ مجانًا: مكتبة أدوات الإبداع",
+      "bridge": "أعجبك أحد الأصوات؟ اصنع غلافًا ومشهدًا قصيرًا أولًا، ثم اختر الأداة المناسبة للخطوة التالية.",
+      "note": "الصفوف الأربعة الأولى أدوات تعلن صفحاتها الاستخدام المجاني؛ الخامس مراجع. تحقق من الحصص وتسجيل الدخول والانتظار في الصفحات الحالية. إنشاء الأغاني وتحريك الغناء قد يتطلبان رصيدًا أو دفعًا. مشاهدة المواد العامة لا تمنح حق إعادة استخدامها.",
+      "rows": [
+        "🖼 أغلفة ولوحات لقطات",
+        "🎬 إنشاء مقاطع قصيرة",
+        "🎧 تغيير نسيج الصوت",
+        "📦 الصيغ وبيانات الأغنية",
+        "📚 مواد وأوامر جاهزة"
+      ],
+      "catalog": "جميع الموارد والأدوات · بالإنجليزية",
+      "nav": "أدوات مجانية",
+      "sources": "الأنماط والمصادر · بالإنجليزية"
+    }
   }
 }

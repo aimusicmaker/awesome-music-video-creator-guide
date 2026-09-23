@@ -6,7 +6,7 @@
 
 **Gib einem Song Bilder, die man bis zum Ende sehen möchte. Schau dir Beispiele an, wähle eine Idee und stelle dein erstes kurzes Video fertig.**
 
-<p align="center"><a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ Beispiele auf X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker anhören</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Erstes Video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Nächste Übung</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Gratis-Werkzeuge</kbd></a></p>
 
 [![Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und exportieren. Eine eigens erstellte Ablaufgrafik mit Gesang, Reise und abstrakten Musikbildern, kein Nachweis fertiger KI-Videos.](assets/music-video-workflow.png)](#first-video)
 
@@ -39,27 +39,29 @@ Die Modellnamen stammen von den Urhebern. Text und Medien wurden über einen öf
 
 ## MusicMaker anhören
 
-Neun Songs in drei Spalten und drei Reihen. Vergleiche Coverideen und belegte Arrangementangaben. Die beiden folgenden Übungsfälle sind nicht Teil dieser Auswahl.
+Neun Kontraste in drei Reihen: von Klavier über Rock und Orchester bis zur Tanzfläche. Hör auf Dichte und Rhythmus. Genres stammen aus dem Style-Feld der Quelle; Bildideen sind redaktionelle Vorschläge.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Coveridee: Neonbühne<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Titel anhören</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Coveridee: Klavier am Fenster<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Titel anhören</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Coveridee: offene Straße<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>Klaviersolo</b><br><sub>lange Einstellungen</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>Moderner Rock</b><br><sub>harte Taktschnitte</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>Episches Orchester</b><br><sub>weite Szenen</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ Titel anhören</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Coveridee: Sommerküste<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Titel anhören</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Quelle: 6/8-Takt, Gitarre, Klavier und Cello<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Titel anhören</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Quelle: Akustikgitarre, Kontrabass, Streicher und Männerstimme<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>Lo-Fi-Jazz</b><br><sub>Regenschleifen</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>Progressive House</b><br><sub>Steigerung und Wechsel</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>Country-Ballade</b><br><sub>warme Geschichten</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ Titel anhören</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Cover: Briefe und Kaffee<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Titel anhören</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Cover: Dach über der Stadt<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Titel anhören</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Cover: sonnige Straße<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>Ambient-Elektronik</b><br><sub>abstrakte Formen</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>Hip-Hop</b><br><sub>markante Schnitte</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ Titel anhören</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>Elektronischer R&amp;B</b><br><sub>emotionale Nahaufnahme</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ Titel anhören</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
+
+Ein Klang gefällt dir? Erstelle zuerst ein Cover und eine kurze Szene. Wähle die Werkzeuge passend zum nächsten Arbeitsschritt. [→ Gratis-Werkzeuge](#toolkit) · [↗ Stile und Quellen · Englisch](docs/listening-notes.md)
 
 <a id="first-video"></a>
 
@@ -144,6 +146,22 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 Gleiche Person, sichtbare Lippen, eine Tonspur, natürlicher Abschluss. Ein Prompt garantiert weder Originalton noch präzise Lippensynchronität.
 
 [→ Anleitung · Englisch](docs/first-video.md#vocal)
+
+<a id="toolkit"></a>
+
+## Kostenlos starten: Werkzeuge für dein Video
+
+Die ersten vier Zeilen zeigen als kostenlos beworbene Werkzeuge; die fünfte enthält Referenzen. Prüfe aktuelle Kontingente, Anmeldung und Wartezeiten auf der jeweiligen Seite. Songerzeugung und Porträtgesang können Kontingente oder Zahlungen erfordern. Öffentliches Material ist nicht automatisch zur Wiederverwendung freigegeben.
+
+<table>
+<tr><td width="35%"><b>🖼 Cover und Storyboards</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 Kurze Clips erzeugen</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 Klangtextur verändern</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 Formate und Songdaten</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 Material und Prompts</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+</table>
+
+[→ Alle Ressourcen und Werkzeuge · Englisch](docs/brand-resources.md)
 
 ## Offizielle Modellquellen
 

@@ -104,8 +104,8 @@ locale_copy = json.loads((ROOT/'i18n/readme-locales.json').read_text())
 languages = json.loads((ROOT/'i18n/languages.json').read_text())['languages']
 if len(languages) != 15 or len({x['code'] for x in languages}) != 15:
     errors.append('Expected the 15 language options recorded from the brand website')
-if len(gallery['x']) != 6 or len(gallery['brand']) != 12:
-    errors.append('Expected six X cases and twelve cataloged brand references')
+if len(gallery['x']) != 6 or len({x['id'] for x in gallery['brand']}) != len(gallery['brand']):
+    errors.append('Expected six X cases and unique cataloged brand references')
 if len(set(gallery['listening'])) != 9:
     errors.append('Listening shelf must contain nine distinct tracks')
 if len({item['post'] for item in gallery['x']}) != len(gallery['x']):
@@ -144,7 +144,7 @@ for language in languages:
         errors.append('Tutorials must use exactly two cases outside the listening shelf')
     for marker,case,prompt_count in [('first-video','brightside',4),('next-project','performance-2',1)]:
         part = content.split(f'<a id="{marker}"></a>',1)[-1]
-        part = part.split('<a id="next-project"></a>',1)[0] if marker == 'first-video' else part
+        part = part.split('<a id="next-project"></a>',1)[0] if marker == 'first-video' else part.split('<a id="toolkit"></a>',1)[0]
         images = GalleryParser(); images.feed(part)
         if len(images.images) != 1:
             errors.append(f'{filename}: {marker} must illustrate exactly one case')
@@ -159,7 +159,7 @@ for language in languages:
     for destination in languages:
         if destination['code'] != language['code'] and f'href="{destination["file"]}"' not in content:
             errors.append(f'{filename}: missing language switch to {destination["file"]}')
-    order = [content.find(f'<a id="{a}">') for a in ['x-creators','listen','first-video','next-project']]
+    order = [content.find(f'<a id="{a}">') for a in ['x-creators','listen','first-video','next-project','toolkit']]
     if min(order) < 0 or order != sorted(order):
         errors.append(f'{filename}: incorrect reader journey section order')
 workflow = (ROOT/'assets/music-video-workflow.png').read_bytes()

@@ -1,0 +1,454 @@
+{
+  "checked_on": "2026-09-23",
+  "source": "https://musicmaker.im/discover/",
+  "scope": "All six creative/tool/model groups in the public site footer at check time. Resource links below supplement it. Not a guarantee that every route is free or every individual catalog item is indexed.",
+  "groups": [
+    {
+      "name_zh": "创作工作台",
+      "name": "Creative workspaces",
+      "entries": [
+        {
+          "label": "AI Create",
+          "url": "https://musicmaker.im/create/"
+        },
+        {
+          "label": "AI Canvas",
+          "url": "https://musicmaker.im/ai-canvas/"
+        },
+        {
+          "label": "Flow Music Canvas",
+          "url": "https://musicmaker.im/flow-music-canvas/"
+        }
+      ]
+    },
+    {
+      "name_zh": "音乐制作与处理",
+      "name": "Music creation and processing",
+      "entries": [
+        {
+          "label": "AI Song Generator",
+          "url": "https://musicmaker.im/ai-song-generator/"
+        },
+        {
+          "label": "AI Song Cover Generator",
+          "url": "https://musicmaker.im/ai-song-cover-generator/"
+        },
+        {
+          "label": "AI Music Video Generator",
+          "url": "https://musicmaker.im/ai-music-video-generator/"
+        },
+        {
+          "label": "Text to Music",
+          "url": "https://musicmaker.im/text-to-music/"
+        },
+        {
+          "label": "Audio to Music",
+          "url": "https://musicmaker.im/audio-to-music/"
+        },
+        {
+          "label": "Image to Music",
+          "url": "https://musicmaker.im/image-to-music/"
+        },
+        {
+          "label": "Lyrics to Song",
+          "url": "https://musicmaker.im/lyrics-to-song/"
+        },
+        {
+          "label": "AI Voice Changer",
+          "url": "https://musicmaker.im/ai-voice-changer/"
+        },
+        {
+          "label": "Mureka Music AI",
+          "url": "https://musicmaker.im/mureka-music-ai/"
+        },
+        {
+          "label": "AI Rap Generator",
+          "url": "https://musicmaker.im/ai-rap-generator/"
+        },
+        {
+          "label": "Piano Music Maker",
+          "url": "https://musicmaker.im/piano-music-maker/"
+        },
+        {
+          "label": "AI Instrumental Maker",
+          "url": "https://musicmaker.im/ai-instrumental-maker/"
+        },
+        {
+          "label": "AI Country Generator",
+          "url": "https://musicmaker.im/ai-country-generator/"
+        },
+        {
+          "label": "AI Birthday Music Generator",
+          "url": "https://musicmaker.im/ai-birthday-music-generator/"
+        },
+        {
+          "label": "AI EDM Generator",
+          "url": "https://musicmaker.im/ai-edm-generator/"
+        },
+        {
+          "label": "AI Jazz Generator",
+          "url": "https://musicmaker.im/ai-jazz-generator/"
+        },
+        {
+          "label": "AI Pop Generator",
+          "url": "https://musicmaker.im/ai-pop-generator/"
+        },
+        {
+          "label": "AI Rock Generator",
+          "url": "https://musicmaker.im/ai-rock-generator/"
+        },
+        {
+          "label": "AI Beat Music Generator",
+          "url": "https://musicmaker.im/ai-beat-music-generator/"
+        },
+        {
+          "label": "AI Dance Pop Music Generator",
+          "url": "https://musicmaker.im/ai-dance-pop-music-generator/"
+        },
+        {
+          "label": "Phonk Music Maker",
+          "url": "https://musicmaker.im/phonk-music-maker/"
+        },
+        {
+          "label": "AI Lyrics Generator",
+          "url": "https://musicmaker.im/ai-lyrics-generator/"
+        },
+        {
+          "label": "AI Music Extender",
+          "url": "https://musicmaker.im/ai-music-extender/"
+        },
+        {
+          "label": "AI Vocal Remover",
+          "url": "https://musicmaker.im/ai-vocal-remover/"
+        },
+        {
+          "label": "Music to MIDI",
+          "url": "https://musicmaker.im/music-to-midi/"
+        },
+        {
+          "label": "AI Singing Voice Generator",
+          "url": "https://musicmaker.im/ai-singing-voice-generator/"
+        },
+        {
+          "label": "Udio AI Music Maker",
+          "url": "https://musicmaker.im/udio-ai-music-maker/"
+        },
+        {
+          "label": "AI Voice Maker",
+          "url": "https://musicmaker.im/ai-voice-maker/"
+        },
+        {
+          "label": "AI Music Generator",
+          "url": "https://musicmaker.im/ai-music-generator/"
+        }
+      ]
+    },
+    {
+      "name_zh": "视频制作",
+      "name": "Video creation",
+      "entries": [
+        {
+          "label": "AI Music Video Generator",
+          "url": "https://musicmaker.im/ai-music-video-generator/"
+        },
+        {
+          "label": "Lip Sync Video Generator",
+          "url": "https://musicmaker.im/lip-sync-video-generator/"
+        },
+        {
+          "label": "AI Video Generator",
+          "url": "https://musicmaker.im/ai-video-generator/"
+        },
+        {
+          "label": "Short Video Maker",
+          "url": "https://musicmaker.im/short-video-maker/"
+        }
+      ]
+    },
+    {
+      "name_zh": "图片与发行视觉",
+      "name": "Images and release artwork",
+      "entries": [
+        {
+          "label": "AI Image Generator",
+          "url": "https://musicmaker.im/ai-image-generator/"
+        },
+        {
+          "label": "Album Cover Maker",
+          "url": "https://musicmaker.im/ai-image-generator/album-cover-maker/"
+        },
+        {
+          "label": "Music Logo Maker",
+          "url": "https://musicmaker.im/ai-image-generator/music-logo-maker/"
+        },
+        {
+          "label": "Music Poster Maker",
+          "url": "https://musicmaker.im/ai-image-generator/music-poster-maker/"
+        }
+      ]
+    },
+    {
+      "name_zh": "官网免费工具分类",
+      "name": "Listed in the website Free Tools category",
+      "entries": [
+        {
+          "label": "Audio to MIDI Converter",
+          "url": "https://musicmaker.im/audio-to-midi/"
+        },
+        {
+          "label": "MIDI Editor",
+          "url": "https://musicmaker.im/midi-editor/"
+        },
+        {
+          "label": "Music to Text",
+          "url": "https://musicmaker.im/music-to-text/"
+        },
+        {
+          "label": "AI Music Checker",
+          "url": "https://musicmaker.im/ai-music-checker/"
+        },
+        {
+          "label": "Batch MP3 to MIDI",
+          "url": "https://musicmaker.im/batch-audio-to-midi/"
+        },
+        {
+          "label": "Batch AI Music Checker",
+          "url": "https://musicmaker.im/batch-ai-music-checker/"
+        },
+        {
+          "label": "Lo-Fi Song Maker",
+          "url": "https://musicmaker.im/lofi-song-maker/"
+        },
+        {
+          "label": "MP3 Tag Editor Online",
+          "url": "https://musicmaker.im/mp3-tag-editor-online/"
+        },
+        {
+          "label": "Free Suno AI Music Detector",
+          "url": "https://musicmaker.im/free-suno-ai-music-detector/"
+        },
+        {
+          "label": "Free MiniMax H3",
+          "url": "https://musicmaker.im/free-minimax-h3/"
+        },
+        {
+          "label": "Free Image to Video",
+          "url": "https://musicmaker.im/free-image-to-video/"
+        },
+        {
+          "label": "Free Text to Video",
+          "url": "https://musicmaker.im/free-text-to-video/"
+        },
+        {
+          "label": "Free ChatGPT Images 2.5",
+          "url": "https://musicmaker.im/free-chatgpt-images-2-5/"
+        },
+        {
+          "label": "Free Short Music Video Generator",
+          "url": "https://musicmaker.im/free-short-music-video-generator/"
+        },
+        {
+          "label": "AI Slop Tracker",
+          "url": "https://musicmaker.im/ai-slop-tracker/"
+        },
+        {
+          "label": "Free MP3 to WAV",
+          "url": "https://musicmaker.im/audio-converter/mp3-to-wav/"
+        },
+        {
+          "label": "Free MP3 to OGG",
+          "url": "https://musicmaker.im/audio-converter/mp3-to-ogg/"
+        },
+        {
+          "label": "Free MP3 to AAC",
+          "url": "https://musicmaker.im/audio-converter/mp3-to-aac/"
+        },
+        {
+          "label": "Free M4A to MP3",
+          "url": "https://musicmaker.im/audio-converter/m4a-to-mp3/"
+        },
+        {
+          "label": "Discover Music",
+          "url": "https://musicmaker.im/discover/"
+        }
+      ]
+    },
+    {
+      "name_zh": "品牌模型入口",
+      "name": "Model routes on MusicMaker",
+      "entries": [
+        {
+          "label": "Music 6.0",
+          "url": "https://musicmaker.im/s-ai/s-6-0/"
+        },
+        {
+          "label": "Music 5.5",
+          "url": "https://musicmaker.im/s-ai/s-5-5/"
+        },
+        {
+          "label": "Music 5.0",
+          "url": "https://musicmaker.im/s-ai/s-5-0/"
+        },
+        {
+          "label": "Music 4.5+",
+          "url": "https://musicmaker.im/s-ai/s-4-5-plus/"
+        },
+        {
+          "label": "Music 4.5",
+          "url": "https://musicmaker.im/s-ai/s-4-5/"
+        },
+        {
+          "label": "Music AI",
+          "url": "https://musicmaker.im/s-ai/"
+        },
+        {
+          "label": "Eleven Labs Music",
+          "url": "https://musicmaker.im/eleven-labs/eleven-labs-music/"
+        },
+        {
+          "label": "Mureka V9.5",
+          "url": "https://musicmaker.im/mureka/mureka-v9-5/"
+        },
+        {
+          "label": "Mureka V9",
+          "url": "https://musicmaker.im/mureka/mureka-v9/"
+        },
+        {
+          "label": "Mureka V8",
+          "url": "https://musicmaker.im/mureka/mureka-v8/"
+        },
+        {
+          "label": "Mureka O2",
+          "url": "https://musicmaker.im/mureka/mureka-o2/"
+        },
+        {
+          "label": "Mureka O1",
+          "url": "https://musicmaker.im/mureka/mureka-o1/"
+        },
+        {
+          "label": "Mureka V7",
+          "url": "https://musicmaker.im/mureka/mureka-v7/"
+        },
+        {
+          "label": "Mureka V7.5",
+          "url": "https://musicmaker.im/mureka/mureka-v7-5/"
+        },
+        {
+          "label": "Minimax Music 3.0",
+          "url": "https://musicmaker.im/minimax/minimax-music-v3-0/"
+        },
+        {
+          "label": "Minimax Music 2.5",
+          "url": "https://musicmaker.im/minimax/minimax-music-v2-5/"
+        },
+        {
+          "label": "Minimax Music 2.0",
+          "url": "https://musicmaker.im/minimax/minimax-music-v2-0/"
+        },
+        {
+          "label": "Minimax Music 1.5",
+          "url": "https://musicmaker.im/minimax/minimax-music-v1-5/"
+        },
+        {
+          "label": "Kling 4.0",
+          "url": "https://musicmaker.im/model/kling-4-0/"
+        },
+        {
+          "label": "Seedance 2.5",
+          "url": "https://musicmaker.im/model/seedance-2-5/"
+        },
+        {
+          "label": "Riffusion",
+          "url": "https://musicmaker.im/riffusion/"
+        },
+        {
+          "label": "DiffRhythm",
+          "url": "https://musicmaker.im/diffrhythm/"
+        },
+        {
+          "label": "Udio AI",
+          "url": "https://musicmaker.im/udio-ai/"
+        },
+        {
+          "label": "Nano Banana 2 AI",
+          "url": "https://musicmaker.im/model/nano-banana-2-ai/"
+        },
+        {
+          "label": "Nano Banana Pro AI",
+          "url": "https://musicmaker.im/model/nano-banana-pro-ai/"
+        },
+        {
+          "label": "Veo 3.1",
+          "url": "https://musicmaker.im/model/veo-3-1-ai/"
+        },
+        {
+          "label": "Seedance 2.0",
+          "url": "https://musicmaker.im/model/seedance-2-0/"
+        },
+        {
+          "label": "Google Flow Music AI",
+          "url": "https://musicmaker.im/flow-music-ai/"
+        },
+        {
+          "label": "Producer AI Music Agent",
+          "url": "https://musicmaker.im/producer-ai-music-agent/"
+        },
+        {
+          "label": "Gemini Omni",
+          "url": "https://musicmaker.im/model/gemini-omni/"
+        },
+        {
+          "label": "MiniMax H3",
+          "url": "https://musicmaker.im/model/minimax-h3/"
+        },
+        {
+          "label": "Google Lyria 3",
+          "url": "https://musicmaker.im/google/lyria-3/"
+        },
+        {
+          "label": "Gemini Omni 1.1 Flash",
+          "url": "https://musicmaker.im/model/gemini-omni-1-1-flash/"
+        }
+      ]
+    }
+  ],
+  "verification_scope": "Footer labels and URLs collected; not every route was opened or tested. The selected entry-point page claims below were individually read; no generation jobs submitted.",
+  "checked_entry_points": [
+    {
+      "url": "https://musicmaker.im/free-chatgpt-images-2-5/",
+      "checked_on": "2026-09-23",
+      "page_claim": "Free, no registration or subscription; one reference image; queues possible",
+      "verification": "Public page text read; generation not tested"
+    },
+    {
+      "url": "https://musicmaker.im/free-short-music-video-generator/",
+      "checked_on": "2026-09-23",
+      "page_claim": "Free, no signup; 5 seconds, 480p",
+      "verification": "Public page text read; generation not tested"
+    },
+    {
+      "url": "https://musicmaker.im/free-text-to-video/",
+      "checked_on": "2026-09-23",
+      "page_claim": "Free text to music video; no signup in page title",
+      "verification": "Public page text read; generation not tested"
+    },
+    {
+      "url": "https://musicmaker.im/lofi-song-maker/",
+      "checked_on": "2026-09-23",
+      "page_claim": "Free, no registration; upload, convert, preview and download",
+      "verification": "Public page text read; generation not tested"
+    },
+    {
+      "url": "https://musicmaker.im/audio-converter/mp3-to-wav/",
+      "checked_on": "2026-09-23",
+      "page_claim": "Free online MP3 to WAV conversion",
+      "verification": "Public page text read; generation not tested"
+    },
+    {
+      "url": "https://musicmaker.im/mp3-tag-editor-online/",
+      "checked_on": "2026-09-23",
+      "page_claim": "Free and no signup in page title",
+      "verification": "Public page text read; generation not tested"
+    }
+  ]
+}

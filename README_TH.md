@@ -6,7 +6,7 @@
 
 **เติมภาพที่น่าดูจนจบให้เพลงของคุณ ดูตัวอย่าง เลือกหนึ่งไอเดีย แล้วทำวิดีโอสั้นชิ้นแรกให้เสร็จ**
 
-<p align="center"><a href="#x-creators"><kbd>▶ ตัวอย่างบน X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ ฟัง MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ วิดีโอแรก</kbd></a> &nbsp; <a href="#next-project"><kbd>→ ฝึกขั้นต่อไป</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ ตัวอย่างบน X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ ฟัง MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ วิดีโอแรก</kbd></a> &nbsp; <a href="#next-project"><kbd>→ ฝึกขั้นต่อไป</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 เครื่องมือฟรี</kbd></a></p>
 
 [![เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ](assets/music-video-workflow.png)](#first-video)
 
@@ -39,27 +39,29 @@
 
 ## ฟัง MusicMaker
 
-ฟังเก้าเพลงในสามคอลัมน์สามแถว เปรียบเทียบแนวคิดจากปกกับคำอธิบายการเรียบเรียงจากต้นทาง สองบทเรียนด้านล่างใช้คนละกรณี
+เก้าสไตล์ที่ต่างกันในสามแถว ตั้งแต่เปียโน ร็อก ออร์เคสตรา ไปจนถึงเพลงเต้นรำ ลองฟังความหนาแน่นของเสียงและจังหวะ สไตล์อ้างอิงช่อง Style ส่วนแนวคิดวิดีโอเป็นข้อเสนอของผู้เขียน
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>แนวคิดจากปก: เวทีนีออน<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>แนวคิดจากปก: เปียโนริมหน้าต่าง<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>แนวคิดจากปก: ถนนโล่ง<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>เปียโนเดี่ยว</b><br><sub>ช็อตยาว</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>ร็อกร่วมสมัย</b><br><sub>ตัดตรงจังหวะหนัก</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>ออร์เคสตรายิ่งใหญ่</b><br><sub>ฉากกว้าง</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ ฟังเพลง</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>แนวคิดจากปก: ชายฝั่งฤดูร้อน<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>ต้นทางระบุ: จังหวะ 6/8 กีตาร์ เปียโน และเชลโล<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>ต้นทางระบุ: กีตาร์อะคูสติก เบส เครื่องสาย และเสียงร้องชาย<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>แจ๊สโลไฟ</b><br><sub>ภาพฝนวนซ้ำ</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>โปรเกรสซีฟเฮาส์</b><br><sub>ไต่ระดับแล้วเปลี่ยนฉาก</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>คันทรีบัลลาด</b><br><sub>เรื่องราวอบอุ่น</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ ฟังเพลง</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>ปก: จดหมายและกาแฟ<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>ปก: ดาดฟ้าในเมือง<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ ฟังเพลง</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>ปก: ถนนกลางแดด<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>อิเล็กทรอนิกส์แอมเบียนต์</b><br><sub>ภาพนามธรรม</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>ฮิปฮอป</b><br><sub>จุดตัดชัดเจน</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ ฟังเพลง</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>อาร์แอนด์บีอิเล็กทรอนิกส์</b><br><sub>ภาพใกล้สื่ออารมณ์</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ ฟังเพลง</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
+
+เจอเสียงที่ชอบแล้ว ลองทำปกและฉากสั้นก่อน เลือกเครื่องมือให้ตรงกับขั้นตอนถัดไป [→ เครื่องมือฟรี](#toolkit) · [↗ สไตล์และแหล่งที่มา · อังกฤษ](docs/listening-notes.md)
 
 <a id="first-video"></a>
 
@@ -144,6 +146,22 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 คนเดิม เห็นปาก เสียงแทร็กเดียว และจบเป็นธรรมชาติ พรอมต์ไม่รับประกันการคงเสียงเดิมหรือความตรงของปาก
 
 [→ ขั้นตอนละเอียด · อังกฤษ](docs/first-video.md#vocal)
+
+<a id="toolkit"></a>
+
+## เริ่มฟรี: คลังเครื่องมือสร้างสรรค์
+
+สี่แถวแรกเป็นเครื่องมือที่หน้าเว็บระบุว่าใช้ฟรี ส่วนแถวที่ห้าเป็นสื่ออ้างอิง โปรดตรวจสอบโควตา การเข้าสู่ระบบ และคิวบนหน้าเว็บปัจจุบัน การสร้างเพลงและวิดีโอร้องเพลงอาจใช้โควตาหรือมีค่าใช้จ่าย การดูสื่อสาธารณะไม่ได้ให้สิทธิ์ใช้ซ้ำ
+
+<table>
+<tr><td width="35%"><b>🖼 ปกและสตอรีบอร์ด</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 สร้างคลิปสั้น</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 เปลี่ยนเนื้อเสียง</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 รูปแบบไฟล์และข้อมูลเพลง</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 สื่อและพรอมต์</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+</table>
+
+[→ สื่อและเครื่องมือทั้งหมด · อังกฤษ](docs/brand-resources.md)
 
 ## ข้อมูลทางการของโมเดล
 

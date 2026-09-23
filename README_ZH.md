@@ -8,7 +8,7 @@
 
 从新歌预告、人物演唱到循环视觉，即使第一次剪视频，也可以从这里开始：选喜欢的画面，拆解创作者的做法，再做自己的版本。
 
-<p align="center"><a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ X 创作者案例</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 试听</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 制作第一支视频</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 下一种技巧</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 免费工具库</kbd></a></p>
 
 [![选音乐、设计分镜与提示词、生成镜头、剪辑导出；下方展示人物演唱、旅行叙事与抽象音乐视觉](assets/music-video-workflow.png)](#first-video)
 
@@ -43,29 +43,29 @@
 
 ## MusicMaker 试听
 
-九首作品，三行三列。既可从霓虹、钢琴、公路等封面寻找视觉方向，也可参考官网公开的编曲描述。点击封面或试听按钮打开原作；下方教程另选两例，不重复这里的作品。
+从钢琴独奏到重吉他，从史诗管弦到舞池节拍：九种声音，先听差异，再想画面。曲风依据原作详情的 Style（风格）字段；卡片中的视频方向是新编练习建议。
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="霓虹光环前手持麦克风的歌手" width="100%"></a><br><b>Neon Pulse</b><br>封面：霓虹舞台<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="明亮窗边坐在钢琴前的男子" width="100%"></a><br><b>Echoes of You</b><br>封面：窗边钢琴<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="从车内望向穿过金色田野的公路" width="100%"></a><br><b>The Open Road</b><br>封面：开阔公路<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="窗边唱片机与键盘旁听音乐的插画女孩" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>钢琴独奏</b><br><sub>长镜头与细节特写</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="被蓝粉色光带围绕的插画表演者" width="100%"></a><br><b>Voltage In My Veins</b><br><b>现代摇滚</b><br><sub>舞台切镜与重拍定格</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="蓝天下户外演出的管弦乐队与合唱团" width="100%"></a><br><b>Crown of the Tempest</b><br><b>史诗管弦</b><br><sub>奇幻叙事与宽阔场景</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ 试听原作</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="阳光海岸公路旁微笑的女子" width="100%"></a><br><b>Summer High</b><br>封面：夏日海岸<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="敞开的厨房窗边站着一名男子，前方有书本和水壶；点击试听歌曲" width="100%"></a><br><b>It Takes Another Shape</b><br>官网：六八拍、吉他与大提琴<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="晨光中坐在门廊手持杯子的男子，点击进入原站播放器" width="100%"></a><br><b>Morning with Healing Hands</b><br>官网：木吉他、弦乐与男声<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="湿润街道映出青绿色遮阳篷咖啡馆的插画" width="100%"></a><br><b>Rain On Beale</b><br><b>低保真爵士</b><br><sub>雨夜城市与循环画面</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="海边白裙女子上空浮现发光波纹" width="100%"></a><br><b>Tidal Release</b><br><b>渐进浩室舞曲</b><br><sub>逐步加强剪辑与高潮变景</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="面向田野的门廊上弹木吉他的男子" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>乡村抒情</b><br><sub>乡野故事与暖光人物</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ 试听原作</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="木桌上的咖啡杯，下方敞开的抽屉里放着信件" width="100%"></a><br><b>What Love Can Lose</b><br>官网：六八拍、钢琴与轻鼓刷<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="阳光下站在城市屋顶的白衬衫男子" width="100%"></a><br><b>Claim the Day</b><br>封面：城市屋顶<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ 试听原作</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="阳光街道上开怀大笑的女子" width="100%"></a><br><b>Sunshine People</b><br>封面：阳光街道<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="柔色天空下的草地，叠有抽象波纹与封面文字" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>氛围电子</b><br><sub>抽象形态与缓慢运动</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="录音室调音台旁的音箱上放着金色皇冠" width="100%"></a><br><b>Basement Crown</b><br><b>嘻哈节拍</b><br><sub>街头质感与利落切点</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ 试听原作</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="海景敞门旁相对而坐交谈的男女" width="100%"></a><br><b>Keep It Open</b><br><b>电子节奏布鲁斯</b><br><sub>情绪近景与呼吸停顿</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ 试听原作</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
 
-封面不是音乐视频截图；试听不等于获得素材使用权。[浏览更多作品](https://musicmaker.im/discover/) · [创作自己的歌曲](https://musicmaker.im/ai-song-generator/)。
+喜欢哪一种声音，就先为它做一张封面、一个短镜头。[🧰 按创作步骤选免费工具](#toolkit) · [查看曲风与来源说明](docs/listening-notes.zh-CN.md) · [浏览全部歌曲](https://musicmaker.im/discover/)。封面不是视频截图；试听不等于获得素材使用权。
 
 <a id="first-video"></a>
 
@@ -172,6 +172,22 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 把成片与原歌声放到同一时间轴。若使用原歌声，关闭生成视频的声音并重新检查同步；若使用生成声音，就移除重复音轨。先保持单镜头，在最后一秒添加自己的歌曲名。导出 MP4 后检查嘴形、脸部、音量与句尾，确保乐句唱完而非突然截断。[详细剪辑与演唱检查](docs/first-video.zh-CN.md#vocal)。
 
 **完成标准：** 同一个人唱完同一句；嘴部始终清晰；只有一条主音轨；片尾保留自然呼吸。达到这四项后，再尝试缓慢推近，同一轮只增加一种变化。
+
+<a id="toolkit"></a>
+
+## 免费起步的音乐视频工具库
+
+从刚才的曲风选择出发，按缺少的素材选工具。下面前四行是官网标注免费的入口；歌曲生成、人像演唱及完整目录中的其他工具可能需要额度或付费，见[当前价格](https://musicmaker.im/pricing/)。公开示例可供参考，使用素材仍需相应授权。
+
+<table>
+<tr><td width="35%"><b>🖼 补封面与分镜图</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ 免费制图</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 做一个短镜头</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5 秒短片</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ 文字生成视频</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 改变声音质感</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ 低保真音色转换</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 整理音频格式与曲目信息</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ 歌曲信息编辑</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 找歌曲、案例和提示词</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ 歌曲与封面</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ 视频示例</kbd></a> · <a href="prompts/README_ZH.md"><kbd>↗ 12 套提示词</kbd></a></td></tr>
+</table>
+
+[→ 展开全部素材与工具：六类导航、93 个入口](docs/brand-resources.zh-CN.md)
 
 ## 模型能力，回到官方资料核对
 

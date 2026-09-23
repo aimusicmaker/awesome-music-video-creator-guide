@@ -6,7 +6,7 @@
 
 **Beri lagu Anda gambar yang ingin ditonton sampai selesai. Pelajari contoh, pilih satu ide, lalu selesaikan video pendek pertama Anda.**
 
-<p align="center"><a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ Contoh di X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Dengarkan MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video pertama</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Latihan berikutnya</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Alat gratis</kbd></a></p>
 
 [![Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.](assets/music-video-workflow.png)](#first-video)
 
@@ -39,27 +39,29 @@ Nama model mengikuti keterangan kreator. Teks dan media diperiksa melalui cermin
 
 ## Dengarkan MusicMaker
 
-Sembilan lagu dalam tiga kolom dan tiga baris. Bandingkan ide sampul dan keterangan aransemen dari sumber. Dua tutorial di bawah memakai contoh berbeda.
+Sembilan kontras dalam tiga baris: piano, rock, orkestra, dan musik dansa. Bandingkan kepadatan bunyi dan ritme. Genre berasal dari kolom Style; ide video adalah saran editorial.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Ide sampul: panggung neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Ide sampul: piano di jendela<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ide sampul: jalan terbuka<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>Piano solo</b><br><sub>adegan panjang</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>Rock modern</b><br><sub>potongan kuat</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>Orkestra epik</b><br><sub>lanskap luas</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ Dengarkan</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ide sampul: pesisir musim panas<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Deskripsi sumber: birama 6/8, gitar, piano, selo<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Deskripsi sumber: gitar akustik, bas, alat gesek, vokal pria<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>Jazz lo-fi</b><br><sub>lingkar hujan</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>Progressive house</b><br><sub>bangun lalu berubah</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>Balada country</b><br><sub>cerita hangat</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ Dengarkan</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Sampul: surat dan kopi<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Sampul: atap kota<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Dengarkan</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Sampul: jalan cerah<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>Elektronik ambient</b><br><sub>bentuk abstrak</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>Hip-hop</b><br><sub>potongan tegas</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ Dengarkan</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>R&amp;B elektronik</b><br><sub>ekspresi dekat</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ Dengarkan</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
+
+Menemukan suara yang menarik? Buat sampul dan satu adegan pendek dahulu. Pilih alat sesuai langkah berikutnya. [→ Alat gratis](#toolkit) · [↗ Gaya dan sumber · Inggris](docs/listening-notes.md)
 
 <a id="first-video"></a>
 
@@ -144,6 +146,22 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 Orang tetap sama, bibir terlihat, satu trek suara, akhir alami. Prompt tidak menjamin audio asli terjaga atau gerak bibir tepat.
 
 [→ Langkah lengkap · Inggris](docs/first-video.md#vocal)
+
+<a id="toolkit"></a>
+
+## Mulai gratis: kumpulan alat kreatif
+
+Empat baris pertama berisi alat yang dinyatakan gratis; baris kelima berisi referensi. Periksa kuota, login, dan antrean pada halaman saat ini. Pembuatan lagu dan animasi vokal dapat memerlukan kuota atau pembayaran. Melihat materi publik bukan izin penggunaan ulang.
+
+<table>
+<tr><td width="35%"><b>🖼 Sampul dan storyboard</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 Membuat klip pendek</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 Mengubah tekstur suara</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 Format dan informasi lagu</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 Materi dan prompt</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+</table>
+
+[→ Semua sumber dan alat · Inggris](docs/brand-resources.md)
 
 ## Sumber resmi pengembang model
 

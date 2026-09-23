@@ -6,7 +6,7 @@
 
 **Biến một bài hát thành những hình ảnh đáng xem đến cuối. Xem ví dụ, chọn một ý tưởng và hoàn thành video ngắn đầu tiên của bạn.**
 
-<p align="center"><a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ Ví dụ trên X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Nghe MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Video đầu tiên</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Bài tập tiếp theo</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Công cụ miễn phí</kbd></a></p>
 
 [![Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.](assets/music-video-workflow.png)](#first-video)
 
@@ -39,27 +39,29 @@ Tên mô hình do tác giả công bố. Nội dung và tư liệu được ki�
 
 ## Nghe MusicMaker
 
-Chín bài hát trong ba cột, ba hàng. So sánh ý tưởng bìa và mô tả phối khí từ nguồn. Hai bài hướng dẫn bên dưới dùng ví dụ khác.
+Chín phong cách tương phản trong ba hàng: piano, rock, dàn nhạc và nhạc nhảy. So sánh độ dày âm thanh và nhịp điệu. Thể loại dựa trên mục Style; ý tưởng video là đề xuất biên tập.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Ý tưởng ảnh bìa: sân khấu neon<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Ý tưởng ảnh bìa: đàn piano bên cửa sổ<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Ý tưởng ảnh bìa: con đường rộng mở<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>Piano độc tấu</b><br><sub>cảnh dài</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>Rock hiện đại</b><br><sub>cắt theo nhịp mạnh</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>Dàn nhạc sử thi</b><br><sub>toàn cảnh rộng</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ Nghe bài hát</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Ý tưởng ảnh bìa: bờ biển mùa hè<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Nguồn mô tả: nhịp 6/8, guitar, piano và cello<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Nguồn mô tả: guitar mộc, bass, đàn dây và giọng nam<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>Jazz lo-fi</b><br><sub>vòng lặp mưa</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>Progressive house</b><br><sub>cao trào đổi cảnh</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>Ballad đồng quê</b><br><sub>chuyện ấm áp</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ Nghe bài hát</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Bìa: thư và cà phê<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Bìa: sân thượng thành phố<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Nghe bài hát</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Bìa: con phố đầy nắng<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>Điện tử ambient</b><br><sub>hình trừu tượng</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>Hip-hop</b><br><sub>điểm cắt rõ</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ Nghe bài hát</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>R&amp;B điện tử</b><br><sub>cận cảnh cảm xúc</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ Nghe bài hát</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
+
+Đã chọn được âm thanh yêu thích? Hãy làm bìa và một cảnh ngắn trước. Chọn công cụ theo bước tiếp theo. [→ Công cụ miễn phí](#toolkit) · [↗ Phong cách và nguồn · tiếng Anh](docs/listening-notes.md)
 
 <a id="first-video"></a>
 
@@ -144,6 +146,22 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 Cùng một người, môi nhìn rõ, một đường tiếng, kết thúc tự nhiên. Câu lệnh không bảo đảm giữ nguyên âm thanh hay khớp môi chính xác.
 
 [→ Các bước · tiếng Anh](docs/first-video.md#vocal)
+
+<a id="toolkit"></a>
+
+## Bắt đầu miễn phí: bộ công cụ sáng tạo
+
+Bốn hàng đầu là công cụ được công bố miễn phí; hàng thứ năm là tư liệu tham khảo. Kiểm tra hạn mức, đăng nhập và thời gian chờ trên trang hiện tại. Tạo bài hát và hoạt ảnh ca sĩ có thể cần hạn mức hoặc trả phí. Xem tài liệu công khai không đồng nghĩa được tái sử dụng.
+
+<table>
+<tr><td width="35%"><b>🖼 Bìa và phân cảnh</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 Tạo đoạn phim ngắn</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 Đổi chất âm</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 Định dạng và thông tin bài hát</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 Tư liệu và câu lệnh</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+</table>
+
+[→ Tất cả tư liệu và công cụ · tiếng Anh](docs/brand-resources.md)
 
 ## Tài liệu chính thức của mô hình
 

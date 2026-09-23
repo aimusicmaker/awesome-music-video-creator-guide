@@ -6,7 +6,7 @@
 
 **Добавьте к песне кадры, которые хочется досмотреть. Изучите примеры, выберите идею и закончите своё первое короткое видео.**
 
-<p align="center"><a href="#x-creators"><kbd>▶ Примеры в X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Слушать MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Первое видео</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Следующее упражнение</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ Примеры в X</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Слушать MusicMaker</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Первое видео</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Следующее упражнение</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Бесплатные инструменты</kbd></a></p>
 
 [![Выбрать музыку → спланировать кадры и промпты → создать клипы → смонтировать и экспортировать. Авторская схема процесса с вокалом, путешествием и абстракцией, а не доказательство результатов видеогенерации.](assets/music-video-workflow.png)](#first-video)
 
@@ -39,27 +39,29 @@
 
 ## Слушать MusicMaker
 
-Девять песен: три столбца и три ряда. Сравните идеи обложек и описания аранжировки из источников. Два учебных примера ниже не входят в эту подборку.
+Девять контрастов в трёх рядах: фортепиано, рок, оркестр и танцевальная музыка. Сравните плотность звука и ритм. Жанры взяты из поля Style; идеи видео предложены редакцией.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>Обложка: неоновая сцена<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ Слушать песню</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>Обложка: пианино у окна<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ Слушать песню</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>Обложка: открытая дорога<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>Соло фортепиано</b><br><sub>длинные планы</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>Современный рок</b><br><sub>резкие склейки</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>Эпический оркестр</b><br><sub>просторные сцены</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ Слушать песню</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>Обложка: летнее побережье<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ Слушать песню</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>Описание источника: размер 6/8, гитара, пианино и виолончель<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ Слушать песню</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>Описание источника: акустическая гитара, контрабас, струнные и мужской вокал<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>Лоу-фай-джаз</b><br><sub>дождевой цикл</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>Прогрессив-хаус</b><br><sub>нарастание и смена</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>Кантри-баллада</b><br><sub>тёплая история</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ Слушать песню</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>Обложка: письма и кофе<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ Слушать песню</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>Обложка: городская крыша<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ Слушать песню</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>Обложка: солнечная улица<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>Эмбиент-электроника</b><br><sub>абстракция</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>Хип-хоп</b><br><sub>чёткие склейки</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ Слушать песню</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>Электронный R&amp;B</b><br><sub>эмоции крупным планом</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ Слушать песню</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
+
+Понравился звук? Сначала создайте обложку и короткую сцену. Выбирайте инструмент под следующий шаг. [→ Бесплатные инструменты](#toolkit) · [↗ Стили и источники · английский](docs/listening-notes.md)
 
 <a id="first-video"></a>
 
@@ -144,6 +146,22 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 Один человек, видимые губы, одна звуковая дорожка, естественный финал. Промпт не гарантирует сохранения звука или точной синхронизации губ.
 
 [→ Инструкция · английский](docs/first-video.md#vocal)
+
+<a id="toolkit"></a>
+
+## Начните бесплатно: инструменты для творчества
+
+Первые четыре строки содержат инструменты, заявленные как бесплатные; пятая — справочные материалы. Лимиты, вход и очереди проверяйте на текущих страницах. Создание песен и анимация пения могут требовать кредитов или оплаты. Просмотр открытого материала не даёт права повторного использования.
+
+<table>
+<tr><td width="35%"><b>🖼 Обложки и раскадровки</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 Короткие клипы</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 Изменение фактуры звука</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 Форматы и данные песни</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 Материалы и промпты</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+</table>
+
+[→ Все ресурсы и инструменты · английский](docs/brand-resources.md)
 
 ## Официальные источники моделей
 

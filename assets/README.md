@@ -16,8 +16,8 @@ Exact image prompt: [image-prompts.md](image-prompts.md). Original text, scripts
 
 ## Linked gallery media / 图文案例素材
 
-The six X video thumbnails remain hosted on X; every preview links to its original creator post. Ten Discover covers and two cataloged performance input portraits remain on MusicMaker’s CDN. The exact source URLs, authors, media types and check dates are in [gallery-sources.json](../docs/gallery-sources.json). None of this external media is included in the repository MIT grant.
+The six X video thumbnails remain hosted on X; every preview links to its original creator post. Nineteen cataloged Discover covers and two cataloged performance input portraits remain on MusicMaker’s CDN. The exact source URLs, authors, media types and check dates are in [gallery-sources.json](../docs/gallery-sources.json). None of this external media is included in the repository MIT grant.
 
-六张 X 视频封面均链接到作者原帖；十张 Discover 音乐封面和两张存档演唱输入人像来自品牌官网。来源、作者、类型与核对日期见上方清单。外部素材不在本仓库 MIT 授权范围内。原创练习提示词与第三方原提示词分别标注。
+六张 X 视频封面均链接到作者原帖；十九张存档 Discover 音乐封面和两张存档演唱输入人像来自品牌官网。来源、作者、类型与核对日期见上方清单。外部素材不在本仓库 MIT 授权范围内。原创练习提示词与第三方原提示词分别标注。
 
-The current homepages show nine listening covers, one different nature-cover tutorial and one portrait-performance tutorial. The other performance remains in the detailed source/project archive. The old triptych is retained because the starter-kit edit demo references it.
+The current homepages show nine listening covers, one different nature-cover tutorial and one portrait-performance tutorial. Earlier listening selections and the other performance remain in the detailed source/project archive. The old triptych is retained because the starter-kit edit demo references it.

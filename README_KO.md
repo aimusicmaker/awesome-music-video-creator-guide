@@ -6,7 +6,7 @@
 
 **한 곡에 끝까지 보고 싶은 영상을 더하세요. 작품을 보고 제작 방법을 배운 뒤, 나만의 짧은 영상을 완성해 보세요.**
 
-<p align="center"><a href="#x-creators"><kbd>▶ X 제작 사례</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 미리 듣기</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 첫 영상 만들기</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 다음 연습</kbd></a></p>
+<p align="center"><a href="#x-creators"><kbd>▶ X 제작 사례</kbd></a> &nbsp; <a href="#listen"><kbd>♫ MusicMaker 미리 듣기</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ 첫 영상 만들기</kbd></a> &nbsp; <a href="#next-project"><kbd>→ 다음 연습</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 무료 도구</kbd></a></p>
 
 [![음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.](assets/music-video-workflow.png)](#first-video)
 
@@ -39,27 +39,29 @@
 
 ## MusicMaker 미리 듣기
 
-아홉 곡을 3열 3행으로 소개합니다. 커버의 시각적 아이디어와 출처의 편곡 설명을 살펴보세요. 아래 두 튜토리얼 사례와 겹치지 않습니다.
+아홉 곡을 3열 3행으로 비교합니다. 피아노부터 록, 관현악, 댄스 음악까지 소리의 밀도와 리듬을 들어보세요. 장르는 원문 Style 항목, 영상 아이디어는 편집 제안입니다.
 
 <!-- LISTENING-GRID:START -->
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-94/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/neon_pulse.webp" alt="Singer holding a microphone in front of a neon ring" width="100%"></a><br><b>Neon Pulse</b><br>표지 아이디어: 네온 무대<br><a href="https://musicmaker.im/detail/discover-v2-94/"><kbd>▶ 곡 듣기</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-95/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/echoes_of_you.webp" alt="Man seated at a piano beside a bright window" width="100%"></a><br><b>Echoes of You</b><br>표지 아이디어: 창가 피아노<br><a href="https://musicmaker.im/detail/discover-v2-95/"><kbd>▶ 곡 듣기</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-104/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/the_open_road.webp" alt="A road through golden fields viewed from a car dashboard" width="100%"></a><br><b>The Open Road</b><br>표지 아이디어: 넓은 도로<br><a href="https://musicmaker.im/detail/discover-v2-104/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>피아노 연주</b><br><sub>긴 호흡의 장면</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>모던 록</b><br><sub>강한 박자에 컷</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>웅장한 관현악</b><br><sub>넓은 풍경</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ 곡 듣기</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-96/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/summer_high.webp" alt="Smiling woman beside a sunlit coastal road" width="100%"></a><br><b>Summer High</b><br>표지 아이디어: 여름 해안<br><a href="https://musicmaker.im/detail/discover-v2-96/"><kbd>▶ 곡 듣기</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-108/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/it_takes_another_shape.webp" alt="Man by an open kitchen window with a book and kettle in the foreground; open the song player" width="100%"></a><br><b>It Takes Another Shape</b><br>공식 설명: 6/8박자, 기타, 피아노, 첼로<br><a href="https://musicmaker.im/detail/discover-v2-108/"><kbd>▶ 곡 듣기</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-106/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/morning_with_healing_hands.webp" alt="Man holding a cup on a porch in morning sunlight; open the original song player" width="100%"></a><br><b>Morning with Healing Hands</b><br>공식 설명: 어쿠스틱 기타, 베이스, 현악기, 남성 보컬<br><a href="https://musicmaker.im/detail/discover-v2-106/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>로파이 재즈</b><br><sub>빗속 반복 영상</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>프로그레시브 하우스</b><br><sub>고조되는 전환</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>컨트리 발라드</b><br><sub>따뜻한 이야기</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ 곡 듣기</kbd></a></td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-107/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/what_love_can_lose.webp" alt="A coffee cup on a wooden desk above an open drawer containing letters" width="100%"></a><br><b>What Love Can Lose</b><br>커버: 편지와 커피<br><a href="https://musicmaker.im/detail/discover-v2-107/"><kbd>▶ 곡 듣기</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-97/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/claim_the_day.webp" alt="A man in a white shirt on a city rooftop in sunlight" width="100%"></a><br><b>Claim the Day</b><br>커버: 도시 옥상<br><a href="https://musicmaker.im/detail/discover-v2-97/"><kbd>▶ 곡 듣기</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-99/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sunshine_people.webp" alt="A laughing woman on a sunny residential street" width="100%"></a><br><b>Sunshine People</b><br>커버: 햇살 가득한 거리<br><a href="https://musicmaker.im/detail/discover-v2-99/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>앰비언트 전자음악</b><br><sub>추상 화면</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>힙합</b><br><sub>또렷한 컷</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ 곡 듣기</kbd></a></td>
+<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>일렉트로닉 R&amp;B</b><br><sub>감정 클로즈업</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ 곡 듣기</kbd></a></td>
 </tr>
 </table>
 <!-- LISTENING-GRID:END -->
+
+마음에 드는 소리를 찾았다면 커버와 짧은 장면부터 만들어 보세요. 제작 순서에 따라 도구를 고를 수 있습니다. [→ 무료 도구](#toolkit) · [↗ 곡풍과 출처 · 영어](docs/listening-notes.md)
 
 <a id="first-video"></a>
 
@@ -144,6 +146,22 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 같은 인물, 보이는 입, 하나의 음성, 자연스러운 끝을 확인합니다. 프롬프트만으로 원음 유지나 입 모양 일치를 보장할 수 없습니다.
 
 [→ 상세 단계·영어](docs/first-video.md#vocal)
+
+<a id="toolkit"></a>
+
+## 무료로 시작하는 제작 도구 모음
+
+첫 네 줄은 각 페이지가 무료로 안내하는 도구이며, 다섯째 줄은 참고 자료입니다. 사용량, 로그인, 대기 조건은 현재 페이지에서 확인하세요. 곡 생성과 인물 노래는 별도 사용량·요금을 확인하세요. 공개 자료 열람은 재사용 허가가 아닙니다.
+
+<table>
+<tr><td width="35%"><b>🖼 커버와 장면 설계</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
+<tr><td width="35%"><b>🎬 짧은 영상 만들기</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
+<tr><td width="35%"><b>🎧 소리 질감 바꾸기</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
+<tr><td width="35%"><b>📦 형식과 곡 정보 정리</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 자료와 프롬프트 찾기</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+</table>
+
+[→ 전체 자료·도구 목록 · 영어](docs/brand-resources.md)
 
 ## 모델 개발사 공식 자료
 
