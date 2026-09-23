@@ -7,7 +7,7 @@
 A practical collection for independent musicians and first-time video creators.<br>
 12 original recipes · a downloadable practice beat · shot plans · real-world references
 
-[Start your first video](#make-your-first-video) · [Browse recipes](prompts/README.md) · [Watch the 16s edit](starter-kit/night-train-edit-demo.mp4) · [Watch references](docs/inspiration.md) · [简体中文](README_ZH.md)
+[Start your first video](#make-your-first-video) · [Browse recipes](prompts/README.md) · [Get the 16s example](starter-kit/night-train-edit-demo.mp4) · [Watch references](docs/inspiration.md) · [简体中文](README_ZH.md)
 
 ![Three original visual directions: rooftop performance, liquid-chrome visualizer, and a rainy night train](assets/music-video-directions.png)
 
@@ -17,7 +17,7 @@ A practical collection for independent musicians and first-time video creators.<
 
 </div>
 
-**See a finished editing exercise:** [Watch / download the 16-second night-train MP4](starter-kit/night-train-edit-demo.mp4). Four crops of the original still image, simple editor-made camera moves, and our practice beat. The rain and scene are not animated; this is not a MusicMaker generation.
+**See a finished editing exercise:** [Download the 16-second night-train MP4](starter-kit/night-train-edit-demo.mp4). Four crops of the original still image, simple editor-made camera moves, and our practice beat. The rain and scene are not animated; this is not a MusicMaker generation. On the GitHub file page, choose **Download raw file**, then open it in your video player.
 
 ## What do you want to make?
 

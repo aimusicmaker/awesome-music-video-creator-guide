@@ -7,7 +7,7 @@
 写给独立音乐人和第一次制作音乐视频的创作者。<br>
 12 套原创方案 · 可下载练习音乐 · 分镜与字幕模板 · 官方案例参考
 
-[开始制作](#做出第一支视频) · [选择方案](#按用途选择方案) · [观看 16 秒示例](starter-kit/night-train-edit-demo.mp4) · [案例参考](docs/inspiration.md) · [English](README.md)
+[开始制作](#做出第一支视频) · [选择方案](#按用途选择方案) · [下载 16 秒示例](starter-kit/night-train-edit-demo.mp4) · [案例参考](docs/inspiration.md) · [English](README.md)
 
 ![三种原创画面方向：天台演出、液态金属圆环和雨夜列车](assets/music-video-directions.png)
 
@@ -17,7 +17,7 @@
 
 </div>
 
-**先看一个完成的剪辑练习：** [观看或下载 16 秒雨夜列车视频](starter-kit/night-train-edit-demo.mp4)。它把原创静态图裁成四个镜头，添加简单推拉运动和练习音乐；图中的雨和场景本身没有生成动画，也不是 MusicMaker 实测结果。
+**先看一个完成的剪辑练习：** [下载 16 秒雨夜列车视频](starter-kit/night-train-edit-demo.mp4)。它把原创静态图裁成四个镜头，添加简单推拉运动和练习音乐；图中的雨和场景本身没有生成动画，也不是 MusicMaker 实测结果。在 GitHub 文件页点击 **Download raw file** 下载，再用视频播放器打开。
 
 ## 你想做什么？
 

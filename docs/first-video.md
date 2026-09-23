@@ -4,7 +4,7 @@
 
 Make a small finished edit before attempting a whole song. This walkthrough uses an original instrumental practice track, so you do not need to find music first.
 
-[Watch the completed motion-still example](../starter-kit/night-train-edit-demo.mp4). It uses the same beat and four-shot timing, but moves a still image instead of animating the scene.
+[Download the completed motion-still example](../starter-kit/night-train-edit-demo.mp4). It uses the same beat and four-shot timing, but moves a still image instead of animating the scene.
 
 ## 1. Download the kit
 
