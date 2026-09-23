@@ -27,15 +27,15 @@
 
 開発元の作例と入力方法を見てから、コミュニティの応用へ。公式公開例であり、本庫の生成テストや順位付けではありません。
 
-<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>公式デモのフレーム</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>演奏会：会場と演奏者の参照を分ける。<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 公式作例</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#seedance-concert">手順ノート（英語） →</a></p>
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>公式デモのフレーム</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>演奏会：会場と演奏者の参照を分ける。<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 公式作例</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#seedance-concert">手順ノート（英語） →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>公式入力画像</sub><br><b>MiniMax H3</b> · MiniMax<br>歌唱：カメラ・人物・歌声の参照を分ける。<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 公式作例</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#h3-singing">手順ノート（英語） →</a></p>
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>公式入力画像</sub><br><b>MiniMax H3</b> · MiniMax<br>歌唱：カメラ・人物・歌声の参照を分ける。<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 公式作例</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#h3-singing">手順ノート（英語） →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>公式動画のサムネイル</sub><br><b>Veo 3</b> · Google DeepMind<br>楽器演奏：動きと音を一緒に指定する。<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 公式作例</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#veo-instrument">手順ノート（英語） →</a></p>
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>公式の入力・出力比較</sub><br><b>Veo 3.1</b> · Google DeepMind<br>幻想的な歌唱シーン：人物と背景の参照を組み合わせる。<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 公式作例</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#veo-scene">手順ノート（英語） →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>キャラクター入力 · 一般的な演技例</sub><br><b>Runway Act-Two</b> · Runway<br>演技転送：演技動画とキャラクターを用意する。<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ 公式作例</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#act-two-performance">手順ノート（英語） →</a></p>
+<p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>公式動画のサムネイル</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>ピアノ演奏：ミディアムショットから表情のアップへ。<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ 公式作例</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#seedance-piano">手順ノート（英語） →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
 
-Veoの作例は現行3.1ページ掲載のVeo 3。Act-Twoは一般的な演技例。H3とAct-Twoの画像は入力素材です。
+4つのモデル版にはMusicMakerの対応ページがあります。作例とガイドは開発元の資料です。MusicMakerの機能は実際の画面で確認してください。H3画像は入力素材です。
 
 <!-- OFFICIAL:END -->
 
@@ -205,10 +205,28 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 ## モデル開発元の資料
 
-- **[Seedance 2.5](https://seed.bytedance.com/en/seedance2_5)** — 音と映像を一緒に計画。使える参照入力はツールによって異なります。
-- **[MiniMax H3](https://www.minimax.io/blog/minimax-h3)** — 画像、映像、音声を役割別に参照する公式例があります。
-- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — 曲の構想と必要に応じた歌詞から制作。先に音楽の構成を決めます。
-- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — ジャンル、雰囲気、楽器、テンポを具体的に伝えます。
+<!-- CAPABILITIES:START -->
+<p><b>Seedance 2.5</b><br>演奏会：会場と演奏者の参照を分ける。</p>
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#seedance-concert">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
+
+<p><b>MiniMax H3</b><br>歌唱：カメラ・人物・歌声の参照を分ける。</p>
+
+<p><a href="https://hailuoai.video/tools/minimax-h3">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#h3-singing">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
+
+<p><b>Veo 3.1</b><br>幻想的な歌唱シーン：人物と背景の参照を組み合わせる。</p>
+
+<p><a href="https://deepmind.google/models/veo/prompt-guide/">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#veo-scene">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
+
+<p><b>Seedance 2.0</b><br>ピアノ演奏：ミディアムショットから表情のアップへ。</p>
+
+<p><a href="https://seed.bytedance.com/en/seedance2_0">公式ガイド・プロンプト ↗</a><br><a href="../docs/official-cases.md#seedance-piano">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
+
+4つのモデル版にはMusicMakerの対応ページがあります。作例とガイドは開発元の資料です。MusicMakerの機能は実際の画面で確認してください。H3画像は入力素材です。
+<!-- CAPABILITIES:END -->
+
+- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — 曲の構想と必要に応じた歌詞から制作。先に音楽の構成を決めます。 [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — ジャンル、雰囲気、楽器、テンポを具体的に伝えます。 [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [→ 素材の出典と利用条件](../assets/README.md) · [MIT](../LICENSE)
 

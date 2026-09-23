@@ -27,15 +27,15 @@ Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng 
 
 Xem bản trình diễn và đầu vào của nhà phát triển trước khi khám phá cộng đồng. Đây không phải thử nghiệm tạo video hay bảng xếp hạng của chúng tôi.
 
-<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Khung hình minh họa chính thức</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a></p>
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Khung hình minh họa chính thức</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Ảnh đầu vào chính thức</sub><br><b>MiniMax H3</b> · MiniMax<br>Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#h3-singing">Các bước · tiếng Anh →</a></p>
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Ảnh đầu vào chính thức</sub><br><b>MiniMax H3</b> · MiniMax<br>Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#h3-singing">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Ảnh bìa video chính thức</sub><br><b>Veo 3</b> · Google DeepMind<br>Nhạc cụ: mô tả cả động tác lẫn âm thanh.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#veo-instrument">Các bước · tiếng Anh →</a></p>
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>So sánh đầu vào và đầu ra chính thức</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Cảnh hát siêu thực: kết hợp tham chiếu nhân vật và bối cảnh.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#veo-scene">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Ảnh nhân vật đầu vào · ví dụ diễn xuất</sub><br><b>Runway Act-Two</b> · Runway<br>Chuyển biểu diễn: quay video rồi thêm nhân vật.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#act-two-performance">Các bước · tiếng Anh →</a></p>
+<p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Ảnh bìa video chính thức</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Piano: từ cảnh trung đến cận cảnh biểu cảm.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Ví dụ chính thức</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Các bước · tiếng Anh →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
 
-Veo: ví dụ Veo 3 trên trang 3.1 hiện tại. Act-Two là ví dụ biểu diễn chung. Ảnh H3 và Act-Two là đầu vào.
+Cả bốn phiên bản đều có trang MusicMaker. Ví dụ và hướng dẫn từ nhà phát triển; tính năng MusicMaker có thể khác. Ảnh H3 là ảnh đầu vào.
 
 <!-- OFFICIAL:END -->
 
@@ -205,10 +205,28 @@ Bốn bước đầu là công cụ được công bố miễn phí; bước th�
 
 ## Tài liệu chính thức của mô hình
 
-- **[Seedance 2.5](https://seed.bytedance.com/en/seedance2_5)** — Lên kế hoạch âm thanh và hình ảnh cùng nhau; đầu vào tham chiếu tùy công cụ.
-- **[MiniMax H3](https://www.minimax.io/blog/minimax-h3)** — Ví dụ chính thức phân vai riêng cho hình ảnh, video và âm thanh.
-- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Bắt đầu từ ý tưởng và lời hát tùy chọn; quyết định cấu trúc nhạc trước.
-- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Mô tả cụ thể thể loại, cảm xúc, nhạc cụ và nhịp độ.
+<!-- CAPABILITIES:START -->
+<p><b>Seedance 2.5</b><br>Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.</p>
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
+
+<p><b>MiniMax H3</b><br>Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.</p>
+
+<p><a href="https://hailuoai.video/tools/minimax-h3">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#h3-singing">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
+
+<p><b>Veo 3.1</b><br>Cảnh hát siêu thực: kết hợp tham chiếu nhân vật và bối cảnh.</p>
+
+<p><a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#veo-scene">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
+
+<p><b>Seedance 2.0</b><br>Piano: từ cảnh trung đến cận cảnh biểu cảm.</p>
+
+<p><a href="https://seed.bytedance.com/en/seedance2_0">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
+
+Cả bốn phiên bản đều có trang MusicMaker. Ví dụ và hướng dẫn từ nhà phát triển; tính năng MusicMaker có thể khác. Ảnh H3 là ảnh đầu vào.
+<!-- CAPABILITIES:END -->
+
+- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Bắt đầu từ ý tưởng và lời hát tùy chọn; quyết định cấu trúc nhạc trước. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Mô tả cụ thể thể loại, cảm xúc, nhạc cụ và nhịp độ. [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [→ Nguồn và quyền sử dụng](../assets/README.md) · [MIT](../LICENSE)
 

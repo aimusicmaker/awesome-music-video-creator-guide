@@ -29,16 +29,16 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>공식 데모 장면</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>음악회: 장소와 연주자 참조를 나눕니다.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 공식 사례</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-concert">단계별 노트 · 영어 →</a></td>
-<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>공식 입력 이미지</sub><br><b>MiniMax H3</b> · MiniMax<br>노래: 카메라·인물·보컬 참조를 나눕니다.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 공식 사례</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#h3-singing">단계별 노트 · 영어 →</a></td>
+<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>공식 데모 장면</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>음악회: 장소와 연주자 참조를 나눕니다.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 공식 사례</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-concert">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></td>
+<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>공식 입력 이미지</sub><br><b>MiniMax H3</b> · MiniMax<br>노래: 카메라·인물·보컬 참조를 나눕니다.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 공식 사례</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#h3-singing">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>공식 동영상 표지</sub><br><b>Veo 3</b> · Google DeepMind<br>악기 연주: 동작과 소리를 함께 설명합니다.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 공식 사례</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#veo-instrument">단계별 노트 · 영어 →</a></td>
-<td width="50%" valign="top"><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>캐릭터 입력 · 일반 연기 사례</sub><br><b>Runway Act-Two</b> · Runway<br>연기 전달: 연기 영상과 캐릭터를 준비합니다.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ 공식 사례</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#act-two-performance">단계별 노트 · 영어 →</a></td>
+<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>공식 입력·출력 비교</sub><br><b>Veo 3.1</b> · Google DeepMind<br>환상적인 노래 장면: 인물과 배경 참조를 조합합니다.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 공식 사례</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#veo-scene">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></td>
+<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>공식 동영상 표지</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>피아노 연주: 미디엄 샷에서 표정 클로즈업으로.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ 공식 사례</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-piano">단계별 노트 · 영어 →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
 </tr>
 </table>
 
-Veo 사례는 현재 3.1 페이지의 Veo 3 예시입니다. Act-Two는 일반 연기 사례이며 H3와 Act-Two 이미지는 입력 자료입니다.
+네 모델 버전 모두 MusicMaker 페이지가 있습니다. 사례와 안내는 개발사 자료이며 실제 기능은 MusicMaker 화면에서 확인하세요. H3 이미지는 입력 자료입니다.
 
 <!-- OFFICIAL:END -->
 
@@ -195,10 +195,19 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 ## 모델 개발사 공식 자료
 
-- **[Seedance 2.5](https://seed.bytedance.com/en/seedance2_5)** — 소리와 화면을 함께 계획합니다. 참조 입력은 도구마다 다릅니다.
-- **[MiniMax H3](https://www.minimax.io/blog/minimax-h3)** — 이미지·영상·음성을 역할별로 참조하는 공식 사례가 있습니다.
-- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — 구상과 선택적 가사로 곡을 만듭니다. 음악 구성을 먼저 정하세요.
-- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — 장르, 분위기, 악기, 빠르기를 구체적으로 설명하세요.
+<!-- CAPABILITIES:START -->
+<table>
+<tr><td width="650"><b>Seedance 2.5</b><br>음악회: 장소와 연주자 참조를 나눕니다.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-concert">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>노래: 카메라·인물·보컬 참조를 나눕니다.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#h3-singing">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>환상적인 노래 장면: 인물과 배경 참조를 조합합니다.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#veo-scene">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>피아노 연주: 미디엄 샷에서 표정 클로즈업으로.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-piano">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+</table>
+
+네 모델 버전 모두 MusicMaker 페이지가 있습니다. 사례와 안내는 개발사 자료이며 실제 기능은 MusicMaker 화면에서 확인하세요. H3 이미지는 입력 자료입니다.
+<!-- CAPABILITIES:END -->
+
+- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — 구상과 선택적 가사로 곡을 만듭니다. 음악 구성을 먼저 정하세요. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — 장르, 분위기, 악기, 빠르기를 구체적으로 설명하세요. [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [→ 출처와 사용 조건](assets/README.md) · [MIT](LICENSE)
 

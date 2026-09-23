@@ -20,6 +20,8 @@ ByteDance describes joint sound-and-picture generation, videos up to 30 seconds 
 
 **中文：** 官方介绍了文字、图片、音频和视频输入及参考控制。这里的动态图形案例由作者标为 2.0，不能因为当前推荐 2.5 就改写原案例的模型名称。
 
+[MusicMaker · Seedance 2.0](https://musicmaker.im/model/seedance-2-0/) · [Official piano example / 官方钢琴案例](official-cases.zh-CN.md#seedance-piano)
+
 ## MiniMax H3
 
 **Official source:** [MiniMax H3 release, July 31, 2026](https://www.minimax.io/blog/minimax-h3).
@@ -29,6 +31,16 @@ MiniMax describes combined text, image, video and audio context, stereo audio, a
 **中文：** 官方介绍了文字、图像、视频、音频的组合输入，并提供演唱示例：运镜、人物、声音分别来自不同参考。准备素材时可照着这个分工；如果入口不支持某种参考，增加形容词也不能补上缺失输入。
 
 [Related workflow / 对应工作流](x-cases.zh-CN.md#h3-performance). MusicMaker’s [free short-video route](https://musicmaker.im/free-short-music-video-generator/) listed **5-second, 480p** clips when checked; those interface limits differ from the model-level announcement. Treat longer recipe durations as editing targets.
+
+[MusicMaker · MiniMax H3](https://musicmaker.im/model/minimax-h3/) · [Official singing example / 官方演唱案例](official-cases.zh-CN.md#h3-singing)
+
+## Veo 3.1
+
+[Google DeepMind](https://deepmind.google/models/veo/) · [MusicMaker · Veo 3.1](https://musicmaker.im/model/veo-3-1-ai/) · [Official example and learning notes / 官方案例与学习笔记](official-cases.zh-CN.md#veo-scene)
+
+Compare the official example and guidance before choosing a brand interface. The model version, reference inputs and audio controls must match your selected tool.
+
+**中文：** 先核对官方案例与说明，再选品牌入口。模型版本、参考输入与声音设置以所选工具的实际界面为准。
 
 ## MiniMax Music 3.0
 

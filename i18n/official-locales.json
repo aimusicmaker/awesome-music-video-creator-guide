@@ -8,15 +8,15 @@
     "lessons": [
       "Concert: separate references for venue and performers.",
       "Singing: separate camera, character and vocal references.",
-      "Instrument performance: describe action and sound together.",
-      "Performance transfer: record a driving video, then add a character."
+      "Surreal singing scene: combine character and setting references.",
+      "Piano performance: move from a medium shot to an expression close-up."
     ],
-    "boundary": "Veo: the violin example is labeled Veo 3 on the current 3.1 page. Act-Two is a general performance example. H3 and Act-Two images are inputs.",
+    "boundary": "All four model versions have MusicMaker pages. Examples and guides come from the model makers; MusicMaker controls may differ. The H3 image is an input.",
     "image_labels": [
       "Official demo frame",
       "Official input image",
-      "Official video poster",
-      "Character input · general acting example"
+      "Official input/output comparison",
+      "Official video poster"
     ]
   },
   "zh": {
@@ -28,15 +28,15 @@
     "lessons": [
       "音乐会：分别指定场地、主唱、乐手与合唱团参考。",
       "人像演唱：把运镜、人物和歌声分配给不同参考。",
-      "器乐演奏：同时写清演奏动作与声音设计。",
-      "表演迁移：先录表演视频，再配人物参考。"
+      "奇幻演唱场景：用参考素材组织人物与环境。",
+      "钢琴演奏：从人物中景切到表情特写。"
     ],
-    "boundary": "Veo 小提琴案例标为 Veo 3，收录于当前 3.1 页面；Act-Two 是通用表演迁移案例。H3 与 Act-Two 配图为官方输入图。",
+    "boundary": "这四个模型版本均有 MusicMaker 对应页面。案例与教程来自模型开发者，品牌入口的可用功能以实际界面为准；H3 配图为输入图。",
     "image_labels": [
       "官方演示截图",
       "官方输入图",
-      "官方视频封面",
-      "人物输入图 · 通用表演案例"
+      "官方输入与输出对照",
+      "官方视频封面"
     ]
   },
   "tw": {
@@ -48,15 +48,15 @@
     "lessons": [
       "音樂會：分別指定場地、主唱、樂手與合唱團參考。",
       "人像演唱：將運鏡、人物和歌聲分配給不同參考。",
-      "器樂演奏：同時寫清演奏動作與聲音設計。",
-      "表演轉移：先錄表演影片，再搭配人物參考。"
+      "奇幻演唱場景：用參考素材組織人物與環境。",
+      "鋼琴演奏：從人物中景切到表情特寫。"
     ],
-    "boundary": "Veo 小提琴案例標為 Veo 3，收錄於目前的 3.1 頁面；Act-Two 是通用表演轉移案例。H3 與 Act-Two 配圖為官方輸入圖。",
+    "boundary": "這四個模型版本均有 MusicMaker 對應頁面。案例與教學來自模型開發者，品牌入口的可用功能以實際介面為準；H3 配圖為輸入圖。",
     "image_labels": [
       "官方示範截圖",
       "官方輸入圖",
-      "官方影片封面",
-      "人物輸入圖 · 通用表演案例"
+      "官方輸入與輸出對照",
+      "官方影片封面"
     ]
   },
   "ja": {
@@ -68,15 +68,15 @@
     "lessons": [
       "演奏会：会場と演奏者の参照を分ける。",
       "歌唱：カメラ・人物・歌声の参照を分ける。",
-      "楽器演奏：動きと音を一緒に指定する。",
-      "演技転送：演技動画とキャラクターを用意する。"
+      "幻想的な歌唱シーン：人物と背景の参照を組み合わせる。",
+      "ピアノ演奏：ミディアムショットから表情のアップへ。"
     ],
-    "boundary": "Veoの作例は現行3.1ページ掲載のVeo 3。Act-Twoは一般的な演技例。H3とAct-Twoの画像は入力素材です。",
+    "boundary": "4つのモデル版にはMusicMakerの対応ページがあります。作例とガイドは開発元の資料です。MusicMakerの機能は実際の画面で確認してください。H3画像は入力素材です。",
     "image_labels": [
       "公式デモのフレーム",
       "公式入力画像",
-      "公式動画のサムネイル",
-      "キャラクター入力 · 一般的な演技例"
+      "公式の入力・出力比較",
+      "公式動画のサムネイル"
     ]
   },
   "ko": {
@@ -88,15 +88,15 @@
     "lessons": [
       "음악회: 장소와 연주자 참조를 나눕니다.",
       "노래: 카메라·인물·보컬 참조를 나눕니다.",
-      "악기 연주: 동작과 소리를 함께 설명합니다.",
-      "연기 전달: 연기 영상과 캐릭터를 준비합니다."
+      "환상적인 노래 장면: 인물과 배경 참조를 조합합니다.",
+      "피아노 연주: 미디엄 샷에서 표정 클로즈업으로."
     ],
-    "boundary": "Veo 사례는 현재 3.1 페이지의 Veo 3 예시입니다. Act-Two는 일반 연기 사례이며 H3와 Act-Two 이미지는 입력 자료입니다.",
+    "boundary": "네 모델 버전 모두 MusicMaker 페이지가 있습니다. 사례와 안내는 개발사 자료이며 실제 기능은 MusicMaker 화면에서 확인하세요. H3 이미지는 입력 자료입니다.",
     "image_labels": [
       "공식 데모 장면",
       "공식 입력 이미지",
-      "공식 동영상 표지",
-      "캐릭터 입력 · 일반 연기 사례"
+      "공식 입력·출력 비교",
+      "공식 동영상 표지"
     ]
   },
   "de": {
@@ -108,15 +108,15 @@
     "lessons": [
       "Konzert: Bühne und Mitwirkende getrennt referenzieren.",
       "Gesang: Kamera, Person und Stimme getrennt referenzieren.",
-      "Instrumente: Bewegung und Klang gemeinsam beschreiben.",
-      "Performance-Transfer: Darbietung filmen, Figur hinzufügen."
+      "Surreale Gesangsszene: Figuren- und Umgebungsreferenzen verbinden.",
+      "Klavier: von der Halbnahen zur Nahaufnahme des Ausdrucks."
     ],
-    "boundary": "Veo: Das Beispiel ist Veo 3 auf der aktuellen 3.1-Seite. Act-Two zeigt allgemeinen Performance-Transfer. H3- und Act-Two-Bilder sind Eingaben.",
+    "boundary": "Alle vier Modellversionen haben MusicMaker-Seiten. Beispiele und Anleitungen stammen von den Entwicklern; MusicMaker-Funktionen können abweichen. Das H3-Bild ist eine Eingabe.",
     "image_labels": [
       "Bild aus der offiziellen Demo",
       "Offizielles Eingabebild",
-      "Offizielles Videovorschaubild",
-      "Figureneingabe · allgemeines Schauspielbeispiel"
+      "Offizieller Eingabe-/Ausgabevergleich",
+      "Offizielles Videovorschaubild"
     ]
   },
   "fr": {
@@ -128,15 +128,15 @@
     "lessons": [
       "Concert : séparer les références du lieu et des artistes.",
       "Chant : distinguer caméra, personnage et voix.",
-      "Instrument : décrire ensemble le geste et le son.",
-      "Transfert : filmer une performance, ajouter un personnage."
+      "Chant surréaliste : associer des références de personnage et de décor.",
+      "Piano : du plan moyen au gros plan sur l’expression."
     ],
-    "boundary": "Veo : exemple Veo 3 sur la page actuelle 3.1. Act-Two montre un transfert général. Les images H3 et Act-Two sont des entrées.",
+    "boundary": "Les quatre versions ont une page MusicMaker. Les exemples et guides viennent des développeurs ; les commandes MusicMaker peuvent différer. L’image H3 est une entrée.",
     "image_labels": [
       "Image de la démonstration officielle",
       "Image d’entrée officielle",
-      "Affiche de la vidéo officielle",
-      "Personnage en entrée · exemple de jeu d’acteur"
+      "Comparaison officielle entrée/sortie",
+      "Affiche de la vidéo officielle"
     ]
   },
   "es": {
@@ -148,15 +148,15 @@
     "lessons": [
       "Concierto: separar referencias de espacio e intérpretes.",
       "Canto: separar cámara, personaje y voz.",
-      "Instrumentos: describir juntos acción y sonido.",
-      "Transferencia: grabar una actuación y añadir un personaje."
+      "Canto surrealista: combina referencias de personaje y entorno.",
+      "Piano: del plano medio al primer plano de la expresión."
     ],
-    "boundary": "Veo: ejemplo Veo 3 en la página actual 3.1. Act-Two muestra actuación general. Las imágenes H3 y Act-Two son entradas.",
+    "boundary": "Las cuatro versiones tienen páginas en MusicMaker. Los ejemplos y guías son de los desarrolladores; los controles de MusicMaker pueden variar. La imagen H3 es una entrada.",
     "image_labels": [
       "Fotograma de la demo oficial",
       "Imagen de entrada oficial",
-      "Portada del vídeo oficial",
-      "Entrada de personaje · ejemplo de actuación"
+      "Comparación oficial de entrada y salida",
+      "Portada del vídeo oficial"
     ]
   },
   "it": {
@@ -168,15 +168,15 @@
     "lessons": [
       "Concerto: separare riferimenti di luogo e interpreti.",
       "Canto: separare camera, personaggio e voce.",
-      "Strumenti: descrivere insieme azione e suono.",
-      "Trasferimento: registrare una performance e aggiungere un personaggio."
+      "Canto surreale: combina riferimenti di personaggio e ambiente.",
+      "Pianoforte: dal piano medio al primo piano espressivo."
     ],
-    "boundary": "Veo: esempio Veo 3 sulla pagina attuale 3.1. Act-Two mostra una performance generica. Le immagini H3 e Act-Two sono input.",
+    "boundary": "Tutte e quattro le versioni hanno pagine MusicMaker. Esempi e guide provengono dagli sviluppatori; i controlli MusicMaker possono differire. L’immagine H3 è un input.",
     "image_labels": [
       "Fotogramma della demo ufficiale",
       "Immagine di input ufficiale",
-      "Copertina del video ufficiale",
-      "Input personaggio · esempio di recitazione"
+      "Confronto ufficiale input/output",
+      "Copertina del video ufficiale"
     ]
   },
   "pt": {
@@ -188,15 +188,15 @@
     "lessons": [
       "Concerto: separar referências do local e dos intérpretes.",
       "Canto: separar câmera, personagem e voz.",
-      "Instrumentos: descrever ação e som juntos.",
-      "Transferência: gravar uma atuação e adicionar um personagem."
+      "Canto surreal: combine referências de personagem e cenário.",
+      "Piano: do plano médio ao close da expressão."
     ],
-    "boundary": "Veo: exemplo Veo 3 na página atual 3.1. Act-Two mostra atuação geral. As imagens H3 e Act-Two são entradas.",
+    "boundary": "As quatro versões têm páginas no MusicMaker. Exemplos e guias vêm dos desenvolvedores; os controles do MusicMaker podem diferir. A imagem H3 é uma entrada.",
     "image_labels": [
       "Frame da demonstração oficial",
       "Imagem de entrada oficial",
-      "Capa do vídeo oficial",
-      "Entrada de personagem · exemplo de atuação"
+      "Comparação oficial de entrada e saída",
+      "Capa do vídeo oficial"
     ]
   },
   "ru": {
@@ -208,15 +208,15 @@
     "lessons": [
       "Концерт: отдельные референсы сцены и исполнителей.",
       "Пение: разделить камеру, персонажа и голос.",
-      "Инструменты: описать движение вместе со звуком.",
-      "Перенос исполнения: записать видео и добавить персонажа."
+      "Сюрреалистическое пение: сочетайте референсы персонажа и окружения.",
+      "Фортепиано: от среднего плана к крупному плану лица."
     ],
-    "boundary": "Veo: пример Veo 3 на текущей странице 3.1. Act-Two — общий пример переноса исполнения. Изображения H3 и Act-Two — входные материалы.",
+    "boundary": "Для всех четырёх версий есть страницы MusicMaker. Примеры и руководства взяты у разработчиков; функции MusicMaker могут отличаться. Изображение H3 — входной материал.",
     "image_labels": [
       "Кадр официальной демонстрации",
       "Официальное входное изображение",
-      "Обложка официального видео",
-      "Изображение персонажа · пример актёрской игры"
+      "Официальное сравнение входа и результата",
+      "Обложка официального видео"
     ]
   },
   "id": {
@@ -228,15 +228,15 @@
     "lessons": [
       "Konser: pisahkan referensi tempat dan pemain.",
       "Bernyanyi: pisahkan kamera, karakter, dan vokal.",
-      "Instrumen: jelaskan gerakan dan suara bersama.",
-      "Transfer penampilan: rekam video lalu tambahkan karakter."
+      "Adegan bernyanyi surealis: gabungkan referensi karakter dan latar.",
+      "Piano: dari bidikan sedang ke close-up ekspresi."
     ],
-    "boundary": "Veo: contoh Veo 3 pada halaman 3.1 saat ini. Act-Two adalah contoh penampilan umum. Gambar H3 dan Act-Two adalah masukan.",
+    "boundary": "Keempat versi model memiliki halaman MusicMaker. Contoh dan panduan berasal dari pengembang; fitur MusicMaker mengikuti antarmukanya. Gambar H3 adalah input.",
     "image_labels": [
       "Cuplikan demo resmi",
       "Gambar input resmi",
-      "Poster video resmi",
-      "Input karakter · contoh akting umum"
+      "Perbandingan input/output resmi",
+      "Poster video resmi"
     ]
   },
   "vi": {
@@ -248,15 +248,15 @@
     "lessons": [
       "Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.",
       "Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.",
-      "Nhạc cụ: mô tả cả động tác lẫn âm thanh.",
-      "Chuyển biểu diễn: quay video rồi thêm nhân vật."
+      "Cảnh hát siêu thực: kết hợp tham chiếu nhân vật và bối cảnh.",
+      "Piano: từ cảnh trung đến cận cảnh biểu cảm."
     ],
-    "boundary": "Veo: ví dụ Veo 3 trên trang 3.1 hiện tại. Act-Two là ví dụ biểu diễn chung. Ảnh H3 và Act-Two là đầu vào.",
+    "boundary": "Cả bốn phiên bản đều có trang MusicMaker. Ví dụ và hướng dẫn từ nhà phát triển; tính năng MusicMaker có thể khác. Ảnh H3 là ảnh đầu vào.",
     "image_labels": [
       "Khung hình minh họa chính thức",
       "Ảnh đầu vào chính thức",
-      "Ảnh bìa video chính thức",
-      "Ảnh nhân vật đầu vào · ví dụ diễn xuất"
+      "So sánh đầu vào và đầu ra chính thức",
+      "Ảnh bìa video chính thức"
     ]
   },
   "th": {
@@ -268,15 +268,15 @@
     "lessons": [
       "คอนเสิร์ต: แยกภาพอ้างอิงสถานที่และนักดนตรี",
       "ร้องเพลง: แยกกล้อง ตัวละคร และเสียงร้อง",
-      "เครื่องดนตรี: อธิบายการเคลื่อนไหวและเสียงร่วมกัน",
-      "ถ่ายทอดการแสดง: ถ่ายวิดีโอแล้วเพิ่มตัวละคร"
+      "ฉากร้องเพลงเหนือจริง: ผสานภาพอ้างอิงตัวละครและสถานที่",
+      "เปียโน: จากภาพระยะกลางไปยังภาพใกล้ของสีหน้า"
     ],
-    "boundary": "Veo เป็นตัวอย่าง Veo 3 บนหน้า 3.1 ปัจจุบัน ส่วน Act-Two เป็นตัวอย่างการแสดงทั่วไป ภาพ H3 และ Act-Two เป็นข้อมูลนำเข้า",
+    "boundary": "โมเดลทั้งสี่เวอร์ชันมีหน้าบน MusicMaker ตัวอย่างและคู่มือมาจากผู้พัฒนา ฟังก์ชันของ MusicMaker ให้ตรวจสอบจากหน้าจอจริง ภาพ H3 เป็นภาพอินพุต",
     "image_labels": [
       "ภาพจากวิดีโอสาธิตทางการ",
       "ภาพอินพุตจากทางการ",
-      "ภาพปกวิดีโอทางการ",
-      "ภาพตัวละครอินพุต · ตัวอย่างการแสดงทั่วไป"
+      "ภาพเปรียบเทียบอินพุตและผลลัพธ์จากทางการ",
+      "ภาพปกวิดีโอทางการ"
     ]
   },
   "ar": {
@@ -288,15 +288,15 @@
     "lessons": [
       "حفل: افصل مراجع المكان والمؤدين.",
       "غناء: افصل مراجع الكاميرا والشخصية والصوت.",
-      "عزف: صف الحركة والصوت معًا.",
-      "نقل الأداء: سجّل فيديو ثم أضف الشخصية."
+      "مشهد غنائي خيالي: اجمع مراجع الشخصية والمكان.",
+      "عزف البيانو: من لقطة متوسطة إلى لقطة قريبة للتعبير."
     ],
-    "boundary": "مثال Veo موسوم Veo 3 في صفحة 3.1 الحالية. Act-Two مثال أداء عام. صور H3 وAct-Two هي مدخلات.",
+    "boundary": "توجد صفحات MusicMaker للإصدارات الأربعة. الأمثلة والأدلة من المطورين، وقد تختلف خيارات MusicMaker. صورة H3 هي صورة إدخال.",
     "image_labels": [
       "لقطة من العرض الرسمي",
       "صورة إدخال رسمية",
-      "غلاف الفيديو الرسمي",
-      "صورة الشخصية المدخلة · مثال تمثيل عام"
+      "مقارنة رسمية بين المدخلات والنتيجة",
+      "غلاف الفيديو الرسمي"
     ]
   }
 }

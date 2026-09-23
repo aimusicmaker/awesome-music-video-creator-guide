@@ -1,6 +1,6 @@
 {
   "checked_on": "2026-09-23",
-  "scope": "Official published examples and documentation; no generations reproduced, no claim of a model ranking or universal free access.",
+  "scope": "Only model versions listed by MusicMaker. Official examples are model-maker publications, not tests of MusicMaker or proof of identical controls.",
   "cases": [
     {
       "id": "seedance-concert",
@@ -13,7 +13,8 @@
       "alt": "Frame from the official Seedance 2.5 concert demonstration",
       "image_type": "Frame at 00:12 from the official demonstration; unedited extraction",
       "lesson": "Concert scene: assign references to performers and venue.",
-      "lesson_zh": "音乐会：分别指定场地、主唱、乐手与合唱团参考。"
+      "lesson_zh": "音乐会：分别指定场地、主唱、乐手与合唱团参考。",
+      "brand_url": "https://musicmaker.im/model/seedance-2-5/"
     },
     {
       "id": "h3-singing",
@@ -26,32 +27,37 @@
       "alt": "Official MiniMax H3 character reference image for the singing demonstration",
       "image_type": "Official input image, not an output frame",
       "lesson": "Singing: separate camera, character and vocal references.",
-      "lesson_zh": "人像演唱：把运镜、人物和歌声分配给不同参考。"
+      "lesson_zh": "人像演唱：把运镜、人物和歌声分配给不同参考。",
+      "brand_url": "https://musicmaker.im/model/minimax-h3/"
     },
     {
-      "id": "veo-instrument",
-      "model": "Veo 3",
+      "id": "veo-scene",
+      "model": "Veo 3.1",
       "publisher": "Google DeepMind",
       "source": "https://deepmind.google/models/veo/",
       "tutorial": "https://deepmind.google/models/veo/prompt-guide/",
-      "image": "https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu",
-      "video": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__violinist.webm",
-      "alt": "Official Veo poster for the violin performance demonstration",
-      "image_type": "Official video poster; Veo 3 example retained on the current Veo 3.1 page",
-      "lesson": "Instrument performance: describe action and sound together.",
-      "lesson_zh": "器乐演奏：同时写清演奏动作与声音设计。"
+      "image": "https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu",
+      "video": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo-3__visual-identity-preservation-3__9x16__light.webm",
+      "alt": "Official Veo comparison: three reference images beside a singer in an abstract flower garden",
+      "image_type": "Official comparison of input reference images and output on the Veo 3.1 page",
+      "lesson": "Surreal singing scene: combine character and setting references.",
+      "lesson_zh": "奇幻演唱场景：用参考素材组织人物与环境。",
+      "brand_url": "https://musicmaker.im/model/veo-3-1-ai/",
+      "version_evidence": "Published in the current Veo 3.1 capability showcase, Add ingredients to your video. Media filename retains veo-3; the page does not disclose the individual clip generation version or full generation settings."
     },
     {
-      "id": "act-two-performance",
-      "model": "Runway Act-Two",
-      "publisher": "Runway",
-      "source": "https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two",
-      "tutorial": "https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two",
-      "image": "https://help.runwayml.com/hc/article_attachments/43008957767443",
-      "alt": "Official Runway Act-Two character input from the performance capture tutorial",
-      "image_type": "Official character input; a general performance-transfer example, not a music-video demo",
-      "lesson": "Performance transfer: driving video plus character input.",
-      "lesson_zh": "表演迁移：先录表演视频，再配人物参考。"
+      "id": "seedance-piano",
+      "model": "Seedance 2.0",
+      "publisher": "ByteDance Seed",
+      "source": "https://seed.bytedance.com/en/seedance2_0",
+      "tutorial": "https://seed.bytedance.com/en/seedance2_0",
+      "image": "https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D",
+      "video": "https://v26-magicarena-v.365yg.com/6ae66d28e4f90d350676bf9ce11e8d2a/7c596d3e/video/tos/cn/tos-cn-v-13c08f/f29f8e4fb0ff448389b078f77c3b4cae/?a=611830&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=907&bt=907&cs=0&ds=3&ft=7ubAHfXEBBkq8ZmoEarWU_vjVQWw&mime_type=video_mp4&qs=13&rc=anZvNmlrb3dvOTczNGllM0BpanZvNmlrb3dvOTczNGllM0AuY2lycWdubjNhLS1kXy9zYSMuY2lycWdubjNhLS1kXy9zcw%3D%3D&btag=40000e00008000&dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB",
+      "alt": "Official Seedance 2.0 video poster: pianist in a black suit",
+      "image_type": "Official piano performance video poster",
+      "lesson": "Piano performance: plan a medium shot and expression close-up.",
+      "lesson_zh": "钢琴演奏：从人物中景切到表情特写。",
+      "brand_url": "https://musicmaker.im/model/seedance-2-0/"
     }
   ]
 }

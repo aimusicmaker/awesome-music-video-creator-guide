@@ -27,15 +27,15 @@ Musik wählen → Shots und Prompts planen → Clips erzeugen → schneiden und 
 
 Erkunde zuerst Beispiele und Eingaben der Entwickler, dann die Community. Dies sind veröffentlichte Demos, keine eigenen Generierungstests oder Ranglisten.
 
-<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Bild aus der offiziellen Demo</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Konzert: Bühne und Mitwirkende getrennt referenzieren.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Schrittfolge · Englisch →</a></p>
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Bild aus der offiziellen Demo</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Konzert: Bühne und Mitwirkende getrennt referenzieren.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Schrittfolge · Englisch →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Offizielles Eingabebild</sub><br><b>MiniMax H3</b> · MiniMax<br>Gesang: Kamera, Person und Stimme getrennt referenzieren.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#h3-singing">Schrittfolge · Englisch →</a></p>
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Offizielles Eingabebild</sub><br><b>MiniMax H3</b> · MiniMax<br>Gesang: Kamera, Person und Stimme getrennt referenzieren.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#h3-singing">Schrittfolge · Englisch →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Offizielles Videovorschaubild</sub><br><b>Veo 3</b> · Google DeepMind<br>Instrumente: Bewegung und Klang gemeinsam beschreiben.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#veo-instrument">Schrittfolge · Englisch →</a></p>
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>Offizieller Eingabe-/Ausgabevergleich</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Surreale Gesangsszene: Figuren- und Umgebungsreferenzen verbinden.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#veo-scene">Schrittfolge · Englisch →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Figureneingabe · allgemeines Schauspielbeispiel</sub><br><b>Runway Act-Two</b> · Runway<br>Performance-Transfer: Darbietung filmen, Figur hinzufügen.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#act-two-performance">Schrittfolge · Englisch →</a></p>
+<p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Offizielles Videovorschaubild</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Klavier: von der Halbnahen zur Nahaufnahme des Ausdrucks.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Offizielles Beispiel</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Schrittfolge · Englisch →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
 
-Veo: Das Beispiel ist Veo 3 auf der aktuellen 3.1-Seite. Act-Two zeigt allgemeinen Performance-Transfer. H3- und Act-Two-Bilder sind Eingaben.
+Alle vier Modellversionen haben MusicMaker-Seiten. Beispiele und Anleitungen stammen von den Entwicklern; MusicMaker-Funktionen können abweichen. Das H3-Bild ist eine Eingabe.
 
 <!-- OFFICIAL:END -->
 
@@ -205,10 +205,28 @@ Die ersten vier Schritte zeigen als kostenlos beworbene Werkzeuge; der fünfte e
 
 ## Offizielle Modellquellen
 
-- **[Seedance 2.5](https://seed.bytedance.com/en/seedance2_5)** — Plane Ton und Bild gemeinsam; die verfügbaren Referenzen hängen vom Werkzeug ab.
-- **[MiniMax H3](https://www.minimax.io/blog/minimax-h3)** — Offizielle Beispiele weisen Bild, Video und Audio unterschiedliche Aufgaben zu.
-- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Beginne mit einer Idee und optionalem Liedtext; lege zuerst den musikalischen Aufbau fest.
-- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Beschreibe Genre, Stimmung, Instrumente und Tempo konkret.
+<!-- CAPABILITIES:START -->
+<p><b>Seedance 2.5</b><br>Konzert: Bühne und Mitwirkende getrennt referenzieren.</p>
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Schrittfolge · Englisch →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
+
+<p><b>MiniMax H3</b><br>Gesang: Kamera, Person und Stimme getrennt referenzieren.</p>
+
+<p><a href="https://hailuoai.video/tools/minimax-h3">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#h3-singing">Schrittfolge · Englisch →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
+
+<p><b>Veo 3.1</b><br>Surreale Gesangsszene: Figuren- und Umgebungsreferenzen verbinden.</p>
+
+<p><a href="https://deepmind.google/models/veo/prompt-guide/">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#veo-scene">Schrittfolge · Englisch →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
+
+<p><b>Seedance 2.0</b><br>Klavier: von der Halbnahen zur Nahaufnahme des Ausdrucks.</p>
+
+<p><a href="https://seed.bytedance.com/en/seedance2_0">Offizielle Anleitung / Prompt ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Schrittfolge · Englisch →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
+
+Alle vier Modellversionen haben MusicMaker-Seiten. Beispiele und Anleitungen stammen von den Entwicklern; MusicMaker-Funktionen können abweichen. Das H3-Bild ist eine Eingabe.
+<!-- CAPABILITIES:END -->
+
+- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Beginne mit einer Idee und optionalem Liedtext; lege zuerst den musikalischen Aufbau fest. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Beschreibe Genre, Stimmung, Instrumente und Tempo konkret. [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [→ Quellen und Nutzungsrechte](../assets/README.md) · [MIT](../LICENSE)
 

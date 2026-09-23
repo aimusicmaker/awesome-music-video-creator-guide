@@ -8,6 +8,8 @@
 
 ## Seedance 2.5：把一场音乐会分配给不同参考
 
+[MusicMaker · Seedance 2.5 ↗](https://musicmaker.im/model/seedance-2-5/)
+
 [![Seedance 2.5 官方音乐会演示截图](../assets/official/seedance-concert.jpg)](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 
 [▶ 直接观看官方片段](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/user-upload/4xfa4ms8au6q0.mp4)
@@ -26,6 +28,8 @@
 
 ## MiniMax H3：人物、运镜、歌声各有来源
 
+[MusicMaker · MiniMax H3 ↗](https://musicmaker.im/model/minimax-h3/)
+
 [![MiniMax H3 官方演唱示例输入图：咖啡馆中端杯的女子](https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png)](https://www.minimax.io/blog/minimax-h3)
 
 [▶ 直接观看官方片段](https://filecdn.minimax.chat/public/h3-en-v2-video-003-1785473642166.mp4)
@@ -42,38 +46,39 @@
 
 继续练习可用本库[10 秒人像演唱教程](first-video.zh-CN.md#vocal)。提示词表达的是目标，不保证准确口型。
 
-<a id="veo-instrument"></a>
+<a id="veo-scene"></a>
 
-## Veo：让画面动作与声音描述对应
+## Veo 3.1：把演唱放进奇幻花园
 
-[![Veo 官方小提琴演奏示例封面](https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu)](https://deepmind.google/models/veo/)
+[![Veo · 官方花园演唱输入与输出对照](https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu)](https://deepmind.google/models/veo/)
 
-[▶ 直接观看官方片段](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo__veo-3__violinist.webm)
+[▶ 观看官方片段](https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/media/veo-3__visual-identity-preservation-3__9x16__light.webm) · [MusicMaker · Veo 3.1 ↗](https://musicmaker.im/model/veo-3-1-ai/)
 
-**官方案例：** [Google DeepMind Veo 页面](https://deepmind.google/models/veo/)的小提琴演奏示例。当前页面介绍 Veo 3.1，但该演示素材和对应提示词属于 Veo 3，不改标为 3.1 实测。
+**官方案例：** [Veo 3.1 当前官网](https://deepmind.google/models/veo/)的 Add ingredients to your video（用参考素材生成视频）展示，内容是人物在抽象花园中演唱，周围有漂浮的马卡龙。官方公开了成片、提示词，以及参考图与输出的对照；上图左侧是三张输入图，右侧是生成画面。本库未取得独立原始参考文件与完整生成设置。该视频文件名仍含 `veo-3`，这里按当前 3.1 能力展示页归类，不据此断言单条片段的生成版本。
 
-**官方教程：** [Veo 提示词指南](https://deepmind.google/models/veo/prompt-guide/)，讲解构图、动作、光线与声音描述。
+**官方教程：** [Veo 提示词指南](https://deepmind.google/models/veo/prompt-guide/)；[Veo 3.1 输入与功能说明](https://ai.google.dev/gemini-api/docs/video)。
 
 **本库建议的学习步骤：**
 
-1. 从原页对照演奏画面和声音描述，关注可见动作与期望声音的对应关系。
-2. 自己练习时写清一种乐器、一位演奏者、一个场景和一种镜头运动；声音另写一小段。
-3. 输出后检查弓、手指与乐器是否稳定，再听音画是否协调。外加已完成歌曲时，关闭不需要的生成声音。
+1. 先看原片，分开观察人物外观、花园风格、漂浮物和演唱动作；参考图承担不同角色，不要混成一个模糊描述。
+2. 自己练习时准备有使用权的人物图与环境图，先做人物轻微演唱、花朵缓慢运动的单镜头。这是新编练习建议，不是原作的完整复现配方。
+3. 到 MusicMaker 页面核对 Veo 3.1 或 Fast 选项，按当前控件选择文字或首帧输入。页面没有提供多参考图控件时，不要把官方 Ingredients 工作流当成品牌已开放功能；可先制作一张合成场景图再尝试首帧路线。
+4. 检查人物是否保持一致、嘴部是否被遮挡、声音是否符合预期。若配自己的歌曲，保留一条音轨，重新核对同步后导出。
 
-这类演示不证明能逐音符还原你上传的歌曲；也不能把原生声音生成等同于完整歌曲驱动的视频制作。
+<a id="seedance-piano"></a>
 
-<a id="act-two-performance"></a>
+## Seedance 2.0：先拍演奏，再切表情
 
-## Runway Act-Two：用表演视频驱动角色
+[![Seedance 2.0 · 官方钢琴演奏视频封面](https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D)](https://seed.bytedance.com/en/seedance2_0)
 
-[![Runway 官方 Act-Two 教程中的人物输入：机舱内的空乘角色](https://help.runwayml.com/hc/article_attachments/43008957767443)](https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two)
+**官方案例与提示词：** [Seedance 2.0 官方展示页](https://seed.bytedance.com/en/seedance2_0)中的黑色西装钢琴家。原页提供演示及提示词，说明演奏中景、表情特写和声音安排；这不是上传歌曲驱动演奏的证明。
 
-**官方案例与教程：** [Performance Capture with Act-Two](https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two)，展示表演视频、人物图片／视频与输出的对照。图为人物输入；这是通用表演迁移案例，不是官方歌曲成片。
+**本库建议的学习步骤：**
 
-**按官方教程操作：**
+1. 先看官方演示，分别记下主体、光线、动作、切镜和声音如何描述。
+2. 自己练习时先做一位钢琴家的中景，只安排一次切到面部特写；不要同时加入观众、绕拍和换场。
+3. 检查琴键、双手和切镜后的衣着是否稳定。若配自己的歌曲，剪辑时关闭生成声音，再按乐句安排切点。
 
-1. 在 Runway 的 Apps 中打开 Performance Capture with Act-Two；准备单人、不切镜、脸部清楚的表演视频和人物参考。
-2. 上传两类输入。若使用人物图片，可设置 Gestures（动作控制）；人物视频则保留原有运镜与环境运动，不能按同样方式控制肢体。
-3. 先用默认表情强度，查看预计消耗后生成；出现表情失真再减少强度或调整输入。
+**品牌路线：** 打开下方 MusicMaker Seedance 2.0 页面，核对当前模型版本，按界面选择文字或图片输入；参考数量、时长和额度以实际界面为准。
 
-**用于音乐视频的本库建议：** 自录一段有使用权的演唱表演作为驱动素材，先做固定近景。不要只上传音频便期待完成表演迁移。官方页面目前要求 Standard 或更高计划。
+[MusicMaker · Seedance 2.0 ↗](https://musicmaker.im/model/seedance-2-0/)

@@ -27,15 +27,15 @@
 
 Сначала изучите демонстрации и входные материалы разработчиков, затем работы сообщества. Это не наши тесты генерации и не рейтинг.
 
-<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Кадр официальной демонстрации</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Концерт: отдельные референсы сцены и исполнителей.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Официальный пример</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Пошаговые заметки · английский →</a></p>
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Кадр официальной демонстрации</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Концерт: отдельные референсы сцены и исполнителей.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Официальный пример</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Пошаговые заметки · английский →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Официальное входное изображение</sub><br><b>MiniMax H3</b> · MiniMax<br>Пение: разделить камеру, персонажа и голос.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Официальный пример</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#h3-singing">Пошаговые заметки · английский →</a></p>
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Официальное входное изображение</sub><br><b>MiniMax H3</b> · MiniMax<br>Пение: разделить камеру, персонажа и голос.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Официальный пример</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#h3-singing">Пошаговые заметки · английский →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Обложка официального видео</sub><br><b>Veo 3</b> · Google DeepMind<br>Инструменты: описать движение вместе со звуком.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Официальный пример</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#veo-instrument">Пошаговые заметки · английский →</a></p>
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>Официальное сравнение входа и результата</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Сюрреалистическое пение: сочетайте референсы персонажа и окружения.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Официальный пример</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#veo-scene">Пошаговые заметки · английский →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Изображение персонажа · пример актёрской игры</sub><br><b>Runway Act-Two</b> · Runway<br>Перенос исполнения: записать видео и добавить персонажа.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Официальный пример</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#act-two-performance">Пошаговые заметки · английский →</a></p>
+<p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Обложка официального видео</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Фортепиано: от среднего плана к крупному плану лица.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Официальный пример</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Пошаговые заметки · английский →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
 
-Veo: пример Veo 3 на текущей странице 3.1. Act-Two — общий пример переноса исполнения. Изображения H3 и Act-Two — входные материалы.
+Для всех четырёх версий есть страницы MusicMaker. Примеры и руководства взяты у разработчиков; функции MusicMaker могут отличаться. Изображение H3 — входной материал.
 
 <!-- OFFICIAL:END -->
 
@@ -205,10 +205,28 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 ## Официальные источники моделей
 
-- **[Seedance 2.5](https://seed.bytedance.com/en/seedance2_5)** — Планируйте звук и изображение вместе; доступные референсы зависят от инструмента.
-- **[MiniMax H3](https://www.minimax.io/blog/minimax-h3)** — В официальных примерах изображениям, видео и звуку отведены разные роли.
-- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Начните с идеи и необязательного текста песни; сначала определите музыкальную структуру.
-- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Конкретно опишите жанр, настроение, инструменты и темп.
+<!-- CAPABILITIES:START -->
+<p><b>Seedance 2.5</b><br>Концерт: отдельные референсы сцены и исполнителей.</p>
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Пошаговые заметки · английский →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
+
+<p><b>MiniMax H3</b><br>Пение: разделить камеру, персонажа и голос.</p>
+
+<p><a href="https://hailuoai.video/tools/minimax-h3">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#h3-singing">Пошаговые заметки · английский →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
+
+<p><b>Veo 3.1</b><br>Сюрреалистическое пение: сочетайте референсы персонажа и окружения.</p>
+
+<p><a href="https://deepmind.google/models/veo/prompt-guide/">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#veo-scene">Пошаговые заметки · английский →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
+
+<p><b>Seedance 2.0</b><br>Фортепиано: от среднего плана к крупному плану лица.</p>
+
+<p><a href="https://seed.bytedance.com/en/seedance2_0">Руководство / промпт ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Пошаговые заметки · английский →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
+
+Для всех четырёх версий есть страницы MusicMaker. Примеры и руководства взяты у разработчиков; функции MusicMaker могут отличаться. Изображение H3 — входной материал.
+<!-- CAPABILITIES:END -->
+
+- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Начните с идеи и необязательного текста песни; сначала определите музыкальную структуру. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Конкретно опишите жанр, настроение, инструменты и темп. [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [→ Источники и права](../assets/README.md) · [MIT](../LICENSE)
 

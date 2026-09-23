@@ -27,15 +27,15 @@ Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilu
 
 Lihat demonstrasi dan masukan pengembang sebelum karya komunitas. Ini contoh resmi, bukan pengujian generasi kami atau peringkat model.
 
-<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Cuplikan demo resmi</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Konser: pisahkan referensi tempat dan pemain.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a></p>
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Cuplikan demo resmi</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Konser: pisahkan referensi tempat dan pemain.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Gambar input resmi</sub><br><b>MiniMax H3</b> · MiniMax<br>Bernyanyi: pisahkan kamera, karakter, dan vokal.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#h3-singing">Langkah-langkah · Inggris →</a></p>
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Gambar input resmi</sub><br><b>MiniMax H3</b> · MiniMax<br>Bernyanyi: pisahkan kamera, karakter, dan vokal.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#h3-singing">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>Poster video resmi</sub><br><b>Veo 3</b> · Google DeepMind<br>Instrumen: jelaskan gerakan dan suara bersama.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#veo-instrument">Langkah-langkah · Inggris →</a></p>
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>Perbandingan input/output resmi</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Adegan bernyanyi surealis: gabungkan referensi karakter dan latar.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#veo-scene">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>Input karakter · contoh akting umum</sub><br><b>Runway Act-Two</b> · Runway<br>Transfer penampilan: rekam video lalu tambahkan karakter.<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#act-two-performance">Langkah-langkah · Inggris →</a></p>
+<p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Poster video resmi</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Piano: dari bidikan sedang ke close-up ekspresi.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Contoh resmi</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Langkah-langkah · Inggris →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
 
-Veo: contoh Veo 3 pada halaman 3.1 saat ini. Act-Two adalah contoh penampilan umum. Gambar H3 dan Act-Two adalah masukan.
+Keempat versi model memiliki halaman MusicMaker. Contoh dan panduan berasal dari pengembang; fitur MusicMaker mengikuti antarmukanya. Gambar H3 adalah input.
 
 <!-- OFFICIAL:END -->
 
@@ -205,10 +205,28 @@ Empat langkah pertama berisi alat yang dinyatakan gratis; bagian kelima berisi r
 
 ## Sumber resmi pengembang model
 
-- **[Seedance 2.5](https://seed.bytedance.com/en/seedance2_5)** — Rencanakan suara dan gambar bersama. Jenis referensi bergantung pada alat.
-- **[MiniMax H3](https://www.minimax.io/blog/minimax-h3)** — Contoh resmi membagi peran antara gambar, video, dan audio.
-- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Mulai dari konsep dan lirik opsional; tentukan struktur musik lebih dulu.
-- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Jelaskan genre, suasana, instrumen, dan tempo secara konkret.
+<!-- CAPABILITIES:START -->
+<p><b>Seedance 2.5</b><br>Konser: pisahkan referensi tempat dan pemain.</p>
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
+
+<p><b>MiniMax H3</b><br>Bernyanyi: pisahkan kamera, karakter, dan vokal.</p>
+
+<p><a href="https://hailuoai.video/tools/minimax-h3">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#h3-singing">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
+
+<p><b>Veo 3.1</b><br>Adegan bernyanyi surealis: gabungkan referensi karakter dan latar.</p>
+
+<p><a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#veo-scene">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
+
+<p><b>Seedance 2.0</b><br>Piano: dari bidikan sedang ke close-up ekspresi.</p>
+
+<p><a href="https://seed.bytedance.com/en/seedance2_0">Panduan / prompt resmi ↗</a><br><a href="../docs/official-cases.md#seedance-piano">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
+
+Keempat versi model memiliki halaman MusicMaker. Contoh dan panduan berasal dari pengembang; fitur MusicMaker mengikuti antarmukanya. Gambar H3 adalah input.
+<!-- CAPABILITIES:END -->
+
+- **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Mulai dari konsep dan lirik opsional; tentukan struktur musik lebih dulu. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **[Eleven Music](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)** — Jelaskan genre, suasana, instrumen, dan tempo secara konkret. [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [→ Sumber dan izin penggunaan](../assets/README.md) · [MIT](../LICENSE)
 

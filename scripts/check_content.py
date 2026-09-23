@@ -164,13 +164,20 @@ for language in languages:
         errors.append(f'{filename}: incorrect reader journey section order')
 # Official case cards must retain source, guide and learning-note links.
 official = json.loads((ROOT/'docs/official-cases.json').read_text())['cases']
+brand_catalog=(ROOT/'docs/brand-resources.json').read_text()
+for case in official:
+    if case.get('brand_url','MISSING') not in brand_catalog:
+        errors.append(f'Official model lacks cataloged MusicMaker route: {case["model"]}')
 for language in languages:
     for folder in ['', 'mobile/']:
         content=(ROOT/(folder+language['file'])).read_text()
         section=content.split('<!-- OFFICIAL:START -->',1)[-1].split('<!-- OFFICIAL:END -->',1)[0]
         if section.count('<img ') != len(official):
             errors.append(f'{folder}{language["file"]}: missing official case images')
+        capability=content.split('<!-- CAPABILITIES:START -->',1)[-1].split('<!-- CAPABILITIES:END -->',1)[0]
         for case in official:
+            if case['brand_url'] not in section or case['brand_url'] not in capability:
+                errors.append(f'{folder}{language["file"]}: missing paired MusicMaker route')
             if case['source'] not in section or case['tutorial'] not in section or '#'+case['id'] not in section:
                 errors.append(f'{folder}{language["file"]}: incomplete official case {case["id"]}')
 # Mobile layouts are derived from desktop content, with intact copyable prompts.

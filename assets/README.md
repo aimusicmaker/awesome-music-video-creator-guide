@@ -28,4 +28,4 @@ The homepage logo is embedded unchanged from [MusicMaker’s official SVG](https
 
 ## Official model examples
 
-The [official source manifest](../docs/official-cases.json) records four maker-published examples. `official/seedance-concert.jpg` is an unedited frame extracted at 00:12 from ByteDance Seed’s concert demonstration. H3 and Act-Two thumbnails are official character inputs; the Veo thumbnail is its official violin-example poster. These are attributed reference media, outside the MIT grant, not generated or reproduced results from this repository.
+The [official source manifest](../docs/official-cases.json) records four maker-published examples. `official/seedance-concert.jpg` is an unedited frame extracted at 00:12 from ByteDance Seed’s concert demonstration. The H3 thumbnail is an official character input; Seedance 2.0 uses its official piano-example poster. The Veo 3.1 source and image type are recorded in the manifest. These are attributed reference media, outside the MIT grant, not generated or reproduced results from this repository.

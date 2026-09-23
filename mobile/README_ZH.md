@@ -31,15 +31,15 @@
 
 先看模型开发者的演示与输入方法，再看社媒创作者怎样拓展。这里收录官方发布案例，不是本库实测，也不作为模型排名。
 
-<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>官方演示截图</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>音乐会：分别指定场地、主唱、乐手与合唱团参考。<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-concert">逐步学习笔记 →</a></p>
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="../assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>官方演示截图</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>音乐会：分别指定场地、主唱、乐手与合唱团参考。<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-concert">逐步学习笔记 →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>官方输入图</sub><br><b>MiniMax H3</b> · MiniMax<br>人像演唱：把运镜、人物和歌声分配给不同参考。<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 看官方案例</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#h3-singing">逐步学习笔记 →</a></p>
+<p><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>官方输入图</sub><br><b>MiniMax H3</b> · MiniMax<br>人像演唱：把运镜、人物和歌声分配给不同参考。<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ 看官方案例</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#h3-singing">逐步学习笔记 →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/UT25RAscZHkbsQFSSaHjqUuuw8haNKxc73APSp9lP8qG4tPiOOdCI3TyWxSjMNZXYm2Vqn40k_xY6KBGAUoLjsruDZpSqjwvylS0QA_jZEKJyJs9PPs=w1440-h810-n-nu" alt="Official Veo poster for the violin performance demonstration" width="100%"></a><br><sub>官方视频封面</sub><br><b>Veo 3</b> · Google DeepMind<br>器乐演奏：同时写清演奏动作与声音设计。<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 看官方案例</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#veo-instrument">逐步学习笔记 →</a></p>
+<p><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>官方输入与输出对照</sub><br><b>Veo 3.1</b> · Google DeepMind<br>奇幻演唱场景：用参考素材组织人物与环境。<br><a href="https://deepmind.google/models/veo/"><kbd>▶ 看官方案例</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#veo-scene">逐步学习笔记 →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></p>
 
-<p><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><img src="https://help.runwayml.com/hc/article_attachments/43008957767443" alt="Official Runway Act-Two character input from the performance capture tutorial" width="100%"></a><br><sub>人物输入图 · 通用表演案例</sub><br><b>Runway Act-Two</b> · Runway<br>表演迁移：先录表演视频，再配人物参考。<br><a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two"><kbd>▶ 看官方案例</kbd></a> · <a href="https://help.runwayml.com/hc/en-us/articles/42311337895827-Performance-Capture-with-Act-Two">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#act-two-performance">逐步学习笔记 →</a></p>
+<p><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>官方视频封面</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>钢琴演奏：从人物中景切到表情特写。<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ 看官方案例</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-piano">逐步学习笔记 →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></p>
 
-Veo 小提琴案例标为 Veo 3，收录于当前 3.1 页面；Act-Two 是通用表演迁移案例。H3 与 Act-Two 配图为官方输入图。
+这四个模型版本均有 MusicMaker 对应页面。案例与教程来自模型开发者，品牌入口的可用功能以实际界面为准；H3 配图为输入图。
 
 <!-- OFFICIAL:END -->
 
@@ -275,10 +275,28 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 
 ## 模型能力，回到官方资料核对
 
-- **Seedance 2.5**：官方称其为“audio-video joint generation model”（音视频联合生成模型）。[字节跳动官方模型页](https://seed.bytedance.com/en/seedance2_5)。创作时把声音与镜头一起规划，实际参考输入以所用工具为准。
-- **MiniMax H3**：官方介绍“native stereo sound”（原生立体声），并给出组合人物图、运镜视频与音频的演唱示例。[MiniMax 官方发布](https://www.minimax.io/blog/minimax-h3)。
-- **MiniMax Music 3.0**：输入包括“creative concept and optional lyrics”（创作构思与可选歌词）。[MiniMax 官方发布](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)。先描述歌曲各段如何变化，再安排分镜。
-- **Eleven Music**：官方建议写明“genre, mood, instrumentation, tempo, and production era”（曲风、情绪、乐器、速度与制作年代）。[ElevenLabs 提示词指南](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)。这些具体信息比单写“好听、有氛围”更便于表达需求。
+<!-- CAPABILITIES:START -->
+<p><b>Seedance 2.5</b><br>音乐会：分别指定场地、主唱、乐手与合唱团参考。</p>
+
+<p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-concert">逐步学习笔记 →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
+
+<p><b>MiniMax H3</b><br>人像演唱：把运镜、人物和歌声分配给不同参考。</p>
+
+<p><a href="https://hailuoai.video/tools/minimax-h3">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#h3-singing">逐步学习笔记 →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
+
+<p><b>Veo 3.1</b><br>奇幻演唱场景：用参考素材组织人物与环境。</p>
+
+<p><a href="https://deepmind.google/models/veo/prompt-guide/">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#veo-scene">逐步学习笔记 →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
+
+<p><b>Seedance 2.0</b><br>钢琴演奏：从人物中景切到表情特写。</p>
+
+<p><a href="https://seed.bytedance.com/en/seedance2_0">官方教程／提示词 ↗</a><br><a href="../docs/official-cases.zh-CN.md#seedance-piano">逐步学习笔记 →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
+
+这四个模型版本均有 MusicMaker 对应页面。案例与教程来自模型开发者，品牌入口的可用功能以实际界面为准；H3 配图为输入图。
+<!-- CAPABILITIES:END -->
+
+- **MiniMax Music 3.0**：输入包括“creative concept and optional lyrics”（创作构思与可选歌词）。[MiniMax 官方发布](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)。先描述歌曲各段如何变化，再安排分镜。 [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
+- **Eleven Music**：官方建议写明“genre, mood, instrumentation, tempo, and production era”（曲风、情绪、乐器、速度与制作年代）。[ElevenLabs 提示词指南](https://elevenlabs.io/docs/overview/capabilities/music/best-practices)。这些具体信息比单写“好听、有氛围”更便于表达需求。 [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
 
 [模型资料与实际用法 →](../docs/models.md) · [工具限制与来源记录](../docs/sources.md)
 
