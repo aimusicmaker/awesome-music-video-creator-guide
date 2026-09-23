@@ -73,15 +73,11 @@ Covers are not music-video frames; listening does not grant reuse rights. [Explo
 
 ### Project 1: a rainbow valley in 16 seconds
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow over a green valley, stream and wildflowers; open Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">Use the cover of MusicMaker's <b>Living on the Brightside</b> as visual inspiration: a stream, wildflowers, green hills and a rainbow. Start with scenery and four cuts, so you can finish one musical phrase without solving character consistency first.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow over a green valley, stream and wildflowers; open Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">Use the cover of MusicMaker's <b>Living on the Brightside</b> as visual inspiration: a stream, wildflowers, green hills and a rainbow. Start with scenery and four cuts, so you can finish one musical phrase without solving character consistency first.<br><br><b>1. Prepare music and mark the cuts</b><br>Choose a complete 16-second phrase from music you own or have permission to use. Alternatively, download our original practice beat with <b>Download raw file</b> on its GitHub page. Import it into your editor and mark 0, 4, 8, 12 and 16 seconds. These cuts fit the practice beat; adjust them to the beats and phrase endings of another song.</td></tr></table>
 
 [▶ Hear the source track](https://musicmaker.im/detail/discover-v2-98/) · [♫ Download the original practice beat](starter-kit/practice-beat-120bpm.wav)
 
 This is a song cover, not a video frame. The exercise below is newly written, not the source production recipe. Neither tutorial case appears in the nine-track listening shelf.
-
-#### 1. Prepare music and mark the cuts
-
-Choose a complete 16-second phrase from music you own or have permission to use. Alternatively, download our original practice beat with **Download raw file** on its GitHub page. Import it into your editor and mark 0, 4, 8, 12 and 16 seconds. These cuts fit the practice beat; adjust them to the beats and phrase endings of another song.
 
 #### 2. Choose a tool route
 
@@ -143,15 +139,11 @@ Keep the best four seconds of each clip and use straight cuts. Mute generated so
 
 ### Project 2: one chorus line, 10 seconds of portrait singing
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait of a singer at a gold microphone under pink stage lights; open the brand video demo" width="100%"></a></td><td width="58%" valign="top">Now move from scenery to <b>a fixed close-up performance</b>. Finish one vocal phrase with coherent identity, expression and mouth timing before adding choreography or cuts.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait of a singer at a gold microphone under pink stage lights; open the brand video demo" width="100%"></a></td><td width="58%" valign="top">Now move from scenery to <b>a fixed close-up performance</b>. Finish one vocal phrase with coherent identity, expression and mouth timing before adding choreography or cuts.<br><br><b>1. Prepare a portrait and a vocal phrase</b><br>Use an authorized frontal or slightly angled portrait with visible lips, a microphone clear of the mouth, and hands outside the crop. Trim your own or licensed singing to a complete phrase around ten seconds, with a little breathing room at each end. A clear solo voice is easier to inspect than stacked harmonies. The instrumental practice beat above is <b>not a vocal input</b>.</td></tr></table>
 
 [▶ Watch the brand performance](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [Source notes](docs/brand-examples.md)
 
 The image is the published demo's **input portrait**, not a video frame. Click it to watch the approximately ten-second example. MusicMaker does not identify that demo's underlying model; the routes below are practice choices, not claims about its production.
-
-#### 1. Prepare a portrait and a vocal phrase
-
-Use an authorized frontal or slightly angled portrait with visible lips, a microphone clear of the mouth, and hands outside the crop. Trim your own or licensed singing to a complete phrase around ten seconds, with a little breathing room at each end. A clear solo voice is easier to inspect than stacked harmonies. The instrumental practice beat above is **not a vocal input**.
 
 #### 2. Place the same inputs in either tool
 

@@ -65,13 +65,11 @@
 
 ## 最初の動画を作る
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Living on the Brightside の虹、渓流、野花を参考に、16秒の自然映像を作ります。これは曲のジャケットであり、動画の一場面ではありません。</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Living on the Brightside の虹、渓流、野花を参考に、16秒の自然映像を作ります。これは曲のジャケットであり、動画の一場面ではありません。<br><br><b>1.</b> 自作または利用許諾のある曲から16秒を選びます。練習音源は Download raw file で保存。編集ソフトで0・4・8・12・16秒に印を付け、別の曲なら拍に合わせ直します。</td></tr></table>
 
 [▶ 試聴する](https://musicmaker.im/detail/discover-v2-98/) · [↗ 公式ツール](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ 練習音源](starter-kit/practice-beat-120bpm.wav)
-
-1. 自作または利用許諾のある曲から16秒を選びます。練習音源は Download raw file で保存。編集ソフトで0・4・8・12・16秒に印を付け、別の曲なら拍に合わせ直します。
 
 2. 公式HailuoではH3のテキスト動画を選択。MusicMaker短編ツールもテキストから始められます。9:16、各5秒。ブランド側は現在480pでH3使用を明記しています。
 
@@ -119,11 +117,9 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## 次の技術を学ぶ
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">次は約10秒の歌唱アップ。画像はMusicMaker公開例の入力用人物画像です。クリックで動画が開きます。公開例のモデルは非公開で、下記は再現手順ではなく新しい練習です。</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">次は約10秒の歌唱アップ。画像はMusicMaker公開例の入力用人物画像です。クリックで動画が開きます。公開例のモデルは非公開で、下記は再現手順ではなく新しい練習です。<br><br><b>1.</b> 口を遮らない正面寄りの許諾済み人物写真と、自分の歌声または許諾済み歌声を用意。約10秒の一節を前後に呼吸の余白を残して切り出します。器楽の練習音源は歌声の代わりになりません。</td></tr></table>
 
 [▶ ブランドの動画を見る](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ 公式ツール](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. 口を遮らない正面寄りの許諾済み人物写真と、自分の歌声または許諾済み歌声を用意。約10秒の一節を前後に呼吸の余白を残して切り出します。器楽の練習音源は歌声の代わりになりません。
 
 2. 公式H3ではOmni ReferenceのRefsに人物画像と歌声を一緒に追加し、約10秒と画像に合う比率を選びます。音声参照には画像または動画の併用が必要です。
 

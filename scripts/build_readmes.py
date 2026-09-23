@@ -46,13 +46,13 @@ for lang in LANGS:
         ('next-project','performance-2',c['next_intro'],c['vocal_steps'],c['vocal'])]:
         b=B[id];target=b.get('video',b['source']);heading=L[7] if section=='first-video' else L[8]
         s+=f'<a id="{section}"></a>\n\n## {heading}\n\n'
-        s+=f'<table><tr><td width="42%" valign="top"><a href="{target}"><img src="{b["thumbnail"]}" alt="{esc(b["alt"])}" width="100%"></a></td><td width="58%" valign="top">{esc(intro)}</td></tr></table>\n\n'
+        s+=f'<table><tr><td width="42%" valign="top"><a href="{target}"><img src="{b["thumbnail"]}" alt="{esc(b["alt"])}" width="100%"></a></td><td width="58%" valign="top">{esc(intro)}<br><br><b>1.</b> {esc(steps[0])}</td></tr></table>\n\n'
         action=c['play'] if section=='first-video' else c['watch_demo']
         s+=f'[▶ {action}]({target}) · [↗ {L[3]}](https://hailuoai.video/tools/minimax-h3) · '
         tool='free-short-music-video-generator' if section=='first-video' else 'ai-music-video-generator'
         s+=f'[↗ MusicMaker](https://musicmaker.im/{tool}/)\n\n'
         if section=='first-video':s+=f'[♫ {L[5]}](starter-kit/practice-beat-120bpm.wav)\n\n'
-        s+='\n\n'.join(f'{i+1}. {step}' for i,step in enumerate(steps))+'\n\n'
+        s+='\n\n'.join(f'{i+1}. {step}' for i,step in enumerate(steps[1:],start=1))+'\n\n'
         s+=f'**{c["prompt_intro"]}**\n\n'
         source=(ROOT/'i18n/tutorials/en.txt').read_text()
         prompts=re.findall(r'```text\n(.*?)```',source,re.S)

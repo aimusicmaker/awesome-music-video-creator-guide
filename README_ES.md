@@ -65,13 +65,11 @@ Nueve canciones en tres columnas y tres filas. Compara ideas de portada y arregl
 
 ## Crea tu primer vídeo
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">La portada de Living on the Brightside inspira un vídeo natural de 16 segundos con arcoíris, arroyo y flores. Es una portada musical, no un fotograma.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">La portada de Living on the Brightside inspira un vídeo natural de 16 segundos con arcoíris, arroyo y flores. Es una portada musical, no un fotograma.<br><br><b>1.</b> Elige 16 segundos de música propia o autorizada. Descarga la pista de práctica con Download raw file. Marca 0, 4, 8, 12 y 16 segundos en el editor; adapta los cortes al ritmo y las frases de otra canción.</td></tr></table>
 
 [▶ Escuchar canción](https://musicmaker.im/detail/discover-v2-98/) · [↗ Herramienta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Base de práctica](starter-kit/practice-beat-120bpm.wav)
-
-1. Elige 16 segundos de música propia o autorizada. Descarga la pista de práctica con Download raw file. Marca 0, 4, 8, 12 y 16 segundos en el editor; adapta los cortes al ritmo y las frases de otra canción.
 
 2. En Hailuo oficial elige H3 y texto a vídeo, o usa clips cortos de MusicMaker. Selecciona 9:16 y cinco segundos por plano. MusicMaker indica actualmente 480p y el uso de H3.
 
@@ -119,11 +117,9 @@ Mantén luz y paisaje coherentes, con música e imagen terminando juntas. Poder 
 
 ## Aprende la siguiente técnica
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Ahora crea unos diez segundos de canto en primer plano. La imagen es el retrato de entrada del ejemplo MusicMaker; púlsala para ver el vídeo. Su modelo no está publicado y este ejercicio es nuevo.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Ahora crea unos diez segundos de canto en primer plano. La imagen es el retrato de entrada del ejemplo MusicMaker; púlsala para ver el vídeo. Su modelo no está publicado y este ejercicio es nuevo.<br><br><b>1.</b> Prepara un retrato autorizado casi frontal con labios visibles y una frase cantada propia o autorizada. Recorta unos diez segundos con espacio para respirar al principio y al final. La pista instrumental de práctica no sustituye una voz.</td></tr></table>
 
 [▶ Ver ejemplo de MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Herramienta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Prepara un retrato autorizado casi frontal con labios visibles y una frase cantada propia o autorizada. Recorta unos diez segundos con espacio para respirar al principio y al final. La pista instrumental de práctica no sustituye una voz.
 
 2. En H3 Omni Reference añade retrato y canto a Refs. Elige unos diez segundos y el formato del retrato. La referencia de audio debe acompañarse de una imagen o un vídeo.
 

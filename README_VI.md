@@ -65,13 +65,11 @@ Chín bài hát trong ba cột, ba hàng. So sánh ý tưởng bìa và mô tả
 
 ## Làm video đầu tiên
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Bìa Living on the Brightside gợi ý đoạn phim thiên nhiên 16 giây với cầu vồng, suối và hoa dại. Đây là bìa bài hát, không phải khung hình video.<br><br><b>1.</b> Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.</td></tr></table>
 
 [▶ Nghe bài hát](https://musicmaker.im/detail/discover-v2-98/) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Nhạc luyện tập](starter-kit/practice-beat-120bpm.wav)
-
-1. Chọn 16 giây nhạc tự làm hoặc được phép sử dụng. Tải nhạc luyện tập bằng Download raw file. Đánh dấu 0, 4, 8, 12 và 16 giây trong phần mềm dựng; đổi bài thì chỉnh điểm cắt theo nhịp và câu nhạc.
 
 2. Trong Hailuo chính thức, chọn H3 và tạo video từ văn bản, hoặc dùng công cụ đoạn phim ngắn MusicMaker. Chọn 9:16, mỗi đoạn năm giây. MusicMaker hiện ghi 480p và sử dụng H3.
 
@@ -119,11 +117,9 @@ Giữ ánh sáng và địa hình nhất quán; kết thúc nhạc cùng hình. 
 
 ## Học kỹ năng tiếp theo
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video. Mô hình của ví dụ không được công bố, bài tập bên dưới được viết mới.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Tiếp theo là khoảng mười giây cận cảnh hát. Ảnh là chân dung đầu vào của ví dụ MusicMaker; nhấn để xem video. Mô hình của ví dụ không được công bố, bài tập bên dưới được viết mới.<br><br><b>1.</b> Chuẩn bị chân dung được phép dùng, gần chính diện và thấy rõ môi, cùng một câu hát của bạn hoặc được cấp phép. Cắt khoảng mười giây, chừa hơi thở đầu và cuối. Nhạc luyện tập không lời không thay thế giọng hát.</td></tr></table>
 
 [▶ Xem video mẫu MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Công cụ chính thức](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Chuẩn bị chân dung được phép dùng, gần chính diện và thấy rõ môi, cùng một câu hát của bạn hoặc được cấp phép. Cắt khoảng mười giây, chừa hơi thở đầu và cuối. Nhạc luyện tập không lời không thay thế giọng hát.
 
 2. Trong H3 Omni Reference, thêm chân dung và giọng hát vào Refs. Chọn khoảng mười giây và tỉ lệ phù hợp. Tham chiếu âm thanh phải đi kèm ảnh hoặc video.
 

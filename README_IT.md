@@ -65,13 +65,11 @@ Nove brani in tre colonne e tre righe. Confronta copertine e arrangiamenti descr
 
 ## Crea il tuo primo video
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">La copertina di Living on the Brightside ispira 16 secondi di natura con arcobaleno, ruscello e fiori. È una copertina musicale, non un fotogramma.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">La copertina di Living on the Brightside ispira 16 secondi di natura con arcobaleno, ruscello e fiori. È una copertina musicale, non un fotogramma.<br><br><b>1.</b> Scegli 16 secondi di musica tua o autorizzata. Scarica la base con Download raw file. Segna 0, 4, 8, 12 e 16 secondi nell’editor; adatta i tagli alle frasi di un altro brano.</td></tr></table>
 
 [▶ Ascolta il brano](https://musicmaker.im/detail/discover-v2-98/) · [↗ Strumento ufficiale](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Base di esercitazione](starter-kit/practice-beat-120bpm.wav)
-
-1. Scegli 16 secondi di musica tua o autorizzata. Scarica la base con Download raw file. Segna 0, 4, 8, 12 e 16 secondi nell’editor; adatta i tagli alle frasi di un altro brano.
 
 2. In Hailuo ufficiale seleziona H3 e testo-video, oppure usa lo strumento per clip brevi MusicMaker. Scegli 9:16 e cinque secondi per clip. MusicMaker dichiara attualmente 480p e H3.
 
@@ -119,11 +117,9 @@ Mantieni luce e paesaggio coerenti, con musica e video che finiscono insieme. L�
 
 ## Impara la tecnica successiva
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Passa a circa dieci secondi di canto in primo piano. L’immagine è il ritratto di ingresso della demo MusicMaker; clicca per il video. Il modello non è dichiarato e questo è un nuovo esercizio.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Passa a circa dieci secondi di canto in primo piano. L’immagine è il ritratto di ingresso della demo MusicMaker; clicca per il video. Il modello non è dichiarato e questo è un nuovo esercizio.<br><br><b>1.</b> Prepara un ritratto autorizzato quasi frontale con labbra visibili e una frase cantata tua o autorizzata. Taglia circa dieci secondi, lasciando respiro prima e dopo. La base strumentale non sostituisce una voce.</td></tr></table>
 
 [▶ Guarda la demo MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Strumento ufficiale](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Prepara un ritratto autorizzato quasi frontale con labbra visibili e una frase cantata tua o autorizzata. Taglia circa dieci secondi, lasciando respiro prima e dopo. La base strumentale non sostituisce una voce.
 
 2. In H3 Omni Reference inserisci ritratto e canto in Refs. Scegli circa dieci secondi e il formato adatto. Il riferimento audio va abbinato a un’immagine o a un video.
 

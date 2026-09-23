@@ -67,13 +67,11 @@
 
 ## أنشئ الفيديو الأول
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">استلهم غلاف Living on the Brightside لصنع 16 ثانية من الطبيعة: قوس قزح وجدول وزهور. هذه صورة غلاف أغنية وليست إطار فيديو.<br><br><b>1.</b> اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.</td></tr></table>
 
 [▶ استمع للأغنية](https://musicmaker.im/detail/discover-v2-98/) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ موسيقى التدريب](starter-kit/practice-beat-120bpm.wav)
-
-1. اختر 16 ثانية من موسيقاك أو موسيقى مأذون بها. نزّل مقطع التدريب عبر Download raw file. ضع علامات عند 0 و4 و8 و12 و16 ثانية في المحرر، وعدّلها حسب الإيقاع والجمل عند تغيير الأغنية.
 
 2. في Hailuo الرسمي اختر H3 وتوليد الفيديو من النص، أو استخدم أداة المقاطع القصيرة في MusicMaker. اختر 9:16 وخمس ثوانٍ لكل لقطة. يذكر MusicMaker حاليًا دقة 480p واستخدام H3.
 
@@ -125,11 +123,9 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## تعلّم التقنية التالية
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو. نموذج المثال غير معلن، والتمرين أدناه جديد.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">انتقل الآن إلى نحو عشر ثوانٍ من الغناء بلقطة قريبة. الصورة هي صورة الإدخال في مثال MusicMaker؛ اضغطها لمشاهدة الفيديو. نموذج المثال غير معلن، والتمرين أدناه جديد.<br><br><b>1.</b> جهّز صورة شخصية مأذونًا بها شبه أمامية تظهر الشفتين، وجملة غنائية لك أو مرخصة. اقتطع نحو عشر ثوانٍ مع مساحة تنفس في البداية والنهاية. المقطع التدريبي الآلي لا يحل محل الصوت الغنائي.</td></tr></table>
 
 [▶ شاهد مثال MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ الأداة الرسمية](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. جهّز صورة شخصية مأذونًا بها شبه أمامية تظهر الشفتين، وجملة غنائية لك أو مرخصة. اقتطع نحو عشر ثوانٍ مع مساحة تنفس في البداية والنهاية. المقطع التدريبي الآلي لا يحل محل الصوت الغنائي.
 
 2. في H3 Omni Reference أضف الصورة والغناء إلى Refs. اختر نحو عشر ثوانٍ ونسبة مناسبة. مرجع الصوت يتطلب صورة أو فيديو معه.
 

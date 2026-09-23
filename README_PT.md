@@ -65,13 +65,11 @@ Nove músicas em três colunas e três linhas. Compare ideias das capas e arranj
 
 ## Crie seu primeiro vídeo
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores. É uma capa musical, não um quadro de vídeo.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">A capa de Living on the Brightside inspira um vídeo de natureza de 16 segundos com arco-íris, riacho e flores. É uma capa musical, não um quadro de vídeo.<br><br><b>1.</b> Escolha 16 segundos de música própria ou autorizada. Baixe a faixa de treino com Download raw file. Marque 0, 4, 8, 12 e 16 segundos no editor; ajuste os cortes ao ritmo e às frases de outra música.</td></tr></table>
 
 [▶ Ouvir música](https://musicmaker.im/detail/discover-v2-98/) · [↗ Ferramenta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Base de prática](starter-kit/practice-beat-120bpm.wav)
-
-1. Escolha 16 segundos de música própria ou autorizada. Baixe a faixa de treino com Download raw file. Marque 0, 4, 8, 12 e 16 segundos no editor; ajuste os cortes ao ritmo e às frases de outra música.
 
 2. No Hailuo oficial, escolha H3 e texto para vídeo, ou use os clipes curtos MusicMaker. Selecione 9:16 e cinco segundos por cena. MusicMaker informa atualmente 480p e uso do H3.
 
@@ -119,11 +117,9 @@ Mantenha luz e relevo coerentes; termine música e imagem juntas. Ouvir uma mús
 
 ## Aprenda a próxima técnica
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Agora faça cerca de dez segundos de canto em close. A imagem é o retrato de entrada da demonstração MusicMaker; clique para ver o vídeo. O modelo não foi divulgado e o exercício abaixo é novo.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Agora faça cerca de dez segundos de canto em close. A imagem é o retrato de entrada da demonstração MusicMaker; clique para ver o vídeo. O modelo não foi divulgado e o exercício abaixo é novo.<br><br><b>1.</b> Prepare um retrato autorizado quase frontal, com lábios visíveis, e uma frase cantada própria ou autorizada. Recorte cerca de dez segundos com espaço para respirar antes e depois. A base instrumental não substitui uma voz.</td></tr></table>
 
 [▶ Ver exemplo MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Ferramenta oficial](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Prepare um retrato autorizado quase frontal, com lábios visíveis, e uma frase cantada própria ou autorizada. Recorte cerca de dez segundos com espaço para respirar antes e depois. A base instrumental não substitui uma voz.
 
 2. No H3 Omni Reference, coloque retrato e canto em Refs. Escolha cerca de dez segundos e o formato adequado. A referência de áudio deve acompanhar uma imagem ou um vídeo.
 

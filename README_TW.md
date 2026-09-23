@@ -73,15 +73,11 @@
 
 ### 案例一：彩虹山谷，16 秒自然音樂短片
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="溪流、野花與綠色山谷上空的一道彩虹；點選試聽 Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">從 MusicMaker《Living on the Brightside》的封面取景：溪流、野花、綠色山谷和彩虹。<b>先不拍人物，用四個鏡頭學會把畫面剪成一個完整樂句。</b></td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="溪流、野花與綠色山谷上空的一道彩虹；點選試聽 Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">從 MusicMaker《Living on the Brightside》的封面取景：溪流、野花、綠色山谷和彩虹。<b>先不拍人物，用四個鏡頭學會把畫面剪成一個完整樂句。</b><br><br><b>1. 先準備音樂，再確定四個切點</b><br>用自有或獲授權的音樂擷取完整的 16 秒樂句；沒有現成音樂，就用上方原創伴奏，在 GitHub 檔案頁點 <b>Download raw file</b> 儲存。把音訊匯入剪輯軟體，標記 0、4、8、12、16 秒。練習伴奏適用這些切點；換歌后應聽重拍和樂句結束的位置，再調整剪輯。</td></tr></table>
 
 [▶ 試聽案例原曲](https://musicmaker.im/detail/discover-v2-98/) · [♫ 下載原創練習伴奏](starter-kit/practice-beat-120bpm.wav)
 
 這是歌曲封面，不是影片截圖。下方是據此新編的練習，不是原作生成記錄。試聽區的九首歌曲與這兩個教程案例不重複。
-
-#### 1. 先準備音樂，再確定四個切點
-
-用自有或獲授權的音樂擷取完整的 16 秒樂句；沒有現成音樂，就用上方原創伴奏，在 GitHub 檔案頁點 **Download raw file** 儲存。把音訊匯入剪輯軟體，標記 0、4、8、12、16 秒。練習伴奏適用這些切點；換歌后應聽重拍和樂句結束的位置，再調整剪輯。
 
 #### 2. 選一條工具路線
 
@@ -139,15 +135,11 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 
 ### 案例二：一句副歌，10 秒人像演唱
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="粉色舞臺燈光下、金色麥克風前的歌手輸入人像；點選觀看品牌演唱示例" width="100%"></a></td><td width="58%" valign="top">這次從自然風景切換到<b>固定近景的人物表演</b>。目標是唱完一句自己的副歌，並讓嘴形、表情與聲音一致；先不加舞蹈、換裝或切鏡。</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="粉色舞臺燈光下、金色麥克風前的歌手輸入人像；點選觀看品牌演唱示例" width="100%"></a></td><td width="58%" valign="top">這次從自然風景切換到<b>固定近景的人物表演</b>。目標是唱完一句自己的副歌，並讓嘴形、表情與聲音一致；先不加舞蹈、換裝或切鏡。<br><br><b>1. 準備一張人像、一句歌聲</b><br>選擇有使用權的正面或輕微側面人像，嘴部清楚可見，麥克風不遮嘴，先將雙手放在畫面外。用自己錄製或有授權的歌聲剪出約 10 秒完整樂句，開頭和結尾各留一點呼吸空隙。儘量選主唱清晰、沒有多人疊唱的一句。上面的器樂練習伴奏<b>不能代替歌聲音訊</b>。</td></tr></table>
 
 [▶ 觀看品牌演唱示例](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [檢視案例來源](docs/brand-examples.md)
 
 圖為官網示例的**輸入人像**，點圖觀看約 10 秒成片。官網沒有公佈該演唱示例使用的底層模型；下面的兩條路線是練習選擇，不是對原作模型的推斷。
-
-#### 1. 準備一張人像、一句歌聲
-
-選擇有使用權的正面或輕微側面人像，嘴部清楚可見，麥克風不遮嘴，先將雙手放在畫面外。用自己錄製或有授權的歌聲剪出約 10 秒完整樂句，開頭和結尾各留一點呼吸空隙。儘量選主唱清晰、沒有多人疊唱的一句。上面的器樂練習伴奏**不能代替歌聲音訊**。
 
 #### 2. 按工具放入相同素材
 

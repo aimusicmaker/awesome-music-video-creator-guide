@@ -65,13 +65,11 @@
 
 ## Создайте первое видео
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы. Это музыкальная обложка, не кадр видео.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Обложка Living on the Brightside вдохновляет на 16 секунд природы: радуга, ручей и цветы. Это музыкальная обложка, не кадр видео.<br><br><b>1.</b> Выберите 16 секунд собственной или разрешённой музыки. Учебный трек скачивается через Download raw file. Отметьте в редакторе 0, 4, 8, 12 и 16 секунд; для другой песни подстройте склейки под ритм и фразы.</td></tr></table>
 
 [▶ Слушать песню](https://musicmaker.im/detail/discover-v2-98/) · [↗ Официальный инструмент](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Учебная фонограмма](starter-kit/practice-beat-120bpm.wav)
-
-1. Выберите 16 секунд собственной или разрешённой музыки. Учебный трек скачивается через Download raw file. Отметьте в редакторе 0, 4, 8, 12 и 16 секунд; для другой песни подстройте склейки под ритм и фразы.
 
 2. В официальном Hailuo выберите H3 и генерацию по тексту либо используйте короткие клипы MusicMaker. Формат 9:16, по пять секунд. MusicMaker сейчас указывает 480p и использование H3.
 
@@ -119,11 +117,9 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## Освойте следующий приём
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео. Модель примера не раскрыта, упражнение написано заново.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Теперь около десяти секунд вокального крупного плана. Изображение — входной портрет из примера MusicMaker; нажатие открывает видео. Модель примера не раскрыта, упражнение написано заново.<br><br><b>1.</b> Подготовьте разрешённый портрет почти анфас с видимыми губами и собственную или разрешённую вокальную фразу. Оставьте около десяти секунд с небольшим запасом для дыхания. Инструментальный учебный трек не заменяет вокал.</td></tr></table>
 
 [▶ Смотреть пример MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Официальный инструмент](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Подготовьте разрешённый портрет почти анфас с видимыми губами и собственную или разрешённую вокальную фразу. Оставьте около десяти секунд с небольшим запасом для дыхания. Инструментальный учебный трек не заменяет вокал.
 
 2. В H3 Omni Reference добавьте портрет и вокал в Refs. Выберите около десяти секунд и подходящий формат. Аудиореференс нужно сочетать с изображением или видео.
 

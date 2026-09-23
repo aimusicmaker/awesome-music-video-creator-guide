@@ -65,13 +65,11 @@ Neuf titres sur trois colonnes et trois lignes. Comparez les idées de pochettes
 
 ## Créez votre premier clip
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">La pochette de Living on the Brightside inspire un film de nature de 16 secondes : arc-en-ciel, ruisseau et fleurs. C’est une pochette de chanson, pas une image de vidéo.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">La pochette de Living on the Brightside inspire un film de nature de 16 secondes : arc-en-ciel, ruisseau et fleurs. C’est une pochette de chanson, pas une image de vidéo.<br><br><b>1.</b> Choisissez 16 secondes de musique personnelle ou autorisée. Téléchargez la piste d’exercice avec Download raw file. Marquez 0, 4, 8, 12 et 16 secondes dans le logiciel ; adaptez ces coupes aux phrases d’un autre morceau.</td></tr></table>
 
 [▶ Écouter le morceau](https://musicmaker.im/detail/discover-v2-98/) · [↗ Outil officiel](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Musique d’exercice](starter-kit/practice-beat-120bpm.wav)
-
-1. Choisissez 16 secondes de musique personnelle ou autorisée. Téléchargez la piste d’exercice avec Download raw file. Marquez 0, 4, 8, 12 et 16 secondes dans le logiciel ; adaptez ces coupes aux phrases d’un autre morceau.
 
 2. Dans Hailuo officiel, choisissez H3 et le mode texte vers vidéo, ou utilisez les clips courts MusicMaker. Réglez 9:16 et cinq secondes par plan. MusicMaker annonce actuellement 480p et l’utilisation de H3.
 
@@ -119,11 +117,9 @@ Conservez lumière et relief cohérents ; terminez musique et image ensemble. L�
 
 ## Apprenez la technique suivante
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Passez à un portrait chanté d’environ dix secondes. L’image est le portrait d’entrée de la démonstration MusicMaker ; cliquez pour voir la vidéo. Le modèle de cette démonstration n’est pas divulgué ; l’exercice ci-dessous est nouveau.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Passez à un portrait chanté d’environ dix secondes. L’image est le portrait d’entrée de la démonstration MusicMaker ; cliquez pour voir la vidéo. Le modèle de cette démonstration n’est pas divulgué ; l’exercice ci-dessous est nouveau.<br><br><b>1.</b> Préparez un portrait autorisé presque de face, lèvres visibles, et une phrase chantée personnelle ou autorisée. Gardez environ dix secondes avec un peu de respiration avant et après. La piste instrumentale d’exercice ne remplace pas une voix.</td></tr></table>
 
 [▶ Voir la démonstration MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Outil officiel](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Préparez un portrait autorisé presque de face, lèvres visibles, et une phrase chantée personnelle ou autorisée. Gardez environ dix secondes avec un peu de respiration avant et après. La piste instrumentale d’exercice ne remplace pas une voix.
 
 2. Dans H3 Omni Reference, placez portrait et chant dans Refs. Choisissez environ dix secondes et un format adapté. Une référence audio doit être accompagnée d’une image ou d’une vidéo.
 

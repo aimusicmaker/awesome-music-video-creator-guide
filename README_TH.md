@@ -65,13 +65,11 @@
 
 ## สร้างวิดีโอแรก
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">ใช้ปก Living on the Brightside เป็นแรงบันดาลใจทำวิดีโอธรรมชาติ 16 วินาที มีสายรุ้ง ลำธาร และดอกไม้ ภาพนี้เป็นปกเพลง ไม่ใช่เฟรมวิดีโอ<br><br><b>1.</b> เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง</td></tr></table>
 
 [▶ ฟังเพลง](https://musicmaker.im/detail/discover-v2-98/) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ เพลงฝึก](starter-kit/practice-beat-120bpm.wav)
-
-1. เลือกเพลงของตนเองหรือที่ได้รับอนุญาต 16 วินาที ดาวน์โหลดเพลงฝึกผ่าน Download raw file ทำเครื่องหมาย 0, 4, 8, 12 และ 16 วินาทีในโปรแกรมตัดต่อ หากเปลี่ยนเพลงให้ปรับตามจังหวะและวรรคเพลง
 
 2. ใน Hailuo ทางการเลือก H3 แบบข้อความเป็นวิดีโอ หรือใช้เครื่องมือคลิปสั้น MusicMaker เลือก 9:16 คลิปละห้าวินาที หน้า MusicMaker ระบุ 480p และใช้ H3 ในขณะตรวจสอบ
 
@@ -119,11 +117,9 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## ฝึกเทคนิคถัดไป
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ เว็บไซต์ไม่เปิดเผยโมเดลของตัวอย่าง และบทฝึกนี้เขียนขึ้นใหม่</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">ต่อไปเป็นภาพใกล้ร้องเพลงราวสิบวินาที ภาพนี้คือภาพบุคคลที่ป้อนให้ตัวอย่าง MusicMaker คลิกเพื่อดูวิดีโอ เว็บไซต์ไม่เปิดเผยโมเดลของตัวอย่าง และบทฝึกนี้เขียนขึ้นใหม่<br><br><b>1.</b> เตรียมภาพบุคคลที่ได้รับอนุญาต หันเกือบตรงและเห็นริมฝีปาก พร้อมเสียงร้องของตนเองหรือที่ได้รับอนุญาต ตัดหนึ่งวรรคราวสิบวินาทีโดยเหลือช่วงหายใจต้นท้าย เพลงบรรเลงฝึกใช้แทนเสียงร้องไม่ได้</td></tr></table>
 
 [▶ ชมตัวอย่าง MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ เครื่องมือทางการ](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. เตรียมภาพบุคคลที่ได้รับอนุญาต หันเกือบตรงและเห็นริมฝีปาก พร้อมเสียงร้องของตนเองหรือที่ได้รับอนุญาต ตัดหนึ่งวรรคราวสิบวินาทีโดยเหลือช่วงหายใจต้นท้าย เพลงบรรเลงฝึกใช้แทนเสียงร้องไม่ได้
 
 2. ใน H3 Omni Reference ใส่ภาพกับเสียงร้องใน Refs เลือกราวสิบวินาทีและสัดส่วนตรงกับภาพ เสียงอ้างอิงต้องใช้ร่วมกับภาพหรือวิดีโอ
 

@@ -65,13 +65,11 @@ Sembilan lagu dalam tiga kolom dan tiga baris. Bandingkan ide sampul dan keteran
 
 ## Buat video pertama
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Sampul Living on the Brightside menjadi inspirasi video alam 16 detik: pelangi, sungai kecil, dan bunga. Ini sampul lagu, bukan bingkai video.<br><br><b>1.</b> Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.</td></tr></table>
 
 [▶ Dengarkan](https://musicmaker.im/detail/discover-v2-98/) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Musik latihan](starter-kit/practice-beat-120bpm.wav)
-
-1. Pilih 16 detik musik sendiri atau berizin. Unduh musik latihan lewat Download raw file. Tandai 0, 4, 8, 12, dan 16 detik di editor; sesuaikan potongan dengan ketukan serta frasa jika mengganti lagu.
 
 2. Di Hailuo resmi pilih H3 dan teks ke video, atau gunakan alat klip pendek MusicMaker. Pilih 9:16 dan lima detik per klip. MusicMaker saat ini mencantumkan 480p dan penggunaan H3.
 
@@ -119,11 +117,9 @@ Jaga cahaya dan medan tetap selaras; akhiri musik dan gambar bersama. Lagu yang 
 
 ## Pelajari teknik berikutnya
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton. Model demo tidak diumumkan, dan latihan berikut ditulis baru.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Berikutnya buat sekitar sepuluh detik vokal jarak dekat. Gambar ini adalah potret masukan demo MusicMaker; klik untuk menonton. Model demo tidak diumumkan, dan latihan berikut ditulis baru.<br><br><b>1.</b> Siapkan potret berizin hampir menghadap depan, bibir terlihat, serta nyanyian sendiri atau berizin. Potong satu frasa sekitar sepuluh detik dengan sedikit ruang bernapas di awal dan akhir. Musik instrumental latihan bukan pengganti vokal.</td></tr></table>
 
 [▶ Tonton demo MusicMaker](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Alat resmi](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Siapkan potret berizin hampir menghadap depan, bibir terlihat, serta nyanyian sendiri atau berizin. Potong satu frasa sekitar sepuluh detik dengan sedikit ruang bernapas di awal dan akhir. Musik instrumental latihan bukan pengganti vokal.
 
 2. Di H3 Omni Reference masukkan potret dan vokal ke Refs. Pilih sekitar sepuluh detik dan rasio yang sesuai. Referensi audio harus disertai gambar atau video.
 

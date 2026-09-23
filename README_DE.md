@@ -65,13 +65,11 @@ Neun Songs in drei Spalten und drei Reihen. Vergleiche Coverideen und belegte Ar
 
 ## Erstelle dein erstes Video
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen. Es ist ein Songcover, kein Videoframe.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Das Cover von Living on the Brightside inspiriert einen 16-Sekunden-Naturclip mit Regenbogen, Bach und Blumen. Es ist ein Songcover, kein Videoframe.<br><br><b>1.</b> Wähle 16 Sekunden eigener oder lizenzierter Musik. Den Übungsbeat speicherst du mit Download raw file. Markiere im Editor 0, 4, 8, 12 und 16 Sekunden; passe die Schnitte bei anderen Songs an Takte und Phrasen an.</td></tr></table>
 
 [▶ Titel anhören](https://musicmaker.im/detail/discover-v2-98/) · [↗ Offizielles Werkzeug](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ Übungsmusik](starter-kit/practice-beat-120bpm.wav)
-
-1. Wähle 16 Sekunden eigener oder lizenzierter Musik. Den Übungsbeat speicherst du mit Download raw file. Markiere im Editor 0, 4, 8, 12 und 16 Sekunden; passe die Schnitte bei anderen Songs an Takte und Phrasen an.
 
 2. Wähle im offiziellen Hailuo H3 Text-to-Video oder das Kurzclip-Werkzeug von MusicMaker. Nutze 9:16 und je fünf Sekunden. MusicMaker nennt derzeit 480p und H3 als Modell.
 
@@ -119,11 +117,9 @@ Licht und Gelände bleiben zusammenhängend; Musik und Bild enden gemeinsam. Öf
 
 ## Lerne die nächste Technik
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video. Dessen Modell ist unbekannt, die Übung ist neu geschrieben.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">Jetzt folgt ein etwa zehnsekündiger Gesangs-Close-up. Das Bild ist das Eingabeporträt des MusicMaker-Demos; ein Klick öffnet das Video. Dessen Modell ist unbekannt, die Übung ist neu geschrieben.<br><br><b>1.</b> Bereite ein erlaubtes, möglichst frontales Porträt mit sichtbaren Lippen und eine eigene oder lizenzierte Gesangsphrase vor. Schneide etwa zehn Sekunden mit etwas Atemraum an beiden Enden. Der instrumentale Übungsbeat ersetzt keinen Gesang.</td></tr></table>
 
 [▶ Markenbeispiel ansehen](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ Offizielles Werkzeug](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. Bereite ein erlaubtes, möglichst frontales Porträt mit sichtbaren Lippen und eine eigene oder lizenzierte Gesangsphrase vor. Schneide etwa zehn Sekunden mit etwas Atemraum an beiden Enden. Der instrumentale Übungsbeat ersetzt keinen Gesang.
 
 2. In H3 Omni Reference kommen Porträt und Gesang gemeinsam in Refs. Wähle etwa zehn Sekunden und das passende Seitenverhältnis. Eine Audioreferenz muss mit Bild oder Video kombiniert werden.
 

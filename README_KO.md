@@ -65,13 +65,11 @@
 
 ## 첫 영상 만들기
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Living on the Brightside의 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다. 이미지는 노래 커버이며 영상 프레임이 아닙니다.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow above a green valley with a stream and wildflowers" width="100%"></a></td><td width="58%" valign="top">Living on the Brightside의 무지개, 개울, 들꽃에서 출발해 16초 자연 영상을 만듭니다. 이미지는 노래 커버이며 영상 프레임이 아닙니다.<br><br><b>1.</b> 직접 만든 곡이나 허가받은 곡에서 16초를 고릅니다. 연습 음원은 Download raw file로 저장합니다. 편집기에 0·4·8·12·16초를 표시하고 다른 곡을 쓰면 박자에 맞춰 조정합니다.</td></tr></table>
 
 [▶ 곡 듣기](https://musicmaker.im/detail/discover-v2-98/) · [↗ 공식 도구](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/free-short-music-video-generator/)
 
 [♫ 연습 음원](starter-kit/practice-beat-120bpm.wav)
-
-1. 직접 만든 곡이나 허가받은 곡에서 16초를 고릅니다. 연습 음원은 Download raw file로 저장합니다. 편집기에 0·4·8·12·16초를 표시하고 다른 곡을 쓰면 박자에 맞춰 조정합니다.
 
 2. 공식 Hailuo에서 H3 텍스트 영상 모드를 선택하거나 MusicMaker 짧은 영상 도구를 사용합니다. 9:16, 각 5초로 만들며 브랜드 페이지는 현재 480p와 H3 사용을 명시합니다.
 
@@ -119,11 +117,9 @@ Keep terrain and rainbow stable. No people, buildings or generated text.
 
 ## 다음 기술 익히기
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다. 원작 모델은 공개되지 않았고 아래는 새 연습입니다.</td></tr></table>
+<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait: smiling singer at a gold microphone under pink stage lights" width="100%"></a></td><td width="58%" valign="top">이번에는 약 10초의 인물 노래 클로즈업입니다. 사진은 MusicMaker 공개 영상의 입력 인물 이미지이며 누르면 영상을 봅니다. 원작 모델은 공개되지 않았고 아래는 새 연습입니다.<br><br><b>1.</b> 입이 가려지지 않는 정면에 가까운 허가된 인물 사진과 직접 녹음하거나 허가받은 노래를 준비합니다. 약 10초의 한 구절에 앞뒤 숨 쉴 여백을 남기세요. 연습용 반주는 보컬 입력을 대신하지 못합니다.</td></tr></table>
 
 [▶ 브랜드 영상 보기](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [↗ 공식 도구](https://hailuoai.video/tools/minimax-h3) · [↗ MusicMaker](https://musicmaker.im/ai-music-video-generator/)
-
-1. 입이 가려지지 않는 정면에 가까운 허가된 인물 사진과 직접 녹음하거나 허가받은 노래를 준비합니다. 약 10초의 한 구절에 앞뒤 숨 쉴 여백을 남기세요. 연습용 반주는 보컬 입력을 대신하지 못합니다.
 
 2. 공식 H3 Omni Reference의 Refs에 인물과 노래를 함께 넣고 약 10초와 사진에 맞는 비율을 선택합니다. 오디오 참조는 이미지나 영상과 함께 사용해야 합니다.
 
