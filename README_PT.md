@@ -20,6 +20,14 @@
 
 Escolher música → planejar cenas e prompts → gerar clipes → editar e exportar. Ilustração original do processo com canto, viagens e formas abstratas; não é prova de vídeos gerados.
 
+<!-- TRUST:START -->
+O guia é mantido pela equipe MusicMaker e prioriza os modelos oferecidos pela marca. Os links recomendados não incluem parâmetros de afiliado adicionados por este repositório; isso não significa ausência de interesse comercial. [ Política editorial (English) → ](docs/editorial-policy.md)
+
+Nossa demonstração original de edição de 16 segundos está pronta. Nos exemplos externos, apenas as fontes públicas e a disponibilidade foram verificadas. Nenhum dos dois tutoriais de geração com IA foi testado do início ao fim.
+
+[▶ Ver nossa edição](starter-kit/night-train-edit-demo.mp4) · [Evidências e estado dos testes (EN / 简体中文)](docs/generation-tests.md) · [Enviar uma correção](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -193,17 +201,15 @@ As primeiras quatro linhas mostram ferramentas anunciadas como gratuitas; a quin
 
 [→ Todos os recursos e ferramentas · inglês](docs/brand-resources.md)
 
-## Fontes oficiais dos modelos
+## Escolher um modelo: fontes oficiais e MusicMaker
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>Concerto: separar referências do local e dos intérpretes.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#seedance-concert">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>Canto: separar câmera, personagem e voz.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#h3-singing">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>Canto surreal: combine referências de personagem e cenário.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#veo-scene">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>Piano: do plano médio ao close da expressão.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#seedance-piano">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>Nossas sugestões de prática: Texto ou imagens → planejar vários planos. O MusicMaker não oferece necessariamente todos os recursos de referência do desenvolvedor.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#seedance-concert">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>Nossas sugestões de prática: Clipes de texto/imagem e referências vocais são caminhos distintos. MusicMaker: A entrada gratuita oferece 5 s em 480p; não coloque áudio cantado no campo de texto.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#h3-singing">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>Nossas sugestões de prática: Texto ou primeiro quadro → cena curta. Confira primeiro Fast ou padrão; não presuma que o MusicMaker ofereça referências com várias imagens.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#veo-scene">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>Nossas sugestões de prática: Texto ou imagens → plano de um solista. Confira a continuidade das mãos e do instrumento; a precisão nota por nota não é garantida.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Guia / prompt oficial ↗</a><br><a href="docs/official-cases.md#seedance-piano">Passo a passo · inglês →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-As quatro versões têm páginas no MusicMaker. Exemplos e guias vêm dos desenvolvedores; os controles do MusicMaker podem diferir. A imagem H3 é uma entrada.
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Comece pelo conceito e pela letra opcional; defina primeiro a estrutura musical. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -220,3 +226,7 @@ O MusicMaker oferece parcerias de afiliados. Compartilhe nossas ferramentas de c
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Conheça o programa e inscreva-se</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+Os textos e as traduções têm auxílio de IA. Não há registro de revisão independente por falantes nativos. A documentação detalhada está em inglês e chinês simplificado. [🌐 Idiomas e estado da revisão (English)](i18n/README.md)
+<!-- TRANSLATION:END -->

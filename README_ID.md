@@ -20,6 +20,14 @@
 
 Pilih musik → rancang adegan dan prompt → buat klip → edit dan ekspor. Ilustrasi alur kerja orisinal dengan vokal, perjalanan, dan visual abstrak; bukan bukti hasil video yang dihasilkan.
 
+<!-- TRUST:START -->
+Panduan dikelola tim MusicMaker dan mengutamakan model yang ditawarkan merek. Tautan rekomendasi tidak memuat parameter afiliasi tambahan dari repositori ini; bukan berarti tidak ada kepentingan komersial. [ Kebijakan editorial (English) → ](docs/editorial-policy.md)
+
+Demo penyuntingan orisinal kami sepanjang 16 detik telah selesai. Contoh eksternal hanya diperiksa sumber publik dan ketersediaannya. Kedua tutorial pembuatan dengan AI belum diuji dari awal hingga akhir.
+
+[▶ Tonton demo penyuntingan kami](starter-kit/night-train-edit-demo.mp4) · [Bukti dan status pengujian (EN / 简体中文)](docs/generation-tests.md) · [Laporkan koreksi](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -193,17 +201,15 @@ Empat baris pertama berisi alat yang dinyatakan gratis; baris kelima berisi refe
 
 [→ Semua sumber dan alat · Inggris](docs/brand-resources.md)
 
-## Sumber resmi pengembang model
+## Memilih model: dokumentasi resmi dan MusicMaker
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>Konser: pisahkan referensi tempat dan pemain.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>Bernyanyi: pisahkan kamera, karakter, dan vokal.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#h3-singing">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>Adegan bernyanyi surealis: gabungkan referensi karakter dan latar.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#veo-scene">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>Piano: dari bidikan sedang ke close-up ekspresi.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#seedance-piano">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>Saran latihan kami: Teks atau gambar → merencanakan beberapa bidikan. MusicMaker belum tentu menyediakan semua fitur referensi pengembang.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#seedance-concert">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>Saran latihan kami: Klip teks/gambar dan referensi vokal adalah jalur terpisah. MusicMaker: Akses gratis menawarkan 5 dtk pada 480p; audio nyanyian tidak bisa dimasukkan ke kolom teks.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#h3-singing">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>Saran latihan kami: Teks atau bingkai awal → klip adegan. Periksa Fast atau standar terlebih dahulu; jangan menganggap MusicMaker menyediakan referensi banyak gambar.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#veo-scene">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>Saran latihan kami: Teks atau gambar → bidikan pemain tunggal. Periksa kesinambungan tangan dan instrumen; ketepatan setiap not tidak dijamin.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Panduan / prompt resmi ↗</a><br><a href="docs/official-cases.md#seedance-piano">Langkah-langkah · Inggris →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-Keempat versi model memiliki halaman MusicMaker. Contoh dan panduan berasal dari pengembang; fitur MusicMaker mengikuti antarmukanya. Gambar H3 adalah input.
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Mulai dari konsep dan lirik opsional; tentukan struktur musik lebih dulu. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -220,3 +226,7 @@ MusicMaker membuka kerja sama afiliasi. Bagikan alat pembuatan musik kami melalu
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Pelajari dan daftar program afiliasi</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+Penulisan dan penerjemahan dibantu AI. Belum ada catatan peninjauan independen oleh penutur asli. Dokumen terperinci tersedia dalam bahasa Inggris dan Mandarin sederhana. [🌐 Bahasa dan status peninjauan (English)](i18n/README.md)
+<!-- TRANSLATION:END -->

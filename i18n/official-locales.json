@@ -17,7 +17,15 @@
       "Official input image",
       "Official input/output comparison",
       "Official video poster"
-    ]
+    ],
+    "capabilities": [
+      "Text or images → multi-shot planning. MusicMaker controls do not necessarily expose all developer reference features.",
+      "Text/image clips and vocal-reference generation are separate routes. MusicMaker: The free entry offers 5 s at 480p; do not put singing audio in a text field.",
+      "Text or a first frame → scene clips. Check Fast versus standard first; do not assume MusicMaker offers multi-image reference controls.",
+      "Text or images → a solo performance shot. Check continuity of hands and instruments; note-for-note accuracy is not guaranteed."
+    ],
+    "capability_title": "Choosing a model: official documentation and MusicMaker routes",
+    "advice_label": "Our practice advice"
   },
   "zh": {
     "title": "模型官方案例与教程",
@@ -37,7 +45,15 @@
       "官方输入图",
       "官方输入与输出对照",
       "官方视频封面"
-    ]
+    ],
+    "capabilities": [
+      "文字或图片 → 多镜头规划；MusicMaker 控件不保证开放开发者的全部参考功能。",
+      "文字／图片短片与歌声参考是不同路线。MusicMaker 免费短片入口为 5 秒、480p；演唱音频不能投进文字框。",
+      "文字或首帧 → 场景短片；先核对 Fast 与普通版本，不能默认品牌入口提供多图参考控件。",
+      "文字或图片 → 单人演奏镜头；检查手部与乐器连续性，不保证逐音符还原。"
+    ],
+    "capability_title": "怎么选模型：官方资料与 MusicMaker 入口",
+    "advice_label": "本库练习建议"
   },
   "tw": {
     "title": "模型官方案例與教學",
@@ -57,7 +73,15 @@
       "官方輸入圖",
       "官方輸入與輸出對照",
       "官方影片封面"
-    ]
+    ],
+    "capabilities": [
+      "文字或圖片 → 多鏡頭規劃；MusicMaker 控制項不保證開放開發者的全部參考功能。",
+      "文字／圖片短片與歌聲參考是不同路線。MusicMaker 免費短片入口為 5 秒、480p；演唱音訊不能放進文字欄位。",
+      "文字或首幀 → 場景短片；先核對 Fast 與一般版本，不能預設品牌入口提供多圖參考控制項。",
+      "文字或圖片 → 單人演奏鏡頭；檢查手部與樂器連續性，不保證逐音符還原。"
+    ],
+    "capability_title": "怎麼選模型：官方資料與 MusicMaker 入口",
+    "advice_label": "本庫練習建議"
   },
   "ja": {
     "title": "モデル公式の作例とチュートリアル",
@@ -77,7 +101,15 @@
       "公式入力画像",
       "公式の入力・出力比較",
       "公式動画のサムネイル"
-    ]
+    ],
+    "capabilities": [
+      "テキスト・画像 → 複数ショットの設計。MusicMaker で開発元の全参照機能が使えるとは限りません。",
+      "テキスト・画像の短編と歌声参照は別の経路です。MusicMaker の無料短編入口は5秒・480p。歌唱音声はテキスト欄に入れられません。",
+      "テキスト・開始フレーム → 場面の短編。Fast と通常版を先に確認し、MusicMaker に複数画像参照があると想定しないでください。",
+      "テキスト・画像 → 一人の演奏ショット。手や楽器の連続性を確認してください。音符ごとの正確な再現は保証されません。"
+    ],
+    "capability_title": "モデルの選び方：公式資料と MusicMaker",
+    "advice_label": "本ガイドの練習提案"
   },
   "ko": {
     "title": "모델 공식 사례와 튜토리얼",
@@ -97,7 +129,15 @@
       "공식 입력 이미지",
       "공식 입력·출력 비교",
       "공식 동영상 표지"
-    ]
+    ],
+    "capabilities": [
+      "텍스트·이미지 → 여러 샷 구성. MusicMaker에서 개발사의 모든 참조 기능을 제공한다고 보장하지 않습니다.",
+      "텍스트·이미지 단편과 보컬 참조 생성은 별도 경로입니다. MusicMaker: 무료 입구는 5초·480p이며, 노래 음원을 텍스트 칸에 넣을 수 없습니다.",
+      "텍스트·첫 프레임 → 장면 단편. Fast와 일반 버전을 먼저 확인하세요. MusicMaker에 다중 이미지 참조 기능이 있다고 가정하지 마세요.",
+      "텍스트·이미지 → 1인 연주 샷. 손과 악기의 연속성을 확인하세요. 음표 하나하나의 재현은 보장하지 않습니다."
+    ],
+    "capability_title": "모델 선택: 공식 자료와 MusicMaker",
+    "advice_label": "이 가이드의 연습 제안"
   },
   "de": {
     "title": "Offizielle Modellbeispiele und Anleitungen",
@@ -117,7 +157,15 @@
       "Offizielles Eingabebild",
       "Offizieller Eingabe-/Ausgabevergleich",
       "Offizielles Videovorschaubild"
-    ]
+    ],
+    "capabilities": [
+      "Text oder Bilder → mehrere Einstellungen planen. MusicMaker bietet nicht zwingend alle Referenzfunktionen des Entwicklers.",
+      "Text-/Bildclips und Stimmreferenzen sind getrennte Wege. MusicMaker: Der kostenlose Einstieg bietet 5 s bei 480p; Gesangsaudio gehört nicht ins Textfeld.",
+      "Text oder Startbild → Szenenclips. Zuerst Fast und Standard unterscheiden; mehrere Bildreferenzen bei MusicMaker nicht voraussetzen.",
+      "Text oder Bilder → Solo-Aufnahme. Hände und Instrumente auf Kontinuität prüfen; eine notengenaue Wiedergabe ist nicht garantiert."
+    ],
+    "capability_title": "Modellwahl: offizielle Quellen und MusicMaker",
+    "advice_label": "Unsere Übungstipps"
   },
   "fr": {
     "title": "Exemples et tutoriels officiels des modèles",
@@ -137,7 +185,15 @@
       "Image d’entrée officielle",
       "Comparaison officielle entrée/sortie",
       "Affiche de la vidéo officielle"
-    ]
+    ],
+    "capabilities": [
+      "Texte ou images → planifier plusieurs plans. MusicMaker ne propose pas nécessairement toutes les fonctions de référence du développeur.",
+      "Clips texte/image et références vocales sont deux parcours distincts. MusicMaker: L’entrée gratuite propose 5 s en 480p ; ne placez pas un fichier de chant dans le champ texte.",
+      "Texte ou première image → courte scène. Vérifiez d’abord Fast ou standard ; ne présumez pas la présence de références multi-images dans MusicMaker.",
+      "Texte ou images → plan d’un soliste. Vérifiez la continuité des mains et de l’instrument ; la fidélité note par note n’est pas garantie."
+    ],
+    "capability_title": "Choisir un modèle : documentation officielle et MusicMaker",
+    "advice_label": "Nos conseils de pratique"
   },
   "es": {
     "title": "Ejemplos y tutoriales oficiales de modelos",
@@ -157,7 +213,15 @@
       "Imagen de entrada oficial",
       "Comparación oficial de entrada y salida",
       "Portada del vídeo oficial"
-    ]
+    ],
+    "capabilities": [
+      "Texto o imágenes → planificar varios planos. MusicMaker no ofrece necesariamente todas las funciones de referencia del desarrollador.",
+      "Los clips de texto/imagen y las referencias vocales son rutas distintas. MusicMaker: La entrada gratuita ofrece 5 s a 480p; no introduzcas audio cantado en el campo de texto.",
+      "Texto o primer fotograma → escena breve. Comprueba primero Fast o estándar; no des por hecho que MusicMaker ofrece referencias con varias imágenes.",
+      "Texto o imágenes → plano de un solista. Revisa la continuidad de manos e instrumento; no se garantiza precisión nota por nota."
+    ],
+    "capability_title": "Elegir modelo: documentación oficial y MusicMaker",
+    "advice_label": "Nuestros consejos de práctica"
   },
   "it": {
     "title": "Esempi e tutorial ufficiali dei modelli",
@@ -177,7 +241,15 @@
       "Immagine di input ufficiale",
       "Confronto ufficiale input/output",
       "Copertina del video ufficiale"
-    ]
+    ],
+    "capabilities": [
+      "Testo o immagini → pianificare più inquadrature. MusicMaker non offre necessariamente tutte le funzioni di riferimento dello sviluppatore.",
+      "Clip da testo/immagine e riferimenti vocali sono percorsi distinti. MusicMaker: L’accesso gratuito offre 5 s a 480p; l’audio cantato non va nel campo di testo.",
+      "Testo o primo fotogramma → breve scena. Controlla prima Fast o standard; non dare per scontati i riferimenti con più immagini in MusicMaker.",
+      "Testo o immagini → inquadratura di un solista. Controlla la continuità di mani e strumento; la precisione nota per nota non è garantita."
+    ],
+    "capability_title": "Scegliere un modello: fonti ufficiali e MusicMaker",
+    "advice_label": "I nostri consigli pratici"
   },
   "pt": {
     "title": "Exemplos e tutoriais oficiais dos modelos",
@@ -197,7 +269,15 @@
       "Imagem de entrada oficial",
       "Comparação oficial de entrada e saída",
       "Capa do vídeo oficial"
-    ]
+    ],
+    "capabilities": [
+      "Texto ou imagens → planejar vários planos. O MusicMaker não oferece necessariamente todos os recursos de referência do desenvolvedor.",
+      "Clipes de texto/imagem e referências vocais são caminhos distintos. MusicMaker: A entrada gratuita oferece 5 s em 480p; não coloque áudio cantado no campo de texto.",
+      "Texto ou primeiro quadro → cena curta. Confira primeiro Fast ou padrão; não presuma que o MusicMaker ofereça referências com várias imagens.",
+      "Texto ou imagens → plano de um solista. Confira a continuidade das mãos e do instrumento; a precisão nota por nota não é garantida."
+    ],
+    "capability_title": "Escolher um modelo: fontes oficiais e MusicMaker",
+    "advice_label": "Nossas sugestões de prática"
   },
   "ru": {
     "title": "Официальные примеры моделей и уроки",
@@ -217,7 +297,15 @@
       "Официальное входное изображение",
       "Официальное сравнение входа и результата",
       "Обложка официального видео"
-    ]
+    ],
+    "capabilities": [
+      "Текст или изображения → планирование нескольких планов. В MusicMaker могут быть доступны не все функции референсов разработчика.",
+      "Клипы по тексту/изображению и вокальные референсы — разные пути. MusicMaker: Бесплатный вход предлагает 5 с при 480p; аудиозапись пения нельзя поместить в текстовое поле.",
+      "Текст или первый кадр → короткая сцена. Сначала проверьте версию Fast или обычную; не предполагается, что MusicMaker поддерживает несколько референсных изображений.",
+      "Текст или изображения → кадр с одним исполнителем. Проверьте непрерывность рук и инструмента; точное воспроизведение каждой ноты не гарантируется."
+    ],
+    "capability_title": "Выбор модели: официальные материалы и MusicMaker",
+    "advice_label": "Наши рекомендации для практики"
   },
   "id": {
     "title": "Contoh dan tutorial resmi model",
@@ -237,7 +325,15 @@
       "Gambar input resmi",
       "Perbandingan input/output resmi",
       "Poster video resmi"
-    ]
+    ],
+    "capabilities": [
+      "Teks atau gambar → merencanakan beberapa bidikan. MusicMaker belum tentu menyediakan semua fitur referensi pengembang.",
+      "Klip teks/gambar dan referensi vokal adalah jalur terpisah. MusicMaker: Akses gratis menawarkan 5 dtk pada 480p; audio nyanyian tidak bisa dimasukkan ke kolom teks.",
+      "Teks atau bingkai awal → klip adegan. Periksa Fast atau standar terlebih dahulu; jangan menganggap MusicMaker menyediakan referensi banyak gambar.",
+      "Teks atau gambar → bidikan pemain tunggal. Periksa kesinambungan tangan dan instrumen; ketepatan setiap not tidak dijamin."
+    ],
+    "capability_title": "Memilih model: dokumentasi resmi dan MusicMaker",
+    "advice_label": "Saran latihan kami"
   },
   "vi": {
     "title": "Ví dụ và hướng dẫn chính thức của mô hình",
@@ -257,7 +353,15 @@
       "Ảnh đầu vào chính thức",
       "So sánh đầu vào và đầu ra chính thức",
       "Ảnh bìa video chính thức"
-    ]
+    ],
+    "capabilities": [
+      "Văn bản hoặc ảnh → lên kế hoạch nhiều cảnh quay. MusicMaker không nhất thiết cung cấp mọi tính năng tham chiếu của nhà phát triển.",
+      "Video từ văn bản/ảnh và tham chiếu giọng hát là hai cách riêng. MusicMaker: Lối vào miễn phí cung cấp 5 giây ở 480p; không đưa âm thanh hát vào ô văn bản.",
+      "Văn bản hoặc khung hình đầu → đoạn cảnh ngắn. Kiểm tra bản Fast hay thường trước; không mặc định MusicMaker có điều khiển tham chiếu nhiều ảnh.",
+      "Văn bản hoặc ảnh → cảnh một người biểu diễn. Kiểm tra tính liên tục của tay và nhạc cụ; không bảo đảm tái hiện chính xác từng nốt."
+    ],
+    "capability_title": "Chọn mô hình: tài liệu chính thức và MusicMaker",
+    "advice_label": "Gợi ý thực hành của chúng tôi"
   },
   "th": {
     "title": "ตัวอย่างและบทสอนอย่างเป็นทางการของโมเดล",
@@ -277,7 +381,15 @@
       "ภาพอินพุตจากทางการ",
       "ภาพเปรียบเทียบอินพุตและผลลัพธ์จากทางการ",
       "ภาพปกวิดีโอทางการ"
-    ]
+    ],
+    "capabilities": [
+      "ข้อความหรือภาพ → วางแผนหลายช็อต MusicMaker อาจไม่ได้เปิดให้ใช้ฟังก์ชันอ้างอิงทั้งหมดของผู้พัฒนา",
+      "คลิปจากข้อความ/ภาพกับการใช้เสียงร้องอ้างอิงเป็นคนละวิธี ช่องทางฟรีของ MusicMakerให้ 5 วินาทีที่ 480p อย่าใส่ไฟล์เสียงร้องในช่องข้อความ",
+      "ข้อความหรือเฟรมแรก → คลิปฉากสั้น ตรวจสอบรุ่น Fast กับรุ่นปกติก่อน อย่าคิดว่า MusicMaker มีตัวเลือกอ้างอิงหลายภาพเสมอ",
+      "ข้อความหรือภาพ → ช็อตนักดนตรีคนเดียว ตรวจความต่อเนื่องของมือและเครื่องดนตรี ไม่รับประกันการเล่นตรงทุกโน้ต"
+    ],
+    "capability_title": "เลือกโมเดล: เอกสารทางการและ MusicMaker",
+    "advice_label": "คำแนะนำการฝึกของคู่มือนี้"
   },
   "ar": {
     "title": "أمثلة النماذج ودروسها الرسمية",
@@ -297,6 +409,14 @@
       "صورة إدخال رسمية",
       "مقارنة رسمية بين المدخلات والنتيجة",
       "غلاف الفيديو الرسمي"
-    ]
+    ],
+    "capabilities": [
+      "نص أو صور ← تخطيط عدة لقطات. لا يضمن MusicMaker إتاحة جميع ميزات المراجع لدى المطوّر.",
+      "مقاطع النص/الصورة ومراجع الغناء مساران منفصلان. MusicMaker: المدخل المجاني يوفّر 5 ثوانٍ بدقة 480p؛ لا تضع ملف الغناء في حقل النص.",
+      "نص أو إطار أول ← مقطع مشهدي. تحقّق أولاً من نسخة Fast أو النسخة العادية؛ لا تفترض أن MusicMaker يوفّر أدوات مراجع متعددة الصور.",
+      "نص أو صور ← لقطة لعازف منفرد. افحص استمرارية اليدين والآلة؛ لا يُضمن التطابق مع كل نوتة."
+    ],
+    "capability_title": "اختيار النموذج: الوثائق الرسمية وMusicMaker",
+    "advice_label": "نصائحنا للتدريب"
   }
 }

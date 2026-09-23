@@ -201,6 +201,39 @@ for language in languages:
 workflow = (ROOT/'assets/music-video-workflow.png').read_bytes()
 if workflow[:8] != b'\x89PNG\r\n\x1a\n' or struct.unpack('>II',workflow[16:24]) != (1536,1024):
     errors.append('Workflow cover is missing or has unexpected dimensions')
+# Shared provenance and language blocks must survive every rebuild.
+for language in languages:
+    filename=language['file']
+    for prefix in ('', 'mobile/'):
+        page=(ROOT/prefix/filename).read_text()
+        for marker in ('TRUST','TRANSLATION'):
+            if page.count(f'<!-- {marker}:START -->') != 1 or page.count(f'<!-- {marker}:END -->') != 1:
+                errors.append(f'{prefix}{filename}: invalid {marker} block count')
+        relative='../' if prefix else ''
+        for target in ('docs/generation-tests.md','starter-kit/night-train-edit-demo.mp4','i18n/README.md'):
+            if ']('+relative+target+')' not in page:
+                errors.append(f'{prefix}{filename}: missing evidence or language target {target}')
+        if language['code'] not in ('en','zh','tw') and page.count('(English)') < 2:
+            errors.append(f'{prefix}{filename}: missing destination language labels')
+        if language['code']=='ar':
+            for marker in ('TRUST','TRANSLATION'):
+                if not 0 <= page.find('<div dir="rtl"') < page.index(f'<!-- {marker}:START -->') < page.rfind('</div>'):
+                    errors.append(f'{prefix}{filename}: {marker} outside RTL container')
+        if '\n\n<!-- AFFILIATE:START -->' not in page:
+            errors.append(f'{prefix}{filename}: affiliate block spacing lost')
+        for url in re.findall(r'https://musicmaker\.im/[^\s<>"\)]+',page):
+            if re.search(r'[?&](?:ref|affiliate|aff|referral|aff_id|affiliate_id)=',url,re.I):
+                errors.append(f'{prefix}{filename}: unexpected affiliate parameter')
+    for marker in ('TRUST','TRANSLATION'):
+        pattern=rf'<!-- {marker}:START -->.*?<!-- {marker}:END -->'
+        desktop_block=re.search(pattern,(ROOT/filename).read_text(),re.S)
+        mobile_block=re.search(pattern,(ROOT/'mobile'/filename).read_text(),re.S)
+        if desktop_block and mobile_block and desktop_block[0] != mobile_block[0].replace('](../',']('):
+            errors.append(f'{filename}: desktop/mobile {marker} mismatch')
+for template in ('broken-link','factual-correction','translation'):
+    if not (ROOT/f'.github/ISSUE_TEMPLATE/{template}.yml').exists():
+        errors.append(f'Missing correction form: {template}')
+
 if errors:
     print('\n'.join(errors));sys.exit(1)
 print(f'PASS: {len(mds)} Markdown files, {refs} local links, {len(recipes)} recipes, artwork, audio and edit timings')

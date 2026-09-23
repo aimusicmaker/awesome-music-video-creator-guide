@@ -20,6 +20,14 @@
 
 Chọn nhạc → lên cảnh và câu lệnh → tạo đoạn phim → dựng và xuất. Hình minh họa quy trình gốc với ca hát, hành trình và hình ảnh trừu tượng, không phải bằng chứng video đã tạo.
 
+<!-- TRUST:START -->
+Hướng dẫn do nhóm MusicMaker duy trì, ưu tiên các mô hình thương hiệu đang cung cấp. Liên kết đề xuất không được thêm tham số tiếp thị liên kết của kho này; điều đó không có nghĩa là không có lợi ích thương mại. [ Chính sách biên tập (English) → ](docs/editorial-policy.md)
+
+Ví dụ dựng phim gốc dài 16 giây của chúng tôi đã hoàn thành. Với ví dụ bên ngoài, chỉ kiểm tra nguồn công khai và khả năng truy cập. Cả hai hướng dẫn tạo video bằng AI đều chưa được thử nghiệm toàn bộ quy trình.
+
+[▶ Xem ví dụ dựng phim gốc](starter-kit/night-train-edit-demo.mp4) · [Bằng chứng và trạng thái thử nghiệm (EN / 简体中文)](docs/generation-tests.md) · [Gửi đính chính](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -193,17 +201,15 @@ Bốn hàng đầu là công cụ được công bố miễn phí; hàng thứ n
 
 [→ Tất cả tư liệu và công cụ · tiếng Anh](docs/brand-resources.md)
 
-## Tài liệu chính thức của mô hình
+## Chọn mô hình: tài liệu chính thức và MusicMaker
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>Hòa nhạc: tách tham chiếu địa điểm và người biểu diễn.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>Ca hát: tách tham chiếu máy quay, nhân vật và giọng hát.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#h3-singing">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>Cảnh hát siêu thực: kết hợp tham chiếu nhân vật và bối cảnh.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#veo-scene">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>Piano: từ cảnh trung đến cận cảnh biểu cảm.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#seedance-piano">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>Gợi ý thực hành của chúng tôi: Văn bản hoặc ảnh → lên kế hoạch nhiều cảnh quay. MusicMaker không nhất thiết cung cấp mọi tính năng tham chiếu của nhà phát triển.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#seedance-concert">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>Gợi ý thực hành của chúng tôi: Video từ văn bản/ảnh và tham chiếu giọng hát là hai cách riêng. MusicMaker: Lối vào miễn phí cung cấp 5 giây ở 480p; không đưa âm thanh hát vào ô văn bản.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#h3-singing">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>Gợi ý thực hành của chúng tôi: Văn bản hoặc khung hình đầu → đoạn cảnh ngắn. Kiểm tra bản Fast hay thường trước; không mặc định MusicMaker có điều khiển tham chiếu nhiều ảnh.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#veo-scene">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>Gợi ý thực hành của chúng tôi: Văn bản hoặc ảnh → cảnh một người biểu diễn. Kiểm tra tính liên tục của tay và nhạc cụ; không bảo đảm tái hiện chính xác từng nốt.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Hướng dẫn / câu lệnh chính thức ↗</a><br><a href="docs/official-cases.md#seedance-piano">Các bước · tiếng Anh →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-Cả bốn phiên bản đều có trang MusicMaker. Ví dụ và hướng dẫn từ nhà phát triển; tính năng MusicMaker có thể khác. Ảnh H3 là ảnh đầu vào.
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — Bắt đầu từ ý tưởng và lời hát tùy chọn; quyết định cấu trúc nhạc trước. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -220,3 +226,7 @@ MusicMaker hỗ trợ hợp tác tiếp thị liên kết. Giới thiệu công 
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Tìm hiểu và đăng ký hợp tác</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+Nội dung và bản dịch có AI hỗ trợ. Chưa có hồ sơ thẩm định độc lập bởi người bản ngữ. Tài liệu chi tiết có bằng tiếng Anh và tiếng Trung giản thể. [🌐 Ngôn ngữ và trạng thái rà soát (English)](i18n/README.md)
+<!-- TRANSLATION:END -->

@@ -29,3 +29,7 @@ The homepage logo is embedded unchanged from [MusicMaker’s official SVG](https
 ## Official model examples
 
 The [official source manifest](../docs/official-cases.json) records four maker-published examples. `official/seedance-concert.jpg` is an unedited frame extracted at 00:12 from ByteDance Seed’s concert demonstration. The H3 thumbnail is an official character input; Seedance 2.0 uses its official piano-example poster. The Veo 3.1 source and image type are recorded in the manifest. These are attributed reference media, outside the MIT grant, not generated or reproduced results from this repository.
+
+## Social preview
+
+[Social preview](social-preview.jpg) is original AI-generated concept artwork made with the built-in image generation tool on 2026-09-23, using our workflow illustration as a reference. It is delivered at 1280 × 640, below 1 MB, for GitHub sharing. MIT to the extent rights can be granted; not a model-test result. Prompt recorded above.

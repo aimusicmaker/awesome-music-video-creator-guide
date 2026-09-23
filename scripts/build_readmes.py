@@ -105,6 +105,7 @@ for code,filename,labels in [('en','README.md',['X examples','Listen','Make your
 affiliate_copy=json.loads((ROOT/'i18n/affiliate-locales.json').read_text())
 for lang in LANGS:
     p=ROOT/lang['file'];s=p.read_text()
+    s=re.sub(r'\n*<!-- TRANSLATION:START -->.*?<!-- TRANSLATION:END -->\n*','\n\n',s,flags=re.S)
     s=re.sub(r'\n*<!-- AFFILIATE:START -->.*?<!-- AFFILIATE:END -->\n*','',s,flags=re.S)
     title,body,action=affiliate_copy[lang['code']]
     block=f'\n\n<!-- AFFILIATE:START -->\n**{title}**\n\n{body}\n\n<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ {esc(action)}</kbd></a>\n<!-- AFFILIATE:END -->\n'
@@ -136,4 +137,5 @@ for lang in LANGS:
 # Device-specific pages are derived after all desktop content is finalized.
 import runpy
 runpy.run_path(str(ROOT/'scripts/build_official.py'))
+runpy.run_path(str(ROOT/'scripts/build_trust.py'))
 runpy.run_path(str(ROOT/'scripts/build_mobile.py'))

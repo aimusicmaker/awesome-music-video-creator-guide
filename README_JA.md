@@ -20,6 +20,14 @@
 
 曲を選ぶ → 絵コンテとプロンプト → 映像生成 → 編集と書き出し。歌唱、旅、抽象映像へ広がる制作フローのオリジナル図です。生成動画の実績ではありません。
 
+<!-- TRUST:START -->
+MusicMaker チームが管理し、ブランドで利用できるモデルを優先的に紹介しています。紹介リンクに本リポジトリのアフィリエイト用パラメータは付けていませんが、商業的な利害がないという意味ではありません。 [ 編集・管理方針 (English) → ](docs/editorial-policy.md)
+
+独自の16秒編集デモは制作済みです。外部事例は公開情報とアクセス可否のみを確認し、2つの AI 生成チュートリアルは全工程を実測していません。
+
+[▶ 独自の編集デモを見る](starter-kit/night-train-edit-demo.mp4) · [根拠と検証状況 (EN / 简体中文)](docs/generation-tests.md) · [訂正を報告](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -193,17 +201,15 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 [→ 全素材・ツール一覧（英語）](docs/brand-resources.md)
 
-## モデル開発元の資料
+## モデルの選び方：公式資料と MusicMaker
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>演奏会：会場と演奏者の参照を分ける。</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#seedance-concert">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>歌唱：カメラ・人物・歌声の参照を分ける。</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#h3-singing">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>幻想的な歌唱シーン：人物と背景の参照を組み合わせる。</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#veo-scene">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>ピアノ演奏：ミディアムショットから表情のアップへ。</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#seedance-piano">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>本ガイドの練習提案: テキスト・画像 → 複数ショットの設計。MusicMaker で開発元の全参照機能が使えるとは限りません。</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#seedance-concert">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>本ガイドの練習提案: テキスト・画像の短編と歌声参照は別の経路です。MusicMaker の無料短編入口は5秒・480p。歌唱音声はテキスト欄に入れられません。</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#h3-singing">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>本ガイドの練習提案: テキスト・開始フレーム → 場面の短編。Fast と通常版を先に確認し、MusicMaker に複数画像参照があると想定しないでください。</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#veo-scene">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>本ガイドの練習提案: テキスト・画像 → 一人の演奏ショット。手や楽器の連続性を確認してください。音符ごとの正確な再現は保証されません。</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">公式ガイド・プロンプト ↗</a><br><a href="docs/official-cases.md#seedance-piano">手順ノート（英語） →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-4つのモデル版にはMusicMakerの対応ページがあります。作例とガイドは開発元の資料です。MusicMakerの機能は実際の画面で確認してください。H3画像は入力素材です。
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — 曲の構想と必要に応じた歌詞から制作。先に音楽の構成を決めます。 [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -220,3 +226,7 @@ MusicMaker はアフィリエイト提携を受け付けています。チュー
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 提携プログラムの詳細・申請</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+文章と翻訳には AI を使用しています。独立した母語話者による校閲記録はありません。詳細資料は英語と簡体字中国語です。 [🌐 言語とレビュー状況 (English)](i18n/README.md)
+<!-- TRANSLATION:END -->

@@ -20,6 +20,14 @@
 
 เลือกเพลง → วางช็อตและพรอมต์ → สร้างคลิป → ตัดต่อและส่งออก ภาพประกอบต้นฉบับแสดงขั้นตอนสำหรับเพลงร้อง การเดินทาง และภาพนามธรรม ไม่ใช่หลักฐานผลลัพธ์วิดีโอ
 
+<!-- TRUST:START -->
+คู่มือนี้ดูแลโดยทีม MusicMaker โดยเน้นโมเดลที่แบรนด์มีให้ใช้ ลิงก์แนะนำไม่ได้เพิ่มพารามิเตอร์พันธมิตรของคลังนี้ แต่ไม่ได้หมายความว่าไม่มีผลประโยชน์ทางการค้า [ นโยบายการจัดทำ (English) → ](../docs/editorial-policy.md)
+
+ตัวอย่างการตัดต่อที่เราสร้างเองยาว 16 วินาทีเสร็จแล้ว ตัวอย่างภายนอกตรวจเฉพาะแหล่งข้อมูลสาธารณะและการเข้าถึง ส่วนบทสอนสร้างวิดีโอด้วย AI ทั้งสองแบบยังไม่ได้ทดสอบครบทุกขั้นตอน
+
+[▶ ดูตัวอย่างการตัดต่อของเรา](../starter-kit/night-train-edit-demo.mp4) · [หลักฐานและสถานะการทดสอบ (EN / 简体中文)](../docs/generation-tests.md) · [แจ้งข้อแก้ไข](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -203,26 +211,24 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 [→ สื่อและเครื่องมือทั้งหมด · อังกฤษ](../docs/brand-resources.md)
 
-## ข้อมูลทางการของโมเดล
+## เลือกโมเดล: เอกสารทางการและ MusicMaker
 
 <!-- CAPABILITIES:START -->
-<p><b>Seedance 2.5</b><br>คอนเสิร์ต: แยกภาพอ้างอิงสถานที่และนักดนตรี</p>
+<p><b>Seedance 2.5</b><br>คำแนะนำการฝึกของคู่มือนี้: ข้อความหรือภาพ → วางแผนหลายช็อต MusicMaker อาจไม่ได้เปิดให้ใช้ฟังก์ชันอ้างอิงทั้งหมดของผู้พัฒนา</p>
 
 <p><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#seedance-concert">ขั้นตอน · อังกฤษ →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></p>
 
-<p><b>MiniMax H3</b><br>ร้องเพลง: แยกกล้อง ตัวละคร และเสียงร้อง</p>
+<p><b>MiniMax H3</b><br>คำแนะนำการฝึกของคู่มือนี้: คลิปจากข้อความ/ภาพกับการใช้เสียงร้องอ้างอิงเป็นคนละวิธี ช่องทางฟรีของ MusicMakerให้ 5 วินาทีที่ 480p อย่าใส่ไฟล์เสียงร้องในช่องข้อความ</p>
 
 <p><a href="https://hailuoai.video/tools/minimax-h3">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#h3-singing">ขั้นตอน · อังกฤษ →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></p>
 
-<p><b>Veo 3.1</b><br>ฉากร้องเพลงเหนือจริง: ผสานภาพอ้างอิงตัวละครและสถานที่</p>
+<p><b>Veo 3.1</b><br>คำแนะนำการฝึกของคู่มือนี้: ข้อความหรือเฟรมแรก → คลิปฉากสั้น ตรวจสอบรุ่น Fast กับรุ่นปกติก่อน อย่าคิดว่า MusicMaker มีตัวเลือกอ้างอิงหลายภาพเสมอ</p>
 
 <p><a href="https://deepmind.google/models/veo/prompt-guide/">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#veo-scene">ขั้นตอน · อังกฤษ →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></p>
 
-<p><b>Seedance 2.0</b><br>เปียโน: จากภาพระยะกลางไปยังภาพใกล้ของสีหน้า</p>
+<p><b>Seedance 2.0</b><br>คำแนะนำการฝึกของคู่มือนี้: ข้อความหรือภาพ → ช็อตนักดนตรีคนเดียว ตรวจความต่อเนื่องของมือและเครื่องดนตรี ไม่รับประกันการเล่นตรงทุกโน้ต</p>
 
 <p><a href="https://seed.bytedance.com/en/seedance2_0">คู่มือ / พรอมต์ทางการ ↗</a><br><a href="../docs/official-cases.md#seedance-piano">ขั้นตอน · อังกฤษ →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></p>
-
-โมเดลทั้งสี่เวอร์ชันมีหน้าบน MusicMaker ตัวอย่างและคู่มือมาจากผู้พัฒนา ฟังก์ชันของ MusicMaker ให้ตรวจสอบจากหน้าจอจริง ภาพ H3 เป็นภาพอินพุต
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — เริ่มจากแนวคิดและเนื้อร้องที่มีหรือไม่มีก็ได้ กำหนดโครงเพลงก่อน [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -239,3 +245,7 @@ MusicMaker เปิดรับพันธมิตรแอฟฟิลิเ
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ ดูรายละเอียดและสมัครเป็นพันธมิตร</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+ใช้ AI ช่วยเขียนและแปล ยังไม่มีบันทึกการตรวจภาษาโดยเจ้าของภาษาอิสระ เอกสารละเอียดมีภาษาอังกฤษและจีนตัวย่อ [🌐 ภาษาและสถานะการตรวจทาน (English)](../i18n/README.md)
+<!-- TRANSLATION:END -->

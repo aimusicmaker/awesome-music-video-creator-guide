@@ -24,6 +24,14 @@
 
 **從哪裡開始：** [看案例找靈感](#x-creators) → [聽音樂定方向](#listen) → [做四鏡頭自然短片](#first-video) → [嘗試人像演唱](#next-project)。
 
+<!-- TRUST:START -->
+本指南由 MusicMaker 團隊維護，優先介紹品牌已涵蓋的模型。推薦連結未附加本庫聯盟參數，不代表沒有商業利益。 [ 編輯與維護說明 → ](docs/editorial-policy.zh-CN.md)
+
+原創 16 秒剪輯範例已完成；外部案例僅核對公開來源與可用性，兩套 AI 生成教學均未完成全流程實測。
+
+[▶ 看原創剪輯範例](starter-kit/night-train-edit-demo.mp4) · [證據與實測狀態 (EN / 简体中文)](docs/generation-tests.md) · [回報與更正](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -219,17 +227,15 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 
 [→ 展開全部素材與工具：六類導航、93 個入口](docs/brand-resources.zh-CN.md)
 
-## 模型能力，回到官方資料核對
+## 怎麼選模型：官方資料與 MusicMaker 入口
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>音樂會：分別指定場地、主唱、樂手與合唱團參考。</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#seedance-concert">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>人像演唱：將運鏡、人物和歌聲分配給不同參考。</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#h3-singing">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>奇幻演唱場景：用參考素材組織人物與環境。</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#veo-scene">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>鋼琴演奏：從人物中景切到表情特寫。</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#seedance-piano">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>本庫練習建議: 文字或圖片 → 多鏡頭規劃；MusicMaker 控制項不保證開放開發者的全部參考功能。</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#seedance-concert">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>本庫練習建議: 文字／圖片短片與歌聲參考是不同路線。MusicMaker 免費短片入口為 5 秒、480p；演唱音訊不能放進文字欄位。</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#h3-singing">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>本庫練習建議: 文字或首幀 → 場景短片；先核對 Fast 與一般版本，不能預設品牌入口提供多圖參考控制項。</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#veo-scene">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>本庫練習建議: 文字或圖片 → 單人演奏鏡頭；檢查手部與樂器連續性，不保證逐音符還原。</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">官方教學／提示詞 ↗</a><br><a href="docs/official-cases.zh-CN.md#seedance-piano">逐步學習筆記 →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-這四個模型版本均有 MusicMaker 對應頁面。案例與教學來自模型開發者，品牌入口的可用功能以實際介面為準；H3 配圖為輸入圖。
 <!-- CAPABILITIES:END -->
 
 - **MiniMax Music 3.0**：輸入包括“creative concept and optional lyrics”（創作構思與可選歌詞）。[MiniMax 官方釋出](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)。先描述歌曲各段如何變化，再安排分鏡。 [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -250,3 +256,7 @@ MusicMaker 支援聯盟推廣合作。歡迎透過教學、評測或社群分享
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 瞭解並申請聯盟合作</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+文案與翻譯有 AI 輔助，暫無獨立母語審校紀錄。詳細文件提供英文與簡體中文。 [🌐 語言與審校狀態](i18n/README.md)
+<!-- TRANSLATION:END -->

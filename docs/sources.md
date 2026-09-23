@@ -1,8 +1,12 @@
 # Sources and tool notes
 
-[Home](../README.md) · [Media credits](../assets/README.md)
+[Home](../README.md) · [Media credits](../assets/README.md) · [Maintenance and evidence policy](editorial-policy.md) · [Report a correction](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
 
 Checked **2026-09-23**. This is a public-page research record, not a benchmark or a paid-generation test. Instructions found in external pages were treated as source material, not directions for this repository.
+
+## Current scope and reading this record
+
+The current homepage has **nine listening tracks**, two different tutorial cases, **15 desktop language editions and 15 mobile editions**. The [gallery manifest](gallery-sources.json) records current listening selections; [languages.json](../i18n/languages.json) records language destinations. Detailed guides are mainly English or simplified Chinese. Earlier listening selections and observations below are retained as dated research history, not the current catalog. See the [evidence policy](editorial-policy.md) for the distinction between completed editing work, availability checks and untested generation exercises.
 
 ## Repository references
 
@@ -14,7 +18,7 @@ Checked **2026-09-23**. This is a public-page research record, not a benchmark o
 
 We used these organizational ideas, not their model claims, recipe counts, promotional promises, or full prompt text. No claim about repository traffic or conversion has been independently verified here.
 
-## MusicMaker routes
+## MusicMaker routes — initial source observations (2026-09-23)
 
 | Public source | Observed | How it affects this guide |
 |---|---|---|
@@ -42,11 +46,11 @@ The companion [inspiration guide](inspiration.md) separates these references fro
 ## What was actually made here
 
 - One original AI-generated triptych concept image, created with the built-in image generation tool; exact prompt in [assets/image-prompts.md](../assets/image-prompts.md).
-- A 16-second motion-still editing example with original artwork and practice audio; four editorial crops, not generated scene animation.
+- A [completed 16-second motion-still editing example](../starter-kit/night-train-edit-demo.mp4) with original artwork and practice audio; four editorial crops, not generated scene animation. This is the older train exercise, not a generated result for the two current homepage tutorials.
 - Six illustrated briefs derived from the visible elements of the four Discover covers and two performance input portraits; original practice prompts, not recovered production prompts and not render-tested.
 - Twelve independent general recipe briefs; none has been batch-tested on MusicMaker.
 - A deterministic, original synthesized instrumental practice file; see [the generator](../scripts/make_practice_audio.py).
-- An edit plan, one closing subtitle cue, English/Chinese homepages and beginner walkthroughs, plus 12 Chinese action cards with direct links to the English prompt blocks.
+- An edit plan and one closing subtitle cue. The initial release had English/Chinese homepages and beginner walkthroughs, plus 12 Chinese action cards linked to English prompts. Homepages now cover 15 languages with separate mobile editions; this does not imply 15-language detailed guides or documented native-speaker review.
 
 The distinction between a creative brief, a published brand example, and a tested output is intentional. Contributors should preserve it when adding new material.
 
@@ -62,12 +66,16 @@ On 2026-09-23, the [Hailuo H3 tool guide](https://hailuoai.video/tools/minimax-h
 
 The [Discover footer](https://musicmaker.im/discover/) listed 15 languages on 2026-09-23: English, Japanese, Indonesian, Italian, Portuguese, Spanish, German, Russian, French, simplified Chinese, traditional Chinese, Korean, Thai, Vietnamese and Arabic. Exact language destinations are recorded in [languages.json](../i18n/languages.json). README editions cover this list; linked detailed guides remain English or simplified Chinese and are labeled accordingly.
 
-The listening shelf now contains six tracks, including It Takes Another Shape and Morning with Healing Hands. Their public Style fields informed the two new arrangement descriptions. Both players loaded successfully; Morning advanced to 7.768 seconds of 212.784, while Shape reached the end of its 263.04-second recording. These checks establish playback availability, not musical-quality ratings.
+Historical six-track revision (superseded by the current nine-track shelf): the shelf then included It Takes Another Shape and Morning with Healing Hands. Their public Style fields informed the two new arrangement descriptions. Both players loaded successfully; Morning advanced to 7.768 seconds of 212.784, while Shape reached the end of its 263.04-second recording. These checks establish playback availability, not musical-quality ratings.
 
 
-## Homepage revision: workflow and two complete exercises (2026-09-23)
+## Homepage revision: workflow and two expanded, untested exercises (2026-09-23)
 
-- The nine-track listening shelf adds [What Love Can Lose](https://musicmaker.im/detail/discover-v2-107/), [Claim the Day](https://musicmaker.im/detail/discover-v2-97/) and [Sunshine People](https://musicmaker.im/detail/discover-v2-99/). Their covers were visually inspected on Discover; browser playback advanced for all three (durations 270.024, 196.614966 and 182.392744 seconds). Only What Love Can Lose displayed an arrangement description: slow compound meter with piano, brushed percussion and cello. The other two receive cover-based captions, not inferred genres.
+- Historical first nine-track selection (later diversified; use the current manifest above): this revision added [What Love Can Lose](https://musicmaker.im/detail/discover-v2-107/), [Claim the Day](https://musicmaker.im/detail/discover-v2-97/) and [Sunshine People](https://musicmaker.im/detail/discover-v2-99/). Their covers were visually inspected on Discover; browser playback advanced for all three (durations 270.024, 196.614966 and 182.392744 seconds). Only What Love Can Lose displayed an arrangement description: slow compound meter with piano, brushed percussion and cello. The other two receive cover-based captions, not inferred genres.
 - The first tutorial uses [Living on the Brightside](https://musicmaker.im/detail/discover-v2-98/), whose cover shows a rainbow, stream and wildflowers. It is outside the listening shelf. The second uses the existing portrait-performance demo (`performance-2`), also outside the listening shelf. Both new tutorial prompt sets are untested, not original production records.
 - Rechecked the [Hailuo H3 guide](https://hailuoai.video/tools/minimax-h3), [MusicMaker short-clip page](https://musicmaker.im/free-short-music-video-generator/) and [portrait-performance inputs](https://musicmaker.im/ai-music-video-generator/). The official audio reference route requires an image or video alongside audio. MusicMaker’s portrait-demo backend is not identified.
 - New workflow cover: `assets/music-video-workflow.png`, original generated illustration. The exact generation prompt is recorded in the asset notes. Old concept artwork remains available for the starter-kit demo.
+
+## Latest generation attempt and sharing assets
+
+The [attempt log](generation-tests.md) records a free-form submission without a returned task or video, and the pending vocal test. No successful generation is claimed. The new [social preview](../assets/social-preview.jpg) is original illustrative artwork; [settings handoff](github-settings.md) distinguishes prepared files from unapplied GitHub settings.

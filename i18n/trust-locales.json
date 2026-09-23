@@ -1,0 +1,152 @@
+{
+  "en": {
+    "brand": "Maintained by the MusicMaker team, with priority given to models available through the brand. Recommendation links carry no affiliate parameters added by this repository; this does not mean there is no commercial interest.",
+    "evidence": "Our original 16-second editing demo is complete. External examples were checked only against public sources and availability; neither AI generation tutorial has been tested end to end.",
+    "translation": "Writing and translation use AI assistance. No independent native-language review is recorded. Detailed documents are in English and Simplified Chinese.",
+    "policy_label": "Editorial policy",
+    "evidence_label": "Evidence and test status",
+    "demo_label": "Watch our editing demo",
+    "report_label": "Report a correction",
+    "translation_label": "Language and review status"
+  },
+  "zh": {
+    "brand": "本指南由 MusicMaker 团队维护，优先介绍品牌已覆盖的模型。推荐链接未附加本库联盟参数，不代表没有商业利益。",
+    "evidence": "原创 16 秒剪辑示例已制成；外部案例仅核对公开来源与可用性，两套 AI 生成教程均未完成全流程实测。",
+    "translation": "文案和翻译有 AI 辅助，暂无独立母语审校记录。详细文档提供英文和简体中文。",
+    "policy_label": "编辑与维护说明",
+    "evidence_label": "证据与实测状态",
+    "demo_label": "看原创剪辑示例",
+    "report_label": "报错与纠正",
+    "translation_label": "语言与审校状态"
+  },
+  "tw": {
+    "brand": "本指南由 MusicMaker 團隊維護，優先介紹品牌已涵蓋的模型。推薦連結未附加本庫聯盟參數，不代表沒有商業利益。",
+    "evidence": "原創 16 秒剪輯範例已完成；外部案例僅核對公開來源與可用性，兩套 AI 生成教學均未完成全流程實測。",
+    "translation": "文案與翻譯有 AI 輔助，暫無獨立母語審校紀錄。詳細文件提供英文與簡體中文。",
+    "policy_label": "編輯與維護說明",
+    "evidence_label": "證據與實測狀態",
+    "demo_label": "看原創剪輯範例",
+    "report_label": "回報與更正",
+    "translation_label": "語言與審校狀態"
+  },
+  "ja": {
+    "brand": "MusicMaker チームが管理し、ブランドで利用できるモデルを優先的に紹介しています。紹介リンクに本リポジトリのアフィリエイト用パラメータは付けていませんが、商業的な利害がないという意味ではありません。",
+    "evidence": "独自の16秒編集デモは制作済みです。外部事例は公開情報とアクセス可否のみを確認し、2つの AI 生成チュートリアルは全工程を実測していません。",
+    "translation": "文章と翻訳には AI を使用しています。独立した母語話者による校閲記録はありません。詳細資料は英語と簡体字中国語です。",
+    "policy_label": "編集・管理方針",
+    "evidence_label": "根拠と検証状況",
+    "demo_label": "独自の編集デモを見る",
+    "report_label": "訂正を報告",
+    "translation_label": "言語とレビュー状況"
+  },
+  "ko": {
+    "brand": "MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소개합니다. 추천 링크에 이 저장소의 제휴 매개변수는 없지만, 상업적 이해관계가 없다는 뜻은 아닙니다.",
+    "evidence": "자체 제작한 16초 편집 예제는 완성되었습니다. 외부 사례는 공개 출처와 접근 가능 여부만 확인했으며, 두 AI 생성 튜토리얼은 전체 과정을 실측하지 않았습니다.",
+    "translation": "작성과 번역에 AI를 활용했습니다. 독립적인 원어민 감수 기록은 없습니다. 상세 문서는 영어와 중국어 간체로 제공합니다.",
+    "policy_label": "편집·관리 방침",
+    "evidence_label": "근거와 테스트 현황",
+    "demo_label": "자체 편집 예제 보기",
+    "report_label": "오류·수정 제보",
+    "translation_label": "언어 및 검토 현황"
+  },
+  "de": {
+    "brand": "Vom MusicMaker-Team gepflegt; bevorzugt werden Modelle, die die Marke anbietet. Empfehlungslinks enthalten keine von diesem Repository ergänzten Affiliate-Parameter. Das bedeutet nicht, dass keine kommerziellen Interessen bestehen.",
+    "evidence": "Unsere eigene 16-sekündige Schnittdemo ist fertig. Bei externen Beispielen wurden nur öffentliche Quellen und Erreichbarkeit geprüft. Beide KI-Generierungsanleitungen sind noch nicht vollständig praktisch getestet.",
+    "translation": "Texte und Übersetzungen entstehen mit KI-Unterstützung. Eine unabhängige muttersprachliche Prüfung ist nicht dokumentiert. Ausführliche Dokumente gibt es auf Englisch und vereinfachtem Chinesisch.",
+    "policy_label": "Redaktion und Pflege",
+    "evidence_label": "Belege und Teststand",
+    "demo_label": "Eigene Schnittdemo ansehen",
+    "report_label": "Korrektur melden",
+    "translation_label": "Sprachen und Prüfstatus"
+  },
+  "fr": {
+    "brand": "Ce guide est maintenu par l’équipe MusicMaker et privilégie les modèles proposés par la marque. Aucun paramètre d’affiliation du dépôt n’est ajouté aux liens recommandés ; cela ne signifie pas une absence d’intérêt commercial.",
+    "evidence": "Notre démonstration originale de montage de 16 secondes est réalisée. Pour les exemples externes, seules les sources publiques et leur disponibilité ont été vérifiées. Les deux tutoriels de génération par IA n’ont pas été testés de bout en bout.",
+    "translation": "La rédaction et la traduction sont assistées par IA. Aucune révision indépendante par des locuteurs natifs n’est documentée. Les documents détaillés sont en anglais et en chinois simplifié.",
+    "policy_label": "Politique éditoriale",
+    "evidence_label": "Preuves et état des tests",
+    "demo_label": "Voir notre montage",
+    "report_label": "Signaler une correction",
+    "translation_label": "Langues et état de révision"
+  },
+  "es": {
+    "brand": "El equipo de MusicMaker mantiene esta guía y prioriza los modelos que ofrece la marca. Los enlaces recomendados no llevan parámetros de afiliación añadidos por este repositorio; esto no implica ausencia de interés comercial.",
+    "evidence": "Nuestra demostración original de edición de 16 segundos está terminada. En los ejemplos externos solo se comprobaron las fuentes públicas y su disponibilidad. Ninguno de los dos tutoriales de generación con IA se ha probado de principio a fin.",
+    "translation": "La redacción y la traducción cuentan con ayuda de IA. No consta una revisión independiente por hablantes nativos. La documentación detallada está en inglés y chino simplificado.",
+    "policy_label": "Política editorial",
+    "evidence_label": "Pruebas y estado de verificación",
+    "demo_label": "Ver nuestra edición",
+    "report_label": "Enviar una corrección",
+    "translation_label": "Idiomas y estado de revisión"
+  },
+  "it": {
+    "brand": "La guida è curata dal team MusicMaker e privilegia i modelli offerti dal marchio. I link consigliati non contengono parametri di affiliazione aggiunti da questo repository; ciò non implica assenza di interessi commerciali.",
+    "evidence": "La nostra demo originale di montaggio di 16 secondi è pronta. Per gli esempi esterni sono state controllate solo le fonti pubbliche e la disponibilità. Nessuno dei due tutorial di generazione con IA è stato provato dall’inizio alla fine.",
+    "translation": "Testi e traduzioni sono assistiti dall’IA. Non è documentata una revisione indipendente da parte di madrelingua. I documenti dettagliati sono in inglese e cinese semplificato.",
+    "policy_label": "Politica editoriale",
+    "evidence_label": "Prove e stato dei test",
+    "demo_label": "Guarda il nostro montaggio",
+    "report_label": "Segnala una correzione",
+    "translation_label": "Lingue e stato della revisione"
+  },
+  "pt": {
+    "brand": "O guia é mantido pela equipe MusicMaker e prioriza os modelos oferecidos pela marca. Os links recomendados não incluem parâmetros de afiliado adicionados por este repositório; isso não significa ausência de interesse comercial.",
+    "evidence": "Nossa demonstração original de edição de 16 segundos está pronta. Nos exemplos externos, apenas as fontes públicas e a disponibilidade foram verificadas. Nenhum dos dois tutoriais de geração com IA foi testado do início ao fim.",
+    "translation": "Os textos e as traduções têm auxílio de IA. Não há registro de revisão independente por falantes nativos. A documentação detalhada está em inglês e chinês simplificado.",
+    "policy_label": "Política editorial",
+    "evidence_label": "Evidências e estado dos testes",
+    "demo_label": "Ver nossa edição",
+    "report_label": "Enviar uma correção",
+    "translation_label": "Idiomas e estado da revisão"
+  },
+  "ru": {
+    "brand": "Руководство ведёт команда MusicMaker, отдавая приоритет моделям, доступным у бренда. В рекомендательные ссылки не добавлены партнёрские параметры этого репозитория; это не означает отсутствия коммерческих интересов.",
+    "evidence": "Наш собственный 16-секундный пример монтажа готов. Для внешних примеров проверены лишь открытые источники и доступность. Оба урока по генерации с ИИ ещё не проверены на практике от начала до конца.",
+    "translation": "Тексты и переводы подготовлены с помощью ИИ. Независимая проверка носителями языка не зафиксирована. Подробные материалы доступны на английском и упрощённом китайском.",
+    "policy_label": "Редакционная политика",
+    "evidence_label": "Подтверждения и статус тестов",
+    "demo_label": "Посмотреть наш монтаж",
+    "report_label": "Сообщить об ошибке",
+    "translation_label": "Языки и статус проверки"
+  },
+  "id": {
+    "brand": "Panduan dikelola tim MusicMaker dan mengutamakan model yang ditawarkan merek. Tautan rekomendasi tidak memuat parameter afiliasi tambahan dari repositori ini; bukan berarti tidak ada kepentingan komersial.",
+    "evidence": "Demo penyuntingan orisinal kami sepanjang 16 detik telah selesai. Contoh eksternal hanya diperiksa sumber publik dan ketersediaannya. Kedua tutorial pembuatan dengan AI belum diuji dari awal hingga akhir.",
+    "translation": "Penulisan dan penerjemahan dibantu AI. Belum ada catatan peninjauan independen oleh penutur asli. Dokumen terperinci tersedia dalam bahasa Inggris dan Mandarin sederhana.",
+    "policy_label": "Kebijakan editorial",
+    "evidence_label": "Bukti dan status pengujian",
+    "demo_label": "Tonton demo penyuntingan kami",
+    "report_label": "Laporkan koreksi",
+    "translation_label": "Bahasa dan status peninjauan"
+  },
+  "vi": {
+    "brand": "Hướng dẫn do nhóm MusicMaker duy trì, ưu tiên các mô hình thương hiệu đang cung cấp. Liên kết đề xuất không được thêm tham số tiếp thị liên kết của kho này; điều đó không có nghĩa là không có lợi ích thương mại.",
+    "evidence": "Ví dụ dựng phim gốc dài 16 giây của chúng tôi đã hoàn thành. Với ví dụ bên ngoài, chỉ kiểm tra nguồn công khai và khả năng truy cập. Cả hai hướng dẫn tạo video bằng AI đều chưa được thử nghiệm toàn bộ quy trình.",
+    "translation": "Nội dung và bản dịch có AI hỗ trợ. Chưa có hồ sơ thẩm định độc lập bởi người bản ngữ. Tài liệu chi tiết có bằng tiếng Anh và tiếng Trung giản thể.",
+    "policy_label": "Chính sách biên tập",
+    "evidence_label": "Bằng chứng và trạng thái thử nghiệm",
+    "demo_label": "Xem ví dụ dựng phim gốc",
+    "report_label": "Gửi đính chính",
+    "translation_label": "Ngôn ngữ và trạng thái rà soát"
+  },
+  "th": {
+    "brand": "คู่มือนี้ดูแลโดยทีม MusicMaker โดยเน้นโมเดลที่แบรนด์มีให้ใช้ ลิงก์แนะนำไม่ได้เพิ่มพารามิเตอร์พันธมิตรของคลังนี้ แต่ไม่ได้หมายความว่าไม่มีผลประโยชน์ทางการค้า",
+    "evidence": "ตัวอย่างการตัดต่อที่เราสร้างเองยาว 16 วินาทีเสร็จแล้ว ตัวอย่างภายนอกตรวจเฉพาะแหล่งข้อมูลสาธารณะและการเข้าถึง ส่วนบทสอนสร้างวิดีโอด้วย AI ทั้งสองแบบยังไม่ได้ทดสอบครบทุกขั้นตอน",
+    "translation": "ใช้ AI ช่วยเขียนและแปล ยังไม่มีบันทึกการตรวจภาษาโดยเจ้าของภาษาอิสระ เอกสารละเอียดมีภาษาอังกฤษและจีนตัวย่อ",
+    "policy_label": "นโยบายการจัดทำ",
+    "evidence_label": "หลักฐานและสถานะการทดสอบ",
+    "demo_label": "ดูตัวอย่างการตัดต่อของเรา",
+    "report_label": "แจ้งข้อแก้ไข",
+    "translation_label": "ภาษาและสถานะการตรวจทาน"
+  },
+  "ar": {
+    "brand": "يدير هذا الدليل فريق MusicMaker، مع إعطاء الأولوية للنماذج المتاحة لدى العلامة. لا نضيف إلى روابط التوصية معلمات تسويق بالعمولة خاصة بهذا المستودع؛ وهذا لا يعني غياب المصالح التجارية.",
+    "evidence": "اكتمل مثال المونتاج الأصلي الخاص بنا ومدته 16 ثانية. اقتصر فحص الأمثلة الخارجية على المصادر العامة وإمكانية الوصول إليها. لم يُختبر أي من درسي التوليد بالذكاء الاصطناعي من البداية إلى النهاية.",
+    "translation": "تُستخدم مساعدة الذكاء الاصطناعي في الكتابة والترجمة. لا يوجد سجل لمراجعة مستقلة من متحدثين أصليين. الوثائق المفصلة بالإنجليزية والصينية المبسطة.",
+    "policy_label": "سياسة التحرير",
+    "evidence_label": "الأدلة وحالة الاختبار",
+    "demo_label": "شاهد مثال المونتاج الأصلي",
+    "report_label": "الإبلاغ عن تصحيح",
+    "translation_label": "اللغات وحالة المراجعة"
+  }
+}

@@ -1,0 +1,27 @@
+name: "Factual correction / 事实纠错"
+description: "Correct a model claim, attribution, tutorial step or evidence label. / 更正模型说明、署名、教程或证据标注。"
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Do not include passwords, account details or paid files. / 反馈公开可见，请勿填写密码、账户信息或付费文件。"
+  - type: input
+    id: page
+    attributes:
+      label: "Page URL / 所在页面"
+      placeholder: "https://github.com/aimusicmaker/awesome-music-video-creator-guide/..."
+    validations:
+      required: true
+  - type: textarea
+    id: statement
+    attributes:
+      label: "Text or step to correct / 需要更正的语句或步骤"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: "Suggested correction and source / 建议改法与依据"
+      description: "An official source is helpful when available. / 如有官方依据，请附上链接。"
+    validations:
+      required: true

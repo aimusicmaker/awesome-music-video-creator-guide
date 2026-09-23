@@ -22,6 +22,14 @@
 
 اختيار الموسيقى ← تخطيط اللقطات والتعليمات ← التوليد ← المونتاج والتصدير. رسم أصلي يوضح مسارات الغناء والسفر والأشكال التجريدية، وليس دليلًا على نتائج فيديو مولّد.
 
+<!-- TRUST:START -->
+يدير هذا الدليل فريق MusicMaker، مع إعطاء الأولوية للنماذج المتاحة لدى العلامة. لا نضيف إلى روابط التوصية معلمات تسويق بالعمولة خاصة بهذا المستودع؛ وهذا لا يعني غياب المصالح التجارية. [ سياسة التحرير (English) → ](docs/editorial-policy.md)
+
+اكتمل مثال المونتاج الأصلي الخاص بنا ومدته 16 ثانية. اقتصر فحص الأمثلة الخارجية على المصادر العامة وإمكانية الوصول إليها. لم يُختبر أي من درسي التوليد بالذكاء الاصطناعي من البداية إلى النهاية.
+
+[▶ شاهد مثال المونتاج الأصلي](starter-kit/night-train-edit-demo.mp4) · [الأدلة وحالة الاختبار (EN / 简体中文)](docs/generation-tests.md) · [الإبلاغ عن تصحيح](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -203,17 +211,15 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 [→ جميع الموارد والأدوات · بالإنجليزية](docs/brand-resources.md)
 
-## المصادر الرسمية للنماذج
+## اختيار النموذج: الوثائق الرسمية وMusicMaker
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>حفل: افصل مراجع المكان والمؤدين.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#seedance-concert">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>غناء: افصل مراجع الكاميرا والشخصية والصوت.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#h3-singing">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>مشهد غنائي خيالي: اجمع مراجع الشخصية والمكان.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#veo-scene">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>عزف البيانو: من لقطة متوسطة إلى لقطة قريبة للتعبير.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#seedance-piano">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>نصائحنا للتدريب: نص أو صور ← تخطيط عدة لقطات. لا يضمن MusicMaker إتاحة جميع ميزات المراجع لدى المطوّر.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#seedance-concert">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>نصائحنا للتدريب: مقاطع النص/الصورة ومراجع الغناء مساران منفصلان. MusicMaker: المدخل المجاني يوفّر 5 ثوانٍ بدقة 480p؛ لا تضع ملف الغناء في حقل النص.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#h3-singing">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>نصائحنا للتدريب: نص أو إطار أول ← مقطع مشهدي. تحقّق أولاً من نسخة Fast أو النسخة العادية؛ لا تفترض أن MusicMaker يوفّر أدوات مراجع متعددة الصور.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#veo-scene">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>نصائحنا للتدريب: نص أو صور ← لقطة لعازف منفرد. افحص استمرارية اليدين والآلة؛ لا يُضمن التطابق مع كل نوتة.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">الدليل / الأمر الرسمي ↗</a><br><a href="docs/official-cases.md#seedance-piano">الخطوات · بالإنجليزية →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-توجد صفحات MusicMaker للإصدارات الأربعة. الأمثلة والأدلة من المطورين، وقد تختلف خيارات MusicMaker. صورة H3 هي صورة إدخال.
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — ابدأ بفكرة وكلمات اختيارية، وحدد البناء الموسيقي أولًا. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -230,5 +236,9 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ تعرّف على البرنامج وقدّم طلب الانضمام</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+تُستخدم مساعدة الذكاء الاصطناعي في الكتابة والترجمة. لا يوجد سجل لمراجعة مستقلة من متحدثين أصليين. الوثائق المفصلة بالإنجليزية والصينية المبسطة. [🌐 اللغات وحالة المراجعة (English)](i18n/README.md)
+<!-- TRANSLATION:END -->
 
 </div>

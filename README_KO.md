@@ -20,6 +20,14 @@
 
 음악 선택 → 장면과 프롬프트 설계 → 영상 생성 → 편집과 내보내기. 노래, 여행, 추상 영상으로 이어지는 과정을 그린 창작 안내도이며 실제 생성 영상의 증거는 아닙니다.
 
+<!-- TRUST:START -->
+MusicMaker 팀이 관리하며 브랜드에서 제공하는 모델을 우선 소개합니다. 추천 링크에 이 저장소의 제휴 매개변수는 없지만, 상업적 이해관계가 없다는 뜻은 아닙니다. [ 편집·관리 방침 (English) → ](docs/editorial-policy.md)
+
+자체 제작한 16초 편집 예제는 완성되었습니다. 외부 사례는 공개 출처와 접근 가능 여부만 확인했으며, 두 AI 생성 튜토리얼은 전체 과정을 실측하지 않았습니다.
+
+[▶ 자체 편집 예제 보기](starter-kit/night-train-edit-demo.mp4) · [근거와 테스트 현황 (EN / 简体中文)](docs/generation-tests.md) · [오류·수정 제보](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
+<!-- TRUST:END -->
+
 <!-- OFFICIAL:START -->
 <a id="official-models"></a>
 
@@ -193,17 +201,15 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 [→ 전체 자료·도구 목록 · 영어](docs/brand-resources.md)
 
-## 모델 개발사 공식 자료
+## 모델 선택: 공식 자료와 MusicMaker
 
 <!-- CAPABILITIES:START -->
 <table>
-<tr><td width="650"><b>Seedance 2.5</b><br>음악회: 장소와 연주자 참조를 나눕니다.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-concert">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>노래: 카메라·인물·보컬 참조를 나눕니다.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#h3-singing">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>환상적인 노래 장면: 인물과 배경 참조를 조합합니다.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#veo-scene">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>피아노 연주: 미디엄 샷에서 표정 클로즈업으로.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-piano">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.5</b><br>이 가이드의 연습 제안: 텍스트·이미지 → 여러 샷 구성. MusicMaker에서 개발사의 모든 참조 기능을 제공한다고 보장하지 않습니다.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-concert">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>MiniMax H3</b><br>이 가이드의 연습 제안: 텍스트·이미지 단편과 보컬 참조 생성은 별도 경로입니다. MusicMaker: 무료 입구는 5초·480p이며, 노래 음원을 텍스트 칸에 넣을 수 없습니다.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#h3-singing">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Veo 3.1</b><br>이 가이드의 연습 제안: 텍스트·첫 프레임 → 장면 단편. Fast와 일반 버전을 먼저 확인하세요. MusicMaker에 다중 이미지 참조 기능이 있다고 가정하지 마세요.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#veo-scene">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
+<tr><td width="650"><b>Seedance 2.0</b><br>이 가이드의 연습 제안: 텍스트·이미지 → 1인 연주 샷. 손과 악기의 연속성을 확인하세요. 음표 하나하나의 재현은 보장하지 않습니다.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">공식 안내·프롬프트 ↗</a><br><a href="docs/official-cases.md#seedance-piano">단계별 노트 · 영어 →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
 </table>
-
-네 모델 버전 모두 MusicMaker 페이지가 있습니다. 사례와 안내는 개발사 자료이며 실제 기능은 MusicMaker 화면에서 확인하세요. H3 이미지는 입력 자료입니다.
 <!-- CAPABILITIES:END -->
 
 - **[MiniMax Music 3.0](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model)** — 구상과 선택적 가사로 곡을 만듭니다. 음악 구성을 먼저 정하세요. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
@@ -220,3 +226,7 @@ MusicMaker는 제휴 마케팅 협력을 지원합니다. 튜토리얼, 리뷰 �
 
 <a href="https://musicmaker.im/affiliate-program/"><kbd>↗ 제휴 프로그램 알아보고 신청하기</kbd></a>
 <!-- AFFILIATE:END -->
+
+<!-- TRANSLATION:START -->
+작성과 번역에 AI를 활용했습니다. 독립적인 원어민 감수 기록은 없습니다. 상세 문서는 영어와 중국어 간체로 제공합니다. [🌐 언어 및 검토 현황 (English)](i18n/README.md)
+<!-- TRANSLATION:END -->

@@ -1,0 +1,32 @@
+name: "Translation problem / 翻译问题"
+description: "Improve unclear or incorrect wording in a language edition. / 反馈不准确或难懂的翻译。"
+title: "[Translation] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Do not include passwords, account details or paid files. / 反馈公开可见，请勿填写密码、账户信息或付费文件。"
+  - type: input
+    id: page
+    attributes:
+      label: "Page URL / 所在页面"
+      placeholder: "https://github.com/aimusicmaker/awesome-music-video-creator-guide/..."
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: "Language / 语言"
+    validations:
+      required: true
+  - type: textarea
+    id: wording
+    attributes:
+      label: "Current text / 当前文字"
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: "Suggested wording or explanation / 建议译法或问题说明"
+    validations:
+      required: true

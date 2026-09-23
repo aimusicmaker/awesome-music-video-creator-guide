@@ -1,0 +1,25 @@
+name: "Broken link or media / 链接或素材失效"
+description: "Report a link, image, audio or video that does not open. / 反馈打不开的链接或素材。"
+title: "[Link] "
+body:
+  - type: markdown
+    attributes:
+      value: "Reports are public. Do not include passwords, account details or paid files. / 反馈公开可见，请勿填写密码、账户信息或付费文件。"
+  - type: input
+    id: page
+    attributes:
+      label: "Page URL / 所在页面"
+      placeholder: "https://github.com/aimusicmaker/awesome-music-video-creator-guide/..."
+    validations:
+      required: true
+  - type: input
+    id: broken
+    attributes:
+      label: "Broken URL or link text / 失效地址或链接文字"
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: "What happened? / 出现了什么问题？"
+      description: "Optional: error message, date and a replacement source. / 可补充报错、日期和替代来源。"
