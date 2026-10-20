@@ -35,11 +35,11 @@ def toolkit(c,zh=False):
       [('5s short video','https://musicmaker.im/free-short-music-video-generator/'),('Text to video','https://musicmaker.im/free-text-to-video/')],
       [('Lo-fi song maker','https://musicmaker.im/lofi-song-maker/')],
       [('MP3 → WAV','https://musicmaker.im/audio-converter/mp3-to-wav/'),('MP3 tag editor','https://musicmaker.im/mp3-tag-editor-online/')],
-      [('Discover','https://musicmaker.im/discover/'),('Video examples','https://musicmaker.im/ai-music-video-generator/'),('12 prompts','prompts/README.md')]
+      [('Discover','https://musicmaker.im/discover/'),('Video examples','https://musicmaker.im/ai-music-video-generator/'),('13 prompts','prompts/README.md')]
     ]
     if zh:
-        links[-1][-1]=('12 prompts','prompts/README_ZH.md')
-        names=['免费制图','5 秒短片','文字生成视频','低保真音色转换','MP3 → WAV','歌曲信息编辑','歌曲与封面','视频示例','12 套提示词'];i=iter(names)
+        links[-1][-1]=('13 prompts','prompts/README_ZH.md')
+        names=['免费制图','5 秒短片','文字生成视频','低保真音色转换','MP3 → WAV','歌曲信息编辑','歌曲与封面','视频示例','13 recipes (12 Chinese cards + 1 English brief)'];i=iter(names)
         links=[[(next(i),u) for _,u in row] for row in links]
     out='<a id="toolkit"></a>\n\n## '+c['title']+'\n\n'+c['note']+'\n\n<table>\n'
     for label,row in zip(c['rows'],links):

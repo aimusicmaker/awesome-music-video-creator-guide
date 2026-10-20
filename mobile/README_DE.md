@@ -223,7 +223,7 @@ Die ersten vier Schritte zeigen als kostenlos beworbene Werkzeuge; der fünfte e
 
 <p><b>📚 Material und Prompts</b></p>
 
-<p><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="../prompts/README.md"><kbd>↗ 12 prompts</kbd></a></p>
+<p><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="../prompts/README.md"><kbd>↗ 13 prompts</kbd></a></p>
 
 [→ Alle Ressourcen und Werkzeuge · Englisch](../docs/brand-resources.md)
 

@@ -223,7 +223,7 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 
 <p><b>📚 자료와 프롬프트 찾기</b></p>
 
-<p><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="../prompts/README.md"><kbd>↗ 12 prompts</kbd></a></p>
+<p><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="../prompts/README.md"><kbd>↗ 13 prompts</kbd></a></p>
 
 [→ 전체 자료·도구 목록 · 영어](../docs/brand-resources.md)
 
