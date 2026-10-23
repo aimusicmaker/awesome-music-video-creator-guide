@@ -48,7 +48,8 @@ The companion [inspiration guide](inspiration.md) separates these references fro
 - One original AI-generated triptych concept image, created with the built-in image generation tool; exact prompt in [assets/image-prompts.md](../assets/image-prompts.md).
 - A [completed 16-second motion-still editing example](../starter-kit/night-train-edit-demo.mp4) with original artwork and practice audio; four editorial crops, not generated scene animation. This is the older train exercise, not a generated result for the two current homepage tutorials.
 - Six illustrated briefs derived from the visible elements of the four Discover covers and two performance input portraits; original practice prompts, not recovered production prompts and not render-tested.
-- Twelve independent general recipe briefs; none has been batch-tested on MusicMaker.
+- At the initial release, twelve independent general recipe briefs; none had been batch-tested on MusicMaker.
+- Catalog update (2026-10-20): thirteen untested general briefs, including the new [ribbon subject/camera contrast](../prompts/13-ribbon-accent.md). The original twelve Chinese action cards remain available; the new brief is English-only. This adds no generated-output or tool-performance evidence.
 - A deterministic, original synthesized instrumental practice file; see [the generator](../scripts/make_practice_audio.py).
 - An edit plan and one closing subtitle cue. The initial release had English/Chinese homepages and beginner walkthroughs, plus 12 Chinese action cards linked to English prompts. Homepages now cover 15 languages with separate mobile editions; this does not imply 15-language detailed guides or documented native-speaker review.
 

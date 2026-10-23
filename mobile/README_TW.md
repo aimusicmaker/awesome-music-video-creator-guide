@@ -287,7 +287,7 @@ D｜雨後同一綠色山谷的遠景，柔和午後陽光，淺溪通向遠處�
 
 <p><b>📚 找歌曲、案例和提示詞</b></p>
 
-<p><a href="https://musicmaker.im/discover/"><kbd>↗ 歌曲與封面</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ 影片示例</kbd></a> · <a href="../prompts/README_ZH.md"><kbd>↗ 12 套提示詞</kbd></a></p>
+<p><a href="https://musicmaker.im/discover/"><kbd>↗ 歌曲與封面</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ 影片示例</kbd></a> · <a href="../prompts/README_ZH.md"><kbd>↗ 13 recipes (12 Chinese cards + 1 English brief)</kbd></a></p>
 
 [→ 展開全部素材與工具：六類導航、93 個入口](../docs/brand-resources.zh-CN.md)
 

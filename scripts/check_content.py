@@ -45,8 +45,8 @@ for path in mds:
         errors.append(f'{path.relative_to(ROOT)}: unclosed code fence')
 
 recipes = sorted((ROOT/'prompts').glob('[0-9][0-9]-*.md'))
-if len(recipes) != 12:
-    errors.append(f'Expected 12 recipes, found {len(recipes)}; update advertised counts when changing the catalog')
+if len(recipes) != 13:
+    errors.append(f'Expected 13 recipes, found {len(recipes)}; update advertised counts when changing the catalog')
 for recipe in recipes:
     content = recipe.read_text()
     for heading in ['Bring these inputs', 'Image direction', 'Copy the motion prompt', 'Music direction', 'Assemble the edit', 'If it fails']:

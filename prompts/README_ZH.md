@@ -173,3 +173,7 @@
 **失败先改：** 费用增加时复用好镜头或在安静段落停留；画面不统一时减少地点数量。
 
 [图片和音乐方向、完整英文说明](12-full-song.md)
+
+## Additional recipe in English
+
+The full catalog now contains 13 recipes. The 12 Chinese action cards above remain unchanged. [Recipe 13: Ribbon accent](13-ribbon-accent.md) is an English-only, untested brief that contrasts subject motion with camera motion. No Chinese translation or generated result is supplied for this addition.

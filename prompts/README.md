@@ -1,6 +1,6 @@
 # Original music-video recipes
 
-Want to start from a published brand image? Explore the [six illustrated projects](../docs/brand-projects.md). The 12 exercises below are independent original briefs, not the brand examples’ original generation prompts.
+Want to start from a published brand image? Explore the [six illustrated projects](../docs/brand-projects.md). The 13 exercises below are independent original briefs, not the brand examples’ original generation prompts.
 
 [Home](../README.md) · [First video](../docs/first-video.md) · [中文操作卡片](README_ZH.md)
 
@@ -20,3 +20,4 @@ Pick a result, prepare the inputs, and copy the motion prompt. Image and music d
 | [One prop, three worlds](10-match-cut.md) | Intermediate | 12 seconds |
 | [Chorus color change](11-drop-reveal.md) | Intermediate | 16 seconds |
 | [Full-song storyboard](12-full-song.md) | Advanced | Your song’s actual duration |
+| [Ribbon accent: subject versus camera motion](13-ribbon-accent.md) | Easy | 8 seconds |

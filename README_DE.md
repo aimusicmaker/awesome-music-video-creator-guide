@@ -209,7 +209,7 @@ Die ersten vier Zeilen zeigen als kostenlos beworbene Werkzeuge; die fünfte ent
 <tr><td width="35%"><b>🎬 Kurze Clips erzeugen</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
 <tr><td width="35%"><b>🎧 Klangtextur verändern</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
 <tr><td width="35%"><b>📦 Formate und Songdaten</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
-<tr><td width="35%"><b>📚 Material und Prompts</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 Material und Prompts</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 13 prompts</kbd></a></td></tr>
 </table>
 
 [→ Alle Ressourcen und Werkzeuge · Englisch](docs/brand-resources.md)

@@ -209,7 +209,7 @@ No costume change, turning around, cuts, additional people, text or exaggerated 
 <tr><td width="35%"><b>🎬 짧은 영상 만들기</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
 <tr><td width="35%"><b>🎧 소리 질감 바꾸기</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
 <tr><td width="35%"><b>📦 형식과 곡 정보 정리</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
-<tr><td width="35%"><b>📚 자료와 프롬프트 찾기</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 자료와 프롬프트 찾기</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 13 prompts</kbd></a></td></tr>
 </table>
 
 [→ 전체 자료·도구 목록 · 영어](docs/brand-resources.md)
