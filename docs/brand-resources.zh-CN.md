@@ -13,7 +13,7 @@
 | 歌曲、封面与曲风说明 | [Discover 全部作品](https://musicmaker.im/discover/) | 翻页试听，进入详情查看 Style；用作方向参考 |
 | 人像演唱与视频示例 | [音乐视频工具示例](https://musicmaker.im/ai-music-video-generator/) | 对照人物图与视频，理解输入和结果的关系 |
 | 制作方法与更新 | [品牌博客](https://musicmaker.im/blog/) | 按当前创作问题查找教程 |
-| 可直接练习的提示词与音乐 | [12 套提示词](../prompts/README.md) · [原创练习包](../starter-kit/README.md) | 先完成一个短片，再换自己的素材 |
+| 可直接练习的提示词与音乐 | [13 recipes (English catalog)](../prompts/README.md) · [原创练习包](../starter-kit/README.md) | 先完成一个短片，再换自己的素材 |
 
 公开展示不等于授权下载、改编或商用；原创练习包的授权见包内说明。网站的 Music Library 是个人作品历史，并非公开免费素材库。
 

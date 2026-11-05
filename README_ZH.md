@@ -229,7 +229,7 @@ D｜雨后同一绿色山谷的远景，柔和午后阳光，浅溪通向远处�
 <tr><td width="35%"><b>🎬 做一个短镜头</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5 秒短片</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ 文字生成视频</kbd></a></td></tr>
 <tr><td width="35%"><b>🎧 改变声音质感</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ 低保真音色转换</kbd></a></td></tr>
 <tr><td width="35%"><b>📦 整理音频格式与曲目信息</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ 歌曲信息编辑</kbd></a></td></tr>
-<tr><td width="35%"><b>📚 找歌曲、案例和提示词</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ 歌曲与封面</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ 视频示例</kbd></a> · <a href="prompts/README_ZH.md"><kbd>↗ 12 套提示词</kbd></a></td></tr>
+<tr><td width="35%"><b>📚 找歌曲、案例和提示词</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ 歌曲与封面</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ 视频示例</kbd></a> · <a href="prompts/README_ZH.md"><kbd>↗ 13 recipes (12 Chinese cards + 1 English brief)</kbd></a></td></tr>
 </table>
 
 [→ 展开全部素材与工具：六类导航、93 个入口](docs/brand-resources.zh-CN.md)

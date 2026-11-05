@@ -292,7 +292,7 @@ Build on the sound you picked: choose a tool for the missing ingredient. The fir
 
 <p><b>📚 Songs, examples and prompts</b></p>
 
-<p><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="../prompts/README.md"><kbd>↗ 12 prompts</kbd></a></p>
+<p><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="../prompts/README.md"><kbd>↗ 13 prompts</kbd></a></p>
 
 [→ Explore all resources and tools: six categories, 93 entries](../docs/brand-resources.md)
 
